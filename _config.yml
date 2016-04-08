@@ -1,0 +1,112 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+
+# Setup
+title:               飞出国签证
+tagline:             'fcgvisa application center'
+description:         '飞出国签证申请中心'
+url:                 http://vac.fcgvisa.com/
+joboutlook:          http://joboutlook.gov.au
+joboutlookup:        http://joboutlook.gov.au/jouploads/
+baseurl:             
+paginate:            5
+bbs_url:             http://bbs.fcgvisa.com/
+vac_url:             http://vac.fcgvisa.com/
+2805_url:            http://bbs.fcgvisa.com/t/work-permit/2805
+2876_url:            http://bbs.fcgvisa.com/t/study-permit/2876
+2742_url:            http://bbs.fcgvisa.com/t/jia-na-da-shang-wu-fang-wen-qian-zheng-shen-qing-tiao-jian-business-visitor/2742
+2690_url:            http://bbs.fcgvisa.com/t/jia-na-da-fu-mu-he-zu-fu-mu-chao-ji-qian-zheng-super-visa/2690
+2790_url:            http://bbs.fcgvisa.com/t/tourist/2790
+1711_url:            http://bbs.fcgvisa.com/t/fswjia-na-da-lian-bang-ji-zhu-yi-min-shen-qing-ji-ben-tiao-jian/1711
+2557_url:            http://bbs.fcgvisa.com/t/sclpc/2557
+2598_url:            http://bbs.fcgvisa.com/t/jia-na-da-jia-ting-tuan-ju-yi-min-fu-mu-zu-fu-mu-tuan-ju-pgp/2598
+4394_url:            http://bbs.fcgvisa.com/t/quebec-the-requirements-to-sponsor-a-close-relative/4394
+3757_url:            http://bbs.fcgvisa.com/t/topic/3757
+3978_url:            http://bbs.fcgvisa.com/t/ee-nsnp-nova-scotia-demand-express-entry/3978
+1984_url:            http://bbs.fcgvisa.com/t/sinp-express-entry/1984
+3489_url:            http://bbs.fcgvisa.com/t/ee-nb-eelms-eligibility-requirements/3489
+3810_url:            http://bbs.fcgvisa.com/t/ee-application-guide-for-ontario-human-capital-priorities-stream/3810
+3721_url:            http://bbs.fcgvisa.com/t/eoi-mpnp-expression-of-interest/3721
+3216_url:            http://bbs.fcgvisa.com/t/ab-pnp-provincial-nominee-program/3216
+4113_url:            http://bbs.fcgvisa.com/t/sinp-saskatchewan-immigrant-nominee-program-entrepreneur-category/4113
+2152_url:            http://bbs.fcgvisa.com/t/2015-8/2152
+1710_url:            http://bbs.fcgvisa.com/t/2015-express-entry-crs-ita/1710
+1810_url:            http://bbs.fcgvisa.com/t/topic/1810
+1811_url:            http://bbs.fcgvisa.com/t/topic/1811
+1812_url:            http://bbs.fcgvisa.com/t/topic/1812
+4571_url:            http://bbs.fcgvisa.com/t/2015-7/4571
+4763_url:            http://bbs.fcgvisa.com/t/nsw-2015-2016-7-4000/4763
+5635_url:            http://bbs.fcgvisa.com/t/act-2015-7/4635
+3009_url:            http://bbs.fcgvisa.com/t/2015-71-immigration-sa-state-nominated-occupation-lists/3009
+3528_url:            http://bbs.fcgvisa.com/t/nsw/3528
+2846_url:            http://bbs.fcgvisa.com/t/act/2846
+2887_url:            http://bbs.fcgvisa.com/t/vic/2887
+2810_url:            http://bbs.fcgvisa.com/t/skilled-migration-western-australia/2810
+2845_url:            http://bbs.fcgvisa.com/t/qld-qld/2845
+2566_url:            http://bbs.fcgvisa.com/t/nt/2566         
+111111_url:            http://www.flyabroadvisa.com/sol/
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:                        
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:   
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:            
+_url:   
+
+
+
+
+
+
+
+
+
+
+
+lang_url:            http://www.flyabroadvisa.com/federal/lang.html
+relative_url:        http://www.flyabroadvisa.com/federal/relative.html
+arranged_url:        http://www.flyabroadvisa.com/federal/arranged.html
+age_url:             http://www.flyabroadvisa.com/federal/age.htm
+edu _url:            http://www.flyabroadvisa.com/federal/edu.html
+job_url:             http://www.flyabroadvisa.com/federal/job.html
+spouse_url:          http://www.flyabroadvisa.com/federal/spouse.html
+
+
+# About/contact
+author:
+  name:              FCGvisa
+  url:               http://fcgvisa.com/
+  email:             support@fcgvisa.com
+
+# Custom vars
+version:             1.0.0
+gems: [jekyll-paginate]

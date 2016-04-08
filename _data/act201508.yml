@@ -1,0 +1,213 @@
+---
+-
+  code: '134111'
+  cn: 幼儿中心经理
+  en: Child Care Centre Manager
+-
+  code: '232111'
+  cn: 建筑师
+  en: Architect
+-
+  code: '232112'
+  cn: 景观设计师
+  en: Landscape Architect
+-
+  code: '233211'
+  cn: 土木工程师
+  en: Civil Engineer
+-
+  code: '233212'
+  cn: 岩土工程师
+  en: Geotechnical Engineer
+-
+  code: '233213'
+  cn: 工料测量师
+  en: Quantity Surveyor
+-
+  code: '233214'
+  cn: 结构工程师
+  en: Structural Engineer
+-
+  code: '233215'
+  cn: 交通运输工程师
+  en: Transport Engineer
+-
+  code: '241111'
+  cn: 幼儿教育（学前教育）教师
+  en: Early Childhood (Pre-Primary ) Teacher
+-
+  code: '251211'
+  cn: 医疗诊断放射技师
+  en: Medical Diagnostic Radiographer
+-
+  code: '251212'
+  cn: 医疗放射治疗师
+  en: Medical Radiation Therapist
+-
+  code: '251213'
+  cn: 核医学技师
+  en: Nuclear Medicine Technologist
+-
+  code: '251214'
+  cn: 超声检查师
+  en: Sonographer
+-
+  code: '251513'
+  cn: 零售药剂师
+  en: Retail Pharmacist
+-
+  code: '252411'
+  cn: 职业治疗师
+  en: Occupational Therapist
+-
+  code: '252511'
+  cn: 物理治疗师
+  en: Physiotherapist
+-
+  code: '253111'
+  cn: 全科医生
+  en: General Medical Practitioner
+-
+  code: '254411'
+  cn: 护师
+  en: Nurse Practitioner
+-
+  code: '254412'
+  cn: 注册护士（老年护理）
+  en: Registered Nurse (Aged Care)
+-
+  code: '254413'
+  cn: 注册护士（儿童和家庭健康）
+  en: Registered Nurse (Child and Family Health)
+-
+  code: '254414'
+  cn: 注册护士（社区卫生）
+  en: Registered Nurse (Community Health)
+-
+  code: '254415'
+  cn: 注册护士（重症护理和急诊。）
+  en: Registered Nurse (Critical Care and Emerg.)
+-
+  code: '254416'
+  cn: 注册护士（残疾开发）
+  en: Registered Nurse (Development Disability)
+-
+  code: '254417'
+  cn: 注册护士（残疾和康复。）
+  en: Registered Nurse (Disability and Rehab.)
+-
+  code: '254418'
+  cn: 注册护士（医疗）
+  en: Registered Nurse (Medical)
+-
+  code: '254421'
+  cn: 注册护士（医疗实践）
+  en: Registered Nurse (Medical Practice)
+-
+  code: '254422'
+  cn: 注册护士（心理健康）
+  en: Registered Nurse (Mental Health)
+-
+  code: '254423'
+  cn: 注册护士（围手术期）
+  en: Registered Nurse (Perioperative)
+-
+  code: '254424'
+  cn: 注册护士（外科）
+  en: Registered Nurse (Surgical)
+-
+  code: '254425'
+  cn: 注册护士（儿科）
+  en: Registered Nurse (Paediatrics)
+-
+  code: '254499'
+  cn: 注册护士NEC
+  en: Registered Nurse nec
+-
+  code: '271311'
+  cn: 律师
+  en: Solicitor
+-
+  code: '272111'
+  cn: 职业顾问
+  en: Careers Counsellor
+-
+  code: '272112'
+  cn: 药物和酒精顾问
+  en: Drug and Alcohol Counsellor
+-
+  code: '272113'
+  cn: 婚姻家庭顾问
+  en: Family and Marriage Counsellor
+-
+  code: '272114'
+  cn: 康复顾问
+  en: Rehabilitation Counsellor
+-
+  code: '272115'
+  cn: 学生顾问
+  en: Student Counsellor
+-
+  code: '272199'
+  cn: NEC顾问
+  en: Counsellors nec
+-
+  code: '272311'
+  cn: 临床心理学家
+  en: Clinical Psychologist
+-
+  code: '272312'
+  cn: 教育心理学家
+  en: Educational Psychologist
+-
+  code: '272313'
+  cn: 组织心理学家
+  en: Organisational Psychologist
+-
+  code: '272314'
+  cn: 心理治疗师
+  en: Psychotherapist
+-
+  code: '272399'
+  cn: 心理学家NEC
+  en: Psychologists nec
+-
+  code: '272511'
+  cn: 社工
+  en: Social Worker
+-
+  code: '272611'
+  cn: 社区艺术工作者
+  en: Community Arts Worker
+-
+  code: '272612'
+  cn: 娱乐官
+  en: Recreation Officer
+-
+  code: '272613'
+  cn: 福利工作者
+  en: Welfare Worker
+-
+  code: '321211'
+  cn: 汽车技工（普通）
+  en: Motor Mechanic (General)
+-
+  code: '321212'
+  cn: 柴油发动机技工
+  en: Diesel Motor Mechanic
+-
+  code: '321213'
+  cn: 摩托车技工
+  en: Motorcycle Mechanic
+-
+  code: '321214'
+  cn: 小型发动机技工
+  en: Small Engine Mechanic
+-
+  code: '324111'
+  cn: 板金工
+  en: Panel beater
+-
+  code: '324311'
+  cn: 车辆喷漆工
+  en: Vehicle Painter

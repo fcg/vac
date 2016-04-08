@@ -1,0 +1,82 @@
+items,year1,year2,year3,year4,year5,year6,year7,year8,year9,year10
+Labour Market intention,,,,,,,,,,
+Labour Market intention,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Intending to work,"137,638","129,568","124,041","129,463","133,707","150,256","135,268","145,602","144,553","160,224"
+Not intending to work,"124,449","121,834","112,616","117,731","118,390","130,304","113,398","112,197","114,402","100,158"
+Labour market intention not stated,155,238,96,50,73,127,81,104,68,22
+Total Labour Market Intention,"262,242","251,640","236,753","247,244","252,170","280,687","248,747","257,903","259,023","260,404"
+Labour Market intention identified,,,,,,,,,,
+Labour Market intention,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Occupational skill level identified,"69,355","61,252","60,256","68,069","69,193","79,113","72,463","77,939","66,738","69,358"
+New workers - 15 years of age or older,"67,776","67,848","63,515","61,277","64,299","71,032","62,651","67,539","77,759","90,707"
+Industrial Codes - 15 years of age or older,507,468,270,117,215,111,154,124,56,159
+Total Intending to work,"137,638","129,568","124,041","129,463","133,707","150,256","135,268","145,602","144,553","160,224"
+Not-intended to Labour Market,,,,,,,,,,
+Labour Market intention,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Children under 15 years of age,"57,567","51,297","48,260","50,263","50,277","60,623","52,813","51,980","48,259","48,440"
+Students 15 years of age or older,"27,428","27,618","24,684","25,745","26,163","27,201","24,927","24,598","22,418","22,860"
+Retirees 15 years of age or older,"3,599","6,421","6,382","6,977","7,796","7,237","6,976","11,962","26,834","14,316"
+Other non-workers 15 years of age or older,"35,855","36,498","33,290","34,746","34,154","35,243","28,682","23,657","16,891","14,542"
+Not intending to work,"124,449","121,834","112,616","117,731","118,390","130,304","113,398","112,197","114,402","100,158"
+Level 0 - Managerial,,,,,,,,,,
+Occupational skill level,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Senior management occupations,651,729,973,"1,478","1,543","1,697","1,226",980,664,558
+"Management - administration, financial, business, communication","3,559","3,225","3,527","4,107","4,136","4,827","3,687","3,233","2,853","2,638"
+"Management - engineering, architecture, science, information systems",514,534,619,812,879,"2,096","2,015","1,583","1,708","1,407"
+Management - health care,50,71,83,96,88,171,161,105,150,84
+"Management - public administration, education, social services, public protection",177,192,194,280,287,293,252,241,165,128
+"Management - art, culture, recreation and sport",45,49,59,78,72,69,57,72,53,71
+"Management - corporate sales, retail and wholesale trade, food and accommodation, customer services",773,834,889,"1,210","1,198","1,635","1,491","2,001","1,652","1,584"
+"Management - construction and facility operation, transportation",312,308,343,477,442,703,709,552,614,579
+"Management - natural resources, fishing, agriculture, horticulture, aquaculture",275,214,234,315,451,426,783,711,350,231
+Management - manufacturing and utilities,185,228,236,281,292,276,202,187,168,183
+CIC Synthetic NOC codes,"2,328","2,184","1,664","2,336","2,564","3,078","3,026","2,872","2,164","2,182"
+Total Level 0 - Managerial,"8,869","8,568","8,821","11,470","11,952","15,271","13,609","12,537","10,541","9,645"
+Level A - Professional,,,,,,,,,,
+Occupational skill level,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Professional occupations in business and finance,"4,572","3,703","3,519","3,712","3,765","4,427","4,278","4,983","4,453","3,981"
+Professional occupations in natural and applied sciences,"22,214","15,891","12,888","11,801","10,065","9,314","8,474","10,031","9,374","12,347"
+Professional occupations in nursing,712,704,857,"1,045","1,211","2,572","3,084","2,853","2,571","2,034"
+Professional occupations in health (except nursing),"2,462","2,282","2,432","2,787","2,925","4,169","3,655","5,246","3,971","2,926"
+Professional occupations in education services,"4,086","5,072","5,256","6,117","6,021","8,649","6,372","5,370","4,965","4,019"
+"Professional occupations in law and social, community and government services","2,526","2,185","2,216","2,333","2,228","2,158","2,114","3,241","2,529","2,184"
+Professional occupations in art and culture,"1,660","1,412","1,268","1,290","1,134","1,013",921,856,588,734
+Total Level A - Professional,"38,232","31,249","28,436","29,085","27,349","32,302","28,898","32,580","28,451","28,225"
+Level B - Skilled and technical,,,,,,,,,,
+Occupational skill level,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Administrative and financial supervisors and administrative occupations,"2,707","2,470","2,669","3,078","3,314","3,144","2,607","2,788","2,344","3,038"
+"Finance, insurance and related business administrative occupations",367,425,470,705,852,781,758,"1,015",774,"1,000"
+Technical occupations related to natural and applied sciences,"3,896","3,337","3,700","3,738","3,678","3,531","2,999","2,921","2,567","3,849"
+Technical occupations in health,"1,236",960,939,829,770,900,909,"1,418",957,"1,155"
+"Paraprofessional occupations in legal, social, community and education services",539,621,672,725,708,681,711,889,648,822
+Occupations in front-line public protection services,122,125,138,207,213,217,221,182,110,68
+"Technical occupations in art, culture, recreation and sport","1,042","1,085","1,066","1,216","1,165","1,011","1,017","1,164",876,"1,168"
+Retail sales supervisors and specialized sales occupations,"1,467","1,282","1,186","1,290","1,256","1,161","1,100","1,101","1,082","1,836"
+Service supervisors and specialized service occupations,"1,120","1,268","1,268","1,490","1,966","2,485","2,658","4,005","3,870","5,325"
+"Industrial, electrical and construction trades","1,657","1,739","1,818","2,209","2,670","3,044","2,738","2,815","2,400","2,804"
+Maintenance and equipment operation trades,732,738,837,874,"1,044","1,100",989,"1,260","1,051","1,024"
+"Supervisors and technical occupations in natural resources, agriculture and related production",74,104,147,247,387,322,243,362,405,418
+"Processing, manufacturing and utilities supervisors and central control operators",151,168,187,233,273,366,304,291,300,340
+Total Level B - Skilled and technical,"15,110","14,322","15,097","16,841","18,296","18,743","17,254","20,211","17,384","22,847"
+Level C - Intermediate and clerical,,,,,,,,,,
+Occupational skill level,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Office support occupations,888,897,"1,106","1,177","1,410","1,485","1,492","1,578","1,197",985
+"Distribution, tracking and scheduling co-ordination occupations",110,120,142,203,221,262,242,329,310,239
+Assisting occupations in support of health services,204,208,225,289,303,361,433,379,331,312
+"Care providers and educational, legal and public protection support occupations","2,645","2,960","2,964","5,025","4,739","4,676","3,608","2,459","2,181","1,654"
+Sales representatives and salespersons - wholesale and retail trade,733,652,659,712,806,815,787,892,702,558
+Service representatives and other customer and personal services occupations,970,808,886,983,"1,149","1,406","1,600","1,754","1,403","1,157"
+"Other installers, repairers and servicers and material handlers",52,47,69,77,84,92,79,76,159,202
+Transport and heavy equipment operation and related maintenance occupations,350,452,551,721,918,824,861,780,692,653
+"Workers in natural resources, agriculture and related production",140,106,104,102,67,94,165,263,191,122
+Processing and manufacturing machine operators and related production workers,174,226,455,479,680,882,767,616,493,521
+Assemblers in manufacturing,129,102,126,190,170,179,164,183,143,135
+Total Level C - Intermediate and clerical,"6,395","6,578","7,287","9,958","10,547","11,076","10,198","9,309","7,802","6,538"
+Level D - Elemental and labourers,,,,,,,,,,
+Occupational skill level,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+Sales support occupations,153,103,92,121,118,119,197,346,315,250
+"Service support and other service occupations, n.e.c.",181,142,125,183,436,943,"1,458","2,172","1,873","1,623"
+"Trades helpers, construction labourers and related occupations",299,231,199,251,213,231,187,189,111,61
+"Harvesting, landscaping and natural resources labourers",16,5,7,9,10,10,9,18,26,14
+"Labourers in processing, manufacturing and utilities",100,54,192,151,272,418,653,577,235,155
+Total Level D - Elemental and labourers,749,535,615,715,"1,049","1,721","2,504","3,302","2,560","2,103"

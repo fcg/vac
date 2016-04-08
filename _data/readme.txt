@@ -1,0 +1,1 @@
+有中文的csv需要先用 “ruby csv2yaml.rb 文件名 > 将要生成的yml文件名” 转换为 yaml 格式。然后需要用editplus等编辑器的正则表达式替换“record_[0-9]*:”为“-”。然后就可以用jekyll显示中文table了。 
