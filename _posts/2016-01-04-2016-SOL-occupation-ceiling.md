@@ -20,7 +20,7 @@ categories: gsm
   </tr>
 {% for sol in site.data.SOL20151218 %}
 <tr>
-<td> <a href="http://www.flyabroadvisa.com/anzsco/{{ sol.Occupation }}.html" target="_blank">{{ sol.Occupation }}</a> </td>
+<td> <a href="http://ww2.flyabroadvisa.com/anzsco/{{ sol.Occupation }}.html" target="_blank">{{ sol.Occupation }}</a> </td>
 <td> {{ sol.Description-flyabroad }} </td>
 <td> {{ sol.Ceiling }} </td>
 <td> {{ sol.Used }} </td>
