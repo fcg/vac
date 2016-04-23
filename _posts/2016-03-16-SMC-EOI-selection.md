@@ -84,9 +84,9 @@ categories: smc
 </tr>
 <tr>
 <td/><td>新西兰境内</td>
-<td>10</td>
+<td>155</td>
 <td>-</td>
-<td>10</td>
+<td>155</td>
 </tr>
 <tr>
 <td>小计：</td>
