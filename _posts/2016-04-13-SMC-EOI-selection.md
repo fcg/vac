@@ -27,16 +27,16 @@ categories: smc
 <th>EOI 邀请数</th></tr>
 <tr>
 <td>超过140分</td>
-<td>649</td></tr>
+<td><b>649</b></td></tr>
 <tr>
 <td>
 <p>低于140分但有雇主offer的</p></td>
-<td>116</td></tr>
+<td><b>116</b></td></tr>
 <tr>
 <th>
 <p>总邀请数</p></th>
 <th>
-<p>765</p></th></tr></table>
+<p><b>765</b></p></th></tr></table>
 
 ### 2. SMC 邀请情况细节 － 飞出国
 
@@ -71,9 +71,9 @@ categories: smc
 <tr>
 <td>小计：</td>
 <td/>
-<td>515</td>
-<td>134</td>
-<td>649</td>
+<td><b>515</b></td>
+<td><b>134</b></td>
+<td><b>649</b></td>
 </tr>
 <tr>
 <td>有job offer分数低于140的</td>
@@ -91,16 +91,16 @@ categories: smc
 <tr>
 <td>小计：</td>
 <td/>
-<td>116</td>
+<td><b>116</b></td>
 <td>-</td>
-<td>116</td>
+<td><b>116</b></td>
 </tr>
 <tr>
 <td>总计：</td>
 <td/>
-<td>631</td>
-<td>134</td>
-<td>765</td>
+<td><b>631</b></td>
+<td><b>134</b></td>
+<td><b>765</b></td>
 </tr>
 </table>
 
@@ -117,4 +117,6 @@ categories: smc
 <td>100%</td>
 </tr>
 </table>
+
+您也可以去飞出国论坛讨论：[新西兰技术移民2016年eoi邀请记录](http://bbs.fcgvisa.com/t/2016-eoi/8622) 。
 
