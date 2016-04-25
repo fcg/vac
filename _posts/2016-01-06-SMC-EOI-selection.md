@@ -27,7 +27,7 @@ categories: smc
 <th>EOI 邀请数</th></tr>
 <tr>
 <td>超过140分</td>
-<td><b> </b></td></tr>
+<td><b>733</b></td></tr>
 <tr>
 <td>
 <p>低于140分但有雇主offer的</p></td>
@@ -73,7 +73,7 @@ categories: smc
 <td/>
 <td><b>527</b></td>
 <td><b>206</b></td>
-<td><b> </b></td>
+<td><b>733</b></td>
 </tr>
 <tr>
 <td>有job offer分数低于140的</td>
