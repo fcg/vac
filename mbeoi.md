@@ -13,7 +13,7 @@ title: 曼省技术移民评分标准
 
 曼省 EOI 评分标准里如果有曼省6个月工作经验的话可以直接加500分，那样申请人就可以直接获得邀请。下面是曼省历次邀请情况。
 
-## 曼省 EOI 2015-2016 年邀请情况记录
+## 曼省 EOI 2015-2016 年邀请情况记录 - 飞出国
 
 <!-- num,updated,inmbnum,inmbrank,overseasnum,overseasrank -->
 <table border = "1" cellpadding="1" cellspacing="0">
@@ -37,7 +37,7 @@ title: 曼省技术移民评分标准
 {% endfor %}
 </table>
 
-以下职业当前很难被曼省 EOI 选中：
+以下职业当前很难被曼省 EOI 选中 - 飞出国：
 
 - 注册护士 Registered Nurses
 - 中小学教师 Secondary and Elementary School Teachers
@@ -51,7 +51,7 @@ title: 曼省技术移民评分标准
 
 曼省省提名技术移民 EOI 评分项包括语言（根据 clb 级别单项积分，第二语言达到 clb 5 可以加25分，第一语言最多可以加 100 分，共计 125 分），年龄最高 75 分（21-45周岁之间），工作经验4年以上就是75分（持有曼省内需要注册的职业的证书可以加100分，申请时提名的职业需要与该职业相关），教育最高125分（硕士或博士），适应能力最高500分（有远亲或朋友加50分，有近亲加200分，有曼省工作或留学经验可以加100分），同时曼省评分里还有减分项，如果与其他省份联系密切会被减分，详细的参考下面曼省EOI具体平分项说明。
 
-### Factor 1: 语言能力 Language Proficiency
+### Factor 1: 语言能力 Language Proficiency - 飞出国
 
 <!-- > Points are based on individual Canadian Language Benchmark (CLB) band scores for Reading Writing, Listening and Speaking. Points awarded based on official test results provided. Those candidates who do not submit valid results of an approved language test do not receive points in this category. To be considered valid, your test must have been taken no more than two years prior to the date you submit your MPNP Online application. Points for the second official language are also based on evidence in form of official test results indicating the candidate scores at least at CLB 5 overall. -->
 
@@ -101,7 +101,7 @@ title: 曼省技术移民评分标准
 </tbody>
 </table>
 
-### Factor 2: 年龄 Age
+### Factor 2: 年龄 Age - 飞出国
 
 飞出国：曼省技术移民 EOI 类别年龄评分按递交 MB PNP EOI 时的年龄计算，最高 75 分。
 
@@ -110,7 +110,7 @@ title: 曼省技术移民评分标准
 <table>
 <tbody>
 <tr>
-<th>年龄</th>
+<th>年龄 - 飞出国</th>
 <th>分数</th>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ title: 曼省技术移民评分标准
 <table>
 <tbody>
 <tr>
-<th>工作年限</th>
+<th>工作年限 - 飞出国</th>
 <th>得分</th>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ title: 曼省技术移民评分标准
 </tbody>
 </table>
 
-### Factor 4: 教育得分 Education
+### Factor 4: 教育得分 Education - 飞出国
 
 曼省 EOI 评分标准里按照申请人已经取得的最高学历计算学历分数。
 
@@ -209,7 +209,7 @@ title: 曼省技术移民评分标准
 <table>
 <tbody>
 <tr>
-<th>已经完成的最高教育</th>
+<th>已经完成的最高教育 - 飞出国</th>
 <th>得分</th>
 </tr>
 <tr>
@@ -247,7 +247,7 @@ title: 曼省技术移民评分标准
 </tbody>
 </table>
 
-### Factor 5: 适应能力 Adaptability
+### Factor 5: 适应能力 Adaptability - 飞出国
 
 飞出国：申请人必须有下面任何一种与曼省的联系才符合曼省申请条件。相应的曼省联系也有对应的适应能力加分，而且有曼省联系6个月以上的工作经验的话一次就可以加500分（累计最高可以加500分）。
 
@@ -256,7 +256,7 @@ title: 曼省技术移民评分标准
 <table>
 <tbody>
 <tr>
-<th>适应能力项</th>
+<th>适应能力项 - 飞出国</th>
 <th>得分</th>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ title: 曼省技术移民评分标准
 </tbody>
 </table>
 
-### Factor 6: 风险评估 Risk Assessment
+### Factor 6: 风险评估 Risk Assessment - 飞出国
 
 飞出国：曼省省提名EOI评分里的一个特色是有负分的风险评估项，如果申请人与其他省的联系比与曼省的联系大，或者说申请人去曼省定居有风险的话曼省EOI里会有对应的扣分项，最多会被扣400分。
 
@@ -316,7 +316,7 @@ title: 曼省技术移民评分标准
 <table>
 <tbody>
 <tr>
-<th>分险项</th>
+<th>分险项 - 飞出国</th>
 <th>曼省得分</th>
 </tr>
 <tr>
