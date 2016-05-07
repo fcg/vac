@@ -105,42 +105,42 @@ def posttovac()
      end
 
   frontstr = <<-YAML
-  ---
-  layout: post
-  title:  "Express Entry #{eedate} 2016 年第 #{numinyear} 捞：#{eeinvitations}人，#{eerank}分"
-  date:   #{eedate} 23:56:00  +0800
-  categories: EE
-  ---
-  YAML
+---
+layout: post
+title:  "Express Entry #{eedate} 2016 年第 #{numinyear} 捞：#{eeinvitations}人，#{eerank}分"
+date:   #{eedate} 23:56:00  +0800
+categories: EE
+---
+YAML
 
   intrstr = <<-INTR
 
-  飞出国：加拿大时间 #{eedate}，CIC 发布 Express Entry 2016 年第 #{numinyear} 捞（总第 #{currentNum} 捞），#{eeinvitations}人，#{eerank}分。
+飞出国：加拿大时间 #{eedate}，CIC 发布 Express Entry 2016 年第 #{numinyear} 捞（总第 #{currentNum} 捞），#{eeinvitations}人，#{eerank}分。
 
-  截止到现在加拿大 EE 累计捞取 #{sumnum} 人，历次最低分 #{minrank} 分，历次最高分 #{maxrank}分。飞出国加拿大 EE 历次邀请情况记录：
+截止到现在加拿大 EE 累计捞取 #{sumnum} 人，历次最低分 #{minrank} 分，历次最高分 #{maxrank}分。飞出国加拿大 EE 历次邀请情况记录：
 
-  <table border = "1" cellpadding="1" cellspacing="0">
-    <tr>
-      <th>EE 总邀请次数</th>
-      <th>EE 邀请日期</th>
-      <th>EE 邀请人数</th>
-      <th>年度邀请次数</th>
-      <th>EE 邀请分数</th>
-    </tr>
-  {% for ee in site.data.ee.#{eecsvfile} %}
+<table border = "1" cellpadding="1" cellspacing="0">
   <tr>
-  <td> {{ ee.no }} </td>
-  <td> {{ ee.date }} </td>
-  <td> {{ ee.people }} </td>
-  <td> {{ ee.numinyear }} </td>
-  <td> {{ ee.points }} </td>
+    <th>EE 总邀请次数</th>
+    <th>EE 邀请日期</th>
+    <th>EE 邀请人数</th>
+    <th>年度邀请次数</th>
+    <th>EE 邀请分数</th>
   </tr>
-  {% endfor %}
-  </table>
+{% for ee in site.data.ee.#{eecsvfile} %}
+<tr>
+<td> {{ ee.no }} </td>
+<td> {{ ee.date }} </td>
+<td> {{ ee.people }} </td>
+<td> {{ ee.numinyear }} </td>
+<td> {{ ee.points }} </td>
+</tr>
+{% endfor %}
+</table>
 
-  ------
+------
 
-  INTR
+INTR
 
   bbsstr = '2016年EE邀请情况请参考<a href="#{bbslink}" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。'
 
