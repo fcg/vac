@@ -64,8 +64,8 @@ def posttovac()
   parsenewee()
 
   bbslink = 'http://bbs.fcgvisa.com/t/2016-express-entry-ita-ee/9588'
-  csvdir = '..\\_data\\ee\\'
-  postdir = '..\\_posts\\'
+  csvdir = '..／_data／ee／'
+  postdir = '..／_posts／'
 
   db = SQLite3::Database.open "eedraws.db"
 
@@ -94,7 +94,7 @@ def posttovac()
     #  p currentNum[0]
 
      eecsvfile = "EE#{eedate}"
-     eepostfile = "#{eedate}-Express-Entry-Draw-#{currentNum}-#{eerank} points-#{eeinvitations}"
+     eepostfile = "#{eedate}-Express-Entry-Draw-#{currentNum}-#{eerank}-points-#{eeinvitations}"
 
      CSV.open("#{csvdir}EE#{eedate}.csv", "w") do |csv|
        csv << ["no","date","people","points","numinyear"]
@@ -142,7 +142,7 @@ YAML
 
 INTR
 
-  bbsstr = '2016年EE邀请情况请参考<a href="#{bbslink}" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。'
+  bbsstr = "2016年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。"
 
     File.open("#{postdir}#{eepostfile}.md", 'w') do |file|
 
