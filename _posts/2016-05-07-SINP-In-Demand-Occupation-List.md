@@ -17,7 +17,7 @@ categories: SINP
   </tr>
 {% for csvrow in site.data.sinp.sinpo201605 %}
 <tr>
-<td> <a href="http://noc.cgvisa.com/{{ csvrow.noc }}">{{ csvrow.noc }}</a> </td>
+<td> <a href="http://noc.cgvisa.com/{{ csvrow.NOC }}">{{ csvrow.NOC }}</a> </td>
 <td> {{ csvrow.cn }} </td>
 <td> {{ csvrow.en }} </td>
 </tr>
