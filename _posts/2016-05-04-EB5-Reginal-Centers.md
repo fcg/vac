@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2016年美国 824 家EB5区域中心列表"
-date:   2016-05-15 9:00:00
+date:   2016-05-15 8:00:00
 categories: eb5
 ---
 
@@ -17,7 +17,7 @@ categories: eb5
 {% for row in site.data.rcs.rc1605 %}
 <tr>
 <td> {{ row.rccn }}－{{ row.rc }} </td>
-<td> {{ row.statedcn }}/{{ row.stated }} </td>
+<td> {{ row.statedcn }}/{{ row.stated }} </td> -->
 <td> <a href="http://bbs.fcgvisa.com/t/topic/{{ row.topicid }}" target="_blank">{{ row.rcid }}</a> </td>
 </tr>
 {% endfor %}
