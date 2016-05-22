@@ -61,11 +61,9 @@ end
 
 def posttovac()
 
-  parsenewee()
-
   bbslink = 'http://bbs.fcgvisa.com/t/2016-express-entry-ita-ee/9588'
-  csvdir = '..／_data／ee／'
-  postdir = '..／_posts／'
+  csvdir = '../_data/ee/'
+  postdir = '../_posts/'
 
   db = SQLite3::Database.open "eedraws.db"
 
