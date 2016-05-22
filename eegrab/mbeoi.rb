@@ -58,8 +58,6 @@ db.results_as_hash = true
 
 end
 
-post()
-
 def parse_new()
   db = SQLite3::Database.open "eedraws.db"
 
@@ -83,7 +81,8 @@ def parse_new()
 
 end
 
-# parse_new()
+parse_new()
+post()
 
 def parse_archive()
 
