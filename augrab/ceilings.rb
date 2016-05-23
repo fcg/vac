@@ -8,15 +8,72 @@ require 'net/http'
 CEILINGS   = "//*[@id='tab-content-3']/table"
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
 TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
+
+CURRENTFN = "2016-05-11"  # 每次有新更新先修改这里
+
+F1516 = "ceilling-15-16"
+
+DATADIR = "../_data/sol/"
+
+POSTDIR = "../_posts/"
+
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
 def updatecsv()
 
+  db = SQLite3::Database.open "csol.db"
 
+  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings order by remain")
+
+  CSV.open("#{DATADIR}#{F1516}.csv", "w") do |csv|
+    csv << %w(anzsco4 bbsid nameen namecn ceiling result change remain)
+    rows.each do |row|
+      csv << row
+    end
+  end
 
 end
 
 def postceiling()
+
+postctx =<<-POST
+---
+layout: post
+title: 澳洲 SOL 配额完成情况 - #{CURRENTFN}
+date:  #{CURRENTFN} 13:00:00
+categories: gsm
+---
+
+## #{CURRENTFN} 澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况
+
+<table border = "1" cellpadding="1" cellspacing="0">
+<tr>
+<th>职业代码</th>
+<th>职业名称</th>
+<th>全年配额</th>
+<th>当前邀请</th>
+<th>新增邀请</th>
+</tr>
+{% for c in site.data.sol.#{CURRENTFN} %}
+<tr>
+<td> <a href="http://bbs.fcgvisa.com/t/topic/{{ c.bbsid }}" target="_blank">{{ c.anzsco4 }}</a> </td>
+<td> {{ c.namecn }} </td>
+<td> {{ c.ceiling }} </td>
+<td> {{ c.result }} </td>
+<td> {{ c.change }} </td>
+</tr>
+{% endfor %}
+</table>
+
+更多说明请参考<a href="http://bbs.fcgvisa.com/t/eoi/6335/" target="blank">飞出国论坛</a> 。
+
+POST
+
+File.open("#{POSTDIR}#{CURRENTFN}-SOL-Ceillings.md", 'w') do |file|
+
+  file.write postctx
+
+end
 
 end
 
@@ -35,44 +92,33 @@ def upateceilling()
 
   db = SQLite3::Database.open "csol.db"
 
-  trs.each do |tr|
+  CSV.open("#{DATADIR}#{CURRENTFN}.csv", "w") do |csv|
+    csv << %w(anzsco4 bbsid nameen namecn ceiling lastresutl result change)
 
-    td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
-    td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
-    td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
-    td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+    trs.each do |tr|
 
-    # if td1anzsco4 == "3241" then
-    #   p "#{td4result} : #{td1anzsco4}"
-    #
-    #   rows = db.execute("update ceilings set result = ? where anzsco4 = ?", [td4result, td1anzsco4])
-    # end
+      td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+      td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
-  end
+      crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result from ceilings where anzsco4 = ?",td1anzsco4)
 
-end
+      lastresutl = crow[0][5]
 
-def initcsv()
+      change = td4result - lastresutl
 
-  db = SQLite3::Database.open "csol.db"
+      p "#{td1anzsco4}:#{lastresutl}:#{td4result}:#{change}"
 
-  currentfn = "20160427.csv"
+      csv << crow[0].push(td4result).push(change)
 
-  f1516 = "ceilling-15-16.csv"
+      db.execute("update ceilings set result = ? , change = ? where anzsco4 = ?", [td4result, change, td1anzsco4])
 
-  dir = "../_data/sol/"
-
-  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings order by  remain")
-
-  CSV.open("#{dir}#{f1516}", "w") do |csv|
-    csv << %w(anzsco4 bbsid nameen namecn ceiling result change remain)
-    rows.each do |row|
-      csv << row
     end
   end
 
 end
 
-initcsv
-
 # upateceilling()
+# updatecsv()
+postceiling()
