@@ -41,7 +41,7 @@ def parse_current(filename)
   csvdir = '..\\_data\\ee\\'
   postdir = '..\\_posts\\'
 
-  html = open("2016/#{filename}")
+  html = open(filename)
   charset = 'utf-8'
 
   doc = Nokogiri::HTML::parse(html, nil, charset)
@@ -114,7 +114,7 @@ end
 
 end
 
-# parse_current("13-april-2016-round-results.html")
+parse_current("http://www.border.gov.au/Trav/Work/Skil/11-may-2016-round-results")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
