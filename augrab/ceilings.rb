@@ -9,7 +9,7 @@ CEILINGS   = "//*[@id='tab-content-3']/table"
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
 TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
 
-CURRENTFN = "2016-05-11"  # 每次有新更新先修改这里
+CURRENTFN = "2016-06-22"  # 每次有新更新先修改这里
 
 F1516 = "ceilling-15-16"
 
