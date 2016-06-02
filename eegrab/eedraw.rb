@@ -26,7 +26,7 @@ def parsenewee()
   invitations = doc.xpath(invitationsxpath).to_s.delete(',').to_i
   rank = doc.xpath(rankxpath).to_s.delete(',').to_i
   # eedate = doc.xpath(datexpath).to_s
-  eedate = doc.css(datecss).last.inner_text.to_s.gsub("–","").strip
+  eedate = doc.css(datecss).last.inner_text.to_s.gsub("–","").strip.gsub("\u00A0","")
 
   p eedate
 
