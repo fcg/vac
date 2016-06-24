@@ -17,6 +17,10 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 
 ### 下面是 2016年6月份中国科协发布的中国认可的院校名单
 
+因为是刚刚正式加入，2016 年或以后毕业的学历资格才能被 EA 认可。
+
+> Holders of Chinese accredited qualifications completed in or after 2016 will be eligible for Membership of Engineers Australia as well as Migration Skills Assessment via the accredited qualifications pathways.
+
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">年份</th>
 <th title="Field #2">学校-飞出国</th>
@@ -33,7 +37,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>高分子材料与工程</td>
 <td>Polymer Materials and Engineering</td>
@@ -110,7 +114,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>过程装备与控制工程</td>
 <td>Process Equipment and Controlling Engineering</td>
@@ -278,7 +282,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>地质，北京的中国大学</td>
+<td>中国地质大学，北京</td>
 <td>China University of Geosciences，Beijing</td>
 <td>资源勘查工程</td>
 <td>Resource Prospecting Engineering</td>
@@ -292,7 +296,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学技术的南京大学</td>
+<td>南京科技大学</td>
 <td>Nanjing University of Science &amp; Technology</td>
 <td>化学工程与工艺</td>
 <td>Chemical Engineering and Technology</td>
@@ -418,7 +422,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>土木工程Archit北京工业大学</td>
+<td>北京建筑大学</td>
 <td>Beijing University of Civil Engineering and Archit</td>
 <td>测绘工程</td>
 <td>Geomatics Engineering</td>
@@ -432,7 +436,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>建筑科技大学Xi`an</td>
+<td>西安建筑科技大学</td>
 <td>Xi`an University of Architecture and Technology</td>
 <td>材料科学与工程</td>
 <td>Materials Science and Engineering</td>
@@ -446,7 +450,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学与西安科技大学</td>
+<td>西安科技大学</td>
 <td>Xi’an University of Science and Technology</td>
 <td>矿业工程</td>
 <td>Mining Engineering</td>
@@ -460,14 +464,14 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学与长沙理工大学</td>
+<td>长沙理工大学</td>
 <td>Changsha University of Science &amp; Technology</td>
 <td>运输</td>
 <td>Transportation</td>
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学与浙江工业大学</td>
+<td>浙江科技大学</td>
 <td>Zhejiang University of Science &amp; Technology</td>
 <td>电气工程及其自动化</td>
 <td>Electric Engineering and Automation</td>
@@ -502,7 +506,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学与长沙理工大学</td>
+<td>长沙理工大学</td>
 <td>Changsha University of Science &amp; Technology</td>
 <td>水利水电工程</td>
 <td>Hydraulic and Hydro-Power Engineering</td>
@@ -523,7 +527,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学与西安科技大学</td>
+<td>西安科技大学</td>
 <td>Xi’an University of Science and Technology</td>
 <td>土木工程</td>
 <td>Civil Engineering</td>
@@ -565,7 +569,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科技中国东部大学</td>
+<td>华东理工大学</td>
 <td>East China University of Science and Technology</td>
 <td>计算机科学与技术</td>
 <td>Computer Science and Technology</td>
@@ -698,7 +702,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>中国东部交通大学</td>
+<td>华东交通大学</td>
 <td>East China Jiaotong University</td>
 <td>土木工程</td>
 <td>Civil Engineering</td>
@@ -733,7 +737,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学与西安科技大学</td>
+<td>西安科技大学</td>
 <td>Xi’an University of Science and Technology</td>
 <td>地质工程</td>
 <td>Geological Engineering</td>
@@ -831,7 +835,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>食品科学与工程</td>
 <td>Food Science and Engineering</td>
@@ -866,7 +870,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学与浙江工业大学</td>
+<td>浙江科技学院</td>
 <td>Zhejiang University of Science &amp; Technology</td>
 <td>化学工程与工艺</td>
 <td>Chemical Engineering and Technology</td>
@@ -887,7 +891,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2015</td>
-<td>科学技术的中国北方学院</td>
+<td>华北科术学院</td>
 <td>North China Institute of Science and Technology</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -922,7 +926,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学技术的南京大学</td>
+<td>南京科技大学</td>
 <td>Nanjing University of Science &amp; Technology</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -992,14 +996,14 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>环境工程</td>
 <td>Environmental Engineering</td>
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>环境工程</td>
 <td>Environmental Engineering</td>
@@ -1013,7 +1017,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学技术的南京大学</td>
+<td>南京科技大学</td>
 <td>Nanjing University of Science &amp; Technology</td>
 <td>环境工程</td>
 <td>Environmental Engineering</td>
@@ -1027,7 +1031,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>矿业大学，北京中国大学</td>
+<td>中国矿业大学，北京</td>
 <td>China University of Mining &amp; Technology, Beijing</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -1083,7 +1087,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学技术的南京大学</td>
+<td>南京科技学院</td>
 <td>Nanjing University of Science &amp; Technology</td>
 <td>光电子信息科学与Enginee</td>
 <td>Optoelectronic Information Science and Enginee</td>
@@ -1125,7 +1129,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>中国北方电力大学</td>
+<td>华北电力大学</td>
 <td>North China Electric Power University</td>
 <td>电气工程及其自动化</td>
 <td>Electric Engineering and Automation</td>
@@ -1160,7 +1164,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>地质，武汉大学中国</td>
+<td>中国地质大学，武汉</td>
 <td>China University of Geosciences, Wuhan</td>
 <td>水文学及水资源</td>
 <td>Hydrology and Water Resource</td>
@@ -1202,7 +1206,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学与长沙理工大学</td>
+<td>长沙理工大学</td>
 <td>Changsha University of Science &amp; Technology</td>
 <td>车辆工程</td>
 <td>Vehicle Engineering</td>
@@ -1230,7 +1234,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学与安徽理工大学</td>
+<td>安徽理工大学</td>
 <td>Anhui University of Science &amp; Technology</td>
 <td>机械设计与制造自动化</td>
 <td>Mechanical Designing and Manufacturing Automation</td>
@@ -1265,7 +1269,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学与太原理工大学</td>
+<td>太原理工大学</td>
 <td>Taiyuan University of Science and Technology</td>
 <td>机械设计与制造自动化</td>
 <td>Mechanical Designing and Manufacturing Automation</td>
@@ -1286,14 +1290,14 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学技术的南京大学</td>
+<td>南京科技大学</td>
 <td>Nanjing University of Science &amp; Technology</td>
 <td>计算机科学与技术</td>
 <td>Computer Science and Technology</td>
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>孙中山大学</td>
+<td>中山大学</td>
 <td>Sun Yat-Sen University</td>
 <td>计算机科学与技术</td>
 <td>Computer Science and Technology</td>
@@ -1307,7 +1311,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学与西安科技大学</td>
+<td>西安科技大学</td>
 <td>Xi’an University of Science and Technology</td>
 <td>化学工程与工艺</td>
 <td>Chemical Engineering and Technology</td>
@@ -1370,7 +1374,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>化学工程与工艺</td>
 <td>Chemical Engineering and Technology</td>
@@ -1447,7 +1451,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3 years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科学与安徽理工大学</td>
+<td>安徽理工大学</td>
 <td>Anhui University of Science &amp; Technology</td>
 <td>测绘工程</td>
 <td>Geomatics Engineering</td>
@@ -1461,7 +1465,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>林业和麻省理工中南大学</td>
+<td>中南林业科技大学</td>
 <td>Central South University of Forestry and Technolog</td>
 <td>土木工程</td>
 <td>Civil Engineering</td>
@@ -1482,7 +1486,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>石油，北京的中国大学</td>
+<td>中国石油大学，北京</td>
 <td>China University of Petroleum, Beijing</td>
 <td>资源勘查工程</td>
 <td>Resource Prospecting Engineering</td>
@@ -1650,7 +1654,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>高分子材料与工程</td>
 <td>Polymer Materials and Engineering</td>
@@ -1671,7 +1675,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>矿业大学，北京中国大学</td>
+<td>中国矿业大学，北京</td>
 <td>China University of Mining &amp; Technology, Beijing</td>
 <td>矿业工程</td>
 <td>Mining Engineering</td>
@@ -1769,7 +1773,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2014</td>
-<td>北京信息科技成都大学学报</td>
+<td>北京信息科技大学</td>
 <td>Beijing Information Science &amp; Technology Universit</td>
 <td>测控技术与仪器</td>
 <td>Measuring &amp; Control Technology and Instrumentation</td>
@@ -1839,7 +1843,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2013</td>
-<td>科学与长沙理工大学</td>
+<td>长沙理工大学</td>
 <td>Changsha University of Science &amp; Technology</td>
 <td>港口航道与海岸工程</td>
 <td>Harbor Waterway and Coastal Engineering</td>
@@ -1895,7 +1899,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2013</td>
-<td>科学与西安科技大学</td>
+<td>西安科技大学</td>
 <td>Xi’an University of Science and Technology</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -1916,14 +1920,14 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2013</td>
-<td>科学与安徽理工大学</td>
+<td>安徽理工大学</td>
 <td>Anhui University of Science &amp; Technology</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
 <td>3years</td>
 </tr>
 <tr><td align="right">2013</td>
-<td>科学与长沙理工大学</td>
+<td>长沙理工大学</td>
 <td>Changsha University of Science &amp; Technology</td>
 <td>机械设计与制造自动化</td>
 <td>Mechanical Designing and Manufacturing Automation</td>
@@ -1944,7 +1948,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2013</td>
-<td>水利ELEC的中国北方大学</td>
+<td>华北水利水电大学</td>
 <td>North China University of Water Resources and Elec</td>
 <td>水文学及水资源</td>
 <td>Hydrology and Water Resource</td>
@@ -2161,7 +2165,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2013</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
@@ -2329,14 +2333,14 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>制药工程</td>
 <td>Pharmaceutical Engineering</td>
 <td>6years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>石油，北京的中国大学</td>
+<td>中国石油大学，北京</td>
 <td>China University of Petroleum, Beijing</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
@@ -2385,14 +2389,14 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>石油，北京的中国大学</td>
+<td>中国石油大学，北京</td>
 <td>China University of Petroleum, Beijing</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
 <td>6years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>制药工程</td>
 <td>Pharmaceutical Engineering</td>
@@ -2462,7 +2466,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>西安科技大学一</td>
+<td>西安科技大学</td>
 <td>Xi an University of Science and Technology</td>
 <td>矿业工程</td>
 <td>Mining Engineering</td>
@@ -2539,7 +2543,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>科学与长沙理工大学</td>
+<td>长沙理工大学</td>
 <td>Changsha University of Science &amp; Technology</td>
 <td>运输</td>
 <td>Transportation</td>
@@ -2567,21 +2571,21 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>地质，北京的中国大学</td>
+<td>中国地质大学，北京</td>
 <td>China University of Geosciences, Beijing</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
 <td>3years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>西安科技大学的</td>
+<td>西安科技大学</td>
 <td>Xi an University of Technology</td>
 <td>水文学及水资源</td>
 <td>Hydrology and Water Resource</td>
 <td>6years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>食品科学与工程</td>
 <td>Food Science and Engineering</td>
@@ -2644,7 +2648,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>南京理工大学学报</td>
+<td>南京理工大学</td>
 <td>Nanjing University of Technology</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
@@ -2658,7 +2662,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>计算机科学与技术</td>
 <td>Computer Science and Technology</td>
@@ -2672,7 +2676,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2012</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>过程装备与控制工程</td>
 <td>Process Equipment and Controlling Engineering</td>
@@ -2777,7 +2781,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>地质，北京的中国大学</td>
+<td>中国地质大学，北京</td>
 <td>China University of Geosciences, Beijing</td>
 <td>水文学及水资源</td>
 <td>Hydrology and Water Resource</td>
@@ -2798,7 +2802,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>自动化</td>
 <td>Automation</td>
@@ -2868,7 +2872,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>环境工程</td>
 <td>Environmental Engineering</td>
@@ -2889,7 +2893,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>6years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>科学与太原理工大学</td>
+<td>太原理工大学</td>
 <td>Taiyuan University of Science and Technology</td>
 <td>机械设计与制造自动化</td>
 <td>Mechanical Designing and Manufacturing Automation</td>
@@ -2966,21 +2970,21 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>计算机科学与技术</td>
 <td>Computer Science and Technology</td>
 <td>3years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>中国北方电力大学</td>
+<td>华北电力大学</td>
 <td>North China Electric Power University</td>
 <td>电气工程及其自动化</td>
 <td>Electric Engineering and Automation</td>
 <td>3years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>中国北方电力大学</td>
+<td>华北电力大学</td>
 <td>North China Electric Power University</td>
 <td>自动化</td>
 <td>Automation</td>
@@ -3001,7 +3005,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>地质，武汉大学中国</td>
+<td>中国地质大学，武汉</td>
 <td>China University of Geosciences,Wuhan</td>
 <td>水文学及水资源</td>
 <td>Hydrology and Water Resource</td>
@@ -3036,7 +3040,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>科学与TECHNOLO的中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technolo</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
@@ -3050,7 +3054,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2011</td>
-<td>矿业大学，北京中国大学</td>
+<td>中国矿业大学，北京</td>
 <td>China University of Mining &amp; Technology,Beijing</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -3071,14 +3075,14 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2010</td>
-<td>科学与安徽理工大学</td>
+<td>安徽理工大学</td>
 <td>Anhui University of Science &amp; Technology</td>
 <td>矿业工程</td>
 <td>Mining Engineering</td>
 <td>3years</td>
 </tr>
 <tr><td align="right">2010</td>
-<td>安徽大学科学与技术</td>
+<td>安徽科技大学</td>
 <td>Anhui University Of Science &amp; Technology</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -3155,7 +3159,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2010</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>机械工程与自动化</td>
 <td>Mechanical Engineering &amp; Automation</td>
@@ -3176,7 +3180,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2010</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
@@ -3428,7 +3432,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2009</td>
-<td>南京理工大学学报</td>
+<td>南京理工大学</td>
 <td>Nanjing University of Technology</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
@@ -3491,7 +3495,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2009</td>
-<td>地质，北京的中国大学</td>
+<td>中国地质大学，北京</td>
 <td>China University of Geosciences, Beijing</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -3547,7 +3551,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2009</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>食品科学与工程</td>
 <td>Food Science and Engineering</td>
@@ -3575,7 +3579,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2009</td>
-<td>科学与长沙理工大学</td>
+<td>长沙理工大学</td>
 <td>Changsha University of Science &amp; Technology</td>
 <td>运输</td>
 <td>Transportation</td>
@@ -3596,7 +3600,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2009</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>机械设计与制造自动化</td>
 <td>Mechanical Designing and Manufacturing Automation</td>
@@ -3610,7 +3614,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2009</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>计算机科学与技术</td>
 <td>Computer Science and Technology</td>
@@ -3624,7 +3628,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2008</td>
-<td>科技中国东部大学</td>
+<td>华东科技大学</td>
 <td>East China University of Science and Technology</td>
 <td>化学工程技术</td>
 <td>Chemacal Engineering and Technology</td>
@@ -3645,7 +3649,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2008</td>
-<td>中国北方电力大学</td>
+<td>华北电力大学</td>
 <td>North China Electric Power University</td>
 <td>电气工程及其自动化</td>
 <td>Electric Engineering and Automation</td>
@@ -3666,7 +3670,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2008</td>
-<td>矿业大学，北京中国大学</td>
+<td>中国矿业大学，北京</td>
 <td>China University of Mining &amp; Technology,Beijing</td>
 <td>安全工程</td>
 <td>Safety Engineering</td>
@@ -3715,7 +3719,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2008</td>
-<td>南方科技大学中国</td>
+<td>华南科技大学</td>
 <td>South China University of Technology</td>
 <td>计算机科学与技术</td>
 <td>Computer Science and Technology</td>
@@ -3743,7 +3747,7 @@ EA 经过认证的资格评估有下面三种 through recognised (accredited) En
 <td>3years</td>
 </tr>
 <tr><td align="right">2008</td>
-<td>地质，武汉大学中国</td>
+<td>中国地质大学，武汉</td>
 <td>China University of Geosciences,Wuhan</td>
 <td>水文学及水资源</td>
 <td>Hydrology and Water Resource</td>
