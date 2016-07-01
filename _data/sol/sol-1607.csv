@@ -1,7 +1,7 @@
 anzsco,cn,en,ass
 133111,施工项目经理,Construction Project Manager,VETASSESS
 133112,项目生成器,Project Builder,VETASSESS
-133211,工程经理,Engineering Manager,Engineers Australia?/AIM
+133211,工程经理,Engineering Manager,Engineers Australia/AIM
 133513,生产经理（采矿）,Production Manager (Mining),VETASSESS
 134111,幼儿中心经理,Child Care Centre Manager,TRA
 134211,医疗管理,Medical Administrator,VETASSESS
@@ -45,15 +45,15 @@ anzsco,cn,en,ass
 234111,农业顾问,Agricultural Consultant,VETASSESS
 234112,农业科学家,Agricultural Scientist,VETASSESS
 234113,福雷斯特,Forester,VETASSESS
-234611,医检师,Medical Laboratory Scientist,AIMS?
+234611,医检师,Medical Laboratory Scientist,AIMS
 234711,兽医,Veterinarian,AVBC
 234914,物理学家（仅限医学物理学家）,Physicist (Medical Physicist only),ACPSEM
-241111,幼儿教育（学前教育）教师,Early Childhood (Pre-Primary School) Teacher,AITSL?
-241411,中学教师,Secondary School Teacher,AITSL?
-241511,特别需要教师,Special Needs Teacher,AITSL?
-241512,听证教师受损,Teacher of the Hearing Impaired,AITSL??
-241513,在视障教师,Teacher of the Sight Impaired,AITSL?
-241599,特殊教育教师NEC,Special Education Teachers nec,AITSL?
+241111,幼儿教育（学前教育）教师,Early Childhood (Pre-Primary School) Teacher,AITSL
+241411,中学教师,Secondary School Teacher,AITSL
+241511,特别需要教师,Special Needs Teacher,AITSL
+241512,听证教师受损,Teacher of the Hearing Impaired,AITSL
+241513,在视障教师,Teacher of the Sight Impaired,AITSL
+241599,特殊教育教师NEC,Special Education Teachers nec,AITSL
 251211,医疗诊断放射技师,Medical Diagnostic Radiographer,AIR
 251212,医疗放射治疗师,Medical Radiation Therapist,AIR
 251213,核医学技师,Nuclear Medicine Technologist,ANZSNM
@@ -68,61 +68,61 @@ anzsco,cn,en,ass
 252711,听力学家,Audiologist,VETASSESS
 252712,言语病理学家,Speech Pathologist,SPA
 253111,全科医生,General Practitioner,Medical Board of Australia
-253211,麻醉师,Anaesthetist,Medical Board of Australia?
-253311,专家医师（全科医学）,Specialist Physician (General Medicine),Medical Board of Australia?
-253312,心脏病,Cardiologist,Medical Board of Australia?
-253313,临床血液病,Clinical Haematologist,Medical Board of Australia?
-253314,肿瘤科医生,Medical Oncologist,Medical Board of Australia?
-253315,内分泌,Endocrinologist,Medical Board of Australia?
-253316,胃肠病,Gastroenterologist,Medical Board of Australia?
-253317,重症护理专家,Intensive Care Specialist,Medical Board of Australia?
-253318,神经学家,Neurologist,Medical Board of Australia?
-253321,儿科医生,Paediatrician,Medical Board of Australia?
-253322,肾内科专家,Renal Medicine Specialist,Medical Board of Australia?
-253323,风湿病,Rheumatologist,Medical Board of Australia?
-253324,胸腔医学专家,Thoracic Medicine Specialist,Medical Board of Australia?
-253399,专科医师NEC,Specialist Physicians nec,Medical Board of Australia?
-253411,精神科医生,Psychiatrist,Medical Board of Australia?
-253511,外科医生（普通）,Surgeon (General),Medical Board of Australia?
-253512,心胸外科医生,Cardiothoracic Surgeon,Medical Board of Australia?
-253513,神经外科医生,Neurosurgeon,Medical Board of Australia?
-253514,骨科医生,Orthopaedic Surgeon,Medical Board of Australia?
-253515,耳鼻喉科,Otorhinolaryngologist,Medical Board of Australia?
-253516,儿科医生,Paediatric Surgeon,Medical Board of Australia?
-253517,整形外科医生,Plastic and Reconstructive Surgeon,Medical Board of Australia?
-253518,泌尿科医师,Urologist,Medical Board of Australia?
-253521,血管外科医生,Vascular Surgeon,Medical Board of Australia?
-253911,皮肤科医生,Dermatologist,Medical Board of Australia?
-253912,急救医学专家,Emergency Medicine Specialist,Medical Board of Australia?
-253913,妇产科,Obstetrician and Gynaecologist,Medical Board of Australia?
-253914,眼科医生,Ophthalmologist,Medical Board of Australia?
-253915,病理学家,Pathologist,Medical Board of Australia?
-253917,诊断与介入放射,Diagnostic and Interventional Radiologist,Medical Board of Australia?
-253918,放射肿瘤科,Radiation Oncologist,Medical Board of Australia?
-253999,执业医师法NEC,Medical Practitioners nec,Medical Board of Australia?
-254111,助产士,Midwife,ANMAC?
-254411,护士执业,Nurse Practitioner,ANMAC?
-254412,注册护士（老年护理）,Registered Nurse (Aged Care),ANMAC?
-254413,注册护士（儿童和家庭健康）,Registered Nurse (Child and Family Health),ANMAC?
-254414,注册护士（社区卫生）,Registered Nurse (Community Health),ANMAC?
-254415,注册护士（重症监护和应急）,Registered Nurse (Critical Care and Emergency),ANMAC?
-254416,注册护士（发育障碍）,Registered Nurse (Developmental Disability),ANMAC?
-254417,注册护士（残疾和康复）,Registered Nurse (Disability and Rehabilitation),ANMAC?
-254418,注册护士（医疗）,Registered Nurse (Medical),ANMAC?
-254421,注册护士（医疗实践）,Registered Nurse (Medical Practice),ANMAC?
-254422,注册护士（心理健康）,Registered Nurse (Mental Health),ANMAC?
-254423,注册护士（围手术期）,Registered Nurse (Perioperative),ANMAC?
-254424,注册护士（手术）,Registered Nurse (Surgical),ANMAC?
-254425,注册护士（儿科）,Registered Nurse (Paediatrics),ANMAC?
-254499,注册护士NEC,Registered Nurses nec,ANMAC?
+253211,麻醉师,Anaesthetist,Medical Board of Australia
+253311,专家医师（全科医学）,Specialist Physician (General Medicine),Medical Board of Australia
+253312,心脏病,Cardiologist,Medical Board of Australia
+253313,临床血液病,Clinical Haematologist,Medical Board of Australia
+253314,肿瘤科医生,Medical Oncologist,Medical Board of Australia
+253315,内分泌,Endocrinologist,Medical Board of Australia
+253316,胃肠病,Gastroenterologist,Medical Board of Australia
+253317,重症护理专家,Intensive Care Specialist,Medical Board of Australia
+253318,神经学家,Neurologist,Medical Board of Australia
+253321,儿科医生,Paediatrician,Medical Board of Australia
+253322,肾内科专家,Renal Medicine Specialist,Medical Board of Australia
+253323,风湿病,Rheumatologist,Medical Board of Australia
+253324,胸腔医学专家,Thoracic Medicine Specialist,Medical Board of Australia
+253399,专科医师NEC,Specialist Physicians nec,Medical Board of Australia
+253411,精神科医生,Psychiatrist,Medical Board of Australia
+253511,外科医生（普通）,Surgeon (General),Medical Board of Australia
+253512,心胸外科医生,Cardiothoracic Surgeon,Medical Board of Australia
+253513,神经外科医生,Neurosurgeon,Medical Board of Australia
+253514,骨科医生,Orthopaedic Surgeon,Medical Board of Australia
+253515,耳鼻喉科,Otorhinolaryngologist,Medical Board of Australia
+253516,儿科医生,Paediatric Surgeon,Medical Board of Australia
+253517,整形外科医生,Plastic and Reconstructive Surgeon,Medical Board of Australia
+253518,泌尿科医师,Urologist,Medical Board of Australia
+253521,血管外科医生,Vascular Surgeon,Medical Board of Australia
+253911,皮肤科医生,Dermatologist,Medical Board of Australia
+253912,急救医学专家,Emergency Medicine Specialist,Medical Board of Australia
+253913,妇产科,Obstetrician and Gynaecologist,Medical Board of Australia
+253914,眼科医生,Ophthalmologist,Medical Board of Australia
+253915,病理学家,Pathologist,Medical Board of Australia
+253917,诊断与介入放射,Diagnostic and Interventional Radiologist,Medical Board of Australia
+253918,放射肿瘤科,Radiation Oncologist,Medical Board of Australia
+253999,执业医师法NEC,Medical Practitioners nec,Medical Board of Australia
+254111,助产士,Midwife,ANMAC
+254411,护士执业,Nurse Practitioner,ANMAC
+254412,注册护士（老年护理）,Registered Nurse (Aged Care),ANMAC
+254413,注册护士（儿童和家庭健康）,Registered Nurse (Child and Family Health),ANMAC
+254414,注册护士（社区卫生）,Registered Nurse (Community Health),ANMAC
+254415,注册护士（重症监护和应急）,Registered Nurse (Critical Care and Emergency),ANMAC
+254416,注册护士（发育障碍）,Registered Nurse (Developmental Disability),ANMAC
+254417,注册护士（残疾和康复）,Registered Nurse (Disability and Rehabilitation),ANMAC
+254418,注册护士（医疗）,Registered Nurse (Medical),ANMAC
+254421,注册护士（医疗实践）,Registered Nurse (Medical Practice),ANMAC
+254422,注册护士（心理健康）,Registered Nurse (Mental Health),ANMAC
+254423,注册护士（围手术期）,Registered Nurse (Perioperative),ANMAC
+254424,注册护士（手术）,Registered Nurse (Surgical),ANMAC
+254425,注册护士（儿科）,Registered Nurse (Paediatrics),ANMAC
+254499,注册护士NEC,Registered Nurses nec,ANMAC
 261111,ICT业务分析师,ICT business Analyst,ACS
 261112,系统分析师,Systems Analyst,ACS
 261311,分析程序员,Analyst Programmer,ACS
 261312,开发程序员,Developer Programmer,ACS
 261313,软件工程师,Software Engineer,ACS
 263111,计算机网络和系统工程师,Computer Network and Systems Engineer,ACS
-263311,电讯工程师,Telecommunications Engineer,Engineers Australia?
-263312,电信网络工程师,Telecommunications Network Engineer,Engineers Australia?
+263311,电讯工程师,Telecommunications Engineer,Engineers Australia
+263312,电信网络工程师,Telecommunications Network Engineer,Engineers Australia
 271111,出庭律师,Barrister,SLAA
 271311,律师,Solicitor,SLAA
 272311,临床心理学家,Clinical Psychologist,APS
@@ -130,21 +130,21 @@ anzsco,cn,en,ass
 272313,组织性心理学家,Organisational Psychologist,APS
 272314,心理治疗师,Psychotherapist,VETASSESS
 272399,心理学家NEC,Psychologists nec,APS
-272511,社会工作者,Social Worker,AASW?
-312211,土木工程制图员,Civil Engineering Draftsperson,Engineers Australia?/?VETASSESS
+272511,社会工作者,Social Worker,AASW
+312211,土木工程制图员,Civil Engineering Draftsperson,Engineers Australia/VETASSESS
 312212,土木工程技术员,Civil Engineering Technician,VETASSESS
-312311,电气工程制图员,Electrical Engineering Draftsperson,Engineers Australia?
+312311,电气工程制图员,Electrical Engineering Draftsperson,Engineers Australia
 312312,电气工程技术员,Electrical Engineering Technician,TRA
 313211,无线电通信技术员,Radio Communications Technician,TRA
-313212,电讯现场工程师,Telecommunications Field Engineer,Engineers Australia?
-313213,电信网络规划,Telecommunications Network Planner,Engineers Australia?
-313214,电信技术人员或技术专家,Telecommunications Technical Officer or Technologist,Engineers Australia?
+313212,电讯现场工程师,Telecommunications Field Engineer,Engineers Australia
+313213,电信网络规划,Telecommunications Network Planner,Engineers Australia
+313214,电信技术人员或技术专家,Telecommunications Technical Officer or Technologist,Engineers Australia
 321111,汽车电工,Automotive Electrician,TRA
 321211,汽车修理工（普通）,Motor Mechanic (General),TRA
 321212,柴油发动机技工,Diesel Motor Mechanic,TRA
 321213,摩托车技工,Motorcycle Mechanic,TRA
 321214,小型发动机机械师,Small Engine Mechanic,TRA
-322211,钣金技工,Sheetmetal Trades Worker,TRA?
+322211,钣金技工,Sheetmetal Trades Worker,TRA
 322311,金属加工,Metal Fabricator,TRA
 322312,压力焊接工,Pressure Welder,TRA
 322313,焊机（甲等）,Welder (First Class),TRA
@@ -153,7 +153,7 @@ anzsco,cn,en,ass
 323213,钳工，焊工,Fitter-Welder,TRA
 323214,金属机械师（甲等）,Metal Machinist (First Class),TRA
 323313,锁匠,Locksmith,TRA
-?324111,车身修理工,?Panelbeater,?TRA
+324111,车身修理工,Panelbeater,TRA
 331111,瓦工,Bricklayer,TRA
 331112,石匠,Stonemason,TRA
 331211,细木工,Carpenter and Joiner,TRA
@@ -179,6 +179,6 @@ anzsco,cn,en,ass
 342314,电子仪器交易员（普通）,Electronic Instrument Trades Worker (General),TRA
 342315,电子仪器交易员（特级）,Electronic Instrument Trades Worker (Special Class),TRA
 351311,厨师,Chef***,TRA
-?394111,细木工,?Cabinetmaker,?TRA
+394111,细木工,Cabinetmaker,TRA
 399111,船的建造和维修,Boat Builder and Repairer,TRA
 399112,造船工,Shipwright,TRA
