@@ -151,14 +151,17 @@ def upateceilling()
 
 end
 
+# ceiling－16-17 用于 SOL ，按邀请发放的申请人数排序
+# 2016-07-06 类用于当前的 post ，不排序，change
+
 # def builddatecsv
 #
 #   db = SQLite3::Database.open "csol.db"
 #
-#   CSV.open("#{DATADIR}#{CURRENTFN}.csv", "w") do |csv|
-#     csv << %w(anzsco4 bbsid nameen namecn ceiling lastresult result change)
+#   CSV.open("#{DATADIR}#{F1617}.csv", "w") do |csv|
+#     csv << %w(anzsco4 bbsid nameen namecn ceiling lastresult result change remain)
 #
-#     crows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, 0 AS lastresult, result, result AS change from ceilings1617 order by result desc")
+#     crows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, 0 AS lastresult, result, result AS change, ceiling - result AS remain from ceilings1617 order by result desc")
 #
 #     crows.each do |row|
 #       csv << row
