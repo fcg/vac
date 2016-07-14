@@ -109,7 +109,7 @@ end
 end
 
 # http://www.border.gov.au/Trav/Work/Skil/6-july-2016-round-results
-parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/8-june-2016-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/8-june-2016-round-results.aspx")
 parse_current("http://www.border.gov.au/Trav/Work/Skil/6-july-2016-round-results")
 
 def parse2016()
