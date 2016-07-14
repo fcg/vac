@@ -83,8 +83,9 @@ categories: gsm
 <th>职业代码</th>
 <th>职业名称</th>
 <th>全年配额</th>
-<th>当前邀请</th>
+<th>已邀请</th>
 <th>新增邀请</th>
+<th>剩余</th>
 </tr>
 {% for c in site.data.sol.#{CURRENTFN} %}
 <tr>
@@ -93,6 +94,7 @@ categories: gsm
 <td> {{ c.ceiling }} </td>
 <td> {{ c.result }} </td>
 <td> {{ c.change }} </td>
+<td> {{ c.ceiling - c.result }} </td>
 </tr>
 {% endfor %}
 </table>
