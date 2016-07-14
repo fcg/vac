@@ -45,7 +45,7 @@ def initdb
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
       db.execute("insert into ceilings1617 (anzsco4, bbsid, nameen, namecn, ceiling, result, change) values (?,?,?,?,?,?,?)",
-        [td1anzsco4,anzbbs[td1anzsco4] , td2nameen, anzcn[td1anzsco4], td3ceiling, td4result, td4result])
+        [td1anzsco4,anzbbs[td1anzsco4.to_i] , td2nameen, anzcn[td1anzsco4.to_i], td3ceiling, td4result, td4result])
 
     end
 
@@ -125,7 +125,7 @@ def upateceilling()
   db = SQLite3::Database.open "csol.db"
 
   CSV.open("#{DATADIR}#{CURRENTFN}.csv", "w") do |csv|
-    csv << %w(anzsco4 bbsid nameen namecn ceiling lastresutl result change)
+    csv << %w(anzsco4 bbsid nameen namecn ceiling lastresult result change)
 
     trs.each do |tr|
 
@@ -151,6 +151,25 @@ def upateceilling()
 
 end
 
-initdb()
+def builddatecsv
+
+  db = SQLite3::Database.open "csol.db"
+
+  CSV.open("#{DATADIR}#{CURRENTFN}.csv", "w") do |csv|
+    csv << %w(anzsco4 bbsid nameen namecn ceiling lastresult result change)
+
+    crows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, 0 AS lastresult, result, result AS change from ceilings1617")
+
+    crows.each do |row|
+      csv << row
+    end
+
+  end
+
+end
+
+builddatecsv()
+
+# upateceilling()
 # updatecsv()
 # postceiling()
