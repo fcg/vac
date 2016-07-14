@@ -71,12 +71,12 @@ def parse_current(filename)
   dt189 = DateTime.strptime(tbs[2].css("td")[2].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
   dt489 = DateTime.strptime(tbs[2].css("td")[5].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
 
-  accountants2211p = tbs[3].css("td")[2].text.strip
-  accountants2211d = DateTime.strptime(tbs[3].css("td")[3].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
-  ict2611p = tbs[3].css("td")[6].text.strip
-  ict2611d = DateTime.strptime(tbs[3].css("td")[7].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
-  soft2613p = tbs[3].css("td")[10].text.strip
-  soft2613d = DateTime.strptime(tbs[3].css("td")[11].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
+  # accountants2211p = tbs[3].css("td")[2].text.strip
+  # accountants2211d = DateTime.strptime(tbs[3].css("td")[3].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
+  # ict2611p = tbs[3].css("td")[6].text.strip
+  # ict2611d = DateTime.strptime(tbs[3].css("td")[7].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
+  # soft2613p = tbs[3].css("td")[10].text.strip
+  # soft2613d = DateTime.strptime(tbs[3].css("td")[11].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
 
   frontstr = <<-FRON
 ---
@@ -96,12 +96,6 @@ FRON
 
 本次邀请中，189 邀请分数 #{dtp189} 分（截止到 #{dt189}），489 邀请分数 #{dtp489}（截止到 #{dt489}）。
 
-三类申请人谁最多的职业中， [2211 会计类职业](http://bbs.fcgvisa.com/t/anzsco-2211-accountants-flyabroad/7058) 邀请分数 #{accountants2211p} 分（截止到 #{accountants2211d}），
-[2611 ICT 职业](http://bbs.fcgvisa.com/t/anzsco-2611-ict-ict-business-and-systems-analysts-flyabroad/7133) 邀请分数 #{ict2611p} 分（截止到 #{ict2611d}），
-[2613 软件开发类职业](http://bbs.fcgvisa.com/t/anzsco-2613-software-and-applications-programmers-flyabroad/7134) 邀请分数 #{soft2613p} 分（截止到 #{soft2613d}）。
-
-详细的说明及分数分布情况见下面说明。
-
 INTR
 
 File.open("#{postdir}#{updated}-Skillselect-Round-Results.md", 'w') do |file|
@@ -114,7 +108,9 @@ end
 
 end
 
+# http://www.border.gov.au/Trav/Work/Skil/6-july-2016-round-results
 parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/8-june-2016-round-results.aspx")
+parse_current("http://www.border.gov.au/Trav/Work/Skil/6-july-2016-round-results")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
