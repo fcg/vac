@@ -13,10 +13,9 @@ categories: gsm
 <tr>
 <th>职业代码</th>
 <th>职业名称</th>
-<th>全年配额</th>
+<th>配额</th>
 <th>已邀请</th>
-<th>新增邀请</th>
-<th>剩余</th>
+<th>新增数</th>
 </tr>
 {% for c in site.data.sol.2016-07-06 %}
 <tr>
@@ -25,7 +24,6 @@ categories: gsm
 <td> {{ c.ceiling }} </td>
 <td> {{ c.result }} </td>
 <td> {{ c.change }} </td>
-<td> {{ c.ceiling - c.result }} </td>
 </tr>
 {% endfor %}
 </table>
