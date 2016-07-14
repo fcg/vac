@@ -78,6 +78,8 @@ categories: gsm
 
 ## #{CURRENTFN} 澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况
 
+其中的新增邀请意思是这次邀请与上次邀请直接的差额，也就是这次又新邀请的人数（当前邀请数 - 上次更新时的邀请数）。
+
 <table border = "1" cellpadding="1" cellspacing="0">
 <tr>
 <th>职业代码</th>
