@@ -151,24 +151,24 @@ def upateceilling()
 
 end
 
-def builddatecsv
-
-  db = SQLite3::Database.open "csol.db"
-
-  CSV.open("#{DATADIR}#{CURRENTFN}.csv", "w") do |csv|
-    csv << %w(anzsco4 bbsid nameen namecn ceiling lastresult result change)
-
-    crows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, 0 AS lastresult, result, result AS change from ceilings1617 order by result desc")
-
-    crows.each do |row|
-      csv << row
-    end
-
-  end
-
-end
-
-builddatecsv()
+# def builddatecsv
+#
+#   db = SQLite3::Database.open "csol.db"
+#
+#   CSV.open("#{DATADIR}#{CURRENTFN}.csv", "w") do |csv|
+#     csv << %w(anzsco4 bbsid nameen namecn ceiling lastresult result change)
+#
+#     crows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, 0 AS lastresult, result, result AS change from ceilings1617 order by result desc")
+#
+#     crows.each do |row|
+#       csv << row
+#     end
+#
+#   end
+#
+# end
+#
+# builddatecsv()
 
 # upateceilling()
 # updatecsv()
