@@ -4,6 +4,7 @@ require 'openssl'
 require 'sqlite3'
 require 'csv'
 require 'net/http'
+require "yaml"
 
 CEILINGS   = "//*[@id='tab-content-3']/table"
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
@@ -31,6 +32,9 @@ def initdb
 
   trs = table.css("tbody>tr")
 
+  anzbbs = YAML.load(File.open("anz4tobbs.yml"))
+  anzcn  = YAML.load(File.open("anz4tocn.yml"))
+
   db = SQLite3::Database.open "csol.db"
 
     trs.each do |tr|
@@ -40,20 +44,10 @@ def initdb
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
-      crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result from ceilings1617 where anzsco4 = ?",td1anzsco4)
-
-      lastresutl = crow[0][5]
-
-      change = td4result - lastresutl
-
-      p "#{td1anzsco4}:#{lastresutl}:#{td4result}:#{change}"
-
-      csv << crow[0].push(td4result).push(change)
-
-      db.execute("update ceilings1617 set result = ? , change = ? where anzsco4 = ?", [td4result, change, td1anzsco4])
+      db.execute("insert into ceilings1617 (anzsco4, bbsid, nameen, namecn, ceiling, result, change) values (?,?,?,?,?,?,?)",
+        [td1anzsco4,anzbbs[td1anzsco4] , td2nameen, anzcn[td1anzsco4], td3ceiling, td4result, td4result])
 
     end
-  end
 
 end
 
@@ -107,11 +101,11 @@ categories: gsm
 
 POST
 
-File.open("#{POSTDIR}#{CURRENTFN}-SOL-Ceillings.md", 'w') do |file|
+  File.open("#{POSTDIR}#{CURRENTFN}-SOL-Ceillings.md", 'w') do |file|
 
-  file.write postctx
+    file.write postctx
 
-end
+  end
 
 end
 
@@ -158,5 +152,5 @@ def upateceilling()
 end
 
 initdb()
-updatecsv()
-postceiling()
+# updatecsv()
+# postceiling()
