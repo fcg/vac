@@ -5,7 +5,7 @@ date:  2015-10-08 16:00:00 +08:00
 categories: gsm
 ---
 
-<p><h3>2015.10.08 最新澳大利亚昆士兰州担保（190、489）职业清单QSOL。</b>- FLYabroad</h3></p>
+<p><h3>2015.10.08 最新澳大利亚昆士兰州担保（190、489）职业清单QSOL - FLYabroad</h3></p>
 <p>
 <table border='1' cellpadding='0' cellspacing='0'>
 <tr><th width="10%">ANZSCO代码 - FLYabroad </th><th width="20%">职业名称 - 飞出国</th><th width="20%">职业英文名称Occupation - FLYabroad</th><th width="25%">489地区担保 - FLYabroad</th><th>190州担保 - FLYabroad</th></tr>
