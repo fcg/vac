@@ -9,7 +9,11 @@ categories: gsm
 
 2016-07-22 昆士兰州更新了州担保清单，该清单将在 2016-07-25 周一，生效。
 
-飞出国：下表里 Y 代表担保，X 代表不担保。注释编号代表下面对应的注册或其他额外要求。
+飞出国：下表里 Y 代表担保，X 代表不担保。
+
+表格里的三年或五年工作经验代表的是毕业后的三年或五年提名职业相关工作经验。
+
+清单里注释编号代表下面对应的注册或其他额外要求。
 
 - #1： Engineers - Applicants must have registration with the Board of Professional Engineers Queensland (BPEQ) unless already working under the supervision of a BPEQ registered engineer.		
 - #2： Specialist teachers in the subjects of Maths, Physics, Chemistry, Senior English, and Industrial Technology, Design (Manual Arts) and LOTE only.		
