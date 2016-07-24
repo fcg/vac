@@ -29,9 +29,26 @@ categories: gsm
 {% endfor %}
 </table>
 
-### ICT 类计算机相关职业悉数开放
+### 不在 2016 年昆州担保清单里的 ICT 职业列表
 
-引入注目的是，261 和 263 开头的 ICT 类职业几乎都在其中，ICT 职业的春天是不是又一次到来了？飞出国就这次 QLD 担保清单变化对技术移民申请人的影响给您做一下简单分析说明。
+- 135111 首席信息官 （CIO）Chief Information Officer
+- 135112 信息和通信技术项目经理/ICT Project Manager
+- 135199 信息和通信技术经理NEC/ICT Managers nec
+- 261211 多媒体专家/Multimedia Specialist
+- 262111 数据库管理员/Database Administrator
+- 262112 信息和通信技术安全专家/ICT Security Specialist
+- 262113 系统管理员/Systems Administrator
+- 263111 计算机网络和系统工程师/Computer Network and Systems Engineer
+- 263112 网络管理员/Network Administrator
+- 263113 网络分析师/Network Analyst
+
+### 昆州大量开放 ICT 类计算机相关职业
+
+昆州近些年一直不担保计算机职业，现在要搞信息化？引入注目的是， ICT 职业的春天是不是又一次到来了？
+
+飞出国就这次 QLD 担保清单变化对技术移民申请人的影响给您做一下简单分析说明。
+
+QLD 2016 清单里 261 和 2632 和 3131 开头的 ICT 类职业大部分都在其中，除了 135 ICT 经理，2612 多媒体专家，262 数据库，信息安全和 263 计算机系统和网络等 10 个职业外，担保其他 14 个 ACS 职业，及多个 TRA 评估的 ICT 职业，见飞出国上面整理的表格。
 
 根据澳洲计算机协会分析报告，到 2020 年，澳洲还需要大量 ICT 职业从业人员。
 
