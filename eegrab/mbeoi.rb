@@ -41,7 +41,7 @@ db.results_as_hash = true
 
   # d = YAML::load_file("#{mbeoidir}/#{ymlname}") #Load
   # d['content'] = 2 #Modify
-  File.open("#{mbeoidir}/#{ymlname}", 'w+') {|f| f.write sums[0].to_yaml }
+  File.open("#{mbeoidir}/#{2016/7/30}", 'w+') {|f| f.write sums[0].to_yaml }
 
   CSV.open("#{mbeoidir}/#{csvname}","w") do |csv|
 
@@ -64,9 +64,11 @@ def parse_new()
   doc = get_doc(TURL)
   h2s = doc.css("h2")
 
-  no,date = h2s.first.text.strip.split("#")[1].split("–")
+  num,no = h2s.first.text.strip.split("#")[1].split("–")
 
-  no = no.strip
+  date = h2s[1].text.strip
+
+  num = num.strip
 
   updated = Date.parse(date.strip).strftime("%Y-%m-%d")
 
@@ -81,7 +83,7 @@ def parse_new()
 
 end
 
-parse_new()
+# parse_new()
 post()
 
 def parse_archive()
