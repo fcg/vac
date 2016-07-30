@@ -10,7 +10,7 @@ CEILINGS   = "//*[@id='tab-content-3']/table"
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
 TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
 
-CURRENTFN = "2016-07-06"  # 每次有新更新先修改这里
+CURRENTFN = "2016-07-20"  # 每次有新更新先修改这里
 
 F1617 = "ceilling-16-17"
 
@@ -175,6 +175,6 @@ end
 #
 # builddatecsv()
 
-# upateceilling()
-# updatecsv()
-# postceiling()
+upateceilling()
+updatecsv()
+postceiling()
