@@ -5,68 +5,158 @@ require 'sqlite3'
 require 'csv'
 require 'net/http'
 
-CEILINGS   = "//*[@id='tab-content-3']/table"
-CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
-TURL = "http://www.border.gov.au/Trav/Work/Skil"
+CEILINGS   = "//*[@id='tab-content-3']/table".freeze
+CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
+TURL = "http:/ / www.border.gov.au / Trav / Work / Skil\n".freeze
 
-F1617 = "zdb-06" # 每次修改这里
+### 注意，每次修改这里为当前发布数据月份的最后一天
+F1617 = '2016-07-31'.freeze
+MONTH = '2016-07'.freeze # 每次修改这里
 
-DATADIR = "../_data/zdb/"
+T190CSV = '190-1617'.freeze
 
-POSTDIR = "../_posts/"
+ZDBTOTAL = 'zdb-total-1617'.freeze
 
-=begin
-	190 一个表，每次邀请周期一个csv，同时更新数据库，csv 计算并记录两次之间的新增邀请。对应 post。
-	全部类别一个csv，记录每次情况，对应 post 。
-=end
+DATADIR = '../_data/zdb/'.freeze
 
-THEAD=<<-TH
+POSTDIR = '../_posts/'.freeze
 
-<table border = "1" cellpadding="2" cellspacing="0"><tbody>
+# 	190 一个表，每次邀请周期一个csv，同时更新数据库，csv 计算并记录两次之间的新增邀请。对应 post。
+# 	全部类别一个csv，记录每次情况，对应 post 。
+
+T190 = <<-TH.freeze
+
+### 飞出国 2016-2017 年度各州 190 州担保数据记录
+
+下面数据只针对 2016-2017 年度澳洲 190 州担保各州担保数据。
+
+<table border = "1" cellpadding="1" cellspacing="0">
 <tr>
-<th><a href="../anzsco">ANZSCO</a></th>
-<th><a href="../sol">SOL</a>职业名称 - FLYabroad</th>
-<th>配额计划</th>
-<th>已使用配额</th>
+<th>月份</th>
+<th>堪培拉</th>
+<th>新州</th>
+<th>北领地</th>
+<th>昆州</th>
+<th>南澳</th>
+<th>塔州</th>
+<th>维州</th>
+<th>西澳</th>
+<th>总计</th>
 </tr>
+{% for zdb in site.data.zdb.190-1617 %}
+<tr>
+<td> {{ zdb.updated }} </td>
+<td> {{ zdb.ACT }} </td>
+<td> {{ zdb.NSW }} </td>
+<td> {{ zdb.NT }} </td>
+<td> {{ zdb.Qld }} </td>
+<td> {{ zdb.SA }} </td>
+<td> {{ zdb.Tas }} </td>
+<td> {{ zdb.Vic }} </td>
+<td> {{ zdb.WA }} </td>
+<td> {{ zdb.Total }} </td>
+</tr>
+{% endfor %}
+</table>
 TH
+
+TMONTH = <<-TBODY.freeze
+<table border = "1" cellpadding="1" cellspacing="0">
+  <tr>
+    <th>类别</th>
+    <th>堪培拉</th>
+    <th>新州</th>
+    <th>北领地</th>
+    <th>昆州</th>
+    <th>南澳</th>
+    <th>塔州</th>
+    <th>维州</th>
+    <th>西澳</th>
+    <th>总计</th>
+  </tr>
+{% for zdb in site.data.zdb.#{F1617} %}
+<tr>
+<td> {{ zdb.Class }} </td>
+<td> {{ zdb.ACT }} </td>
+<td> {{ zdb.NSW }} </td>
+<td> {{ zdb.NT }} </td>
+<td> {{ zdb.Qld }} </td>
+<td> {{ zdb.SA }} </td>
+<td> {{ zdb.Tas }} </td>
+<td> {{ zdb.Vic }} </td>
+<td> {{ zdb.WA }} </td>
+<td> {{ zdb.Total }} </td>
+</tr>
+{% endfor %}
+</table>
+TBODY
+
+FRONTSTR = <<-YAML.freeze
+---
+layout: post
+title:  "#{MONTH} 澳洲州担保邀请数据"
+date:   #{F1617} 23:56:00  +0800
+categories: gsm
+---
+
+飞出国澳洲 SkillSelect 2016-2017 年度州担保邀请数据统计。
+
+## #{MONTH} 澳洲州担保邀请数据
+
+YAML
+
+# Skilled – Nominated (subclass 190) visa
+# Skilled – Regional (Provisional) (subclass 489) visa
+# Business Innovation and Investment (subclass 188) visa
+# Business Talent (Permanent) (subclass 132) visa
+# Total
+
+CLASSARRAY = [190, 489, 188, 132, 'Total'].freeze
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
-def download_skillselect()
-
-	open('skillselect.html', 'wb') do |file|
-	  puts "download skillselect html"
-	  file << open(TURL, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
-	end
-
+def download_skillselect
+  open('skillselect.html', 'wb') do |file|
+    puts 'download skillselect html'
+    file << open(TURL, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE).read
+  end
 end
 
 def get_doc(url)
-
-	ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
-	charset = 'utf-8'
+  ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
+  charset = 'utf-8'
 
   # html = open("vic-graduates.html")
-	html = open(url, 'User-Agent' => ua)
-	doc = Nokogiri::HTML::parse(html, nil, charset)
+  html = open(url, 'User-Agent' => ua)
+  doc = Nokogiri::HTML.parse(html, nil, charset)
 end
 
-def post()
+def open_doc
+  html = open('skillselect.html')
+  charset = 'utf-8'
 
-# 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
+  doc = Nokogiri::HTML.parse(html, nil, charset)
+end
 
+def post
+  # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
+	File.open("#{postdir}#{F1617}-State-Territory-nominations.md", 'w') do |file|
+
+		content = FRONTSTR + TMONTH + T190
+
+		file.write content
+
+	end
 end
 
 # buildceilinghtml()
 
-def create190table()
+def create190table
+  # ACT NSW	NT	Qld	SA	Tas.	Vic.	WA	Total
+  db = SQLite3::Database.open 'csol.db'
 
-	# ACT NSW	NT	Qld	SA	Tas.	Vic.	WA	Total
-  db = SQLite3::Database.open "csol.db"
-
-    # Create a table
-    rows = db.execute <<-SQL
+  # Create a table
+  rows = db.execute <<-SQL
       create table eoi190 (
       Id INTEGER PRIMARY KEY AUTOINCREMENT,
       ACT INTERGER DEFAULT NULL,
@@ -74,89 +164,113 @@ def create190table()
       NT INTERGER DEFAULT NULL,
 			Qld INTERGER DEFAULT NULL,
 			SA  INTERGER DEFAULT NULL,
-			Tas	 INTERGER DEFAULT NULL,
-			Vic	  INTERGER DEFAULT NULL,
+			Tas	INTERGER DEFAULT NULL,
+			Vic	INTERGER DEFAULT NULL,
 			WA INTERGER DEFAULT NULL,
 			Total INTERGER DEFAULT NULL,
 			updated TEXT DEFAULT NULL
       );
     SQL
 
-    db.close
-
+  db.close
 end
 
-def get_and_save()
+def save_month
+  db = SQLite3::Database.open 'csol.db'
 
-	db = SQLite3::Database.open "csol.db"
+  table = getMonthTable
 
-	html = open("skillselect.html")
-  charset = 'utf-8'
+  trs = table.css('tbody>tr')
 
-  doc = Nokogiri::HTML::parse(html, nil, charset)
+  _190tds = trs[0].css('td')
 
-	table = getTable()
+  eoi190 = []
 
-  trs = table.css("tbody>tr")
+  _190tds.each_with_index do |td, index|
+    eoi190.push getTdText(td).strip.delete(',').to_i if index > 0
+  end
 
-	_190tds = trs[0].css("td")
+  eoi190.push F1617
+  db.execute('insert into eoi190 (ACT, NSW, NT, Qld, SA, Tas, Vic, WA, Total, updated) VALUES (?,?,?,?,?,?,?,?,?,?)', eoi190)
 
-	eoi190 = Array.new
+	# 具体月份 web
+  CSV.open("#{DATADIR}#{F1617}.csv", 'w') do |csv|
+    csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
 
-	_190tds.each_with_index do  |td, index|
+    trs.each_with_index do |tr, rindex|
+      subclass = []
+      tds = tr.css('td')
 
-		eoi190.push getTdText(td).strip.gsub(",","").to_i if index > 0
+      tds.each_with_index do |td, dindex|
+        subclass.push CLASSARRAY[rindex] if dindex.zero?
+        subclass.push getTdText(td).strip.delete(',').to_i if dindex > 0
+      end
+
+      csv << subclass
+    end
+  end
+
+	# 190-1617 db
+
+	rows = db.execute("select * from eoi190")
+
+	CSV.open("#{DATADIR}#{F1617}.csv", 'w') do |csv|
+		csv << %w(ACT NSW NT Qld SA Tas Vic WA Total updated)
+
+		rows.each do |row|
+				csv << row
+		end
+
+		sum = db.execute("select 汇总, SUM(ACT),SUM(NSW),SUM(NT),SUM(Qld),SUM(SA),SUM(Tas),SUM(),SUM(Vic),SUM(WA),SUM(Total),飞出国 from eoi190").first
+
+		csv << sum
 	end
+end
 
-	eoi190.push "2016-07-31"
-	db.execute("insert into eoi190 (ACT, NSW, NT, Qld, SA, Tas, Vic, WA, Total, updated) VALUES (?,?,?,?,?,?,?,?,?,?)",eoi190)
+def save_total
+  table = getTotalTable
 
-	# Skilled – Nominated (subclass 190) visa
-	# Skilled – Regional (Provisional) (subclass 489) visa
-	# Business Innovation and Investment (subclass 188) visa
-	# Business Talent (Permanent) (subclass 132) visa
-	# Total
+  trs = table.css('tbody>tr')
 
-		classArray = [190,489,188,132,'Total']
+  CSV.open("#{DATADIR}#{ZDBTOTAL}.csv", 'w') do |csv|
+    csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
 
-	CSV.open("#{DATADIR}#{F1617}.csv", "w") do |csv|
-		csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
+    trs.each_with_index do |tr, rindex|
+      next if rindex.zero?
+      subs = []
+      tds = tr.css('td')
 
-	  trs.each_with_index do |tr, rindex|
-			subclass = Array.new
-			tds = tr.css("td")
-
-			tds.each_with_index do  |td, dindex|
-				subclass.push classArray[rindex] if dindex == 0
-				subclass.push getTdText(td).strip.gsub(",","").to_i if dindex > 0
-			end
-
-			csv << subclass
-	  end
-	end
-
+      tds.each_with_index do |td, dindex|
+        subs.push CLASSARRAY[rindex - 1] if dindex.zero?
+        subs.push getTdText(td).strip.delete(',').to_i if dindex > 0
+      end
+      p subs
+      csv << subs
+    end
+  end
 end
 
 def getTdText(td)
+  div = td.at_css('div')
 
-	div =  td.at_css("div")
-
-	text = div.nil? ? td.text.strip : div.text.strip
-
+  text = div.nil? ? td.text.strip : div.text.strip
 end
 
-def getTable()
+def getMonthTable
+  doc = open_doc
 
-	doc = get_doc(TURL)
-
-	table = doc.css(".table-100.small").first
-
-	# puts table
-
+  table = doc.css('.table-100.small').first
 end
 
-# getTable()
+def getTotalTable
+  doc = open_doc
+
+  table = doc.css('.table-100.small')[1]
+end
+
+save_total
+# getTotalTable()
 # create190table()
 # download_skillselect()
-get_and_save()
+# get_and_save
 # get_and_save()
