@@ -6,155 +6,160 @@ require 'Nokogiri'
 require 'open-uri'
 require 'haml'
 require 'reverse_markdown'
-require "sqlite3"
-require "csv"
-require "yaml"
+require 'sqlite3'
+require 'csv'
+require 'yaml'
 require 'date'
 require 'openssl'
-require 'kristin'
+# require 'kristin'
 
-TURL = 'http://formshelp.immigration.govt.nz/SkilledMigrant/ExpressionOfInterest/historyofselectionpoints/eoi2016.htm'
+# https://www.idrsolutions.com/online-pdf-to-html5-converter/
+
+TURL = 'http://formshelp.immigration.govt.nz/SkilledMigrant/ExpressionOfInterest/historyofselectionpoints/eoi2016.htm'.freeze
 
 # 413 316 已经完成，下载最新的，通过在线方式转为htm，放到 2016 目录下，parse
+# http://www.pdfonline.com/convert-pdf-to-html/
 
 def get_doc(url)
-
-	ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
-	charset = 'utf-8'
-	error = nil;
+  ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
+  charset = 'utf-8'
+  error = nil
   # html = open("vic-graduates.html")
-	html = open(url, 'User-Agent' => ua)
-	doc = Nokogiri::HTML::parse(html, nil, charset)
+  html = open(url, 'User-Agent' => ua)
+  doc = Nokogiri::HTML.parse(html, nil, charset)
 end
 
-def download_doc(url,name)
-
-	open("2016/#{name}", 'wb') do |file|
-	  puts "download #{name}"
-	  file << open(url, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
-	end
-
+def download_doc(url, name)
+  open("2016/#{name}", 'wb') do |file|
+    puts "download #{name}"
+    file << open(url, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE).read
+  end
 end
 
 def parse_html(file)
+  puts file
 
-	puts file
-
-	db = SQLite3::Database.open "nzeoi.db"
+  db = SQLite3::Database.open 'nzeoi.db'
 
   html = open(file)
   charset = 'utf-8'
 
-  doc = Nokogiri::HTML::parse(html, nil, charset)
+  doc = Nokogiri::HTML.parse(html, nil, charset)
 
-  # datedby = doc.css(".p1.ft1").text.split(" - ").last.strip
+  begin
 
-begin
+    datedby = doc.css('.ft3')[0].text.delete('.').strip
 
-  datedby = doc.css(".ft3")[0].text.gsub(".","").strip
+    updated = DateTime.parse(datedby).strftime('%Y-%m-%d')
 
-	updated = DateTime.parse(datedby).strftime("%Y-%m-%d")
+    highpointseois = doc.css('.ft6').text.strip
+    # highpoints = doc.css(".ft2")[1].text.strip
+    lowpointseois = doc.css('.ft8').text.strip
+    lowpoints = doc.css('.ft3')[1].text.strip
+    highpoints = doc.css('.ft3')[2].text.strip
 
-  highpointseois = doc.css(".ft6").text.strip
-  # highpoints = doc.css(".ft2")[1].text.strip
-  lowpointseois = doc.css(".ft8").text.strip
-  lowpoints = doc.css(".ft3")[1].text.strip
-  highpoints = doc.css(".ft3")[2].text.strip
+    totaleois = doc.css('.ft3')[3].text.strip
+    totalpeople = doc.css('.ft3')[4].text.strip
 
-  totaleois = doc.css(".ft3")[3].text.strip
-  totalpeople = doc.css(".ft3")[4].text.strip
+    eoisinpool = pools = doc.css('.p7.ft3').text.gsub('There are ', '').gsub('EOIs in the pool after the selection.', '').delete(',').strip
 
-  eoisinpool = doc.css(".p7.ft3").text.gsub("There are ","").gsub("EOIs in the pool after the selection.","").gsub(",","").strip
+    eoisinpool = doc.css('.p7.ft7').text.gsub('There are ', '').gsub('EOIs in the pool after the selection.', '').delete(',').strip if pools.empty?
 
-  puts "#{datedby}-#{highpointseois}-#{highpoints}-#{lowpointseois}-#{lowpoints}-#{totaleois}-#{totalpeople}-#{eoisinpool}"
+    puts "#{datedby}-#{highpointseois}-#{highpoints}-#{lowpointseois}-#{lowpoints}-#{totaleois}-#{totalpeople}-#{eoisinpool}"
 
-rescue Exception => e
+  rescue Exception => e
 
-	p e
+    p e
 
-	datedby = doc.css(".ft2")[1].text.gsub(".","").strip
+    datedby = doc.css('.ft2')[1].text.delete('.').strip
 
-	updated = DateTime.parse(datedby).strftime("%Y-%m-%d")
+    updated = DateTime.parse(datedby).strftime('%Y-%m-%d')
 
-	highpointseois = doc.css(".ft5").text.strip
-	# highpoints = doc.css(".ft2")[1].text.strip
-	lowpointseois = doc.css(".ft6").text.strip
-	lowpoints = doc.css(".ft7")[0].text.strip
-	highpoints = doc.css(".ft7")[1].text.strip
+    highpointseois = doc.css('.ft5').text.strip
+    # highpoints = doc.css(".ft2")[1].text.strip
+    lowpointseois = doc.css('.ft6').text.strip
+    lowpoints = doc.css('.ft7')[0].text.strip
+    highpoints = doc.css('.ft7')[1].text.strip
 
-	totaleois = doc.css(".ft7")[2].text.strip
-	totalpeople = doc.css(".ft7")[3].text.strip
+    totaleois = doc.css('.ft7')[2].text.strip
+    totalpeople = doc.css('.ft7')[3].text.strip
 
-	eoisinpool = doc.css(".p7.ft3").text.gsub("There are ","").gsub("EOIs in the pool after the selection.","").gsub(",","").strip
+    eoisinpool = pools = doc.css('.p7.ft3').text.gsub('There are ', '').gsub('EOIs in the pool after the selection.', '').delete(',').strip
 
-	puts "#{datedby}-#{highpointseois}-#{highpoints}-#{lowpointseois}-#{lowpoints}-#{totaleois}-#{totalpeople}-#{eoisinpool}"
+    eoisinpool = doc.css('.p7.ft7').text.gsub('There are ', '').gsub('EOIs in the pool after the selection.', '').delete(',').strip if pools.empty?
 
-end
+    puts "#{datedby}-#{highpointseois}-#{highpoints}-#{lowpointseois}-#{lowpoints}-#{totaleois}-#{totalpeople}-#{eoisinpool}"
 
-  trs = doc.css("table")[0].css("tr")
+  end
 
-	# job, nojob, total 2-3-4
-  points140off = trs[4].css("p")[4].inner_text.strip
-	points140offnojob = trs[4].css("p")[3].inner_text.strip
-	points140offjob = trs[4].css("p")[2].inner_text.strip
-  points140on = trs[6].css("p")[4].inner_text.strip
-	points140onnojob = trs[6].css("p")[3].inner_text.strip
-	points140onjob = trs[6].css("p")[2].inner_text.strip
-  p140subtotal = trs[8].css("p")[4].inner_text.strip
-begin
-		p140subtotal = trs[8].css("p")[5].inner_text.strip
-	rescue
-		puts "p140subtotal is #{p140subtotal}"
-	end
+  p doc.inner_text
 
-	end
+  table1 = doc.css('tr')
 
-	p140subtotalnojob = trs[8].css("p")[3].inner_text.strip
-	p140subtotaljob = trs[8].css("p")[2].inner_text.strip
-  p100_140joboff = trs[9].css("p")[4].inner_text.strip
-	p100_140joboffnojob = trs[9].css("p")[3].inner_text.strip
-  p100_140joboffjob = trs[9].css("p")[2].inner_text.strip
+  trs = table1
 
-begin
-	p100_140jobon = trs[12].css("p")[4].inner_text.strip
-	p100_140jobonnojob = trs[12].css("p")[3].inner_text.strip
-	p100_140jobonjob = trs[12].css("p")[2].inner_text.strip
-  p100subtotal = trs[14].css("p")[4].inner_text.strip
-	p100subtotalnojob = trs[14].css("p")[3].inner_text.strip
-	p100subtotaljob = trs[14].css("p")[2].inner_text.strip
-	##
-	puts points140off+points140offjob+points140offnojob
-	puts p100subtotal
+  p   trs
 
-	puts trs.size
+  # job, nojob, total 2-3-4
+  points140off = trs[4].css('p')[4].inner_text.strip
+  points140offnojob = trs[4].css('p')[3].inner_text.strip
+  points140offjob = trs[4].css('p')[2].inner_text.strip
+  points140on = trs[6].css('p')[4].inner_text.strip
+  points140onnojob = trs[6].css('p')[3].inner_text.strip
+  points140onjob = trs[6].css('p')[2].inner_text.strip
+  p140subtotal = trs[8].css('p')[4].inner_text.strip
+  begin
+     p140subtotal = trs[8].css('p')[5].inner_text.strip
+   rescue
+     puts "p140subtotal is #{p140subtotal}"
+   end
 
-  total = trs[15].css("p")[4].inner_text.strip ##
-	totalnojob = trs[15].css("p")[3].inner_text.strip
-	totaljob = trs[15].css("p")[2].inner_text.strip
+  p140subtotalnojob = trs[8].css('p')[3].inner_text.strip
+  p140subtotaljob = trs[8].css('p')[2].inner_text.strip
+  p100_140joboff = trs[9].css('p')[4].inner_text.strip
+  p100_140joboffnojob = trs[9].css('p')[3].inner_text.strip
+  p100_140joboffjob = trs[9].css('p')[2].inner_text.strip
 
-rescue Exception => e
-	puts e
+  begin
+    p100_140jobon = trs[12].css('p')[4].inner_text.strip
+    p100_140jobonnojob = trs[12].css('p')[3].inner_text.strip
+    p100_140jobonjob = trs[12].css('p')[2].inner_text.strip
+    p100subtotal = trs[14].css('p')[4].inner_text.strip
+    p100subtotalnojob = trs[14].css('p')[3].inner_text.strip
+    p100subtotaljob = trs[14].css('p')[2].inner_text.strip
+    ##
+    puts points140off + points140offjob + points140offnojob
+    puts p100subtotal
 
-	p100_140jobon = trs[11].css("p")[4].inner_text.strip
-	p100_140jobonnojob = trs[11].css("p")[3].inner_text.strip
-	p100_140jobonjob = trs[11].css("p")[2].inner_text.strip
-	p100subtotal = trs[13].css("p")[4].inner_text.strip
-	p100subtotalnojob = trs[13].css("p")[3].inner_text.strip
-	p100subtotaljob = trs[13].css("p")[2].inner_text.strip
-	##
-	puts points140off+points140offjob+points140offnojob
-	puts p100subtotal
+    puts trs.size
 
-	puts trs.size
+    total = trs[15].css('p')[4].inner_text.strip ##
+    totalnojob = trs[15].css('p')[3].inner_text.strip
+    totaljob = trs[15].css('p')[2].inner_text.strip
 
-	total = trs[14].css("p")[4].inner_text.strip ##
-	totalnojob = trs[14].css("p")[3].inner_text.strip
-	totaljob = trs[14].css("p")[2].inner_text.strip
-end
+  rescue Exception => e
+    puts e
 
-	# http://bbs.fcgvisa.com/t/2016-eoi/8622
+    p100_140jobon = trs[11].css('p')[4].inner_text.strip
+    p100_140jobonnojob = trs[11].css('p')[3].inner_text.strip
+    p100_140jobonjob = trs[11].css('p')[2].inner_text.strip
+    p100subtotal = trs[13].css('p')[4].inner_text.strip
+    p100subtotalnojob = trs[13].css('p')[3].inner_text.strip
+    p100subtotaljob = trs[13].css('p')[2].inner_text.strip
+    ##
+    puts points140off + points140offjob + points140offnojob
+    puts p100subtotal
 
-	insert_sql =<<-INSERT
+    puts trs.size
+
+    total = trs[14].css('p')[4].inner_text.strip ##
+    totalnojob = trs[14].css('p')[3].inner_text.strip
+    totaljob = trs[14].css('p')[2].inner_text.strip
+  end
+
+  # http://bbs.fcgvisa.com/t/2016-eoi/8622
+
+  insert_sql = <<-INSERT
 	insert into nzeoi (
 		points140offjob,
 		points140offnojob,
@@ -183,53 +188,53 @@ end
 
 	INSERT
 
-	# db.execute(insert_sql,[points140offjob,
-	# 		points140offnojob,
-	# 		points140off,
-	# 		points140onjob,
-	# 		points140onnojob,
-	# 		points140on,
-	# 		p140subtotaljob,
-	# 		p140subtotalnojob,
-	# 		p140subtotal,
-	# 		p100_140joboffjob,
-	# 		p100_140joboffnojob,
-	# 		p100_140joboff,
-	# 		p100_140jobonjob,
-	# 		p100_140jobonnojob,
-	# 		p100_140jobon,
-	# 		p100subtotaljob,
-	# 		p100subtotalnojob,
-	# 		p100subtotal,
-	# 		totaljob,
-	# 		totalnojob,
-	# 		total,
-	# 		updated])
+  # db.execute(insert_sql,[points140offjob,
+  # 		points140offnojob,
+  # 		points140off,
+  # 		points140onjob,
+  # 		points140onnojob,
+  # 		points140on,
+  # 		p140subtotaljob,
+  # 		p140subtotalnojob,
+  # 		p140subtotal,
+  # 		p100_140joboffjob,
+  # 		p100_140joboffnojob,
+  # 		p100_140joboff,
+  # 		p100_140jobonjob,
+  # 		p100_140jobonnojob,
+  # 		p100_140jobon,
+  # 		p100subtotaljob,
+  # 		p100subtotalnojob,
+  # 		p100subtotal,
+  # 		totaljob,
+  # 		totalnojob,
+  # 		total,
+  # 		updated])
 
-	td1s = doc.css(".p10.ft5")
+  td1s = doc.css('.p10.ft5')
 
-	td2s = doc.css(".p25.ft5")
+  td2s = doc.css('.p25.ft5')
 
-	trans = YAML.load(File.open("ctytrans.yml"))
+  trans = YAML.load(File.open('ctytrans.yml'))
 
-	countrylist = ""
+  countrylist = ''
 
-	toparr = Array.new
-	topparr = Array.new
+  toparr = []
+  topparr = []
 
-	(0...td1s.size).each do |i|
-		country = td1s[i].text.strip # + td2s[i].text
+  (0...td1s.size).each do |i|
+    country = td1s[i].text.strip # + td2s[i].text
 
-		country = trans[country] unless (trans[country].nil? || trans[country].empty?)
-		percent = td2s[i].text
+    country = trans[country] unless trans[country].nil? || trans[country].empty?
+    percent = td2s[i].text
 
-		toparr.push country
-		topparr.push percent
+    toparr.push country
+    topparr.push percent
 
-		countrylist = countrylist + "<tr><td>#{country}</td><td>#{percent}</td></tr>"
-	end
+    countrylist += "<tr><td>#{country}</td><td>#{percent}</td></tr>"
+  end
 
-	template =<<-TMP
+  template = <<-TMP
 ---
 layout: post
 title:  "#{updated} 新西兰技术移民 SMC EOI 捞取结果"
@@ -340,7 +345,7 @@ categories: smc
 
 TMP
 
-countrytable = <<-CTB
+  countrytable = <<-CTB
 <table>
 <tr>
 <td>Nationality</td>
@@ -357,69 +362,59 @@ countrytable = <<-CTB
 
 CTB
 
-filename = "#{updated}-SMC-EOI-selection.md"
+  filename = "#{updated}-SMC-EOI-selection.md"
 
-File.open(filename, 'w') do |file|
+  File.open(filename, 'w') do |file|
+    # {postdir}
 
-	#{postdir}
+    content = template + countrytable
 
-	content = template + countrytable
-
-	file.write content
-
+    file.write content
+  end
 end
 
-end
+def p2016tohtml
+  Dir['*.htm'].each do |f|
+    # of = f.gsub('.pdf', '.htm')
+    #
+    # Kristin.convert(f, of)
+    # 不成功，用 http://www.htmlpublish.com/ 处理
 
-def p2016tohtml()
-
-	Dir["*.htm"].each do |f|
-		of = f.gsub(".pdf",".htm")
-
-		# Kristin.convert(f, of)
-		# 不成功，用 http://www.htmlpublish.com/ 处理
-
-		parse_html(f)
-	end
-
+    parse_html(f)
+  end
 end
 
 # parse_html("2016/FactSheet20160316.htm")
 
-def download_last()
-
+def download_last
   doc = get_doc(TURL)
   uri = URI(TURL)
-  allhref = doc.css("a")
+  allhref = doc.css('a')
 
   allhref.each do |ahref|
+    h = ahref.attr('href').to_s
+    next if h.start_with?('#')
+    next if h.start_with?('javascript')
+    next if h.empty?
 
-h = ahref.attr("href").to_s
-next if h.start_with?("#")
-next if h.start_with?("javascript")
-next if h.empty?
+    currenturlpath = h.delete("\u00A0").strip
 
-currenturlpath = h.gsub("\u00A0","").strip
+    currenturl = "#{uri.scheme}://#{uri.host}#{currenturlpath}"
 
-currenturl = "#{uri.scheme}://#{uri.host}#{currenturlpath}"
+    fname = currenturlpath.split('/').last.to_s
 
-fname = "#{currenturlpath.split('/').last}"
+    p currenturl
 
-p currenturl
+    download_doc(currenturl, fname)
 
-download_doc(currenturl,fname)
-
-break
-
+    break
   end
-
 end
 
-def createnzeoi()
+def createnzeoi
+  db = SQLite3::Database.open 'nzeoi.db'
 
-	db = SQLite3::Database.open "nzeoi.db"
-
-	rows = db.execute <<-SQL
+  rows = db.execute <<-SQL
 		create table nzeoi (
 			Id INTEGER PRIMARY KEY AUTOINCREMENT,
 			points140offjob INTEGER DEFAULT NULL,
@@ -448,12 +443,11 @@ def createnzeoi()
 		);
 	SQL
 
-	db.close
-
+  db.close
 end
 
 # createnzeoi()
 # 330 203 106
 
-download_last()
-# p2016tohtml()
+download_last
+# p2016tohtml
