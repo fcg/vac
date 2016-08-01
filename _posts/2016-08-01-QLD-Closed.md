@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 雅思6分移民昆州不是梦，只是有些短
+title: 雅思6分移民昆州不是梦，只是梦太短
 date:  2016-08-01 13:00:00
 categories: gsm
 ---
