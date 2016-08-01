@@ -96,28 +96,28 @@ def parse_html(_dir)
 
 	INSERT
 
-  # db.execute(insert_sql,[points140offjob,
-  # 		points140offnojob,
-  # 		points140off,
-  # 		points140onjob,
-  # 		points140onnojob,
-  # 		points140on,
-  # 		p140subtotaljob,
-  # 		p140subtotalnojob,
-  # 		p140subtotal,
-  # 		p100_140joboffjob,
-  # 		p100_140joboffnojob,
-  # 		p100_140joboff,
-  # 		p100_140jobonjob,
-  # 		p100_140jobonnojob,
-  # 		p100_140jobon,
-  # 		p100subtotaljob,
-  # 		p100subtotalnojob,
-  # 		p100subtotal,
-  # 		totaljob,
-  # 		totalnojob,
-  # 		total,
-  # 		updated])
+  db.execute(insert_sql, [points140offjob,
+                          points140offnojob,
+                          points140off,
+                          points140onjob,
+                          points140onnojob,
+                          points140on,
+                          p140subtotaljob,
+                          p140subtotalnojob,
+                          p140subtotal,
+                          p100_140joboffjob,
+                          p100_140joboffnojob,
+                          p100_140joboff,
+                          p100_140jobonjob,
+                          p100_140jobonnojob,
+                          p100_140jobon,
+                          p100subtotaljob,
+                          p100subtotalnojob,
+                          p100subtotal,
+                          totaljob,
+                          totalnojob,
+                          total,
+                          updated])
 
   html2 = open("#{_dir}/2.html")
 
@@ -319,5 +319,9 @@ def parseSheet(_dir)
   parse_html(_dir)
 end
 
-# parseSheet('FactSheet20160706')
-# parseSheet("FactSheet20160720")
+parseSheet('FactSheet20160427')
+parseSheet('FactSheet20160511')
+parseSheet('FactSheet20160608')
+parseSheet('FactSheet20160622')
+parseSheet('FactSheet20160706')
+parseSheet('FactSheet20160720')
