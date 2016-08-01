@@ -111,7 +111,7 @@ categories: smc
 <td>Nationality</td>
 <td>Percentage</td>
 </tr>
-
+<tr><td>印度</td><td>24%</td></tr><tr><td>菲律宾</td><td>12%</td></tr><tr><td>中国</td><td>12%</td></tr><tr><td>大不列颠</td><td>11%</td></tr><tr><td>南非</td><td>7%</td></tr><tr><td>韩国</td><td>3%</td></tr><tr><td>巴基斯坦</td><td>3%</td></tr><tr><td>斯里兰卡</td><td>3%</td></tr><tr><td>美国</td><td>2%</td></tr><tr><td>斐济</td><td>2%</td></tr><tr><td>其他</td><td>21%</td></tr>
 <tr>
 <td/>
 <td>100%</td>
@@ -119,4 +119,3 @@ categories: smc
 </table>
 
 您也可以去飞出国论坛讨论：[新西兰技术移民2016年eoi邀请记录](http://bbs.fcgvisa.com/t/2016-eoi/8622) 。
-
