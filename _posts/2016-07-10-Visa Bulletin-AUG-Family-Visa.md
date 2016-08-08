@@ -2,7 +2,7 @@
 layout: post
 title: 2016年8月美国家属移民排期
 date:  2016-07-10 13:00:00
-categories: qsw
+categories: usvisa
 ---
 
 ## 2016年8月美国家属移民排期
