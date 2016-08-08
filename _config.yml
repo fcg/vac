@@ -1,6 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
+encoding: utf-8
 permalink:           pretty
 #relative_permalinks: true
 
@@ -49,47 +50,6 @@ vac_url:             http://vac.fcgvisa.com/
 2845_url:            http://bbs.fcgvisa.com/t/qld-qld/2845
 2566_url:            http://bbs.fcgvisa.com/t/nt/2566         
 111111_url:            http://www.flyabroadvisa.com/sol/
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:                        
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:   
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:            
-_url:   
-
-
-
-
-
-
-
-
-
 
 
 lang_url:            http://www.flyabroadvisa.com/federal/lang.html
