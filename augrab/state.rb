@@ -140,7 +140,7 @@ end
 
 def post
   # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
-	File.open("#{postdir}#{F1617}-State-Territory-nominations.md", 'w') do |file|
+	File.open("#{POSTDIR}#{F1617}-State-Territory-nominations.md", 'w') do |file|
 
 		content = FRONTSTR + TMONTH + T190
 
@@ -221,7 +221,7 @@ def save_month
 				csv << row
 		end
 
-		sum = db.execute("select 汇总, SUM(ACT),SUM(NSW),SUM(NT),SUM(Qld),SUM(SA),SUM(Tas),SUM(),SUM(Vic),SUM(WA),SUM(Total),飞出国 from eoi190").first
+		sum = db.execute("select '汇总', SUM(ACT),SUM(NSW),SUM(NT),SUM(Qld),SUM(SA),SUM(Tas),SUM(Vic),SUM(WA),SUM(Total),'飞出国' from eoi190").first
 
 		csv << sum
 	end
@@ -268,7 +268,9 @@ def getTotalTable
   table = doc.css('.table-100.small')[1]
 end
 
-save_total
+#save_total
+#save_month
+post
 # getTotalTable()
 # create190table()
 # download_skillselect()
