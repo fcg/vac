@@ -31,8 +31,8 @@ categories: gsm
 > 
 > | Visa subclass | July | Aug | Sept | Oct | Nov | Dec | Jan | Feb | Mar | Apr | May | June | Total |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Skilled - Independent (subclass 189) | 3050  | 1400  | 0  | 0 | 0 | 0  | 0  | 0 | 0 | 0 | 0 | 0 | 4450 |
-> | Skilled – Regional Provisional (subclass 489) | 200 | 100  | 0  | 0  | 0  | 0  | 0  | 0 | 0 | 0 | 0 | 0 | 300 |
+> | Skilled - Independent (subclass 189) | 3050  | 1400  | 0  | 0 | 0 | 0  | 0  | 0 | 0 | 0 | 0 | 0 | 4450 |
+> | Skilled – Regional Provisional (subclass 489) | 200 | 100  | 0  | 0  | 0  | 0  | 0  | 0 | 0 | 0 | 0 | 0 | 300 |
 > | **Total** | **3250** | **1500** | **0** | **0** | **0** | **0** | **0** | **0** | | **0** | **0** | **0** | **4750** |
 > 
 > The above figures do not include invitations issued for State and Territory Government nominated visa subclasses. State and Territory Governments nominate throughout the month for specific points tested skilled migration and business innovation and investment visas. Separate results for these visa subclasses are provided monthly.
@@ -42,8 +42,6 @@ categories: gsm
 > The following graph shows the points for clients who were invited to apply in the&nbsp;3 August 2016&nbsp;round.
 > 
 > ![A graph showing the points for clients who were invited to apply in the 3 August 2016 round](http://www.border.gov.au/WorkinginAustralia/PublishingImages/03082016.jpg)&nbsp;
-> 
->  ​ 
 > 
 > **Invitation process and cut offs**
 > 
@@ -68,9 +66,9 @@ categories: gsm
 > | Points | Description | Points score | Visa date of effect |
 > | --- | --- | --- | --- |
 > | 2211 | Accountants | 70 | 20 June 2016&nbsp; 4.04 pm |
-> | 2212 | Auditors, Company Secretaries and Corporate Treasurers | 70 | 27 May 2016 2.52 pm  |
-> | 2611 | ICT Business and ​System Analysts | 65 | 7 December 2015 12.03 pm |
-> | 2613 | Software and Applications Programmers | 65 | 6 June 2016 1.22 pm |
-> | 2339 | Other Engineering Professionals | 60 |   21 July 2016&nbsp; 3.57 pm  |
-> | 2631 | Computer Network Professionals | 60 | 20 June 2016 6.34 pm  |
+> | 2212 | Auditors, Company Secretaries and Corporate Treasurers | 70 | 27 May 2016 2.52 pm  |
+> | 2611 | ICT Business and ​System Analysts | 65 | 7 December 2015 12.03 pm |
+> | 2613 | Software and Applications Programmers | 65 | 6 June 2016 1.22 pm |
+> | 2339 | Other Engineering Professionals | 60 |   21 July 2016 3.57 pm |
+> | 2631 | Computer Network Professionals | 60 | 20 June 2016 6.34 pm |
 > 
