@@ -7,7 +7,7 @@ require 'net/http'
 
 CEILINGS   = "//*[@id='tab-content-3']/table".freeze
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
-TURL = "http:/ / www.border.gov.au / Trav / Work / Skil\n".freeze
+TURL = "http://www.border.gov.au/Trav/Work/Skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
 F1617 = '2016-07-31'.freeze
@@ -214,7 +214,7 @@ def save_month
 
 	rows = db.execute("select * from eoi190")
 
-	CSV.open("#{DATADIR}#{F1617}.csv", 'w') do |csv|
+	CSV.open("#{DATADIR}#{T190CSV}.csv", 'w') do |csv|
 		csv << %w(ACT NSW NT Qld SA Tas Vic WA Total updated)
 
 		rows.each do |row|
@@ -268,8 +268,9 @@ def getTotalTable
   table = doc.css('.table-100.small')[1]
 end
 
-#save_total
-#save_month
+download_skillselect
+save_total
+save_month
 post
 # getTotalTable()
 # create190table()
