@@ -111,7 +111,7 @@ end
 # http://www.border.gov.au/Trav/Work/Skil/6-july-2016-round-results
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/8-june-2016-round-results.aspx")
 # parse_current("http://www.border.gov.au/Trav/Work/Skil/6-july-2016-round-results")
-parse_current("http://www.border.gov.au/Trav/Work/Skil/20-july-2016-round-results")
+parse_current("https://www.border.gov.au/Trav/Work/Skil/3-august-2016-round-results")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
