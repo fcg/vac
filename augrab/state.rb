@@ -190,7 +190,7 @@ def save_month
     eoi190.push getTdText(td).strip.delete(',').to_i if index > 0
   end
 
-  eoi190.push F1617
+  eoi190.push MONTH
   db.execute('insert into eoi190 (ACT, NSW, NT, Qld, SA, Tas, Vic, WA, Total, updated) VALUES (?,?,?,?,?,?,?,?,?,?)', eoi190)
 
 	# 具体月份 web
@@ -221,7 +221,7 @@ def save_month
 				csv << row
 		end
 
-		sum = db.execute("select SUM(ACT),SUM(NSW),SUM(NT),SUM(Qld),SUM(SA),SUM(Tas),SUM(Vic),SUM(WA),SUM(Total),'飞出国' from eoi190").first
+		sum = db.execute("select SUM(ACT),SUM(NSW),SUM(NT),SUM(Qld),SUM(SA),SUM(Tas),SUM(Vic),SUM(WA),SUM(Total),'飞出国汇总' from eoi190").first
 
 		csv << sum
 	end
