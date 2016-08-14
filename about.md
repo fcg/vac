@@ -9,6 +9,12 @@ title: 关于飞出国
 
 [飞出国签证申请信息中心]({{ site.vac_url }})目的在于提供一个签证申请目录及申请条件介绍说明，同时提供及时的[出国政策资讯]({{ site.vac_url }})，具体申请细节及申请过程中的问题都可以在[飞出国签证申请论坛]({{ site.bbs_url }})获得解答。
 
+<p><strong>飞出国论坛微信号公众号（进度发布）</strong>：fcgvisa，图为微信号二维码。</p>
+
+<p>飞出国论坛微信号：<img src="http://kit.flyabroadvisa.com/wxfcg/fcgvisagz-15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - fcgvisabbs"> </p>
+
+<p><a href="http://www.flyabroadnews.com/flyabroad-weixin-fcgvisabbs/" target="_blank">飞出国将更多使用微信群，请添加 fcgvisabbs 微信号</a>。</p>
+
 <p><b>飞出国微信公众号</b>：flyabroad111 ，图为微信公众号二维码，可扫描关注。</p>
 
 <p>飞出国微信公众号：<img src="http://kit.flyabroadvisa.com/wxfly/15.jpg" width="180" height="180" border="0" alt="飞出国微信公众号 - flyabroad111"> </p>
@@ -20,10 +26,6 @@ title: 关于飞出国
 <p><strong>飞出国论坛微信号</strong>：fcgvisabbs，图为微信号二维码。</p>
 
 <p>飞出国论坛微信号：<img src="http://kit.flyabroadvisa.com/wxfcg/fcg15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - fcgvisabbs"> </p>
-
-<p><strong>飞出国论坛微信号公众号（进度发布）</strong>：fcgvisa，图为微信号二维码。</p>
-
-<p>飞出国论坛微信号：<img src="http://kit.flyabroadvisa.com/wxfcg/fcgvisagz-15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - fcgvisabbs"> </p>
 
 <p><strong>flyabroad 其他联系方式：</strong></p>
 
