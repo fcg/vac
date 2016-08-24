@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 澳洲 SOL 配额完成情况 - 2016-08-03
-date:  2016-08-03 13:00:00
+title: 澳洲 SOL 配额完成情况 - 2016-08-17
+date:  2016-08-17 13:00:00
 categories: gsm
 ---
 
-## 2016-08-03 澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况
+## 2016-08-17 澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况
 
 其中的新增邀请意思是这次邀请与上次邀请直接的差额，也就是这次又新邀请的人数（当前邀请数 - 上次更新时的邀请数）。
 
@@ -17,7 +17,7 @@ categories: gsm
 <th>已邀请</th>
 <th>新增</th>
 </tr>
-{% for c in site.data.sol.2016-08-03 %}
+{% for c in site.data.sol.2016-08-17 %}
 <tr>
 <td> <a href="http://bbs.fcgvisa.com/t/topic/{{ c.bbsid }}" target="_blank">{{ c.anzsco4 }}</a> </td>
 <td> {{ c.namecn }} </td>
