@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016年9月美国职业移民排期
-date:  2016-06-08 10:00:00
+date:  2016-08-08 10:00:00
 categories: usvisa
 ---
 
