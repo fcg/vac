@@ -54,7 +54,7 @@ ACT 州担保要求没有变化，清单里 open 的职业，这些职业不需�
 </tr>
 </tbody></table>
 
-ACT 201609 最新州担保清单请参考这里： http://www.flyabroadnews.com/act-occupation-list-201609/ 。
+ACT 201609 最新州担保清单请参考这里： <a href="http://www.flyabroadnews.com/act-occupation-list-201609/" target="_blank">http://www.flyabroadnews.com/act-occupation-list-201609/</a> 。
 
 <p>下面是2016年8月之前的 ACT 州担保职业。</p>
 
