@@ -83,7 +83,7 @@ def parse_new()
 
 end
 
-# parse_new()
+parse_new()
 post()
 
 def parse_archive()
