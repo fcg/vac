@@ -14,8 +14,8 @@ def csvandpost
   postdate = Time.now.strftime('%Y-%m-%d') # 每次修改
   csvdir = '../_data/us/'
   postdir = '../_posts/'
-  ebpost = "#{postdate}-Visa Bulletin-#{paiqimonthb}-EB-Visa.md"
-  fapost = "#{postdate}-Visa Bulletin-#{paiqimonthb}-Family-Visa.md"
+  ebpost = "#{postdate}-Visa-Bulletin-#{paiqimonthb}-EB-Visa.md"
+  fapost = "#{postdate}-Visa-Bulletin-#{paiqimonthb}-Family-Visa.md"
   trcss = '.article-content>table>tbody>tr'
 
   ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
@@ -82,7 +82,7 @@ def csvandpost
 ---
 layout: post
 title: #{paiqiyear}年#{paiqimonth}月美国家庭移民排期
-date:  #{postdate} 13:00:00
+date:  #{postdate} 09:00:00
 categories: usvisa
 ---
 
@@ -90,16 +90,16 @@ categories: usvisa
 
 | 职业移民批准排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
 | --- | --- | --- | --- | --- |
-{% for ea in site.data.us.#{paiqiyear}#{paiqimonth}-FA %}
-| pizhun | quanqiu | zhongguo | bianhua | beizhu |
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-FA %}
+| pq.pizhun | pq.quanqiu | pq.zhongguo | pq.bianhua | pq.beizhu |
 {% endfor %}
 
 ## #{paiqiyear}年#{paiqimonth}月美国家庭移民排期 - 递件排期 - 飞出国
 
 | 职业移民递件排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
 | --- | --- | --- | --- | --- |
-{% for ea in site.data.us.#{paiqiyear}#{paiqimonth}-FB %}
-| pizhun | quanqiu | zhongguo | bianhua | beizhu |
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-FB %}
+| pq.pizhun | pq.quanqiu | pq.zhongguo | pq.bianhua | pq.beizhu |
 {% endfor %}
 
 更多说明请参考飞出国论坛：<a href="http://bbs.fcgvisa.com/c/usavisa" target="blank">美国签证申请论坛</a> 。
@@ -113,7 +113,7 @@ FAM
 ---
 layout: post
 title: #{paiqiyear}年#{paiqimonth}月美国职业移民排期
-date:  #{postdate} 13:00:00
+date:  #{postdate} 09:00:00
 categories: usvisa
 ---
 
@@ -141,16 +141,16 @@ categories: usvisa
 
 | 职业移民批准排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
 | --- | --- | --- | --- | --- |
-{% for ea in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
-| pizhun | quanqiu | zhongguo | bianhua | beizhu |
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
+| pq.pizhun | pq.quanqiu | pq.zhongguo | pq.bianhua | pq.beizhu |
 {% endfor %}
 
 ## #{paiqiyear}年#{paiqimonth}月美国职业移民排期 - 递件排期 - 飞出国
 
 | 职业移民递件排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
 | --- | --- | --- | --- | --- |
-{% for ea in site.data.us.#{paiqiyear}#{paiqimonth}-EB %}
-| pizhun | quanqiu | zhongguo | bianhua | beizhu |
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EB %}
+| pq.pizhun | pq.quanqiu | pq.zhongguo | pq.bianhua | pq.beizhu |
 {% endfor %}
 
 更多说明请参考飞出国论坛：<a href="http://bbs.fcgvisa.com/c/usavisa" target="blank">美国签证申请论坛</a> 。
