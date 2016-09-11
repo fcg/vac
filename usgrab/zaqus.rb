@@ -82,27 +82,59 @@ def csvandpost
 ---
 layout: post
 title: #{paiqiyear}年#{paiqimonth}月美国家庭移民排期
-date:  #{postdate} 09:00:00
+date:  #{postdate} 09:00:00 +0800
 categories: usvisa
 ---
 
 ## #{paiqiyear}年#{paiqimonth}月美国家庭移民排期 - 批准排期 - 飞出国
 
-| 职业移民批准排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
-
-| --- | --- | --- | --- | --- |
-{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-FA %}
-| {{ pq.pizhun }} | {{ pq.quanqiu }} | {{ pq.zhongguo }} | {{ pq.bianhua }} | {{ pq.beizhu }} |
+<table>
+  <thead>
+    <tr>
+      <th>亲属移民批准排期</th>
+      <th>全球</th>
+      <th>中国出生</th>
+      <th>中国变化</th>
+      <th>飞出国说明</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
+    <tr>
+      <td>{{ pq.pizhun }}</td>
+      <td>{{ pq.quanqiu }}</td>
+      <td>{{ pq.zhongguo }}</td>
+      <td>{{ pq.bianhua }}</td>
+      <td>{{ pq.beizhu }}</td>
+    </tr>
 {% endfor %}
+  </tbody>
+</table>
 
 ## #{paiqiyear}年#{paiqimonth}月美国家庭移民排期 - 递件排期 - 飞出国
 
-| 职业移民递件排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
-
-| --- | --- | --- | --- | --- |
-{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-FB %}
-| {{ pq.pizhun }} | {{ pq.quanqiu }} | {{ pq.zhongguo }} | {{ pq.bianhua }} | {{ pq.beizhu }} |
+<table>
+  <thead>
+    <tr>
+      <th>亲属移民批准排期</th>
+      <th>全球</th>
+      <th>中国出生</th>
+      <th>中国变化</th>
+      <th>飞出国说明</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
+    <tr>
+      <td>{{ pq.pizhun }}</td>
+      <td>{{ pq.quanqiu }}</td>
+      <td>{{ pq.zhongguo }}</td>
+      <td>{{ pq.bianhua }}</td>
+      <td>{{ pq.beizhu }}</td>
+    </tr>
 {% endfor %}
+  </tbody>
+</table>
 
 更多说明请参考飞出国论坛：<a href="http://bbs.fcgvisa.com/c/usavisa" target="blank">美国签证申请论坛</a> 。
 FAM
@@ -115,7 +147,7 @@ FAM
 ---
 layout: post
 title: #{paiqiyear}年#{paiqimonth}月美国职业移民排期
-date:  #{postdate} 09:00:00
+date:  #{postdate} 09:00:00 +0800
 categories: usvisa
 ---
 
@@ -141,21 +173,53 @@ categories: usvisa
 
 ## #{paiqiyear}年#{paiqimonth}月美国职业移民排期 - 批准排期 - 飞出国
 
-| 职业移民批准排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
-
-| --- | --- | --- | --- | --- |
+<table>
+  <thead>
+    <tr>
+      <th>职业移民批准排期</th>
+      <th>全球</th>
+      <th>中国出生</th>
+      <th>中国变化</th>
+      <th>飞出国说明</th>
+    </tr>
+  </thead>
+  <tbody>
 {% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
-| {{ pq.pizhun }} | {{ pq.quanqiu }} | {{ pq.zhongguo }} | {{ pq.bianhua }} | {{ pq.beizhu }} |
+    <tr>
+      <td>{{ pq.pizhun }}</td>
+      <td>{{ pq.quanqiu }}</td>
+      <td>{{ pq.zhongguo }}</td>
+      <td>{{ pq.bianhua }}</td>
+      <td>{{ pq.beizhu }}</td>
+    </tr>
 {% endfor %}
+  </tbody>
+</table>
 
 ## #{paiqiyear}年#{paiqimonth}月美国职业移民排期 - 递件排期 - 飞出国
 
-| 职业移民递件排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
-
-| --- | --- | --- | --- | --- |
-{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EB %}
-| {{ pq.pizhun }} | {{ pq.quanqiu }} | {{ pq.zhongguo }} | {{ pq.bianhua }} | {{ pq.beizhu }} |
+<table>
+  <thead>
+    <tr>
+      <th>职业移民递件排期</th>
+      <th>全球</th>
+      <th>中国出生</th>
+      <th>中国变化</th>
+      <th>飞出国说明</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
+    <tr>
+      <td>{{ pq.pizhun }}</td>
+      <td>{{ pq.quanqiu }}</td>
+      <td>{{ pq.zhongguo }}</td>
+      <td>{{ pq.bianhua }}</td>
+      <td>{{ pq.beizhu }}</td>
+    </tr>
 {% endfor %}
+  </tbody>
+</table>
 
 更多说明请参考飞出国论坛：<a href="http://bbs.fcgvisa.com/c/usavisa" target="blank">美国签证申请论坛</a> 。
 EB
