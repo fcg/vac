@@ -8,6 +8,7 @@ categories: usvisa
 ## 2016年10月美国家庭移民排期 - 批准排期 - 飞出国
 
 | 职业移民批准排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
+
 | --- | --- | --- | --- | --- |
 {% for pq in site.data.us.201610-FA %}
 | {{ pq.pizhun }} | {{ pq.quanqiu }} | {{ pq.zhongguo }} | {{ pq.bianhua }} | {{ pq.beizhu }} |
@@ -16,6 +17,7 @@ categories: usvisa
 ## 2016年10月美国家庭移民排期 - 递件排期 - 飞出国
 
 | 职业移民递件排期 | 全球 | 中国出生 | 中国变化 | 飞出国说明 |
+
 | --- | --- | --- | --- | --- |
 {% for pq in site.data.us.201610-FB %}
 | {{ pq.pizhun }} | {{ pq.quanqiu }} | {{ pq.zhongguo }} | {{ pq.bianhua }} | {{ pq.beizhu }} |
