@@ -98,6 +98,11 @@ FRON
 
 INTR
 
+  linkstr = <<-ENDS
+
+更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2016-2017 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2016-2017/17031)。
+ENDS
+
 File.open("#{postdir}#{updated}-Skillselect-Round-Results.md", 'w') do |file|
 
   content = frontstr + intrstr + rawcontext
