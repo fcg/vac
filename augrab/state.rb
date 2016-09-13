@@ -212,7 +212,7 @@ def save_month
 
 	# 190-1617 db
 
-	rows = db.execute("select * from eoi190")
+	rows = db.execute("select ACT,NSW,NT,Qld,SA,Tas,Vic,WA,Total,updated from eoi190")
 
 	CSV.open("#{DATADIR}#{T190CSV}.csv", 'w') do |csv|
 		csv << %w(ACT NSW NT Qld SA Tas Vic WA Total updated)
