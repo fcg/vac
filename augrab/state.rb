@@ -221,7 +221,7 @@ def save_month
 				csv << row
 		end
 
-		sum = db.execute("select SUM(ACT),SUM(NSW),SUM(NT),SUM(Qld),SUM(SA),SUM(Tas),SUM(Vic),SUM(WA),SUM(Total),'飞出国汇总' from eoi190").first
+		sum = db.execute("select SUM(ACT),SUM(NSW),SUM(NT),SUM(Qld),SUM(SA),SUM(Tas),SUM(Vic),SUM(WA),SUM(Total),'飞出国' from eoi190").first
 
 		csv << sum
 	end
