@@ -76,10 +76,10 @@ def parse_new()
 
   inmbnum = strongs[0].text.split(":").last.strip.gsub(" ","")
   inmbrank =   strongs[1].text.split(":").last.strip.gsub(" ","")
-  overseasnum = strongs[2].text.split(":").last.strip.gsub(" ","")
+  overseasnum = strongs[2].text.split(":").last.strip.gsub(" ","").split(" ")[0]
   overseasrank =   strongs[3].text.split(":").last.strip.gsub(" ","")
 
-  db.execute("insert into mbeoi (num,inmbnum,inmbrank,overseasnum,overseasrank,updated) values (?,?,?,?,?,?)",[no,inmbnum,inmbrank,overseasnum,overseasrank,updated])
+  db.execute("insert into mbeoi (num,inmbnum,inmbrank,overseasnum,overseasrank,updated) values (?,?,?,?,?,?)",[num,inmbnum,inmbrank,overseasnum,overseasrank,updated])
 
 end
 
