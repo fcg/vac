@@ -1,17 +1,17 @@
 ---
 nums: 20
-ioall: 9799
-inall: 2915
-outall: 6884
-minin: 467
+ioall: 10097.0
+inall: 3173
+outall: 6924.0
+minin: 435
 maxin: 722
 minoverseas: 543
-maxoverseas: 607
+maxoverseas: 620
 0: 20
-1: 9799
-2: 2915
-3: 6884
-4: 467
+1: 10097.0
+2: 3173
+3: 6924.0
+4: 435
 5: 722
 6: 543
-7: 607
+7: 620
