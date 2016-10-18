@@ -54,7 +54,7 @@ categories: gsm
 > | Skilled - Independent (subclass 189) | 60 | 22 September 2016 6:27 pm |
 > | Skilled - Regional Provisional (subclass 489) | 60 | 27 September&nbsp;2016 3.55 pm |
 > 
-> Due to high levels of demand, and in keeping with previous years, the below occupation groups will be subject to pro rata arrangements to ensure availability of invitations across the programme year.&nbsp;SkillSelect first allocates available places to  [Skilled – Independent visas (subclass 189)](/Trav/Visa-1/189-) and then remaining to  [Skilled – Regional (Provisional) visas (subclass 489)](/Trav/Visa-1/489-). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
+> Due to high levels of demand, and in keeping with previous years, the below occupation groups will be subject to pro rata arrangements to ensure availability of invitations across the programme year.&nbsp;SkillSelect first allocates available places to Skilled – Independent visas (subclass 189) and then remaining to Skilled – Regional (Provisional) visas (subclass 489). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
 > 
 > - Accountants
 > - Auditors, Company Secretaries and Corporate Treasurers
