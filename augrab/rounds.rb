@@ -68,8 +68,11 @@ def parse_current(filename)
   dtp489 = tbs[2].css("td")[4].text.strip
 
   # DateTime.strptime("1 April 2016 12.19 pm​", "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
-  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
-  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
+
+p tbs[2].css("td")[2].text.strip 
+p tbs[2].css("td")[5].text.strip
+  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.strip, "%d %b %Y %I:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0","").strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
 
   # accountants2211p = tbs[3].css("td")[2].text.strip
   # accountants2211d = DateTime.strptime(tbs[3].css("td")[3].text.strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
@@ -118,7 +121,9 @@ end
 # parse_current("http://www.border.gov.au/Trav/Work/Skil/6-july-2016-round-results")
 # parse_current("https://www.border.gov.au/Trav/Work/Skil/3-august-2016-round-results")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/pages/17-august-2016-round-results.aspx")
-parse_current("http://www.border.gov.au/WorkinginAustralia/pages/14-september-2016-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/pages/14-september-2016-round-results.aspx")
+
+parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/28-september-2016-round-results.aspx")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
