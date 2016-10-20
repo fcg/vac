@@ -18,7 +18,7 @@ categories: usvisa
     </tr>
   </thead>
   <tbody>
-{% for pq in site.data.us.201611-EA %}
+{% for pq in site.data.us.201611-FA %}
     <tr>
       <td>{{ pq.pizhun }}</td>
       <td>{{ pq.quanqiu }}</td>
@@ -43,7 +43,7 @@ categories: usvisa
     </tr>
   </thead>
   <tbody>
-{% for pq in site.data.us.201611-EA %}
+{% for pq in site.data.us.201611-FB %}
     <tr>
       <td>{{ pq.pizhun }}</td>
       <td>{{ pq.quanqiu }}</td>

@@ -99,7 +99,7 @@ categories: usvisa
     </tr>
   </thead>
   <tbody>
-{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-FB %}
     <tr>
       <td>{{ pq.pizhun }}</td>
       <td>{{ pq.quanqiu }}</td>
@@ -124,7 +124,7 @@ categories: usvisa
     </tr>
   </thead>
   <tbody>
-{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-FB %}
     <tr>
       <td>{{ pq.pizhun }}</td>
       <td>{{ pq.quanqiu }}</td>
@@ -209,7 +209,7 @@ categories: usvisa
     </tr>
   </thead>
   <tbody>
-{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EA %}
+{% for pq in site.data.us.#{paiqiyear}#{paiqimonth}-EB %}
     <tr>
       <td>{{ pq.pizhun }}</td>
       <td>{{ pq.quanqiu }}</td>
