@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "澳洲技术移民 Skillselect EOI  2016-09-28 邀请结果，189 签证邀请 1204 份，489 亲属担保 54 份"
-date:   2016-09-28 13:56:00  +0800
+title:  "澳洲技术移民 Skillselect EOI  2016-10-12 邀请结果，189 签证邀请 1204 份，489 亲属担保 54 份"
+date:   2016-10-12 13:56:00  +0800
 categories: gsm
 ---
 
-## 澳洲技术移民 Skillselect EOI  2016-09-28 邀请结果
+## 澳洲技术移民 Skillselect EOI  2016-10-12 邀请结果
 
-飞出国：2016-09-28 澳洲技术移民 EOI 发出 189 签证邀请 1204 份，489 亲属担保 54 份，
-截止到 2016-09-28，澳洲技术移民 EOI 2016-2017 年度共发出 189 邀请 11254  份，489 邀请 817 份，总计 12071 份。
+飞出国：2016-10-12 澳洲技术移民 EOI 发出 189 签证邀请 1204 份，489 亲属担保 54 份，
+截止到 2016-10-12，澳洲技术移民 EOI 2016-2017 年度共发出 189 邀请 11254  份，489 邀请 817 份，总计 12071 份。
 
-本次邀请中，189 邀请分数 60 分（截止到 2016-10-12 00:02），489 邀请分数 60（截止到 2016-10-11 19:41）。
+本次邀请中，189 邀请分数 60 分（截止到 2016-10-12 00:02），489 邀请分数 60（截止到 2016-10-11 19:41）。60分为核心主力，申请人较多职业的邀请日期也已经往前推进。
 
 # 12 October&nbsp;2016 invitation round
 > <!--Page content-->
@@ -18,7 +18,7 @@ categories: gsm
 > 
 > ​​​​​​​​​​The table below shows the number of invitations issued in the SkillSelect invitation round on&nbsp;12 October 2016.
 > 
-> **Invitations issued&nbsp;on&nbsp;28 September 2016**
+> **Invitations issued&nbsp;on&nbsp;28 September 2016**(飞出国：官方网站这个日期应该是有问题，待考证)
 > 
 > | Visa Subclass | Number |
 > | --- | --- |
@@ -41,7 +41,7 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the&nbsp;12 October 2016&nbsp;round.
 > 
-> ![A graph showing the points for clients who were invited to apply in the 12 October 2016 round](/WorkinginAustralia/PublishingImages/12102016.jpg)&nbsp;
+> ![A graph showing the points for clients who were invited to apply in the 12 October 2016 round](http://www.border.gov.au/WorkinginAustralia/PublishingImages/12102016.jpg)&nbsp;
 > 
 >  ​ 
 > 
