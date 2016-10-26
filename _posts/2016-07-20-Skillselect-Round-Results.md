@@ -73,4 +73,6 @@ categories: gsm
 > | 2212 | Auditors, Company Secretaries and Corporate Treasurers | TBA | TBA  |
 > 
 > - Please note that due to tecnichal reasons no invitations were issued for the above occupations for the 20 July 2016 round. Normal pro-rata arrangements will resume on 3 August 2016.
-> 
+> ​
+
+更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2016-2017 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2016-2017/17031)。

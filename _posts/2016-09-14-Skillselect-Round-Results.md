@@ -75,3 +75,5 @@ categories: gsm
 > | 2631 | Computer Network Professionals | 65 | 30 August 2016 1.59 pm |
 > 
 > ​
+
+更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2016-2017 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2016-2017/17031)。

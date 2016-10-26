@@ -108,7 +108,7 @@ ENDS
 
 File.open("#{postdir}#{updated}-Skillselect-Round-Results.md", 'w') do |file|
 
-  content = frontstr + intrstr + rawcontext
+  content = frontstr + intrstr + rawcontext + linkstr
 
   file.write content
 
