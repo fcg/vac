@@ -8,7 +8,9 @@ require "yaml"
 
 CEILINGS   = "//*[@id='tab-content-3']/table"
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
-TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
+#TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
+
+TURL = "http://www.border.gov.au/Trav/Work/Skil"
 
 CURRENTFN = "2016-10-12"  # 每次有新更新先修改这里
 

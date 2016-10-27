@@ -1,74 +1,74 @@
 anzsco4,bbsid,nameen,namecn,ceiling,lastresult,result,change
-1331,6546,Construction Managers,建筑业经理,5289,40,40,0
-1332,6547,Engineering Managers,工程经理,1407,10,10,0
+1331,6546,Construction Managers,建筑业经理,5289,40,48,8
+1332,6547,Engineering Managers,工程经理,1407,10,11,1
 1335,6550,Production Managers,生产经理,3368,4,4,0
 1341,6552,Child Care Centre Managers,幼儿中心经理,1000,8,8,0
-1342,6553,Health and Welfare Services Managers,卫生和福利服务经理,1177,11,11,0
-2211,7058,Accountants*,会计师,2500,924,924,0
-2212,7059,"Auditors, Company Secretaries and Corporate Treasurers",审计，公司秘书及企业司库,1413,495,495,0
-2241,7066,"Actuaries, Mathematicians and Statisticians",精算师，数学家和统计学家,1000,33,33,0
-2245,7070,Land Economists and Valuers,土地经济学家和估价师,1035,15,15,0
-2312,7079,Marine Transport Professionals,验船师,1000,20,20,0
-2321,7080,Architects and Landscape Architects,建筑师和景观设计师,1391,105,105,0
-2322,7081,Cartographers and Surveyors,制图师和测量师,1000,21,21,0
-2331,7086,Chemical and Materials Engineers,化学工程与材料工程师,1000,216,216,0
-2332,7087,Civil Engineering Professionals,土木工程专业,2174,483,483,0
-2333,7088,Electrical Engineers,电气工程师,1254,253,253,0
-2334,7089,Electronics Engineers,电子工程师,1000,444,444,0
-2335,7090,"Industrial, Mechanical and Production Engineers",工业，机械和生产工程师,1539,1045,1045,0
-2339,7092,Other Engineering Professionals,其他工程专业人员,1000,626,626,0
-2341,7093,Agricultural and Forestry Scientists,农林科学家,1000,56,56,0
-2346,7098,Medical Laboratory Scientists,医学实验室科学家,1602,39,39,0
-2347,7099,Veterinarians,兽医,1000,28,28,0
+1342,6553,Health and Welfare Services Managers,卫生和福利服务经理,1177,11,14,3
+2211,7058,Accountants*,会计师,2500,924,1022,98
+2212,7059,"Auditors, Company Secretaries and Corporate Treasurers",审计，公司秘书及企业司库,1413,495,550,55
+2241,7066,"Actuaries, Mathematicians and Statisticians",精算师，数学家和统计学家,1000,33,38,5
+2245,7070,Land Economists and Valuers,土地经济学家和估价师,1035,15,17,2
+2312,7079,Marine Transport Professionals,验船师,1000,20,27,7
+2321,7080,Architects and Landscape Architects,建筑师和景观设计师,1391,105,125,20
+2322,7081,Cartographers and Surveyors,制图师和测量师,1000,21,23,2
+2331,7086,Chemical and Materials Engineers,化学工程与材料工程师,1000,216,247,31
+2332,7087,Civil Engineering Professionals,土木工程专业,2174,483,555,72
+2333,7088,Electrical Engineers,电气工程师,1254,253,292,39
+2334,7089,Electronics Engineers,电子工程师,1000,444,501,57
+2335,7090,"Industrial, Mechanical and Production Engineers",工业，机械和生产工程师,1539,1045,1168,123
+2339,7092,Other Engineering Professionals,其他工程专业人员,1000,626,654,28
+2341,7093,Agricultural and Forestry Scientists,农林科学家,1000,56,61,5
+2346,7098,Medical Laboratory Scientists,医学实验室科学家,1602,39,45,6
+2347,7099,Veterinarians,兽医,1000,28,30,2
 2349,7100,Other Natural and Physical Science Professionals,其他自然和物理科学专业人员,1000,8,8,0
-2411,7101,Early Childhood (Pre-primary School) Teachers,幼儿教育（学前教育）教师,1822,57,57,0
-2414,7103,Secondary School Teachers,中学教师,8032,174,174,0
-2415,7104,Special Education Teachers,特殊教育教师,1126,8,8,0
-2512,7111,Medical Imaging Professionals,医学影像专业人员,1000,25,25,0
-2514,7113,Optometrists and Orthoptists,验光师和视觉矫正师,1000,2,2,0
+2411,7101,Early Childhood (Pre-primary School) Teachers,幼儿教育（学前教育）教师,1822,57,74,17
+2414,7103,Secondary School Teachers,中学教师,8032,174,193,19
+2415,7104,Special Education Teachers,特殊教育教师,1126,8,9,1
+2512,7111,Medical Imaging Professionals,医学影像专业人员,1000,25,27,2
+2514,7113,Optometrists and Orthoptists,验光师和视觉矫正师,1000,2,3,1
 2519,7115,Orthotist or Prosthetist,义肢矫形师,1000,2,2,0
 2521,7116,Chiropractors and Osteopaths,脊医及整骨,1000,10,10,0
-2524,7119,Occupational Therapists,职业治疗师,1000,45,45,0
-2525,7120,Physiotherapists,物理治疗师,1345,42,42,0
+2524,7119,Occupational Therapists,职业治疗师,1000,45,47,2
+2525,7120,Physiotherapists,物理治疗师,1345,42,50,8
 2526,7121,Podiatrists,足病医生,1000,9,9,0
-2527,7122,Speech Professionals and Audiologists,演讲专家和听力学家,1000,15,15,0
-2531,7123,General Practitioners and Resident Medical officers,全科执业,3495,100,100,0
+2527,7122,Speech Professionals and Audiologists,演讲专家和听力学家,1000,15,16,1
+2531,7123,General Practitioners and Resident Medical officers,全科执业,3495,100,117,17
 2532,7124,Anaesthetists,麻醉师,1000,7,7,0
-2533,7125,Internal Medicine Specialists,内科专家,1000,14,14,0
+2533,7125,Internal Medicine Specialists,内科专家,1000,14,15,1
 2534,7126,Psychiatrists,精神科医生,1000,2,2,0
-2535,7127,Surgeons,外科医生,1000,10,10,0
-2539,7128,Other Medical Practitioners,其他医生,1315,157,157,0
-2541,7129,Midwives,助产士,1017,13,13,0
-2544,7132,Registered Nurses,注册护士,16346,972,972,0
-2611,7133,ICT Business and Systems Analysts,ICT业务和系统分析师,1482,540,540,0
-2613,7134,Software and Applications Programmers,软件和应用程序的程序员,5662,2048,2048,0
-2631,7136,Computer Network Professionals,计算机网络专业人士,1426,782,782,0
-2633,7138,Telecommunications Engineering Professionals,通信工程专业,1000,281,281,0
+2535,7127,Surgeons,外科医生,1000,10,13,3
+2539,7128,Other Medical Practitioners,其他医生,1315,157,191,34
+2541,7129,Midwives,助产士,1017,13,17,4
+2544,7132,Registered Nurses,注册护士,16346,972,1099,127
+2611,7133,ICT Business and Systems Analysts,ICT业务和系统分析师,1482,540,600,60
+2613,7134,Software and Applications Programmers,软件和应用程序的程序员,5662,2048,2273,225
+2631,7136,Computer Network Professionals,计算机网络专业人士,1426,782,832,50
+2633,7138,Telecommunications Engineering Professionals,通信工程专业,1000,281,322,41
 2711,7139,Barristers,大律师,1000,0,0,0
-2713,7141,Solicitors,律师,5154,62,62,0
-2723,7144,Psychologists,心理学家,1532,26,26,0
-2725,7146,Social Workers,社会工作者,1783,54,54,0
-3122,7161,Civil Engineering Draftspersons and Technicians,土木工程起草者和技师,1000,46,46,0
-3123,7162,Electrical Engineering Draftspersons and Technicians,电气工程及其起草者技术员,1000,38,38,0
-3132,7168,Telecommunications Technical Specialists,电信技术专家,1000,8,8,0
-3211,7169,Automotive Electricians,汽车电工,1000,5,5,0
-3212,7170,Motor Mechanics,电机机械,5597,64,64,0
+2713,7141,Solicitors,律师,5154,62,71,9
+2723,7144,Psychologists,心理学家,1532,26,27,1
+2725,7146,Social Workers,社会工作者,1783,54,60,6
+3122,7161,Civil Engineering Draftspersons and Technicians,土木工程起草者和技师,1000,46,52,6
+3123,7162,Electrical Engineering Draftspersons and Technicians,电气工程及其起草者技术员,1000,38,41,3
+3132,7168,Telecommunications Technical Specialists,电信技术专家,1000,8,10,2
+3211,7169,Automotive Electricians,汽车电工,1000,5,6,1
+3212,7170,Motor Mechanics,电机机械,5597,64,72,8
 3222,7172,Sheetmetal Trades Workers,钣金业职工,1000,0,0,0
-3223,7173,Structural Steel and Welding Trades Workers,结构钢和焊接业职工,4466,18,18,0
-3232,7175,Metal Fitters and Machinists,金属钳工和机械师,6677,34,34,0
+3223,7173,Structural Steel and Welding Trades Workers,结构钢和焊接业职工,4466,18,20,2
+3232,7175,Metal Fitters and Machinists,金属钳工和机械师,6677,34,39,5
 3233,7176,Precision Metal Trades Workers,精密金属行业工人,1000,0,0,0
 3241,7178,Panelbeaters,车身修理工,1000,2,2,0
-3311,7181,Bricklayers and Stonemasons,砌砖工和石匠,1751,13,13,0
-3312,7182,Carpenters and Joiners,木匠细木工,7718,55,55,0
-3322,7184,Painting Trades Workers,涂装业职工,2871,10,10,0
-3331,7185,Glaziers,玻璃工,1000,0,0,0
-3332,7186,Plasterers,泥水工,2149,10,10,0
+3311,7181,Bricklayers and Stonemasons,砌砖工和石匠,1751,13,15,2
+3312,7182,Carpenters and Joiners,木匠细木工,7718,55,58,3
+3322,7184,Painting Trades Workers,涂装业职工,2871,10,11,1
+3331,7185,Glaziers,玻璃工,1000,0,1,1
+3332,7186,Plasterers,泥水工,2149,10,11,1
 3334,7188,Wall and Floor Tilers,墙壁和地板瓦工,1475,3,3,0
-3341,7189,Plumbers,管道工,5169,20,20,0
-3411,7190,Electricians,电工,9345,74,74,0
-3421,7191,Airconditioning and Refrigeration Mechanics,空调和制冷机械,1701,8,8,0
+3341,7189,Plumbers,管道工,5169,20,27,7
+3411,7190,Electricians,电工,9345,74,86,12
+3421,7191,Airconditioning and Refrigeration Mechanics,空调和制冷机械,1701,8,11,3
 3422,7192,Electrical Distribution Trades Workers,电气成交量分布工作者,1000,3,3,0
-3423,7193,Electronics Trades Workers,电子业职工,1993,16,16,0
-3513,7197,Chefs,厨师,2854,41,41,0
+3423,7193,Electronics Trades Workers,电子业职工,1993,16,19,3
+3513,7197,Chefs,厨师,2854,41,45,4
 3941,7211,Cabinetmakers,细工木匠,1568,3,3,0
 3991,7213,Boat Builders and Shipwrights,船建设者和造船工人,1000,1,1,0

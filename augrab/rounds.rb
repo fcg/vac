@@ -7,7 +7,9 @@ require 'reverse_markdown'
 
 NOMI16   = ".//*[@id='sub-heading-3']/table[1]/tbody/tr"
 NOMI1516 = ".//*[@id='sub-heading-3']/table[2]/tbody/tr"
-TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
+#TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
+
+TURL = "http://www.border.gov.au/Trav/Work/Skil"
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
