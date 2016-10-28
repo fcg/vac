@@ -9,6 +9,8 @@ title: 澳洲 2016-2017 SOL 配额
 
 飞出国：下表基于为2016-2017年度澳大利亚技术移民SOL配额使用情况汇总表。
 
+飞出国下表排序是按照剩余职业配额由少到多排序的。
+
 <table border = "1" cellpadding="1" cellspacing="0">
 <tr>
 <th>职业代码</th>
