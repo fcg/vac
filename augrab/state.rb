@@ -105,6 +105,12 @@ categories: gsm
 
 YAML
 
+ENDSTR = <<-ENDS.freeze
+
+更多请参考飞出国论坛： [2016-2017 年度澳洲州担保邀请记录](http://bbs.fcgvisa.com/t/2016-2017/18110/) 。
+
+ENDS
+
 # Skilled – Nominated (subclass 190) visa
 # Skilled – Regional (Provisional) (subclass 489) visa
 # Business Innovation and Investment (subclass 188) visa
@@ -142,7 +148,7 @@ def post
   # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
 	File.open("#{POSTDIR}#{F1617}-State-Territory-nominations.md", 'w') do |file|
 
-		content = FRONTSTR + TMONTH + T190
+		content = FRONTSTR + TMONTH + T190 + ENDSTR
 
 		file.write content
 
