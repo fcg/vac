@@ -309,6 +309,8 @@ title: 曼省技术移民评分标准
 
 ### Factor 6: 风险评估 Risk Assessment - 飞出国
 
+飞出国：加拿大 PNP 曼省技术移民申请条件放宽，加拿大时间 NOVEMBER 16, 2016 起，曼省自有 EOI 评分标准里第六项风险评估分数由原先的最高 400 减为 最高扣 200，其中在加拿大其他省份有近亲或以前申请过其他省提名两项不再扣分（原先是各扣 100）。
+
 飞出国：曼省省提名EOI评分里的一个特色是有负分的风险评估项，如果申请人与其他省的联系比与曼省的联系大，或者说申请人去曼省定居有风险的话曼省EOI里会有对应的扣分项，最多会被扣400分。
 
 <!-- > **Points are calculated based on any connections you or your spouse, if applicable, may have to other parts of Canada.** -->
@@ -321,7 +323,7 @@ title: 曼省技术移民评分标准
 </tr>
 <tr>
 <td>其他省有近亲但曼省没有</td>
-<td>-100</td>
+<td>0</td>
 </tr>
 <tr>
 <td>有其他省份工作经验</td>
@@ -333,11 +335,11 @@ title: 曼省技术移民评分标准
 </tr>
 <tr>
 <td>曾经申请过其他省提名</td>
-<td>-100</td>
+<td>0</td>
 </tr>
 <tr>
 <th>最高得分 – Factor 6</th>
-<th>-400</th>
+<th>-200</th>
 </tr>
 </tbody>
 </table>
