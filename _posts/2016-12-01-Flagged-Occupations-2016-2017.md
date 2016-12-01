@@ -64,7 +64,7 @@ categories: gsm
 | [399111] | Boat Builder and Repairer       | 小船建造者和修理匠 | 
 | [399112] | Shipwright                      | 造船木匠      | 
 
-更多说明请参考<a href="http://bbs.fcgvisa.com/t/eoi/6335/" target="blank">飞出国论坛</a> 。
+更多说明请参考<a href="http://bbs.fcgvisa.com/t/52-sol-2017-flagged-occupations-on-the-sol-for-2016-17/20175" target="blank">飞出国论坛</a> 。
 
 [133513]: http://anzsco.cgvisa.com/133513?target=_blank
 [221111]: http://anzsco.cgvisa.com/221111?target=_blank
