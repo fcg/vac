@@ -122,7 +122,11 @@ def upateceilling()
 
   doc = Nokogiri::HTML::parse(html, nil, charset)
 
-  table = doc.css(".table-100").last
+  # table = doc.css(".table-100").last
+
+  # trs = table.css("tbody>tr")
+
+  table = doc.css("table").last
 
   trs = table.css("tbody>tr")
 
@@ -137,6 +141,8 @@ def upateceilling()
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+
+      p td1anzsco4
 
       crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result from ceilings1617 where anzsco4 = ?",td1anzsco4)
 
