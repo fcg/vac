@@ -59,7 +59,7 @@ def parsenewee
 end
 
 def posttovac
-  bbslink = 'http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/要修改'
+  bbslink = 'http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/20819'
   csvdir = '../_data/ee/'
   postdir = '../_posts/'
 

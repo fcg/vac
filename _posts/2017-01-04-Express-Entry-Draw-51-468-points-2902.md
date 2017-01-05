@@ -30,4 +30,4 @@ categories: EE
 
 ------
 
-2017年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/要修改" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
+2017年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/20819" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
