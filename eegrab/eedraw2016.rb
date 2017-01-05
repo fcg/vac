@@ -59,7 +59,7 @@ def parsenewee
 end
 
 def posttovac
-  bbslink = 'http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/要修改'
+  bbslink = 'http://bbs.fcgvisa.com/t/2016-express-entry-ita-ee/9588'
   csvdir = '../_data/ee/'
   postdir = '../_posts/'
 
@@ -102,7 +102,7 @@ def posttovac
     frontstr = <<-YAML
 ---
 layout: post
-title:  "Express Entry #{eedate} 2017 年第 #{numinyear} 捞：#{eeinvitations}人，#{eerank}分"
+title:  "Express Entry #{eedate} 2016 年第 #{numinyear} 捞：#{eeinvitations}人，#{eerank}分"
 date:   #{eedate} 23:56:00  +0800
 categories: EE
 ---
@@ -110,7 +110,7 @@ YAML
 
     intrstr = <<-INTR
 
-飞出国：加拿大时间 #{eedate}，CIC 发布 Express Entry 2017 年第 #{numinyear} 捞（总第 #{currentNum} 捞），#{eeinvitations}人，#{eerank}分。
+飞出国：加拿大时间 #{eedate}，CIC 发布 Express Entry 2016 年第 #{numinyear} 捞（总第 #{currentNum} 捞），#{eeinvitations}人，#{eerank}分。
 
 截止到现在加拿大 EE 累计捞取 #{sumnum} 人，历次最低分 #{minrank} 分，历次最高分 #{maxrank}分。飞出国加拿大 EE 历次邀请情况记录：
 
@@ -137,7 +137,7 @@ YAML
 
 INTR
 
-    bbsstr = "2017年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。"
+    bbsstr = "2016年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。"
 
     File.open("#{postdir}#{eepostfile}.md", 'w') do |file|
       content = frontstr + intrstr + bbsstr
