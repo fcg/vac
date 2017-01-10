@@ -10,8 +10,8 @@ CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
 TURL = "http://www.border.gov.au/Trav/Work/Skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
-F1617 = '2016-11-31'.freeze
-MONTH = '2016-11'.freeze # 每次修改这里
+F1617 = '2016-12-31'.freeze
+MONTH = '2016-12'.freeze # 每次修改这里
 
 T190CSV = '190-1617'.freeze
 
