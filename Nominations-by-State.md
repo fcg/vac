@@ -99,4 +99,4 @@ title: 2016-2017 年度澳洲州担保
 
 更多请参考飞出国论坛： [澳洲州担保邀请记录][1]。
 
-  [1]: http://bbs.fcgvisa.com/t/topic/11116
+  [1]: http://bbs.fcgvisa.com/t/2016-2017/18110
