@@ -41,7 +41,7 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the 21&nbsp;December 2016&nbsp;round.
 > 
-> ![A graph showing the points for clients who were invited to apply in the 21 December 2016 round](/WorkinginAustralia/PublishingImages/21-dec-2016.jpg)&nbsp;
+> ![A graph showing the points for clients who were invited to apply in the 21 December 2016 round](http://www.border.gov.au/WorkinginAustralia/PublishingImages/21-dec-2016.jpg)&nbsp;
 > 
 > ​ 
 > 
