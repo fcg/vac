@@ -28,4 +28,4 @@ categories: gsm
 {% endfor %}
 </table>
 
-更多说明请参考<a href="http://bbs.fcgvisa.com/t/eoi/6335/" target="blank">飞出国论坛</a> 。
+更多说明请参考<a href="http://bbs.fcgvisa.com/t/2016-2017-sol-occupation-ceilings-for-each-occupation-on-the-skilled-occupation-list/15923/" target="blank">飞出国论坛</a> 。
