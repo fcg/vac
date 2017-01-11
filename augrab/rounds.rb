@@ -77,7 +77,7 @@ p tbs[2].css("td")[5].text.strip
   # dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0","").strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
   # dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
   # dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
-  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0","").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
+  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
   dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
 
   # accountants2211p = tbs[3].css("td")[2].text.strip
@@ -134,7 +134,8 @@ end
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/9-november-2016-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/23-november-2016-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/7-december-2016.aspx")
-parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/21-December-2016-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/21-December-2016-round-results.aspx")
+parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/4-January-2017-round-results.aspx")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
