@@ -67,7 +67,7 @@ def posttovac
 
   unposted = 'select TotalNum,date(EEDate), EEinvitations,EErank,NumInYear,MIBody from eedraws where posted is null'
   updateposted = 'update eedraws set posted = 1 where TotalNum = ?'
-  selectposted = 'select TotalNum,date(EEDate), EEinvitations,EErank,NumInYear from eedraws where TotalNum <= ?'
+  selectposted = 'select TotalNum,date(EEDate), EEinvitations,EErank,NumInYear from eedraws where TotalNum <= ? orderby TotalNum desc' # 修改为按倒叙排列
 
   arr = []
 
@@ -96,7 +96,8 @@ def posttovac
       db.execute(selectposted, currentNum) do |draw|
         csv << draw
       end
-      csv << ["\u98DE\u51FA\u56FD", "<b>\u7D2F\u8BA1\u4EBA\u6570\uFF1A</b>", sumnum, minrank, "<b>\u6700\u4F4E\u5206\u6570\uFF1A</b>"]
+      csv << [minrank, "飞出国", "累计人数:", sumnum, "最低分数:"]
+      # 飞出国	累计人数：	71081	最低分数：	450
     end
 
     frontstr = <<-YAML
@@ -115,20 +116,20 @@ YAML
 截止到现在加拿大 EE 累计捞取 #{sumnum} 人，历次最低分 #{minrank} 分，历次最高分 #{maxrank}分。飞出国加拿大 EE 历次邀请情况记录：
 
 <table border = "1" cellpadding="1" cellspacing="0">
-  <tr>
-    <th>EE 总邀请次数</th>
+  <tr>    
     <th>EE 邀请日期</th>
     <th>EE 邀请人数</th>
-    <th>年度邀请次数</th>
     <th>EE 邀请分数</th>
+    <th>年度邀请次数</th>
+    <th>EE 总邀请次数</th>
   </tr>
 {% for ee in site.data.ee.#{eecsvfile} %}
 <tr>
-<td> {{ ee.no }} </td>
 <td> {{ ee.date }} </td>
 <td> {{ ee.people }} </td>
-<td> {{ ee.numinyear }} </td>
 <td> {{ ee.points }} </td>
+<td> {{ ee.numinyear }} </td>
+<td> {{ ee.no }} </td>
 </tr>
 {% endfor %}
 </table>
