@@ -41,7 +41,7 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the 18 January 2017&nbsp;round.
 > 
-> ![A graph showing the points for clients who were invited to apply in the 18 January 2017 round](/WorkinginAustralia/PublishingImages/18-jan-2017.jpg)&nbsp;
+> ![A graph showing the points for clients who were invited to apply in the 18 January 2017 round](http://www.border.gov.au/WorkinginAustralia/PublishingImages/18-jan-2017.jpg)&nbsp;
 > 
 > ​ **Invitation process and cut offs**
 > 
