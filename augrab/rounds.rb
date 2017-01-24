@@ -135,7 +135,8 @@ end
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/23-november-2016-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/7-december-2016.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/21-December-2016-round-results.aspx")
-parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/4-January-2017-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/4-January-2017-round-results.aspx")
+parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/18-january-2017-round-results.aspx")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
