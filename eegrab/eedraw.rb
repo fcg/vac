@@ -67,7 +67,7 @@ def posttovac
 
   unposted = 'select TotalNum,date(EEDate), EEinvitations,EErank,NumInYear,MIBody from eedraws where posted is null'
   updateposted = 'update eedraws set posted = 1 where TotalNum = ?'
-  selectposted = 'select TotalNum,date(EEDate), EEinvitations,EErank,NumInYear from eedraws where TotalNum <= ? orderby TotalNum desc' # 修改为按倒叙排列
+  selectposted = 'select TotalNum,date(EEDate), EEinvitations,EErank,NumInYear from eedraws where TotalNum <= ? order by TotalNum desc' # 修改为按倒叙排列
 
   arr = []
 
