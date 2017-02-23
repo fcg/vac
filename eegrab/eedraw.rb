@@ -25,10 +25,10 @@ def parsenewee
   miee = doc.xpath(mieexpath).to_html
   invitations = doc.xpath(invitationsxpath).to_s.delete(',').to_i
   rank = doc.xpath(rankxpath).to_s.delete(',').to_i
-  eedate = doc.xpath(datexpath).to_s.strip.delete("\u00A0").split("\u2013")[1].strip
-  # eedate = doc.css(datecss).last.inner_text.to_s.delete("\u2013").strip.delete("\u00A0")
 
-  p eedate
+  ##eedate = doc.xpath(datexpath).to_s.strip.delete("\u00A0").split("\u2013")[1].strip
+  p eedate = doc.xpath(".//*[@id='mi-pr-express']/h3/time/text()").to_s
+  # eedate = doc.css(datecss).last.inner_text.to_s.delete("\u2013").strip.delete("\u00A0")
 
   # d = Date.parse(date).strftime('%F')
 
