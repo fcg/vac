@@ -14,10 +14,13 @@ def parsenewee
   # html = open("miee.html")
   doc = Nokogiri::HTML.parse(html, nil, charset)
 
-  invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
-  rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
+  # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
+  # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
+  invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
+  rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
-  datexpath = ".//*[@id='mi-pr-express']/h3/text()"
+  # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
+  datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
   mieexpath = ".//*[@id='mi-pr-express']"
 
   datecss = '.nowrap'
@@ -27,7 +30,7 @@ def parsenewee
   rank = doc.xpath(rankxpath).to_s.delete(',').to_i
 
   ##eedate = doc.xpath(datexpath).to_s.strip.delete("\u00A0").split("\u2013")[1].strip
-  p eedate = doc.xpath(".//*[@id='mi-pr-express']/h3/time/text()").to_s
+  p eedate = doc.xpath(datexpath).to_s
   # eedate = doc.css(datecss).last.inner_text.to_s.delete("\u2013").strip.delete("\u00A0")
 
   # d = Date.parse(date).strftime('%F')
