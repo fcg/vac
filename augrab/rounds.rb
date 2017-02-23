@@ -139,7 +139,9 @@ end
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/21-December-2016-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/4-January-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/18-january-2017-round-results.aspx")
-parse_current("https://www.border.gov.au/Trav/Work/Skil/1-february-2017-round-results")
+# parse_current("https://www.border.gov.au/Trav/Work/Skil/1-february-2017-round-results")
+# parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/15-febuary-2017-round-results.aspx")
+parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/1-march-2017-round-results.aspx")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
