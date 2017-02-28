@@ -47,7 +47,7 @@ puts '从数据库重新生成 csv'
 
   db.results_as_hash = false
 
-  rows = db.execute("select num,updated,inmbnum,inmbrank,overseasnum,overseasrank from mbeoi order by num asc")
+  rows = db.execute("select num,updated,inmbnum,inmbrank,overseasnum,overseasrank from mbeoi order by num desc")
 
   db.results_as_hash = true
   sums = db.execute("select max(num) nums,sum(inmbnum)+sum(overseasnum) ioall, sum(inmbnum) inall, sum(overseasnum) outall, min(inmbrank) minin, max(inmbrank) maxin,min(overseasrank) minoverseas,max(overseasrank)  maxoverseas from mbeoi")
@@ -90,7 +90,7 @@ intrstr = <<-INTR
 
 - 曼省境内 [SKILLED WORKERS IN MANITOBA]：
   - Number of Letters of Advice to Apply issued: #{inmbnum}
-  - Ranking score of lowest-ranked candidate invited:#{inmbrank}
+  - Ranking score of lowest-ranked candidate invited: #{inmbrank}
 - 境外 [SKILLED WORKERS OVERSEAS]：
   - Number of Letters of Advice to Apply issued: #{overseasnum} 
   - Ranking score of lowest-ranked candidate invited: #{overseasrank} 分
@@ -122,6 +122,7 @@ INTR
 
 end
 
-parse_eoi("http://www.immigratemanitoba.com/2016/12/21/eoi-draw-no-24/")
-parse_eoi("http://www.immigratemanitoba.com/2016/12/30/eoi-draw-no-25/")
-parse_eoi("http://www.immigratemanitoba.com/2017/01/30/eoi-draw-no-26/")
+parse_eoi("http://www.immigratemanitoba.com/2017/02/27/eoi-draw-no-27/")
+#parse_eoi("http://www.immigratemanitoba.com/2016/12/21/eoi-draw-no-24/")
+#parse_eoi("http://www.immigratemanitoba.com/2016/12/30/eoi-draw-no-25/")
+#parse_eoi("http://www.immigratemanitoba.com/2017/01/30/eoi-draw-no-26/")

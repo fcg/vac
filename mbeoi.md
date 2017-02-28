@@ -13,7 +13,7 @@ title: 曼省技术移民评分标准
 
 曼省 EOI 评分标准里如果有曼省6个月工作经验的话可以直接加500分，那样申请人就可以直接获得邀请。下面是飞出国整理的曼省历次邀请情况。
 
-## 曼省 EOI 2015-2016 年邀请情况记录 - 飞出国
+## 曼省 EOI 2015-2017 年邀请情况记录 - 飞出国
 
 <!-- num,updated,inmbnum,inmbrank,overseasnum,overseasrank -->
 <table border = "1" cellpadding="1" cellspacing="0">
