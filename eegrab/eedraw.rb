@@ -16,11 +16,14 @@ def parsenewee
 
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
-  invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
-  rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
+  # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
+  invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
+  # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
+  rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
-  datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
+  # datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
+  datexpath = ".//*[@id='mi-pr-express']/p[6]/strong[1]/text()"
   mieexpath = ".//*[@id='mi-pr-express']"
 
   datecss = '.nowrap'
@@ -119,7 +122,7 @@ YAML
 截止到现在加拿大 EE 累计捞取 #{sumnum} 人，历次最低分 #{minrank} 分，历次最高分 #{maxrank}分。飞出国加拿大 EE 历次邀请情况记录：
 
 <table border = "1" cellpadding="1" cellspacing="0">
-  <tr>    
+  <tr>
     <th>EE 邀请日期</th>
     <th>EE 邀请人数</th>
     <th>EE 邀请分数</th>
