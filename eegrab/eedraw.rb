@@ -119,6 +119,12 @@ YAML
 
 飞出国：加拿大时间 #{eedate}，CIC 发布 Express Entry 2017 年第 #{numinyear} 捞（总第 #{currentNum} 捞），#{eeinvitations}人，#{eerank}分。
 
+加拿大联邦技术移民 [Express Entry] 不要求申请人有雇主offer，也没有职业和专业限制，对加拿大受管制职业也不要求获得省政府的认证，只需要满足加拿大联邦技术移民 [FSW]，加拿大经验类移民 [CEC] 或 加拿大技工类移民 [FST]，然后就可以根据分数高低等待 EE 邀请，获得邀请后90天内提交签证申请，提交签证申请后有半年左右时间就可以获得签证了。
+
+2016年11月19日，加拿大 Express Entry CRS 评分标准调整，加拿大雇主 offer 大部分只能加 50 分，600 分以上申请人明显减少，同时随着加拿大联邦 EE 邀请人数增加，EE 邀请分数已经大大低于 450 分，当前最低是 #{minrank} 分就可以获得邀请，这给学历高，语言好，有加拿大学历或加拿大工作经验的申请人提供了方便快捷的申请方式，随着 #{minrank} 分上申请人被联邦捞取，加拿大安大略省省提名项目 400 分类别申请人里大部分获得邀请的应该是 400 - #{minrank} 之间申请人，对安省省提名 [HCP] 类别也是利好消息。
+
+如果不能符合加拿大联邦 EE 最低分数，也不满足安省 400 分项目类别，申请人还可以考虑 Express Entry 下的省提名项目，具体请见飞出国论坛或飞出国技术移民网站。
+
 截止到现在加拿大 EE 累计捞取 #{sumnum} 人，历次最低分 #{minrank} 分，历次最高分 #{maxrank}分。飞出国加拿大 EE 历次邀请情况记录：
 
 <table border = "1" cellpadding="1" cellspacing="0">
@@ -144,7 +150,20 @@ YAML
 
 INTR
 
-    bbsstr = "2017年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。"
+    bbsstr = <<-BBSS
+	
+2017年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。
+
+需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
+
+> 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
+
+[Express Entry]: http://flyabroad.io/ca/ee
+[FSW]: http://flyabroad.io/ca/ee/fsw
+[CEC]: http://flyabroad.io/ca/ee/cec
+[FST]: http://flyabroad.io/ca/ee/fst
+
+BBSS
 
     File.open("#{postdir}#{eepostfile}.md", 'w') do |file|
       content = frontstr + intrstr + bbsstr
