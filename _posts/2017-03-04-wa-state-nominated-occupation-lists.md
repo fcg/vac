@@ -17,7 +17,7 @@ categories: gsm
 
 <table border='1' cellpadding='0' cellspacing='0'>
 <tbody>
-<tr><th>ANZSCO</th> <th>QLD 州担保职业名称 - 飞出国</th> <th>担保状态</th> <th>担保列表-飞出国</th></tr>
+<tr><th>ANZSCO</th> <th>WA 西澳州担保职业名称 - 飞出国</th> <th>担保状态</th> <th>担保列表-飞出国</th></tr>
 <tr><td><a href="http://bbs.fcgvisa.com/t/848" target="_blank">111111</a></td>
 <td>行政长官或董事总经理 / Chief executive or managing director</td>
 <td>​Available​​​​​</td>
