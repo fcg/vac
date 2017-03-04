@@ -16,7 +16,6 @@ categories: gsm
 - 注#5：药剂师必须在澳大利亚药剂委员会注册，并符合委员会的注册标准，以在澳大利亚执业。
 - 注#6：医生必须在澳大利亚注册，并符合注册标准，以便在澳大利亚执业。
 
-
 <table border='1' cellpadding='0' cellspacing='0'>
 <tbody>
 <tr><th>ANZSCO</th> <th>QLD 州担保职业名称 - 飞出国</th> <th>190 及要求 - 飞出国</th> <th>489 及要求-飞出国</th></tr>
