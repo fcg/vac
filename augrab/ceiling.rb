@@ -141,12 +141,12 @@ def upateceilling()
 
     trs.each do |tr|
 
+	next if tr.xpath("td").empty?
+
       td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
-
-      p td1anzsco4
 
       crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result from ceilings1617 where anzsco4 = ?",td1anzsco4)
 
