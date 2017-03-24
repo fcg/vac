@@ -12,7 +12,7 @@ CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
 
 TURL = "http://www.border.gov.au/Trav/Work/Skil"
 
-CURRENTFN = "2017-03-01"  # 每次有新更新先修改这里
+CURRENTFN = "2017-03-15"  # 每次有新更新先修改这里
 
 F1617 = "ceilling-16-17"
 
@@ -85,7 +85,7 @@ categories: gsm
 <table border = "1" cellpadding="1" cellspacing="0">
 <tr>
 <th>职业代码</th>
-<th>职业名称</th>
+<th>职业名称 - 飞出国</th>
 <th>配额</th>
 <th>已邀请</th>
 <th>新增</th>
