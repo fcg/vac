@@ -162,6 +162,8 @@ INTR
 [FSW]: http://flyabroad.io/ca/ee/fsw
 [CEC]: http://flyabroad.io/ca/ee/cec
 [FST]: http://flyabroad.io/ca/ee/fst
+[Human Capital Category]: http://bbs.fcgvisa.com/t/oinp-human-capital/12184
+[HCP]: http://bbs.fcgvisa.com/t/oinp-human-capital/12184
 
 BBSS
 
