@@ -33,7 +33,7 @@ def parsenewee
   rank = doc.xpath(rankxpath).to_s.delete(',').to_i
 
   ##eedate = doc.xpath(datexpath).to_s.strip.delete("\u00A0").split("\u2013")[1].strip
-  p eedate = doc.xpath(datexpath).to_s
+  p eedate = doc.xpath(datexpath).to_s.gsub("\u00A0"," ")
   # eedate = doc.css(datecss).last.inner_text.to_s.delete("\u2013").strip.delete("\u00A0")
 
   # d = Date.parse(date).strftime('%F')
