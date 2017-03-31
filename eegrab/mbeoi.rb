@@ -121,7 +121,9 @@ INTR
 
 
 end
-parse_eoi("http://www.immigratemanitoba.com/2017/03/16/eoi-draw-no-28/")
+
+parse_eoi("http://www.immigratemanitoba.com/2017/03/30/eoi-draw-29/")
+#parse_eoi("http://www.immigratemanitoba.com/2017/03/16/eoi-draw-no-28/")
 #parse_eoi("http://www.immigratemanitoba.com/2017/02/27/eoi-draw-no-27/")
 #parse_eoi("http://www.immigratemanitoba.com/2016/12/21/eoi-draw-no-24/")
 #parse_eoi("http://www.immigratemanitoba.com/2016/12/30/eoi-draw-no-25/")
