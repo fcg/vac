@@ -77,8 +77,8 @@ p tbs[2].css("td")[2].text.strip
 p tbs[2].css("td")[5].text.strip
   # dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0","").strip, "%d %b %Y %I:%M %p").strftime("%Y-%m-%d %H:%M")
   # dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0","").strip, "%d %b %Y %I.%M %p").strftime("%Y-%m-%d %H:%M")
-  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
-  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M:%S %p").strftime("%Y-%m-%d %H:%M")
+  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M:%S %p").strftime("%Y-%m-%d %H:%M")
   # dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
   # dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
 
@@ -147,7 +147,8 @@ end
 # parse_current("https://www.border.gov.au/Trav/Work/Skil/1-february-2017-round-results")
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/15-febuary-2017-round-results.aspx")
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/1-march-2017-round-results.aspx")
-parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/15-march-2017-round-results.aspx")
+# parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/15-march-2017-round-results.aspx")
+parse_current("http://www.border.gov.au/Trav/Work/Skil/29-march-2017-round-results")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
