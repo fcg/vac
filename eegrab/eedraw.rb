@@ -17,14 +17,18 @@ def parsenewee
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
-  invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
+  # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
+  invitationsxpath = "/html/body/div/div/main/section[1]/details[2]/p[5]/strong[4]/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
-  rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
+  # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
+  rankxpath = "/html/body/div/div/main/section[1]/details[2]/p[6]/strong[3]/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
-  datexpath = ".//*[@id='mi-pr-express']/p[6]/strong[1]/text()"
-  mieexpath = ".//*[@id='mi-pr-express']"
+  # datexpath = ".//*[@id='mi-pr-express']/p[6]/strong[1]/text()"
+  datexpath = "html/body/div/div/main/section[1]/details[2]/p[6]/strong[1]/text()"
+  # mieexpath = ".//*[@id='mi-pr-express']"
+  mieexpath = "html/body/div/div/main/section[1]/details[2]"
 
   datecss = '.nowrap'
 
@@ -170,7 +174,7 @@ INTR
 BBSS
 
     File.open("#{postdir}#{eepostfile}.md", 'w') do |file|
-      content = frontstr + intrstr + bbsstr
+      content = frontstr + intrstr + mibody + bbsstr
 
       file.write content
     end
