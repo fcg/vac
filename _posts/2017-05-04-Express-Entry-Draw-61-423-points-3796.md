@@ -38,7 +38,27 @@ categories: EE
 
 ------
 
-	
+## Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system
+
+### Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system #61 – May 4, 2017
+
+The Minister of Citizenship and Immigration, pursuant to section 10.3 of the _Immigration and Refugee Protection Act_, gives the annexed _Ministerial Instructions Respecting Invitations to Apply for Permanent Residence under the Express Entry System (May 4, 2017)_.
+
+Ottawa, May 4, 2017
+
+Ahmed D. Hussen  
+_Minister of Citizenship and Immigration_
+
+Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system (May 4, 2017)
+
+#### Determination — number of invitations
+
+**1.** (1) For the purposes of paragraph 10.2(1)(_b_) of the _Immigration and Refugee Protection Act_, the number of invitations that may be issued during the period beginning on **May 4, 2017**, and ending on **May 5, 2017**, is **3,796**.
+
+#### Required rank
+
+(2) Foreign nationals who, on **May 4, 2017**, at **12:20:49 UTC**, have been assigned a total of **423** points or more under the Comprehensive Ranking System that is set out in the _Ministerial Instructions Respecting the Express Entry System_, as published in the Canada Gazette, Part&nbsp;I, on December&nbsp;1, 2014, and as amended from time to time, occupy the rank required to be invited to make an application for permanent residence.
+
 2017年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/20819" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
