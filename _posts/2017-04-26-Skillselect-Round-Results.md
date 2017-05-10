@@ -49,9 +49,7 @@ categories: gsm
 > 
 > | Visa Subclass | Points score | Visa date of effect |
 > | --- | --- | --- |
-> | Skilled - Independent (subclass 189) | 60 | 
-> 26/04/2017 12:03 pm
->  |
+> | Skilled - Independent (subclass 189) | 60 | 26/04/2017 12:03 pm |
 > | Skilled - Regional Provisional (subclass 489) | 60 | 23/04/2017 2:53 pm |
 > 
 > Due to high levels of demand, and in keeping with previous years, the below occupation groups will be subject to pro rata arrangements to ensure availability of invitations across the programme year. SkillSelect first allocates available places to 
