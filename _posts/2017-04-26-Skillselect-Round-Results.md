@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "澳洲技术移民 Skillselect EOI  2017-04-12 邀请结果，189 签证邀请 800 份，489 亲属担保 29 份"
-date:   2017-04-12 13:56:00  +0800
+title:  "澳洲技术移民 Skillselect EOI  2017-04-26 邀请结果，189 签证邀请 651 份，489 亲属担保 21 份"
+date:   2017-04-26 13:56:00  +0800
 categories: gsm
 ---
 
-## 澳洲技术移民 Skillselect EOI  2017-04-12 邀请结果
+## 澳洲技术移民 Skillselect EOI  2017-04-26 邀请结果
 
-飞出国：2017-04-12 澳洲技术移民 EOI 发出 189 签证邀请 800 份，489 亲属担保 29 份，
-截止到 2017-04-12，澳洲技术移民 EOI 2016-2017 年度共发出 189 邀请 27,143 份，489 邀请 1203 份，总计 28,346 份。
+飞出国：2017-04-26 澳洲技术移民 EOI 发出 189 签证邀请 651 份，489 亲属担保 21 份，
+截止到 2017-04-26，澳洲技术移民 EOI 2016-2017 年度共发出 189 邀请 27,794 份，489 邀请 1224 份，总计 29,018 份。
 
-本次邀请中，189 邀请分数 60 分（截止到 2017-04-11 23:50），489 邀请分数 60（截止到 2017-04-10 21:13）。
+本次邀请中，189 邀请分数 60 分（截止到 2017-04-26 12:03），489 邀请分数 60（截止到 2017-04-23 14:53）。
 
-# 12 April 2017 round results
+# 26 April 2017
 > <!--Page content-->
 > Page Content
 > 
-> ​​​​​​​​​​The table below shows the number of invitations issued in the SkillSelect invitation round on&nbsp;12 April 2017.
+> ​​​​​​​​​​The table below shows the number of invitations issued in the SkillSelect invitation round on&nbsp;26 April 2017.
 > 
-> **Invitations issued on&nbsp;12 April 2017**
+> **Invitations issued on&nbsp;26 April 2017**
 > 
 > | Visa Subclass | Number |
 > | --- | --- |
-> | Skilled - Independent (subclass 189) | 800 |
-> | Skilled - Regional Provisional (subclass 489) | 29 |
+> | Skilled - Independent (subclass 189) | 651 |
+> | Skilled - Regional Provisional (subclass 489) | 21 |
 > 
 > During 2016-17 the following numbers of invitations have been issued:
 > 
@@ -31,17 +31,17 @@ categories: gsm
 > 
 > | Visa subclass | Jul | Aug | Sep | Oct | Nov | Dec | Jan | Feb | Mar | Apr | May | June | Total |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Skilled - Independent (subclass 189) | 3050 | 2800 | 4200 | 2400&nbsp; | 1861 | 2465&nbsp; | 2016 | 2397 | 5154 | 800 | 0 | 0 | 27,143 |
-> | Skilled – Regional Provisional (subclass 489) | 200 | 200 | 363 | 100 | 69 | 69 | 44 | 55 | 74 | 29 | 0 | 0 | 1203 |
-> | **Total** | **3250** | **3000** | **4563** | **2500** | **1930** | **2534** | **2060** | **2452** | **5228** | **829** | **0** | **0** | **28,346** |
+> | Skilled - Independent (subclass 189) | 3050 | 2800 | 4200 | 2400&nbsp; | 1861 | 2465&nbsp; | 2016 | 2397 | 5154 | 1451 | 0 | 0 | 27,794 |
+> | Skilled – Regional Provisional (subclass 489) | 200 | 200 | 363 | 100 | 69 | 69 | 44 | 55 | 74 | 50 | 0 | 0 | 1224 |
+> | **Total** | **3250** | **3000** | **4563** | **2500** | **1930** | **2534** | **2060** | **2452** | **5228** | **1501** | **0** | **0** | **29,018** |
 > 
 > The above figures do not include invitations issued for State and Territory Government nominated visa subclasses. State and Territory Governments nominate throughout the month for specific points tested skilled migration and business innovation and investment visas. Separate results for these visa subclasses are provided monthly.
 > 
-> ### 12&nbsp;April 2017 results
+> ### 26&nbsp;April 2017 results
 > 
-> The following graph shows the points for clients who were invited to apply in the&nbsp;12 April 2017 round.
+> The following graph shows the points for clients who were invited to apply in the&nbsp;26 April 2017 round.
 > 
-> ![Invitations by Points Score 12 April 2017](https://www.border.gov.au/WorkinginAustralia/PublishingImages/12-april-2017-skillselect.jpg)
+>  ![](https://www.border.gov.au/WorkinginAustralia/PublishingImages/26-april-2017-skillselect.jpg)
 > 
 > **Invitation process and cut offs**
 > 
@@ -49,8 +49,10 @@ categories: gsm
 > 
 > | Visa Subclass | Points score | Visa date of effect |
 > | --- | --- | --- |
-> | Skilled - Independent (subclass 189) | 60 | 11/04/2017 11:50 pm |
-> | Skilled - Regional Provisional (subclass 489) | 60 | 10/04/2017 9:13 pm |
+> | Skilled - Independent (subclass 189) | 60 | 
+> 26/04/2017 12:03 pm
+>  |
+> | Skilled - Regional Provisional (subclass 489) | 60 | 23/04/2017 2:53 pm |
 > 
 > Due to high levels of demand, and in keeping with previous years, the below occupation groups will be subject to pro rata arrangements to ensure availability of invitations across the programme year. SkillSelect first allocates available places to 
  [Skilled – Independent visas (subclass 189)](http://www.border.gov.au/Trav/Visa-1/189-) and then the remaining to 
@@ -65,21 +67,32 @@ categories: gsm
 > - Software and Applications Programmers
 > - Computer Network Professionals.
 > 
-> **Points scores and the visa dates of effect cut off for the occupations in the&nbsp;12 April 2017 invitation round**.
+> **Points scores and the visa dates of effect cut off for the occupations in the&nbsp;26 April 2017 invitation round**.
 > 
 > Please note: all pro rata occupations have reached their ceiling for this programme year. No further invitations will be offered for these occupations until the 2017-2018 programme year.
 > 
 > | Occupation Identification | Description | Points score | Visa date of effect |
 > | --- | --- | --- | --- |
-> | 2211 | Accountants | 70 |  03/04/2017 2:20 pm |
-> | 2212 | Auditors, Company Secretaries and Corporate Treasurers | 70 |  07/04/2017 4:28 pm |
-> | 2334 | Electronics Engineer | 60 | 19/12/2016 3:31 pm |
-> | 2335 | Industrial, Mechanical and Production Engineers | 65 | 19/11/2016 2:49 pm |
+> | 2211 | Accountants | 70 | 
+> 03/04/2017 2:20 pm
+>  |
+> | 2212 | Auditors, Company Secretaries and Corporate Treasurers | 70 | 
+> 07/04/2017 4:28 pm
+>  |
+> | 2334 | Electronics Engineer | 70 | 
+> 20/04/2017 2:54 pm
+>  |
+> | 2335 | Industrial, Mechanical and Production Engineers | 75 | 
+> 19/04/2017 1:01 pm
+>  |
 > | 2339 | Other Engineering Professionals | 65 | 3/01/2017 11:21 am |
 > | 2611 | ICT Business and ​System Analysts | 70 | 26/03/2017&nbsp; 11:09 pm |
-> | 2613 | Software and Applications Programmers | 65 |  04/04/2017 4:23 pm |
+> | 2613 | Software and Applications Programmers | 65 | 
+> 04/04/2017 4:23 pm
+>  |
 > | 2631 | Computer Network Professionals | 65 | 3/02/2017 12:49 am |
 > 
+> ​ 
 
 更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2016-2017 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2016-2017/17031)。
 
