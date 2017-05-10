@@ -73,26 +73,14 @@ categories: gsm
 > 
 > | Occupation Identification | Description | Points score | Visa date of effect |
 > | --- | --- | --- | --- |
-> | 2211 | Accountants | 70 | 
-> 03/04/2017 2:20 pm
->  |
-> | 2212 | Auditors, Company Secretaries and Corporate Treasurers | 70 | 
-> 07/04/2017 4:28 pm
->  |
-> | 2334 | Electronics Engineer | 70 | 
-> 20/04/2017 2:54 pm
->  |
-> | 2335 | Industrial, Mechanical and Production Engineers | 75 | 
-> 19/04/2017 1:01 pm
->  |
+> | 2211 | Accountants | 70 |  03/04/2017 2:20 pm |
+> | 2212 | Auditors, Company Secretaries and Corporate Treasurers | 70 | 07/04/2017 4:28 pm |
+> | 2334 | Electronics Engineer | 70 | 20/04/2017 2:54 pm |
+> | 2335 | Industrial, Mechanical and Production Engineers | 75 | 19/04/2017 1:01 pm |
 > | 2339 | Other Engineering Professionals | 65 | 3/01/2017 11:21 am |
 > | 2611 | ICT Business and ​System Analysts | 70 | 26/03/2017&nbsp; 11:09 pm |
-> | 2613 | Software and Applications Programmers | 65 | 
-> 04/04/2017 4:23 pm
->  |
+> | 2613 | Software and Applications Programmers | 65 | 04/04/2017 4:23 pm |
 > | 2631 | Computer Network Professionals | 65 | 3/02/2017 12:49 am |
-> 
-> ​ 
 
 更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2016-2017 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2016-2017/17031)。
 
