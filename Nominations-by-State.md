@@ -77,6 +77,7 @@ title: 2016-2017 年度澳洲州担保
 > The number of intending migrants who received nominations from State and Territory Governments from 1 July 2015 to the end of June 2016 is shown in the following table:
 
 | ​签证类别 | ACT | NSW | NT | Qld | SA | Tas. | Vic. | WA | 飞出国 |
+| ----- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ---- | ---- |
 | 190  |504  |3902 | 121  |404  |1952  |213  |1820  |328  |**9244** |
 | 489  |0 | 1331  |240  |147  |461  |86  |3  |11  |**2279** |
 | 188  |2  |283  |1  |149  |87  |48  |1726  |130  |**2426** |

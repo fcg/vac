@@ -203,23 +203,6 @@ def save_month
   eoi190.push MONTH
   db.execute('insert into eoi190 (ACT, NSW, NT, Qld, SA, Tas, Vic, WA, Total, updated) VALUES (?,?,?,?,?,?,?,?,?,?)', eoi190)
 
-	# 具体月份 web
-  CSV.open("#{DATADIR}#{F1617}.csv", 'w') do |csv|
-    csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
-
-    trs.each_with_index do |tr, rindex|
-      subclass = []
-      tds = tr.css('td')
-
-      tds.each_with_index do |td, dindex|
-        subclass.push CLASSARRAY[rindex] if dindex.zero?
-        subclass.push getTdText(td).strip.delete(',').to_i if dindex > 0
-      end
-
-      csv << subclass
-    end
-  end
-
 	# 190-1617 db
 
 	rows = db.execute("select ACT,NSW,NT,Qld,SA,Tas,Vic,WA,Total,updated from eoi190 order by updated desc")
@@ -237,6 +220,29 @@ def save_month
 	end
 end
 
+def save_month_CSV
+
+    table = getMonthTable
+    trs = table.css('tbody>tr')
+    	# 具体月份 web
+    CSV.open("#{DATADIR}#{F1617}.csv", 'w') do |csv|
+    csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
+
+    trs.each_with_index do |tr, rindex|
+      subclass = []
+      tds = tr.css('td')
+
+      tds.each_with_index do |td, dindex|
+        subclass.push CLASSARRAY[rindex] if dindex.zero?
+        subclass.push getTdText(td).strip.delete(',').to_i if dindex > 0
+      end
+      p subclass
+      csv << subclass
+    end
+  end
+
+end
+
 def save_total
   table = getTotalTable
 
@@ -246,12 +252,12 @@ def save_total
     csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
 
     trs.each_with_index do |tr, rindex|
-      next if rindex.zero?
+      # next if rindex.zero?
       subs = []
       tds = tr.css('td')
 
       tds.each_with_index do |td, dindex|
-        subs.push CLASSARRAY[rindex - 1] if dindex.zero?
+        subs.push CLASSARRAY[rindex] if dindex.zero?
         subs.push getTdText(td).strip.delete(',').to_i if dindex > 0
       end
       p subs
@@ -278,10 +284,12 @@ def getTotalTable
   table = doc.css('.table-100.small')[1]
 end
 
-download_skillselect
+# download_skillselect
 save_total
-save_month
-post
+# save_month
+# save_month_CSV
+# post
+
 # getTotalTable()
 # create190table()
 # download_skillselect()

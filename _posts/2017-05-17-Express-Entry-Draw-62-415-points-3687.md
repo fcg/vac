@@ -58,8 +58,6 @@ Ministerial Instructions respecting invitations to apply for permanent residence
 #### Required rank
 
 (2) Foreign nationals who, on **May 17, 2017**, at **13:17:03 UTC**, have been assigned a total of **415** points or more under the Comprehensive Ranking System that is set out in the _Ministerial Instructions Respecting the Express Entry System_, as published in the Canada Gazette, Part&nbsp;I, on December&nbsp;1, 2014, and as amended from time to time, occupy the rank required to be invited to make an application for permanent residence.
-
-- [Read previous instructions respecting invitations](/english/department/mi/ita.asp)
 	
 2017年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/20819" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
