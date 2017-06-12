@@ -154,7 +154,8 @@ end
 # parse_current("http://www.border.gov.au/Trav/Work/Skil/29-march-2017-round-results")
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/12-april-2017-round-results.aspx")
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/26-april-2017-round-results.aspx")
-parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/10-may-2017-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/10-may-2017-round-results.aspx")
+parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/24-may-2017-round-results.aspx")
 
 def parse2016()
 # 解析文档，下载每次的数据，解析并post
