@@ -284,11 +284,11 @@ def getTotalTable
   table = doc.css('.table-100.small')[1]
 end
 
-# download_skillselect
+download_skillselect
+save_month
+save_month_CSV
 save_total
-# save_month
-# save_month_CSV
-# post
+post
 
 # getTotalTable()
 # create190table()
