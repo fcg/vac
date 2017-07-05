@@ -5,7 +5,7 @@ date:   2017-07-05 07:56:00  +0800
 categories: gsm
 ---
 
-### 2016-2017 年度最新南澳州担保职业清单 - 飞出国
+## 2017-2018 年度最新南澳州担保职业清单 - 飞出国
 
 南澳州担保工作经验要求 - 飞出国：
 
@@ -16,7 +16,9 @@ categories: gsm
 5. 澳洲境外申请人如果想用澳洲工作经验加分，那么必须至少有6个月的工作经验是在南澳获得才可以。 If you are offshore and relying on Australian skilled work experience to meet the work experience requirement you are only eligible to apply if at least 6 months of this has been achieved in South Australia.
 6. 澳洲境内申请人如果想用澳洲工作经验加分，那么必须至少有6个月的工作经验是在南澳获得，并且当前在南澳从事技术工作才可以。 If you are onshore and relying on Australian skilled work experience to meet the work experience requirement, you are only eligible to apply if at least 6 months of this has been achieved in South Australia and you are currently working in a skilled occupation in South Australia (minimum 20 hours per week). 
 
-南澳州担保语言要求：未做特殊要求的雅思4个6或同等其他语言考试成绩，雅思A类或G类均可，3年之内获得；
+南澳州担保语言要求：未做特殊要求的雅思4个6或同等其他语言考试成绩，雅思A类或G类均可，同时也认可其他 DIBP 认可的考虑，例如 PTE，托福 iBT，英语成绩3年之内获得即有效；2017-2018年度澳洲技术移民年龄限制到了45周岁（之前50），下面南澳列表是南澳 2017年7月4日发布的。
+
+### 2017年7月4日南澳州担保职业列表 - flyabroad
 
 <table border='1' cellpadding='0' cellspacing='0'>
 <tbody>
