@@ -213,7 +213,7 @@ categories: gsm
 </tr>
 <tr><td><a href="http://bbs.fcgvisa.com/t/1028" target="_blank">234213</a></td>
 <td>葡萄酒生产商 / Wine Maker</td>
-<td></td>
+<td>4个6，仅489,wine区机会多</td>
 <td>高 2017-07-05</td>
 </tr>
 <tr><td><a href="http://bbs.fcgvisa.com/t/1587" target="_blank">241111</a></td>
