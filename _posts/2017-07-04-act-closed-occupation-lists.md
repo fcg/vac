@@ -353,7 +353,7 @@ ANZSCO | ACT Closed 职业 - 飞出国 | ACT closed Occupation - flyabroad | 状
 [342311] | 商业机械技工 | Business Machine Mechanic | 关闭
 [342313] | 电子设备行业工人 | Electronic Equipment Trades Worker | 关闭
 [342314] | 电子仪器行业工人（普通） | Electronic Instrument Trades Worker (General) | 关闭
-[342315] | 电子仪器行业工人（特别类） | Elect. | Instr. Trades Worker (Special Class) | 关闭
+[342315] | 电子仪器行业工人（特别类） | Elect. Instr. Trades Worker (Special Class) | 关闭
 [342411] | 线缆工（数据通信） | Cabler (Data & Telecommunications) | 关闭
 [342413] | 电信接线员 | Telecommunications Linesworker | 关闭
 [351111] | 面包师 | Baker | 关闭
