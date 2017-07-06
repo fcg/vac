@@ -472,6 +472,10 @@ categories: gsm
 | [411716]  | 青年工人/Youth Worker |  STSOL |  ACWA |
 | [234518]  | 动物学家/Zoologist |  MLTSSL |  VETASSESS |
 
+需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcg-flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
+
+> 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
+
 [​141999]: http://bbs.fcgvisa.com/t/flyabroad/?target=blank
 [221111]: http://bbs.fcgvisa.com/t/flyabroad/895?target=blank
 [224111]: http://bbs.fcgvisa.com/t/flyabroad/921?target=blank

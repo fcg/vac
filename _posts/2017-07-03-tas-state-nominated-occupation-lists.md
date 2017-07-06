@@ -177,10 +177,9 @@ ANZSCO | 塔州紧缺职业-飞出国 | Tas Occupation - flyabroad | 境外489�
 [411711] | 社区工作家 | Community Worker | 雅思4个7 | VETASSESS
 [411712] | 残疾人服务主任 | Disabilities Services Officer | 雅思4个7 | VETASSESS
 [411715] | 安老院主任 | Residential Care Officer | 雅思4个7 | VETASSESS
+[411716] | 青年工作者 | Youth Worker | 雅思4个7 | VETASSESS
 
-更多参考飞出国论坛：[维多利亚州担保申请要求，流程及注意事项](http://bbs.fcgvisa.com/t/vic/2887)。  
-
-需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
+需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcg-flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
