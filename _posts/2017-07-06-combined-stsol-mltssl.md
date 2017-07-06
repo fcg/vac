@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "2017-07 澳大利亚技术移民职业列表"
+title:  "201707 澳大利亚技术移民职业列表"
 date:   2017-07-06 07:56:00  +0800
 categories: gsm
 ---
 
 ## 2017年7月最新澳洲技术移民合并职业列表 - 飞出国
+
+> Combined list of eligible skilled occupations 201707
 
 | ANZSCO | 职业名称 - 飞出国 | 职业列表 | 评估机构 - fcgvisa |
 | ------ | ------ | ------ | ------ |
