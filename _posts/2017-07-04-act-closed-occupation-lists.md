@@ -421,7 +421,6 @@ ANZSCO | ACT Closed 职业 - 飞出国 | ACT closed Occupation - flyabroad | 状
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
-链接
 [111111]: http://bbs.fcgvisa.com/t/fcg/848
 [111211]: http://bbs.fcgvisa.com/t/fcg/849
 [121111]: http://bbs.fcgvisa.com/t/fcg/875
