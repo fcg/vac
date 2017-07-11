@@ -588,7 +588,7 @@ NT 基本把留学生分为在 NT 完成2年全日制课程的留学生（职业
 </tbody>
 </table>
 
-更多参考飞出国论坛：[南澳州担保申请要求，流程及注意事项 Immigration SA State Nominated Occupation Lists](http://bbs.fcgvisa.com/t/immigration-sa-state-nominated-occupation-lists/3009)。  
+更多参考飞出国论坛：[Nt 北领地州担保申请要求，流程及注意事项](http://bbs.fcgvisa.com/t/nt/2566)。  
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 

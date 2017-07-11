@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "201707 澳大利亚技术移民职业列表"
+title:  "201707 澳大利亚 457,186 雇主担保职业列表"
 date:   2017-07-06 07:56:00  +0800
 categories: gsm
 ---
 
-## 2017年7月最新澳洲技术移民合并职业列表 - 飞出国
+## 2017年7月最新澳洲雇主担保合并职业列表（457,186） - 飞出国
 
 > Combined list of eligible skilled occupations 201707
 
