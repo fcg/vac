@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Express Entry 2017-07-12 2017 年第 15 捞：3202人，440分"
+title:  "Express Entry 2017-07-12 2017 年第 17 捞：3202人，440分"
 date:   2017-07-12 23:56:00  +0800
 categories: EE
 ---
 
-飞出国：加拿大时间 2017-07-12，CIC 发布 Express Entry 2017 年第 15 捞（总第 65 捞），3202人，440分。
+飞出国：加拿大时间 2017-07-12，CIC 发布 Express Entry 2017 年第 17 捞（总第 67 捞），3202人，440分。
 
 2016年11月19日，加拿大联邦技术移民快速通道类别更改评分标准，[降低job offer加分，增加加拿大学历加分](http://bbs.fcgvisa.com/t/significant-changes-to-comprehensive-ranking-system-crs-for-express-entry-immigration-system/19886)，2017年6月6日，EE CRS 进一步调整评分标准，增加[加拿大亲属分数及法语额外加分](http://www.flyabroadnews.com/express-entry-comprehensive-ranking-system-crs-2017-flyabroad/)。
 
@@ -58,8 +58,6 @@ Ministerial Instructions respecting invitations to apply for permanent residence
 #### Required rank
 
 (2) Foreign nationals who, on **July&nbsp;12, 2017**, at **16:31:04 UTC**, have been assigned a total of **440** points or more under the Comprehensive Ranking System that is set out in the _Ministerial Instructions Respecting the Express Entry System_, as published in the Canada Gazette, Part&nbsp;I, on December&nbsp;1, 2014, and as amended from time to time, occupy the rank required to be invited to make an application for permanent residence.
-
-- [Read previous instructions respecting invitations](/english/department/mi/ita.asp)
 	
 2017年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/20819" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
