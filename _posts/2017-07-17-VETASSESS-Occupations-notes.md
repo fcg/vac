@@ -45,6 +45,7 @@ ANZSCO | 职业-fcgvisa | 特殊要求 - 飞出国 | 英文要求 - flyabroad
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
+[224111]: http://bbs.fcgvisa.com/t/fcg/921?target=blank
 [234111]: http://bbs.fcgvisa.com/t/fcg/1023?target=blank
 [234112]: http://bbs.fcgvisa.com/t/fcg/1024?target=blank
 [212111]: http://bbs.fcgvisa.com/t/fcg/863?target=blank
