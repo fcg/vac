@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2017年7月 VETASSESS 评估的有特殊要求的职业"
-date:   2017-07-17 10:56:00  +0800
+date:   2017-07-17 11:56:00  +0800
 categories: GSM
 ---
 
@@ -45,7 +45,6 @@ ANZSCO | 职业-fcgvisa | 特殊要求 - 飞出国 | 英文要求 - flyabroad
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
-0
 [234111]: http://bbs.fcgvisa.com/t/fcg/1023?target=blank
 [234112]: http://bbs.fcgvisa.com/t/fcg/1024?target=blank
 [212111]: http://bbs.fcgvisa.com/t/fcg/863?target=blank
