@@ -148,7 +148,7 @@ def upateceilling()
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
-      crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result from ceilings1617 where anzsco4 = ?",td1anzsco4)
+      crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result from ceilings where anzsco4 = ?",td1anzsco4)
 
       lastresutl = crow[0][5]
 
@@ -165,28 +165,28 @@ def upateceilling()
 
 end
 
-# ceiling－16-17 用于 SOL ，按邀请发放的申请人数排序
-# 2016-07-06 类用于当前的 post ，不排序，change
+def recreateceilingtable()
 
-# def builddatecsv
-#
-#   db = SQLite3::Database.open "csol.db"
-#
-#   CSV.open("#{DATADIR}#{F1617}.csv", "w") do |csv|
-#     csv << %w(anzsco4 bbsid nameen namecn ceiling lastresult result change remain)
-#
-#     crows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, 0 AS lastresult, result, result AS change, ceiling - result AS remain from ceilings1617 order by result desc")
-#
-#     crows.each do |row|
-#       csv << row
-#     end
-#
-#   end
-#
-# end
-#
-# builddatecsv()
+  db = SQLite3::Database.open "csol.db"
 
+    # Create a table
+    rows = db.execute <<-SQL
+      create table ceilings (
+      Id INTEGER PRIMARY KEY AUTOINCREMENT,
+      anzsco4 TEXT DEFAULT NULL,
+      nameen TEXT DEFAULT NULL,
+      namecn TEXT DEFAULT NULL,
+      ceiling INTERGER DEFAULT NULL,
+      result INTERGER DEFAULT NULL,
+      bbsid INTERGER DEFAULT NULL
+      );
+    SQL
+
+    db.close
+
+end
+
+recreateceilingtable()
 upateceilling()
 updatecsv()
 postceiling()

@@ -295,3 +295,34 @@ post
 # download_skillselect()
 # get_and_save
 # get_and_save()
+
+# 签证类型, 州（7个）, 邀请人数, type(15还是1516), 当前时间
+# nominations  任何一个州的改变都重新插入，total 自动汇总
+#
+# curent-nominations-2016
+# curent-nominations-1516
+# Visa subclass	ACT	NSW	NT	Qld	SA	Tas.	Vic.	WA	Total
+def createnominations()
+
+  db = SQLite3::Database.open "csol.db"
+
+  rows = db.execute <<-SQL
+    create table nominations (
+      Id INTEGER PRIMARY KEY AUTOINCREMENT,
+      visa TEXT DEFAULT NULL,
+      act INTEGER DEFAULT NULL,
+      nsw INTEGER DEFAULT NULL,
+      nt INTEGER DEFAULT NULL,
+      qld INTEGER DEFAULT NULL,
+      sa INTEGER DEFAULT NULL,
+      tas INTEGER DEFAULT NULL,
+      vic INTEGER DEFAULT NULL,
+      wa INTEGER DEFAULT NULL,
+      type TEXT DEFAULT NULL,
+      updated TEXT DEFAULT NULL
+    );
+  SQL
+
+  db.close
+
+end
