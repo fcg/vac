@@ -4,18 +4,21 @@ require 'openssl'
 require 'sqlite3'
 require 'csv'
 require 'net/http'
+require "yaml"
+require 'date'
+require 'reverse_markdown'
 
 CEILINGS   = "//*[@id='tab-content-3']/table".freeze
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
 TURL = "http://www.border.gov.au/Trav/Work/Skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
-F1617 = '2017-06-31'.freeze
-MONTH = '2017-06'.freeze # 每次修改这里
+F1718 = '2017-07-31'.freeze
+MONTH = '2017-07'.freeze # 每次修改这里
 
-T190CSV = '190-1617'.freeze
+T190CSV = '190-1718'.freeze
 
-ZDBTOTAL = 'zdb-total-1617'.freeze
+ZDBTOTAL = 'zdb-total-1718'.freeze
 
 DATADIR = '../_data/zdb/'.freeze
 
@@ -26,9 +29,9 @@ POSTDIR = '../_posts/'.freeze
 
 T190 = <<-TH.freeze
 
-### 飞出国 2016-2017 年度各州 190 州担保数据记录
+### 飞出国 2017-2018 年度各州 190 州担保数据记录
 
-下面数据只针对 2016-2017 年度澳洲 190 州担保各州担保数据。
+下面数据只针对 2017-2018 年度澳洲 190 州担保各州担保数据。
 
 <table border = "1" cellpadding="1" cellspacing="0">
 <tr>
@@ -43,7 +46,7 @@ T190 = <<-TH.freeze
 <th>西澳</th>
 <th>总计</th>
 </tr>
-{% for zdb in site.data.zdb.190-1617 %}
+{% for zdb in site.data.zdb.190-1718 %}
 <tr>
 <td> {{ zdb.updated }} </td>
 <td> {{ zdb.ACT }} </td>
@@ -74,7 +77,7 @@ TMONTH = <<-TBODY.freeze
     <th>西澳</th>
     <th>总计</th>
   </tr>
-{% for zdb in site.data.zdb.#{F1617} %}
+{% for zdb in site.data.zdb.#{F1718} %}
 <tr>
 <td> {{ zdb.Class }} </td>
 <td> {{ zdb.ACT }} </td>
@@ -95,11 +98,11 @@ FRONTSTR = <<-YAML.freeze
 ---
 layout: post
 title:  "#{MONTH} 澳洲州担保邀请数据"
-date:   #{F1617} 23:56:00  +0800
+date:   #{F1718} 23:56:00  +0800
 categories: gsm
 ---
 
-飞出国澳洲 SkillSelect 2016-2017 年度州担保邀请数据统计。
+飞出国澳洲 SkillSelect 2017-2018 年度州担保邀请数据统计。
 
 ## #{MONTH} 澳洲州担保邀请数据
 
@@ -107,7 +110,7 @@ YAML
 
 ENDSTR = <<-ENDS.freeze
 
-更多请参考飞出国论坛： [2016-2017 年度澳洲州担保邀请记录](http://bbs.fcgvisa.com/t/2016-2017/18110/) 。
+更多请参考飞出国论坛： [2017-2018 年度澳洲州担保邀请记录](http://bbs.fcgvisa.com/t/2017-2018/18110/) 。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
@@ -150,7 +153,7 @@ end
 
 def post
   # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
-	File.open("#{POSTDIR}#{F1617}-State-Territory-nominations.md", 'w') do |file|
+	File.open("#{POSTDIR}#{F1718}-State-Territory-nominations.md", 'w') do |file|
 
 		content = FRONTSTR + TMONTH + T190 + ENDSTR
 
@@ -203,7 +206,7 @@ def save_month
   eoi190.push MONTH
   db.execute('insert into eoi190 (ACT, NSW, NT, Qld, SA, Tas, Vic, WA, Total, updated) VALUES (?,?,?,?,?,?,?,?,?,?)', eoi190)
 
-	# 190-1617 db
+	# 190-1718 db
 
 	rows = db.execute("select ACT,NSW,NT,Qld,SA,Tas,Vic,WA,Total,updated from eoi190 order by updated desc")
 
@@ -225,7 +228,7 @@ def save_month_CSV
     table = getMonthTable
     trs = table.css('tbody>tr')
     	# 具体月份 web
-    CSV.open("#{DATADIR}#{F1617}.csv", 'w') do |csv|
+    CSV.open("#{DATADIR}#{F1718}.csv", 'w') do |csv|
     csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
 
     trs.each_with_index do |tr, rindex|
