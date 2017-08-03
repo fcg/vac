@@ -17,12 +17,24 @@ F1718 = '2017-07-31'.freeze
 MONTH = '2017-07'.freeze # 每次修改这里
 
 T190CSV = '190-1718'.freeze
-
 ZDBTOTAL = 'zdb-total-1718'.freeze
-
 DATADIR = '../_data/zdb/'.freeze
-
 POSTDIR = '../_posts/'.freeze
+
+def getTdText(td)
+  div = td.at_css('div')
+  text = div.nil? ? td.text.strip : div.text.strip
+end
+
+def getMonthTable
+  doc = open_doc
+  table = doc.css('.table-100.small').first
+end
+
+def getTotalTable
+  doc = open_doc
+  table = doc.css('.table-100.small')[1]
+end
 
 # 	190 一个表，每次邀请周期一个csv，同时更新数据库，csv 计算并记录两次之间的新增邀请。对应 post。
 # 	全部类别一个csv，记录每次情况，对应 post 。
@@ -151,43 +163,6 @@ def open_doc
   doc = Nokogiri::HTML.parse(html, nil, charset)
 end
 
-def post
-  # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
-	File.open("#{POSTDIR}#{F1718}-State-Territory-nominations.md", 'w') do |file|
-
-		content = FRONTSTR + TMONTH + T190 + ENDSTR
-
-		file.write content
-
-	end
-end
-
-# buildceilinghtml()
-
-def create190table
-  # ACT NSW	NT	Qld	SA	Tas.	Vic.	WA	Total
-  db = SQLite3::Database.open 'csol.db'
-
-  # Create a table
-  rows = db.execute <<-SQL
-      create table eoi190 (
-      Id INTEGER PRIMARY KEY AUTOINCREMENT,
-      ACT INTERGER DEFAULT NULL,
-      NSW INTERGER DEFAULT NULL,
-      NT INTERGER DEFAULT NULL,
-			Qld INTERGER DEFAULT NULL,
-			SA  INTERGER DEFAULT NULL,
-			Tas	INTERGER DEFAULT NULL,
-			Vic	INTERGER DEFAULT NULL,
-			WA INTERGER DEFAULT NULL,
-			Total INTERGER DEFAULT NULL,
-			updated TEXT DEFAULT NULL
-      );
-    SQL
-
-  db.close
-end
-
 def save_month
   db = SQLite3::Database.open 'csol.db'
 
@@ -269,63 +244,44 @@ def save_total
   end
 end
 
-def getTdText(td)
-  div = td.at_css('div')
+def post
+  # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
+	File.open("#{POSTDIR}#{F1718}-State-Territory-nominations.md", 'w') do |file|
 
-  text = div.nil? ? td.text.strip : div.text.strip
+		content = FRONTSTR + TMONTH + T190 + ENDSTR
+		file.write content
+
+	end
 end
 
-def getMonthTable
-  doc = open_doc
+def recreate190table
+  # ACT NSW	NT	Qld	SA	Tas.	Vic.	WA	Total
+  db = SQLite3::Database.open 'csol.db'
+    db.execute("Drop table if exists cutoff")
+  # Create a table
+  rows = db.execute <<-SQL
+      create table eoi190 (
+      Id INTEGER PRIMARY KEY AUTOINCREMENT,
+      ACT INTERGER DEFAULT NULL,
+      NSW INTERGER DEFAULT NULL,
+      NT INTERGER DEFAULT NULL,
+			Qld INTERGER DEFAULT NULL,
+			SA  INTERGER DEFAULT NULL,
+			Tas	INTERGER DEFAULT NULL,
+			Vic	INTERGER DEFAULT NULL,
+			WA INTERGER DEFAULT NULL,
+			Total INTERGER DEFAULT NULL,
+			updated TEXT DEFAULT NULL
+      );
+    SQL
 
-  table = doc.css('.table-100.small').first
+  db.close
 end
 
-def getTotalTable
-  doc = open_doc
-
-  table = doc.css('.table-100.small')[1]
-end
+recreate190table
 
 download_skillselect
 save_month
 save_month_CSV
 save_total
 post
-
-# getTotalTable()
-# create190table()
-# download_skillselect()
-# get_and_save
-# get_and_save()
-
-# 签证类型, 州（7个）, 邀请人数, type(15还是1516), 当前时间
-# nominations  任何一个州的改变都重新插入，total 自动汇总
-#
-# curent-nominations-2016
-# curent-nominations-1516
-# Visa subclass	ACT	NSW	NT	Qld	SA	Tas.	Vic.	WA	Total
-def createnominations()
-
-  db = SQLite3::Database.open "csol.db"
-
-  rows = db.execute <<-SQL
-    create table nominations (
-      Id INTEGER PRIMARY KEY AUTOINCREMENT,
-      visa TEXT DEFAULT NULL,
-      act INTEGER DEFAULT NULL,
-      nsw INTEGER DEFAULT NULL,
-      nt INTEGER DEFAULT NULL,
-      qld INTEGER DEFAULT NULL,
-      sa INTEGER DEFAULT NULL,
-      tas INTEGER DEFAULT NULL,
-      vic INTEGER DEFAULT NULL,
-      wa INTEGER DEFAULT NULL,
-      type TEXT DEFAULT NULL,
-      updated TEXT DEFAULT NULL
-    );
-  SQL
-
-  db.close
-
-end
