@@ -41,7 +41,7 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the&nbsp;12 July 2017 round.  
 >   
->  ![](https://www.border.gov.au/WorkinginAustralia/PublishingImages/12july2017.jpg)
+>  ![澳洲技术移民 Skillselect EOI 2017-07-12 邀请分数分布 - 飞出国](https://www.border.gov.au/WorkinginAustralia/PublishingImages/12july2017.jpg)
 > 
 > **Invitation process and cut offs**
 > 

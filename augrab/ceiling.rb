@@ -5,19 +5,16 @@ require 'sqlite3'
 require 'csv'
 require 'net/http'
 require "yaml"
+require 'date'
 
-CEILINGS   = "//*[@id='tab-content-3']/table"
-CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr"
-#TURL = "https://www.border.gov.au/Busi/Empl/skillselect"
+CEILINGS   = ".//*[@id='tab-content-3']/table"
+CEILINGTRS = ".//*[@id='tab-content-3']/table/tbody/tr"
 
 TURL = "http://www.border.gov.au/Trav/Work/Skil"
 
-CURRENTFN = "2017-06-21"  # 每次有新更新先修改这里
-
-F1617 = "ceilling-16-17"
-
+CURRENTFN = "2017-07-12"  # 每次有新更新先修改这里
+F1718 = "ceilling-17-18"
 DATADIR = "../_data/sol/"
-
 POSTDIR = "../_posts/"
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
@@ -30,9 +27,8 @@ def initdb
 
   doc = Nokogiri::HTML::parse(html, nil, charset)
 
-  table = doc.css(".table-100").last
-
-  trs = table.css("tbody>tr")
+  table = doc.css("table").last
+  trs = table.css("tbody/tr")
 
   anzbbs = YAML.load(File.open("anz4tobbs.yml"))
   anzcn  = YAML.load(File.open("anz4tocn.yml"))
@@ -40,13 +36,15 @@ def initdb
   db = SQLite3::Database.open "csol.db"
 
     trs.each do |tr|
+      next if tr.xpath("td").empty?
+      next if tr.xpath("td[1]").empty?
 
-      td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      p td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
-      db.execute("insert into ceilings1617 (anzsco4, bbsid, nameen, namecn, ceiling, result, change) values (?,?,?,?,?,?,?)",
+      db.execute("insert into ceilings (anzsco4, bbsid, nameen, namecn, ceiling, result, change) values (?,?,?,?,?,?,?)",
         [td1anzsco4,anzbbs[td1anzsco4.to_i] , td2nameen, anzcn[td1anzsco4.to_i], td3ceiling, td4result, td4result])
 
     end
@@ -57,9 +55,9 @@ def updatecsv()
 
   db = SQLite3::Database.open "csol.db"
 
-  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings1617 order by remain")
+  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings order by remain")
 
-  CSV.open("#{DATADIR}#{F1617}.csv", "w") do |csv|
+  CSV.open("#{DATADIR}#{F1718}.csv", "w") do |csv|
     csv << %w(anzsco4 bbsid nameen namecn ceiling result change remain)
     rows.each do |row|
       csv << row
@@ -73,7 +71,7 @@ def postceiling()
 postctx =<<-POST
 ---
 layout: post
-title: 澳洲 SOL 配额完成情况 - #{CURRENTFN}
+title: 2017-2018 年度澳洲 SOL 配额完成情况 - #{CURRENTFN}
 date:  #{CURRENTFN} 13:00:00
 categories: gsm
 ---
@@ -126,13 +124,8 @@ def upateceilling()
 
   doc = Nokogiri::HTML::parse(html, nil, charset)
 
-  # table = doc.css(".table-100").last
-
-  # trs = table.css("tbody>tr")
-
   table = doc.css("table").last
-
-  trs = table.css("tbody>tr")
+  trs = table.css("tbody/tr")
 
   db = SQLite3::Database.open "csol.db"
 
@@ -141,7 +134,8 @@ def upateceilling()
 
     trs.each do |tr|
 
-	next if tr.xpath("td").empty?
+  next if tr.xpath("td").empty?
+  next if tr.xpath("td[1]").empty?
 
       td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
@@ -158,7 +152,8 @@ def upateceilling()
 
       csv << crow[0].push(td4result).push(change)
 
-      db.execute("update ceilings1617 set result = ? , change = ? where anzsco4 = ?", [td4result, change, td1anzsco4])
+      updated = Time.now.strftime("%Y-%m-%d")
+      db.execute("update ceilings set result = ? , change = ?, updated = ? where anzsco4 = ?", [td4result, change, updated, td1anzsco4])
 
     end
   end
@@ -169,16 +164,19 @@ def recreateceilingtable()
 
   db = SQLite3::Database.open "csol.db"
 
-    # Create a table
+    db.execute("Drop table if exists ceilings")
+    # anzsco4, bbsid, nameen, namecn, ceiling, result, change
     rows = db.execute <<-SQL
       create table ceilings (
       Id INTEGER PRIMARY KEY AUTOINCREMENT,
       anzsco4 TEXT DEFAULT NULL,
+      bbsid INTERGER DEFAULT NULL,
       nameen TEXT DEFAULT NULL,
       namecn TEXT DEFAULT NULL,
       ceiling INTERGER DEFAULT NULL,
       result INTERGER DEFAULT NULL,
-      bbsid INTERGER DEFAULT NULL
+      change INTERGER DEFAULT NULL,
+      updated TEXT DEFAULT NULL
       );
     SQL
 
@@ -186,7 +184,8 @@ def recreateceilingtable()
 
 end
 
-recreateceilingtable()
+# recreateceilingtable()
+# initdb()
 upateceilling()
-updatecsv()
-postceiling()
+# updatecsv()
+# postceiling()
