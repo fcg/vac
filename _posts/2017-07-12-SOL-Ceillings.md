@@ -28,7 +28,7 @@ categories: gsm
 {% endfor %}
 </table>
 
-更多说明请参考<a href="http://bbs.fcgvisa.com/t/2017-2018-sol-occupation-ceilings-for-each-occupation-on-the-skilled-occupation-list/24330" target="blank">飞出国论坛</a> 。
+更多说明请参考<a href="http://bbs.fcgvisa.com/t/2017-2018-sol-occupation-ceilings-for-each-occupation-on-the-skilled-occupation-list/24331" target="blank">飞出国论坛</a> 。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 

@@ -186,6 +186,46 @@ end
 
 # recreateceilingtable()
 # initdb()
-upateceilling()
+
+def maxeoi
+
+  db = SQLite3::Database.open "csol.db"
+
+  tablearray = Array.new
+  linkarray = Array.new
+
+  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings where change > 0 order by change desc")
+
+  tablearray.push "代码 | 职业名称 - 飞出国 | 17-18配额 | 本次邀请 | 剩余配额"
+  tablearray.push "---- | --------------- | -------- | -------- | -------"
+
+  linkarray.push ""
+  anzbbs = YAML.load(File.open("anz4tobbs.yml"))
+
+  rows.each do |row|
+
+    anz = row[0]
+    bbsid = row[1]
+    name = "#{row[3]}/#{row[2]}"
+    quota = row[4]
+    result = row[5]
+    change = row[6]
+    remain = row[7]
+
+    tablearray.push "[#{anz}] | #{name} | #{quota} | #{change} | #{remain}"
+
+    linkarray.push "[#{anz}]: http://bbs.fcgvisa.com/t/flyabroad/#{anzbbs[anz.to_i]}"
+
+  end
+
+  puts tablearray.join("\n")
+  puts linkarray.join("\n")
+
+end
+
+maxeoi()
+
+# upateceilling()
 # updatecsv()
 # postceiling()
+
