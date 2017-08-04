@@ -197,7 +197,7 @@ def maxeoi
 
   rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings where change > 0 order by change desc")
 
-  puts "飞出国：2017-07-12 邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
+  puts "飞出国：本次邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
 
   tablearray.push "代码 | 职业名称 - 飞出国 | 17-18配额 | 本次邀请 | 剩余配额"
   tablearray.push "---- | --------------- | -------- | -------- | -------"

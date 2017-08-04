@@ -107,12 +107,12 @@ p tbs[2].css("td")[5].text.strip
       namecn = anzcn[td1anzsco4.to_i]
       bbsid = anzbbs[td1anzsco4.to_i]
 
-      db.execute("insert into cutoff (anzsco4, bbsid, nameen, namecn, points, effectdate, updated) values (?,?,?,?,?,?,?)",
-        [td1anzsco4, bbsid, td2nameen, namecn, td3points, td4date, updated])
-
       row = db.execute("select change from ceilings where anzsco4 = ?",td1anzsco4)
 
       change = row[0][0]
+
+      db.execute("insert into cutoff (anzsco4, bbsid, nameen, namecn, points, change, effectdate, updated) values (?,?,?,?,?,?,?)",
+        [td1anzsco4, bbsid, td2nameen, namecn, td3points, change, td4date, updated])
  
       occarray.push "[#{td1anzsco4}] | #{namecn}/#{td2nameen} | #{td3points} | #{change} | #{td4date}"
 
@@ -166,7 +166,7 @@ end
 end
 
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
-parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
 
 def recreatecutofftable()
 
@@ -251,4 +251,4 @@ def build_cutoff(filename)
 end
 
 # recreatecutofftable()
-build_cutoff("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
+# build_cutoff("https://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
