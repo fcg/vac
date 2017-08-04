@@ -13,7 +13,7 @@ CEILINGTRS = ".//*[@id='tab-content-3']/table/tbody/tr"
 
 TURL = "http://www.border.gov.au/Trav/Work/Skil"
 
-CURRENTFN = "2017-07-12"  # 每次有新更新先修改这里
+CURRENTFN = "2017-07-26"  # 每次有新更新先修改这里
 F1718 = "ceilling-17-18"
 DATADIR = "../_data/sol/"
 POSTDIR = "../_posts/"
@@ -100,7 +100,7 @@ categories: gsm
 {% endfor %}
 </table>
 
-更多说明请参考<a href="http://bbs.fcgvisa.com/t/2016-2017-sol-occupation-ceilings-for-each-occupation-on-the-skilled-occupation-list/15923" target="blank">飞出国论坛</a> 。
+更多说明请参考<a href="http://bbs.fcgvisa.com/t/2017-2018-sol-occupation-ceilings-for-the-2017-18-programme-year/24331" target="blank">飞出国论坛</a> 。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
@@ -226,9 +226,8 @@ def maxeoi
 
 end
 
+upateceilling()
+updatecsv()
+postceiling()
+
 maxeoi()
-
-# upateceilling()
-# updatecsv()
-# postceiling()
-

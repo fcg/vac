@@ -166,7 +166,7 @@ end
 end
 
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
-parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
+parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
 
 def recreatecutofftable()
 
@@ -251,4 +251,4 @@ def build_cutoff(filename)
 end
 
 # recreatecutofftable()
-# build_cutoff("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
+build_cutoff("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
