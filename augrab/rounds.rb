@@ -111,7 +111,7 @@ p tbs[2].css("td")[5].text.strip
 
       change = row[0][0]
 
-      db.execute("insert into cutoff (anzsco4, bbsid, nameen, namecn, points, change, effectdate, updated) values (?,?,?,?,?,?,?)",
+      db.execute("insert into cutoff (anzsco4, bbsid, nameen, namecn, points, change, effectdate, updated) values (?,?,?,?,?,?,?,?)",
         [td1anzsco4, bbsid, td2nameen, namecn, td3points, change, td4date, updated])
  
       occarray.push "[#{td1anzsco4}] | #{namecn}/#{td2nameen} | #{td3points} | #{change} | #{td4date}"
@@ -166,7 +166,7 @@ end
 end
 
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
-# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
+parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
 
 def recreatecutofftable()
 

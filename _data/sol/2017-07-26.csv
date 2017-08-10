@@ -7,39 +7,39 @@ anzsco4,bbsid,nameen,namecn,ceiling,lastresult,result,change
 2212,7059,"Auditors, Company Secretaries and Corporate Treasurers*",审计，公司秘书及企业司库,1327,66,132,66
 2241,7066,"Actuaries, Mathematicians and Statisticians",精算师，数学家和统计学家,1000,1,1,0
 2245,7070,Land Economists and Valuers,土地经济学家和估价师,1000,0,2,2
-2312,7079,Marine Transport Professionals,验船师,1000,2,5,3
-2321,7080,Architects and Landscape Architects,建筑师和景观设计师,1474,3,2,-1
-2322,7081,Cartographers and Surveyors,制图师和测量师,1000,1,7,6
-2331,7086,Chemical and Materials Engineers,化学工程与材料工程师,1000,3,29,26
-2332,7087,Civil Engineering Professionals,土木工程专业,3296,11,13,2
-2333,7088,Electrical Engineers,电气工程师,1042,8,100,92
-2334,7089,Electronics Engineers*,电子工程师,1000,50,216,166
-2335,7090,"Industrial, Mechanical and Production Engineers*",工业，机械和生产工程师,2178,108,100,-8
-2339,7092,Other Engineering Professionals*,其他工程师,1000,50,6,-44
-2341,7093,Agricultural and Forestry Scientists,农林科学家,1000,2,3,1
-2346,7098,Medical Laboratory Scientists,医学实验室科学家,1487,0,1,1
-2347,7099,Veterinarians,兽医,1000,1,5,4
-2349,7100,Other Natural and Physical Science Professionals,其他自然和物理科学专业人员,1000,2,4,2
-2411,7101,Early Childhood (Pre-primary School) Teachers,幼儿教育（学前教育）教师,2639,2,9,7
-2414,7103,Secondary School Teachers,中学教师,7910,3,0,-3
-2415,7104,Special Education Teachers,特殊教育教师,1000,0,3,3
-2512,7111,Medical Imaging Professionals,医学影像专业人员,1113,1,0,-1
+2321,7080,Architects and Landscape Architects,建筑师和景观设计师,1474,3,5,2
+2322,7081,Cartographers and Surveyors,制图师和测量师,1000,1,2,1
+2331,7086,Chemical and Materials Engineers,化学工程与材料工程师,1000,3,7,4
+2332,7087,Civil Engineering Professionals,土木工程专业,3296,11,29,18
+2333,7088,Electrical Engineers,电气工程师,1042,8,13,5
+2334,7089,Electronics Engineers*,电子工程师,1000,50,100,50
+2335,7090,"Industrial, Mechanical and Production Engineers*",工业，机械和生产工程师,2178,108,216,108
+2339,7092,Other Engineering Professionals*,其他工程师,1000,50,100,50
+2341,7093,Agricultural and Forestry Scientists,农林科学家,1000,2,6,4
+2346,7098,Medical Laboratory Scientists,医学实验室科学家,1487,0,3,3
+2347,7099,Veterinarians,兽医,1000,1,1,0
+2349,7100,Other Natural and Physical Science Professionals,其他自然和物理科学专业人员,1000,2,5,3
+2411,7101,Early Childhood (Pre-primary School) Teachers,幼儿教育（学前教育）教师,2639,2,4,2
+2414,7103,Secondary School Teachers,中学教师,7910,3,9,6
+2415,7104,Special Education Teachers,特殊教育教师,1000,0,0,0
+2512,7111,Medical Imaging Professionals,医学影像专业人员,1113,1,3,2
 2514,7113,Optometrists and Orthoptists,验光师和视觉矫正师,1000,0,0,0
 2519,7115,Other Health Diagnostic and Promotion Professionals,义肢矫形师,1000,0,0,0
-2521,7116,Chiropractors and Osteopaths,脊医及整骨,1000,0,4,4
-2524,7119,Occupational Therapists,职业治疗师,1109,1,2,1
-2525,7120,Physiotherapists,物理治疗师,1464,0,1,1
+2521,7116,Chiropractors and Osteopaths,脊医及整骨,1000,0,0,0
+2524,7119,Occupational Therapists,职业治疗师,1109,1,4,3
+2525,7120,Physiotherapists,物理治疗师,1464,0,2,2
 2526,7121,Podiatrists,足病医生,1000,1,1,0
-2527,7122,Speech Professionals and Audiologists,演讲专家和听力学家,1000,0,9,9
-2531,7123,General Practitioners and Resident Medical officers,全科执业,3495,3,0,-3
+2527,7122,Speech Professionals and Audiologists,演讲专家和听力学家,1000,0,1,1
+2531,7123,General Practitioners and Resident Medical officers,全科执业,3495,3,9,6
 2533,7125,Internal Medicine Specialists,内科专家,1000,0,0,0
 2534,7126,Psychiatrists,精神科医生,1000,0,0,0
-2535,7127,Surgeons,外科医生,1000,0,14,14
-2539,7128,Other Medical Practitioners,其他医生,1000,5,0,-5
-2541,7129,Midwives,助产士,1090,0,49,49
-2544,7132,Registered Nurses,注册护士,16741,18,156,138
-2611,7133,ICT Business and Systems Analysts*,ICT业务和系统分析师,1574,78,620,542
-2613,7134,Software and Applications Programmers*,软件和应用程序的程序员,6202,310,1,-309
+2535,7127,Surgeons,外科医生,1000,0,0,0
+2539,7128,Other Medical Practitioners,其他医生,1000,5,14,9
+2541,7129,Midwives,助产士,1090,0,0,0
+2544,7132,Registered Nurses,注册护士,16741,18,49,31
+2611,7133,ICT Business and Systems Analysts*,ICT业务和系统分析师,1574,78,156,78
+2613,7134,Software and Applications Programmers*,软件和应用程序的程序员,6202,310,620,310
+2621,7135,Database and Systems Administrators and ICT Security Specialists,ICT安全专家,2391,0,1,1
 2631,7136,Computer Network Professionals*,计算机网络专业人士,1318,65,130,65
 2633,7138,Telecommunications Engineering Professionals,通信工程专业,1000,23,30,7
 2711,7139,Barristers,大律师,1000,0,0,0
