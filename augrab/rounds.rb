@@ -81,8 +81,8 @@ def parse_current(filename)
 p tbs[2].css("td")[2].text.strip 
 p tbs[2].css("td")[5].text.strip
 
-  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
-  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0","").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
 
   ## Cut Off Occupations
   trows = doc.xpath(CUTOFFTABLEROW)
