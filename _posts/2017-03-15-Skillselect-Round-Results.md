@@ -54,7 +54,9 @@ categories: gsm
 >  |
 > | Skilled - Regional Provisional (subclass 489) | 60 | 14/03/2017 8:25 pm |
 > 
-> Due to high levels of demand, and in keeping with previous years, the below occupation groups will be subject to pro rata arrangements to ensure availability of invitations across the programme year. SkillSelect first allocates available places to  [Skilled – Independent visas (subclass 189)](/Trav/Visa-1/189-) and then the remaining to  [Skilled – Regional (Provisional) visas (subclass 489)](/Trav/Visa-1/489-). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
+> Due to high levels of demand, and in keeping with previous years, the below occupation groups will be subject to pro rata arrangements to ensure availability of invitations across the programme year. SkillSelect first allocates available places to 
+ [Skilled – Independent visas (subclass 189)](/Trav/Visa-1/189-) and then the remaining to 
+ [Skilled – Regional (Provisional) visas (subclass 489)](/Trav/Visa-1/489-). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
 > 
 > - Accountants
 > - Auditors, Company Secretaries and Corporate Treasurers
@@ -80,7 +82,7 @@ categories: gsm
 > 
 > ​ 
 
-更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2016-2017 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2016-2017/17031)。
+更多请参考飞出国论坛： [澳洲技术移民 Skillseflyabroad016-2017 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2016-2017/17031)。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 

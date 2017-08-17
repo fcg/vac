@@ -112,7 +112,7 @@
 
 [安省监管职业列表 Regulated Professions in Ontario](http://bbs.fcgvisa.com/t/regulated-professions-in-ontario/3825)。
 
-需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
+需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
 > 以上内容由`飞出国技术移民网站`（（<a href="http://js.flyabroad.com.hk/ca/on/" target="_blank">js.flyabroad.com.hk</a>）独家整理完成，请尊重知识产权，转载请保留并注明出处。
 

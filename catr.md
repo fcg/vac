@@ -117,6 +117,6 @@ title: 加拿大临时签证
 
 加拿大过境签证，是中国公民前往美国、南美等地，过境加拿大时所需的有效签证。该签证由加拿大驻华使领馆签发，在加拿大境内有效停留时限为48小时，过境签证自签发之日起3个月之内有效。
 
-需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
+需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。

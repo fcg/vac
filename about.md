@@ -11,9 +11,9 @@ title: 关于飞出国
 
 <p><strong>飞出国论坛微信号公众号（进度发布）</strong>：fcgvisa，图为微信号二维码。</p>
 
-<p>飞出国论坛微信号：<img src="http://kit.flyabroadvisa.com/wxfcg/fcgvisagz-15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - fcgvisabbs"> </p>
+<p>飞出国论坛微信号：<img src="http://kit.flyabroadvisa.com/wxfcg/fcgvisagz-15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - flyabroad"> </p>
 
-<p><a href="http://www.flyabroadnews.com/flyabroad-weixin-fcgvisabbs/" target="_blank">飞出国将更多使用微信群，请添加 fcgvisabbs 微信号</a>。</p>
+<p><a href="http://www.flyabroadnews.com/flyabroad-weixin-flyabroad/" target="_blank">飞出国将更多使用微信群，请添加 flyabroad 微信号</a>。</p>
 
 <p><b>飞出国微信公众号</b>：flyabroad111 ，图为微信公众号二维码，可扫描关注。</p>
 
@@ -23,9 +23,9 @@ title: 关于飞出国
 
 <p>飞出国微博发布号：<img src="http://kit.flyabroadvisa.com/wb/fly.png" width="180" height="180" border="0" alt="飞出国微博 - flyabroad @飞出国"></p>
 
-<p><strong>飞出国论坛微信号</strong>：fcgvisabbs，图为微信号二维码。</p>
+<p><strong>飞出国论坛微信号</strong>：flyabroad，图为微信号二维码。</p>
 
-<p>飞出国论坛微信号：<img src="http://kit.flyabroadvisa.com/wxfcg/fcg15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - fcgvisabbs"> </p>
+<p>飞出国论坛微信号：<img src="http://kit.flyabroadvisa.com/wxfcg/fcg15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - flyabroad"> </p>
 
 <p><strong>flyabroad 其他联系方式：</strong></p>
 

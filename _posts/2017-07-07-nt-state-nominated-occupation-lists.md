@@ -590,6 +590,6 @@ NT 基本把留学生分为在 NT 完成2年全日制课程的留学生（职业
 
 更多参考飞出国论坛：[Nt 北领地州担保申请要求，流程及注意事项](http://bbs.fcgvisa.com/t/nt/2566)。  
 
-需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
+需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。

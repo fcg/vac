@@ -25,9 +25,7 @@ categories: gsm
 [2613] | 软件和应用程序的程序员/Software and Applications Programmers | 70 | 310 | 04/08/20175:17 pm
 [2631] | 计算机网络专业人士/Computer Network Professionals | 70 | 65 | 04/08/2017 1:30 pm
 
-# 9 August 2017 round results
-> <!--Page content-->
-> Page Content
+> # 9 August 2017 round results
 > 
 > ​​​​​​​​​​The table below shows the number of invitations issued in the SkillSelect invitation round on&nbsp;9 August 2017.
 > 
@@ -93,7 +91,7 @@ categories: gsm
 
 更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2017-2018 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2017-2018/24327)。
 
-需要获得相关移民及出国签证申请帮助可以联系飞出国微信（fcgvisabbs）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
+需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
