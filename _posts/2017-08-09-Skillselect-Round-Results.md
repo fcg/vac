@@ -8,7 +8,7 @@ categories: gsm
 ## 澳洲技术移民 Skillselect EOI  2017-08-09 邀请结果
 
 飞出国：2017-08-09 澳洲技术移民 EOI 发出 189 签证邀请 1000 份，489 亲属担保 123 份，
-截止到 2017-08-09，澳洲技术移民 EOI 2016-2017 年度共发出 189 邀请 3000 份，489 邀请 333 份，总计             3333 份。
+截止到 2017-08-09，澳洲技术移民 EOI 2016-2017 年度共发出 189 邀请 3000 份，489 邀请 333 份，总计 3333 份。
 
 本次邀请中，189 邀请分数 70 分（截止到 2017-08-04 18:16），489 邀请分数 60（截止到 2017-08-08 22:20）。
 
@@ -46,9 +46,7 @@ categories: gsm
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Skilled - Independent (subclass 189) | 2000 | 1000&nbsp; | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0   | 3000 |
 > | Skilled – Regional Provisional (subclass 489) | 210 | 123 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 333   |
-> | **Total** | **2210** | 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1123 | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3333** |
+> | **Total** | **2210** | **1123** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **3333** |
 > 
 > The above figures do not include invitations issued for State and Territory Government nominated visa subclasses. State and Territory Governments nominate throughout the month for specific points tested skilled migration and business innovation and investment visas. Separate results for these visa subclasses are provided monthly.
 > 
