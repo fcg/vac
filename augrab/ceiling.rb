@@ -13,7 +13,7 @@ CEILINGTRS = ".//*[@id='tab-content-3']/table/tbody/tr"
 
 TURL = "http://www.border.gov.au/Trav/Work/Skil"
 
-CURRENTFN = "2017-08-09"  # 每次有新更新先修改这里
+CURRENTFN = "2017-08-23"  # 每次有新更新先修改这里
 F1718 = "ceilling-17-18"
 DATADIR = "../_data/sol/"
 POSTDIR = "../_posts/"
