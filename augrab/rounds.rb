@@ -82,7 +82,7 @@ p tbs[2].css("td")[2].text.strip
 p tbs[2].css("td")[5].text.strip
 
   dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
-  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
 
   ## Cut Off Occupations
   trows = doc.xpath(CUTOFFTABLEROW)
@@ -168,7 +168,8 @@ end
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/9-August-2017-round-results.aspx")
-parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/23-august-2017-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/23-august-2017-round-results.aspx")
+parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/06-september-2017-round-results.aspx")
 
 def recreatecutofftable()
 
@@ -191,6 +192,18 @@ def recreatecutofftable()
     SQL
 
     db.close
+
+end
+
+def loadoldcutoff()
+  db1 = SQLite3::Database.open "2016/csol-83.db"
+  db2 = SQLite3::Database.open "csol.db"
+
+  rows = db1.execute "select anzsco4,bbsid,nameen,namecn,points,change,effectdate,updated from cutoff"
+
+  rows.each do |row|
+    db2.execute("insert into cutoff (anzsco4,bbsid,nameen,namecn,points,change,effectdate,updated) values(?,?,?,?,?,?,?,?)",row)
+  end
 
 end
 
@@ -253,4 +266,5 @@ def build_cutoff(filename)
 end
 
 # recreatecutofftable()
+# loadoldcutoff()
 # build_cutoff("https://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
