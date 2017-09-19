@@ -13,8 +13,8 @@ CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
 TURL = "http://www.border.gov.au/Trav/Work/Skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
-F1718 = '2017-07-31'.freeze
-MONTH = '2017-07'.freeze # 每次修改这里
+F1718 = '2017-08-31'.freeze
+MONTH = '2017-08'.freeze # 每次修改这里
 
 T190CSV = '190-1718'.freeze
 ZDBTOTAL = 'zdb-total-1718'.freeze
@@ -257,7 +257,7 @@ end
 def recreate190table
   # ACT NSW	NT	Qld	SA	Tas.	Vic.	WA	Total
   db = SQLite3::Database.open 'csol.db'
-    db.execute("Drop table if exists cutoff")
+  db.execute("Drop table if exists eoi190")
   # Create a table
   rows = db.execute <<-SQL
       create table eoi190 (
@@ -278,7 +278,7 @@ def recreate190table
   db.close
 end
 
-recreate190table
+# recreate190table
 
 download_skillselect
 save_month
