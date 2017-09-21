@@ -71,7 +71,7 @@ categories: gsm
 {% endfor %}
 </table>
 
-更多请参考飞出国论坛： [2017-2018 年度澳洲州担保邀请记录](http://bbs.fcgvisa.com/t/2017-2018/18110/) 。
+更多请参考飞出国论坛： [2017-2018 年度澳洲州担保邀请记录](http://bbs.fcgvisa.com/t/2017-2018/24722/) 。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
