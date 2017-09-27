@@ -54,7 +54,7 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the&nbsp;20 September 2017 round.
 > 
-> ![Invitations by Points Score 20 September 2017 - flyabroad](/WorkinginAustralia/PublishingImages/20-September-2017.jpg)&nbsp;
+> ![Invitations by Points Score 20 September 2017 - flyabroad](http://www.border.gov.au/WorkinginAustralia/PublishingImages/20-September-2017.jpg)&nbsp;
 > 
 > **Invitation process and cut offs**
 > 
