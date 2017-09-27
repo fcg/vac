@@ -44,8 +44,8 @@ end
 # 解析最新澳洲 skillselect round 邀请情况并生成对应的 csv 文件和 post 文件
 def parse_current(filename)
 
-  csvdir = '..\\_data\\ee\\'
-  postdir = '..\\_posts\\'
+  csvdir = '../_data/ee/'
+  postdir = '../_posts/'
 
   anzbbs = YAML.load(File.open("anz4tobbs.yml"))
   anzcn  = YAML.load(File.open("anz4tocn.yml"))  
@@ -81,7 +81,7 @@ def parse_current(filename)
 p tbs[2].css("td")[2].text.strip 
 p tbs[2].css("td")[5].text.strip
 
-  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
   dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
 
   ## Cut Off Occupations
@@ -169,7 +169,8 @@ end
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/9-August-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/23-august-2017-round-results.aspx")
-parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/06-september-2017-round-results.aspx")
+# parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/06-september-2017-round-results.aspx")
+parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/20-september-2017-round-results.aspx")
 
 def recreatecutofftable()
 

@@ -22,7 +22,7 @@ categories: gsm
 [2335] | 工业，机械和生产工程师/Industrial, Mechanical and Production Engineers | 65 | 108 | 24/01/2017 11.31 pm
 [2339] | 其他工程师/Other Engineering Professionals | 70 | 50 | 27/08/2017 2.12 pm
 [2611] | ICT业务和系统分析师/ICT Business and System Analysts | 70 | 78 | 07/06/2017 10.42 am
-[2613] | 软件和应用程序的程序员/Software and Applications Programmers | 65 | -806 | 20/03/2017 6.29 pm
+[2613] | 软件和应用程序的程序员/Software and Applications Programmers | 65 | 806 | 20/03/2017 6.29 pm
 [2631] | 计算机网络专业人士/Computer Network Professionals | 65 | 65 | 13/02/2017 12.26 pm
 
 # 06 September 2017 Round Results
