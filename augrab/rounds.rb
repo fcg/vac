@@ -65,24 +65,40 @@ def parse_current(filename)
   updated = DateTime.parse(datestring).strftime("%Y-%m-%d")
 
   # updated = "2017-02-01"
+  # 因为表格模式改变，需要调整新的顺序
 
   tbs = maindiv.css("table")
 
-  n189 = tbs[0].css("td")[1].inner_text.gsub(",","").to_i
-  n489 = tbs[0].css("td")[3].inner_text.gsub(",","").to_i
+#  p n189 = tbs[0].css("td")[1].inner_text.gsub(",","").to_i
+#  p n489 = tbs[0].css("td")[3].inner_text.gsub(",","").to_i
 
-  t189 = tbs[1].css("tr")[1].css("td").last.text.strip
-  t489 = tbs[1].css("tr")[2].css("td").last.text.strip
-  tall = tbs[1].css("tr")[3].css("td").last.text.strip
+#  p t189 = tbs[1].css("tr")[1].css("td").last.text.strip
+#  p t489 = tbs[1].css("tr")[2].css("td").last.text.strip
+#  p tall = tbs[1].css("tr")[3].css("td").last.text.strip
 
-  dtp189 = tbs[2].css("td")[1].text.strip
-  dtp489 = tbs[2].css("td")[4].text.strip
+#   p dtp189 = tbs[2].css("td")[1].text.strip
+#   p dtp489 = tbs[2].css("td")[4].text.strip
 
-p tbs[2].css("td")[2].text.strip 
-p tbs[2].css("td")[5].text.strip
+# p tbs[2].css("td")[2].text.strip 
+# p tbs[2].css("td")[5].text.strip
 
-  dt189 = DateTime.strptime(tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
-  dt489 = DateTime.strptime(tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip, "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
+p n189 = tbs[0].css("td")[3].inner_text.gsub(",","").to_i
+p n489 = tbs[0].css("td")[5].inner_text.gsub(",","").to_i
+
+p t189 = tbs[1].css("tr")[1].css("td").last.text.strip
+p t489 = tbs[1].css("tr")[2].css("td").last.text.strip
+p tall = tbs[1].css("tr")[3].css("td").last.text.strip
+
+# 分数
+ p dtp189 = tbs[2].css("td")[4].text.strip
+ p dtp489 = tbs[2].css("td")[7].text.strip
+
+ # 截止日期
+p dt189 = tbs[2].css("td")[5].text.strip 
+p dt489 = tbs[2].css("td")[8].text.strip
+
+  dt189 = DateTime.strptime(dt189.gsub("\u00A0"," "), "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
+  dt489 = DateTime.strptime(dt489.gsub("\u00A0"," "), "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
 
   ## Cut Off Occupations
   trows = doc.xpath(CUTOFFTABLEROW)
@@ -170,7 +186,8 @@ end
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/9-August-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/23-august-2017-round-results.aspx")
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/06-september-2017-round-results.aspx")
-parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/20-september-2017-round-results.aspx")
+# parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/20-september-2017-round-results.aspx")
+parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/04-October-2017-Round-Results.aspx")
 
 def recreatecutofftable()
 
