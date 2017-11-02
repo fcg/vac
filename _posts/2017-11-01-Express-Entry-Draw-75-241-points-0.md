@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Express Entry 2017-11-01 2017 年第 25 捞：0人，241分"
+title:  "Express Entry 2017-11-01 2017 年第 25 捞：290人，673分"
 date:   2017-11-01 23:56:00  +0800
 categories: EE
 ---
 
-飞出国：加拿大时间 2017-11-01，CIC 发布 Express Entry 2017 年第 25 捞（总第 75 捞），0人，241分。
+飞出国：加拿大时间 2017-11-01，CIC 发布 Express Entry 2017 年第 25 捞（总第 75 捞），290人，673分。
+
+同时 EE 邀请技工类 FST 移民 505 人，241分（Express Entry system #76 – November 1, 2017）。
 
 2017年6月6日，加拿大联邦技术移民
 
