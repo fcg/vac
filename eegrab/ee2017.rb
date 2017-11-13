@@ -18,7 +18,7 @@ def parsenewee
 
   invitationsxpath = "html/body/div/div/main/p[12]/text()"
   rankxpath = "html/body/div/div/main/p[15]/text()"
-  datexpath = "html/body/div/div/main/p[16]/text()"
+  datexpath = "html/body/div/div/main/p[14]/text()"
 
   p invitations = doc.xpath(invitationsxpath).to_s.delete(',').strip()
   p rank = doc.xpath(rankxpath).to_s.delete(',').strip()
@@ -40,8 +40,6 @@ def parsenewee
   maxnum = db.execute('select MAX(TotalNum) from eedraws').first[0]
   inyear = db.execute("select NumInYear from eedraws where TotalNum='#{maxnum}'").first[0] + 1
   totalnum = maxnum + 1
-
-  # ymdDate = Date.parse(eedate[0]).strftime('%F')
 
   ymdDate = Date.strptime(eedate, '%b %d, %Y').strftime('%Y-%m-%d')
 
