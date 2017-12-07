@@ -4,10 +4,14 @@ require 'haml'
 require 'reverse_markdown'
 require 'sqlite3'
 require 'csv'
+require 'net/http'
+require 'openssl'
+
+OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
 def parsenewee
   ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
-  url = 'http://www.cic.gc.ca/english/department/mi/'
+  url = 'https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/rounds-invitations.html'
   charset = 'utf-8'
   html = open(url, 'User-Agent' => ua)
 

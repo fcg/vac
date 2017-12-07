@@ -4,11 +4,13 @@ require 'haml'
 require 'reverse_markdown'
 require 'sqlite3'
 require 'csv'
+require 'net/http'
+require 'openssl'
 
 def parsenewee
   ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
-  url = 'http://www.cic.gc.ca/english/express-entry/rounds.asp'
-  miurl = 'http://www.cic.gc.ca/english/department/mi/'
+  url = 'https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/rounds-invitations.html'
+  miurl = 'https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/rounds-invitations.html'
   charset = 'utf-8'
   html = open(url, 'User-Agent' => ua)
   mihtml = open(miurl, 'User-Agent' => ua)
@@ -16,15 +18,15 @@ def parsenewee
   doc = Nokogiri::HTML.parse(html, nil, charset)
   midoc = Nokogiri::HTML.parse(mihtml, nil, charset)
 
-  invitationsxpath = "html/body/div/div/main/p[12]/text()"
-  rankxpath = "html/body/div/div/main/p[15]/text()"
-  datexpath = "html/body/div/div/main/p[14]/text()"
+  invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[5]/text()"
+  rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[8]/text()"
+  datexpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[7]/text()"
 
   p invitations = doc.xpath(invitationsxpath).to_s.delete(',').strip()
   p rank = doc.xpath(rankxpath).to_s.delete(',').strip()
   p eedate = doc.xpath(datexpath).to_s.gsub("\u00A0"," ").strip()
 
-  mieexpath = "html/body/div/div/main/section[1]/details[2]"
+  mieexpath = "/html/body/div[2]/div/main/div[1]/div[8]"
   p miee = midoc.xpath(mieexpath).to_html
 
   ReverseMarkdown.config do |config|

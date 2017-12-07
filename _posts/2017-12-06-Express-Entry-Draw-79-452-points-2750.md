@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Express Entry 2017-10-18 2017 年第 24 捞：2757人，436分"
-date:   2017-10-18 23:56:00  +0800
+title:  "Express Entry 2017-12-06 2017 年第 29 捞：2750人，452分"
+date:   2017-12-06 23:56:00  +0800
 categories: EE
 ---
 
-飞出国：加拿大时间 2017-10-18，CIC 发布 Express Entry 2017 年第 24 捞（总第 74 捞），2757人，436分。
+飞出国：加拿大时间 2017-12-06，CIC 发布 Express Entry 2017 年第 29 捞（总第 79 捞），2750人，452分。
 
 2017年6月6日，加拿大联邦技术移民
 
@@ -42,7 +42,7 @@ categories: EE
 
 如果不能符合加拿大联邦 EE 最低分数，也不满足安省 400 分项目类别，申请人还可以考虑 Express Entry 下的省提名项目，具体请见飞出国论坛或飞出国技术移民网站。
 
-截止到现在加拿大 EE 累计捞取 139300 人，历次最低分 413 分，历次最高分 886分。飞出国加拿大 EE 历次邀请情况记录：
+截止到现在加拿大 EE 累计捞取 147090 人，历次最低分 413 分，历次最高分 886分。飞出国加拿大 EE 历次邀请情况记录：
 
 <table border = "1" cellpadding="1" cellspacing="0">
   <tr>
@@ -52,7 +52,7 @@ categories: EE
     <th>年度邀请次数</th>
     <th>EE 总邀请次数</th>
   </tr>
-{% for ee in site.data.ee.EE2017-10-18 %}
+{% for ee in site.data.ee.EE2017-12-06 %}
 <tr>
 <td> {{ ee.date }} </td>
 <td> {{ ee.people }} </td>
@@ -65,51 +65,22 @@ categories: EE
 
 ------
 
-## Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system
+**Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system – December&nbsp;6,&nbsp;2017**
 
-### Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system #74 – October&nbsp;18, 2017
+&nbsp;
 
-The Minister of Citizenship and Immigration, pursuant to section&nbsp;10.3 of the _Immigration and Refugee Protection Act_, gives the annexed _Ministerial Instructions Respecting Invitations to Apply for Permanent Residence under the Express Entry System (October&nbsp;18, 2017)_.
+**No program specified**
 
-Ottawa, October&nbsp;18, 2017
+**Number of invitations issued:** 2,750Footnote \*
 
-Ahmed D. Hussen  
-_Minister of Citizenship and Immigration_
+**Rank required to be invited to apply:** 2,750th or above
 
-Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system (October&nbsp;18, 2017)
+**Date and time of round:** December&nbsp;6, 2017 at 14:00:00&nbsp;UTC
 
-#### Determination — number of invitations
+**CRS score of lowest-ranked candidate invited:** 452
 
-**1.** (1) For the purposes of paragraph 10.2(1)(_b_) of the _Immigration and Refugee Protection Act_, the number of invitations that may be issued during the period beginning on **October&nbsp;18, 2017**, and ending on **October&nbsp;19, 2017**, is **2,757**.
+**Tie-breaking rule:** November&nbsp;16, 2017 at 04:20:20&nbsp;UTC
 
-#### Required rank
-
-(2) Foreign nationals who, on **October&nbsp;18, 2017**, at **11:12:41 UTC**, have been assigned a total of **436** points or more under the Comprehensive Ranking System that is set out in the _Ministerial Instructions Respecting the Express Entry System_, as published in the Canada Gazette, Part&nbsp;I, on December&nbsp;1, 2014, and as amended from time to time, occupy the rank required to be invited to make an application for permanent residence.
-
----
-
-Comprehensive Ranking System (CRS) score distribution of candidates in the Express Entry pool as of October 12, 2017
-
-CRS Score Range | Number of Candidates
-----------------|---------------------
-**601-1200** | **204**
-**451-600** | **648**
-**401-450** | **13,714**
-441-450 | 262
-431-440 | 1,398
-421-430 | 3,246
-411-420 | 3,811
-401-410 | 4,997
-**351-400** | **27,028**
-391-400 | 4,637
-381-390 | 5,521
-371-380 | 5,666
-361-370 | 5,702
-351-360 | 5,502
-**301-350** | **17,082**
-0-300 | 3,029
-**fcgvisa** | **61,705**
-	
 2017年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/20819" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
