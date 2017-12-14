@@ -7,7 +7,7 @@ categories: gsm
 
 飞出国澳洲 SkillSelect 2017-2018 年度州担保邀请数据统计。
 
-## 2017-08 澳洲州担保邀请数据
+## 2017-09 澳洲州担保邀请数据
 
 <table border = "1" cellpadding="1" cellspacing="0">
   <tr>
