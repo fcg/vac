@@ -117,7 +117,7 @@ def posttovac
     frontstr = <<-YAML
 ---
 layout: post
-title:  "Express Entry #{eedate} 2017 年第 #{numinyear} 捞：#{eeinvitations}人，#{eerank}分"
+title:  "Express Entry #{eedate} 2018 年第 #{numinyear} 捞：#{eeinvitations}人，#{eerank}分"
 date:   #{eedate} 23:56:00  +0800
 categories: EE
 ---

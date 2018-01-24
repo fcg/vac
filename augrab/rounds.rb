@@ -97,8 +97,8 @@ p tall = tbs[1].css("tr")[3].css("td").last.text.strip
 p dt189 = tbs[2].css("td")[2].text.strip 
 p dt489 = tbs[2].css("td")[5].text.strip
 
-  dt189 = DateTime.strptime(dt189.gsub("\u00A0"," "), "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
-  dt489 = DateTime.strptime(dt489.gsub("\u00A0"," "), "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
+  dt189 = DateTime.strptime(dt189.gsub("\u00A0"," "), "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt489 = DateTime.strptime(dt489.gsub("\u00A0"," "), "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
 
   ## Cut Off Occupations
   trows = doc.xpath(CUTOFFTABLEROW)
@@ -190,7 +190,9 @@ end
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/04-October-2017-Round-Results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/18-october-invitation-rounds.aspx")
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/9-november-invitation-rounds.aspx")
-parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/6-december-invitation-round-2017.aspx")
+# parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/6-december-invitation-round-2017.aspx")
+# parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/20-december-invitation-round-2017.aspx")
+parse_current("https://www.homeaffairs.gov.au/trav/work/skil/invitation-round-3-january-2018")
 
 def recreatecutofftable()
 
