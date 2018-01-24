@@ -129,7 +129,7 @@ YAML
 
     intrstr = <<-INTR
 
-飞出国：加拿大时间 #{eedate}，CIC 发布 Express Entry 2017 年第 #{numinyear} 捞（总第 #{currentNum} 捞），#{eeinvitations}人，#{eerank}分。
+飞出国：加拿大时间 #{eedate}，CIC 发布 Express Entry 2018 年第 #{numinyear} 捞（总第 #{currentNum} 捞），#{eeinvitations}人，#{eerank}分。
 
 2017年6月6日，EE CRS 进一步调整评分标准，增加[加拿大亲属分数及法语额外加分](http://www.flyabroadnews.com/express-entry-comprehensive-ranking-system-crs-2017-flyabroad/)。
 
@@ -221,4 +221,4 @@ BBSS
 end
 
 parsenewee
-# posttovac
+posttovac
