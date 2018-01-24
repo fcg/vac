@@ -22,23 +22,23 @@ def parsenewee
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
-  invitationsxpath = "/html/body/div/div/main/section[1]/details[2]/p[5]/strong[4]/text()"
+  invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[4]/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
-  rankxpath = "/html/body/div/div/main/section[1]/details[2]/p[6]/strong[3]/text()"
+  rankxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[7]/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[6]/strong[1]/text()"
-  datexpath = "html/body/div/div/main/section[1]/details[2]/p[6]/strong[1]/text()"
+  datexpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[6]/text()"
   # mieexpath = ".//*[@id='mi-pr-express']"
-  mieexpath = "html/body/div/div/main/section[1]/details[2]"
+  mieexpath = "/html/body/div[2]/div/main/div[1]/div[7]"
 
   datecss = '.nowrap'
 
   miee = doc.xpath(mieexpath).to_html
-  invitations = doc.xpath(invitationsxpath).to_s.delete(',').to_i
-  rank = doc.xpath(rankxpath).to_s.delete(',').to_i
+  p invitations = doc.xpath(invitationsxpath).to_s.delete(',').to_i
+  p rank = doc.xpath(rankxpath).to_s.delete(',').to_i
 
   ##eedate = doc.xpath(datexpath).to_s.strip.delete("\u00A0").split("\u2013")[1].strip
   p eedate = doc.xpath(datexpath).to_s.gsub("\u00A0"," ")
@@ -54,6 +54,12 @@ def parsenewee
 
   miBody = ReverseMarkdown.convert miee
 
+  p miBody
+
+  eedate = eedate.split("at")[0].strip
+
+  p ymdDate = Date.strptime(eedate, '%b %d, %Y').strftime('%Y-%m-%d')
+
   db = SQLite3::Database.open 'eedraws.db'
 
   maxnum = db.execute('select MAX(TotalNum) from eedraws').first[0]
@@ -61,8 +67,6 @@ def parsenewee
   totalnum = maxnum + 1
 
   # ymdDate = Date.parse(eedate[0]).strftime('%F')
-
-  ymdDate = Date.strptime(eedate, '%b %d, %Y').strftime('%Y-%m-%d')
 
   row = [ymdDate, invitations, rank, totalnum, inyear, miBody]
 
@@ -73,7 +77,7 @@ def parsenewee
 end
 
 def posttovac
-  bbslink = 'http://bbs.fcgvisa.com/t/2017-express-entry-ita-ee/20819'
+  bbslink = 'http://bbs.fcgvisa.com/t/topic/26065'
   csvdir = '../_data/ee/'
   postdir = '../_posts/'
 
@@ -189,7 +193,7 @@ INTR
 
     bbsstr = <<-BBSS
 	
-2017年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。
+2018年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
@@ -217,4 +221,4 @@ BBSS
 end
 
 parsenewee
-posttovac
+# posttovac
