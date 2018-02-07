@@ -55,13 +55,19 @@ def parse_current(filename)
 
   doc = Nokogiri::HTML::parse(html, nil, charset)
 
-  maindiv = doc.css(".ym-gbox-left").last
+  maindiv = doc.css("#main-content > div").last
 
   body = ReverseMarkdown.convert maindiv.inner_html
 
-  rawcontext = body.gsub("[](/","[](https://www.border.gov.au/").gsub(/\| \n/,"\| ").gsub(/\n \|/," \|").lines.join("> ")
+  # p body
 
-  datestring = maindiv.css("div")[1].css("strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
+  rawcontext = body.gsub("[](/","[](http://www.homeaffairs.gov.au/")
+  .gsub("/trav/visa-1/189-","http://js.flyabroad.com.hk/au/189")
+  .gsub("/trav/visa-1/489-","http://js.flyabroad.com.hk/au/489")
+  .gsub(/\| \n/,"\| ").gsub(/\n \|/," \|").lines.join("> ")
+
+  datestring = maindiv.css("#ctl00_PlaceHolderMain_PublishingPageContent__ControlWrapper_RichHtmlField > p:nth-child(2) > strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
+  # datestring = maindiv.css("div")[1].css("strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
   updated = DateTime.parse(datestring).strftime("%Y-%m-%d")
 
   # updated = "2017-02-01"
@@ -97,8 +103,8 @@ p tall = tbs[1].css("tr")[3].css("td").last.text.strip
 p dt189 = tbs[2].css("td")[2].text.strip 
 p dt489 = tbs[2].css("td")[5].text.strip
 
-  dt189 = DateTime.strptime(dt189.gsub("\u00A0"," "), "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
-  dt489 = DateTime.strptime(dt489.gsub("\u00A0"," "), "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
+  dt189 = DateTime.strptime(dt189.gsub("\u00A0"," "), "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
+  dt489 = DateTime.strptime(dt489.gsub("\u00A0"," "), "%d/%m/%Y %l.%M %p").strftime("%Y-%m-%d %H:%M")
 
   ## Cut Off Occupations
   trows = doc.xpath(CUTOFFTABLEROW)
@@ -192,7 +198,8 @@ end
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/9-november-invitation-rounds.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/6-december-invitation-round-2017.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/20-december-invitation-round-2017.aspx")
-parse_current("https://www.homeaffairs.gov.au/trav/work/skil/invitation-round-3-january-2018")
+# parse_current("https://www.homeaffairs.gov.au/trav/work/skil/invitation-round-3-january-2018")
+parse_current("http://www.homeaffairs.gov.au/trav/work/skil/invitation-round-18-january-2018")
 
 def recreatecutofftable()
 

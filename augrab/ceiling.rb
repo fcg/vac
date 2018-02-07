@@ -11,9 +11,9 @@ require 'reverse_markdown'
 CEILINGS   = ".//*[@id='tab-content-3']/table"
 CEILINGTRS = ".//*[@id='tab-content-3']/table/tbody/tr"
 
-TURL = "https://www.homeaffairs.gov.au/trav/work/skil"
+TURL = "http://www.homeaffairs.gov.au/Trav/Work/Skil"
 
-CURRENTFN = "2018-01-03"  # 每次有新更新先修改这里
+CURRENTFN = "2018-01-18"  # 每次有新更新先修改这里
 F1718 = "ceilling-17-18"
 DATADIR = "../_data/sol/"
 POSTDIR = "../_posts/"
@@ -138,14 +138,15 @@ def upateceilling()
   next if tr.xpath("td").empty?
   next if tr.xpath("td[1]").empty?
 
-      td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      p td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
-      crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result from ceilings where anzsco4 = ?",td1anzsco4)
+      crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, updated from ceilings where anzsco4 = ?",td1anzsco4)
 
       lastresutl = crow[0][5]
+      lastupdate = crow[0][6]
 
       change = td4result - lastresutl
 
@@ -154,7 +155,8 @@ def upateceilling()
       csv << crow[0].push(td4result).push(change)
 
       updated = Time.now.strftime("%Y-%m-%d")
-      db.execute("update ceilings set result = ? , change = ?, updated = ? where anzsco4 = ?", [td4result, change, updated, td1anzsco4])
+
+      db.execute("update ceilings set result = ? , change = ?, updated = ? where anzsco4 = ?", [td4result, change, updated, td1anzsco4]) if lastupdate != updated
 
     end
   end
