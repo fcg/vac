@@ -61,8 +61,8 @@ categories: gsm
 > The highest ranked clients by points score are invited to apply for the relevant visa. For clients who have equal points scores, the time at which they reached their points score for that subclass (referred to as the date of effect) determines their order of invitation. Expressions of Interest with earlier dates of effect are invited before later dates.
 > 
 > SkillSelect first allocates available places to 
- [Skilled – Independent visas (subclass 189)](/trav/visa-1/189-) and then the remaining to 
- [Skilled – Regional (Provisional) visas (subclass 489)](/trav/visa-1/489-). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
+ [Skilled – Independent visas (subclass 189)](http://js.flyabroad.com.hk/au/189) and then the remaining to 
+ [Skilled – Regional (Provisional) visas (subclass 489)](http://js.flyabroad.com.hk/au/489). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
 > 
 > | Visa Subclass | Points score | Date of effect |
 > | --- | --- | --- |
