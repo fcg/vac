@@ -64,9 +64,12 @@ def parse_current(filename)
   rawcontext = body.gsub("[](/","[](http://www.homeaffairs.gov.au/")
   .gsub("/trav/visa-1/189-","http://js.flyabroad.com.hk/au/189")
   .gsub("/trav/visa-1/489-","http://js.flyabroad.com.hk/au/489")
+  .gsub("http://www.homeaffairs.gov.au","")
   .gsub(/\| \n/,"\| ").gsub(/\n \|/," \|").lines.join("> ")
 
-  datestring = maindiv.css("#ctl00_PlaceHolderMain_PublishingPageContent__ControlWrapper_RichHtmlField > p:nth-child(2) > strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
+  datestring = maindiv.xpath('//*[@id="page-content"]/div[1]/div/h1').text.gsub(" Invitation Round","").strip
+
+  # datestring = maindiv.css("#ctl00_PlaceHolderMain_PublishingPageContent__ControlWrapper_RichHtmlField > p:nth-child(2) > strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
   # datestring = maindiv.css("div")[1].css("strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
   updated = DateTime.parse(datestring).strftime("%Y-%m-%d")
 
