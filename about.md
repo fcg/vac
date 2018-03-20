@@ -11,6 +11,8 @@ FLYabroadVisa（飞出国签证工作室 @flyabroad Copyright 2005-2015）已与
 
 [飞出国签证申请信息中心]({{ site.vac_url }})目的在于提供一个签证申请目录及申请条件介绍说明，同时提供及时的[出国政策资讯]({{ site.vac_url }})，具体申请细节及申请过程中的问题都可以在[飞出国签证申请论坛]({{ site.bbs_url }})获得解答。
 
+如果您打算详细咨询飞出国，请提交在线评估： <a href="http://bbs.fcgvisa.com/t/topic/6216" target="_blank">http://bbs.fcgvisa.com/t/topic/6216</a> 。
+
 <div class="mobile-side-scroller">
 <table>
 
