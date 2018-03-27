@@ -1,0 +1,652 @@
+Code,CN,EN
+111111,行政长官或董事总经理,Chief Executive or Managing Director
+111211,公司总经理,Corporate General Manager
+111212,国防军高级官员,Defence Force Senior Officer
+121111,水产养殖农民,Aquaculture Farmer
+121211,棉农,Cotton Grower
+121212,花农,Flower Grower
+121213,水果或坚果种植者,Fruit or Nut Grower
+121214,谷物，油籽草种植者,Grain
+121215,葡萄种植者,Grape Grower
+121216,混合作物农民,Mixed Crop Farmer
+121217,甘蔗种植者,Sugar Cane Grower
+121218,草坪种植者,Turf Grower
+121221,菜农（澳洲）,Vegetable Grower (Aus) / Market Gardener (NZ)
+121299,作物农民NEC的,Crop Farmers nec
+121311,养蜂家,Apiarist
+121312,肉牛农民,Beef Cattle Farmer
+121313,奶牛农民,Dairy Cattle Farmer
+121314,鹿农民,Deer Farmer
+121315,山羊农民,Goat Farmer
+121316,马饲养员,Horse Breeder
+121317,农民人畜混,Mixed Livestock Farmer
+121318,养猪农民,Pig Farmer
+121321,家禽饲养,Poultry Farmer
+121322,羊农民,Sheep Farmer
+121399,畜牧业农民NEC,Livestock Farmers nec
+121411,混合作物和牲畜农民,Mixed Crop and Livestock Farmer
+131112,销售和市场营销经理,Sales and Marketing Manager
+131113,广告管理,Advertising Manager
+131114,公共关系经理,Public Relations Manager
+132111,企业服务经理,Corporate Services Manager
+132211,财务经理,Finance Manager
+132311,人力资源经理,Human Resource Manager
+132411,政策和规划经理,Policy and Planning Manager
+132511,研究和开发经理,Research and Development Manager
+133111,施工项目经理,Construction Project Manager
+133112,项目建造师,Project Builder
+133211,工程师经理,Engineering Manager
+133311,进口商或出口商,Importer or Exporter
+133312,批发商,Wholesaler
+133411,制造商,Manufacturer
+133511,生产经理（林业）,Production Manager (Forestry)
+133512,生产经理（制造业）,Production Manager (Manufacturing)
+133513,生产经理（采矿）,Production Manager (Mining)
+133611,采购供应及分销经理,Supply and Distribution  Manager
+133612,采购经理,Procurement Manager
+134111,幼儿中心经理,Child Care Centre Manager
+134211,医疗管理员,Medical Administrator
+134212,护理临床主任,Nursing Clinical Director
+134213,初级卫生机构经理,Primary Health Organisation Manager
+134214,福利中心经理,Welfare Centre Manager
+134299,卫生和福利服务经理NEC,Health and Welfare Services Managers nec
+134311,校长,School Principal
+134411,学院主管,Faculty Head
+134412,区域教育服务经理,Regional Education Manager
+134499,教育管理者NEC,Education Managers nec
+135111,首席信息官,Chief Information Officer
+135112,信息和通信技术项目经理,ICT Project Manager
+135199,信息和通信技术经理NEC,ICT Managers nec
+139111,现役国防军主任,Commissioned Defence Force Officer
+139112,现役消防官,Commissioned Fire Officer
+139113,现役警察,Commissioned Police Officer
+139211,高级非现役国防军会员,Senior Non-Commissioned Defence Force Member
+139911,艺术管理者或经理,Arts Administrator or Manager
+139912,环境经理,Environmental Manager
+139913,实验室经理,Laboratory Manager
+139914,质量保证经理,Quality Assurance Manager
+139915,体育管理员,Sports Administrator
+139999,专家经理NEC,Specialist Managers nec EXCEPT: Ambassador
+141111,咖啡馆或餐厅经理,Cafe or Restaurant Manager
+141211,大篷车公园和露营地管理,Caravan Park and Camping Ground Manager
+141311,酒店或汽车旅馆经理,Hotel or Motel Manager
+141411,持牌俱乐部经理,Licensed Club Manager
+141911,床位和早餐管理人,Bed and Breakfast Operator
+141912,退休村经理,Retirement Village Manager
+141999,住宿和接待经理NEC,Accommodation and Hospitality Managers nec
+142112,古董商,Antique Dealer
+142113,博彩营业经理,Betting Agency Manager
+142114,美发或美容院经理,Hair or Beauty Salon Manager
+142115,邮局管理员,Post Office Manager
+142116,旅行社经理,Travel Agency Manager
+149111,娱乐中心经理,Amusement Centre Manager
+149112,健身中心经理,Fitness Centre Manager
+149113,体育中心经理,Sports Centre Manager
+149211,呼叫或联系中心经理,Call or Contact Centre Manager
+149212,客户服务经理,Customer Service Manager
+149311,会议和活动组织者,Conference and Event Organiser
+149411,车队经理,Fleet Manager
+149412,火车站经理,Railway Station Manager
+149413,运输公司经理,Transport Company Manager
+149911,宠物旅馆管理人,Boarding Kennel or Cattery Operator
+149912,电影院或剧院经理,Cinema or Theatre Manager
+149913,设施经理,Facilities Manager
+149914,金融机构分公司经理,Financial Institution Branch Manager
+149915,设备租赁经理,Equipment Hire Manager
+211111,演员,Actor
+211112,舞蹈演员及编舞,Dancer or Choreographer
+211113,艺人或综艺艺术家,Entertainer or Variety Artist
+211199,演员，舞蹈家和其他艺人NEC,Actors
+211211,作曲家,Composer
+211212,音乐总监,Music Director
+211213,音乐家（器乐）,Musician (Instrumental)
+211214,歌手,Singer
+211299,音乐专业人员NEC,Music Professionals nec
+211311,摄影师,Photographer
+211411,画家（视觉艺术）,Painter (Visual Arts)
+211412,陶艺或陶瓷艺术家,Potter or Ceramic Artist
+211413,雕塑家,Sculptor
+211499,视觉艺术和工艺品专业人员NEC,Visual Arts and Crafts Professionals nec
+212111,艺术总监,Artistic Director
+212112,媒体制作（不含视频）,Media Producer (excluding Video)
+212113,电台主持人,Radio Presenter
+212114,电视节目主持人,Television Presenter
+212211,作家,Author
+212212,书或剧本编辑,Book or Script Editor
+212311,艺术总监（电影，电视或舞台）,Art Director (Film
+212312,总监（电影，电视，收音机或舞台）,Director (Film
+212313,摄影指导,Director of Photography
+212314,电影和视频编辑,Film and Video Editor
+212315,项目总监（电视或电台）,Program Director (Television or Radio)
+212316,剧务,Stage Manager
+212317,技术总监,Technical Director
+212318,视频制作,Video Producer
+212399,电影，电视，广播和舞台董事NEC,Film
+212411,文案,Copywriter
+212412,报纸或期刊编辑,Newspaper or Periodical Editor
+212413,报刊杂志记者,Print Journalist
+212414,电台记者,Radio Journalist
+212415,技术作家,Technical Writer
+212416,电视记者,Television Journalist
+212499,记者和其他作家NEC,Journalists and Other Writers nec
+221111,会计师（普通）,Accountant (General)
+221112,管理会计师,Management Accountant
+221113,税务会计师,Taxation Accountant
+221211,公司秘书,Company Secretary
+221212,企业财务,Corporate Treasurer
+221213,外审,External Auditor
+221214,内审,Internal Auditor
+222111,大宗商品交易商,Commodities Trader
+222112,金融经纪,Finance Broker
+222113,保险经纪,Insurance Broker
+222199,金融经纪NEC,Financial Brokers nec
+222211,金融市场经销商,Financial Market Dealer
+222212,期货操盘手,Futures Trader
+222213,证券经纪交易商,Stockbroking Dealer
+222299,金融交易商NEC,Financial Dealers nec
+222311,金融投资顾问,Financial Investment Adviser
+222312,金融投资经理,Financial Investment Manager
+223111,人力资源顾问,Human Resource Adviser
+223112,招聘顾问,Recruitment Consultant
+223113,劳资关系顾问,Workplace Relations Adviser
+223211,ICT培训师,ICT Trainer
+223311,培训和开发专员,Training and Development Professional
+224111,精算师,Actuary
+224112,数学家,Mathematician
+224113,统计学家,Statistician
+224211,档案保管员,Archivist
+224212,画廊或博物馆馆长,Gallery or Museum Curator
+224213,卫生信息管理员,Health Information Manager
+224214,记录管理员,Records Manager
+224311,经济学家,Economist
+224411,情报官,Intelligence Officer
+224412,政策分析师,Policy Analyst
+224511,土地经济学家,Land Economist
+224512,估值师,Valuer
+224611,图书管理员,Librarian
+224711,管理顾问,Management Consultant
+224712,组织和方法分析师,Organisation and Methods Analyst
+224911,选民主任,Electorate Officer
+224912,联络主任联络官,Liaison Officer
+224913,移民代理（澳洲）,Migration Agent (Aus)
+224914,专利审查员,Patents Examiner
+224999,信息和组织专业人员NEC,Information and Organisation Professionals nec
+225111,广告专员,Advertising Specialist
+225112,市场研究分析师,Market Research Analyst
+225113,市场营销专员,Marketing Specialist
+225211,ICT客户经理,ICT Account Manager
+225212,信息和通信技术业务发展经理,ICT Business Development Manager
+225213,信息和通信技术销售代表,ICT Sales Representative
+225311,公共关系专员,Public Relations Professional
+225411,销售代表（工业产品）,Sales Representative (Industrial Products)
+225412,销售代表（医药品）,Sales Representative (Medical and Pharmaceutical Products)
+225499,技术销售代表NEC,Technical Sales Representatives nec
+231111,飞机飞行员,Aeroplane Pilot
+231112,空中交通管制员,Air Traffic Controller
+231113,飞行教练,Flying Instructor
+231114,直升机飞行员,Helicopter Pilot
+231199,航空运输专业人员NEC,Air Transport Professionals nec
+231211,渔船船长,Master Fisher
+231212,船舶工程师,Ship's Engineer
+231213,船长,Ship's Master
+231214,船舶主任,Ship's Officer
+231215,船舶验船师,Marine Surveyor
+231299,海洋运输专业人员NEC,Marine Transport Professionals nec
+232111,建筑师,Architect
+232112,景观设计师,Landscape Architect
+232212,测量员,Surveyor
+232213,制图师,Cartographer
+232214,其他空间科学家,Other Spatial Scientist
+232311,时装设计师,Fashion Designer
+232312,工业设计师,Industrial Designer
+232313,珠宝设计师,Jewellery Designer
+232411,平面设计师,Graphic Designer
+232412,插图画家,Illustrator
+232413,多媒体设计师,Multimedia Designer
+232414,网页设计师,Web Designer
+232511,室内设计师,Interior Designer
+232611,城市和区域规划师,Urban and Regional Planner
+233111,化学工程师,Chemical Engineer
+233112,材料工程师,Materials Engineer
+233211,土木工程师,Civil Engineer
+233212,岩土工程师,Geotechnical Engineer
+233213,工料测量师,Quantity Surveyor
+233214,结构工程师,Structural Engineer
+233215,交通工程师,Transport Engineer
+233311,电气工程师,Electrical Engineer
+233411,电子工程师,Electronics Engineer
+233511,工业工程师,Industrial Engineer
+233512,机械工程师,Mechanical Engineer
+233513,生产或工厂工程师,Production or Plant Engineer
+233611,采矿工程师（不包括石油）,Mining Engineer (Excluding Petroleum)
+233612,石油工程师,Petroleum Engineer
+233911,航空工程师,Aeronautical Engineer
+233912,农业工程师,Agricultural Engineer
+233913,生物医学工程师,Biomedical Engineer
+233914,工程技师,Engineering Technologist
+233915,环境工程师,Environmental Engineer
+233916,海军建筑师,Naval Architect
+233999,其他工程专业人员,Engineering Professionals nec
+234111,农业顾问,Agricultural Consultant
+234112,农业科学家,Agricultural Scientist
+234113,护林员,Forester
+234211,化学家,Chemist
+234212,食品技师,Food Technologist
+234213,葡萄酒生产商,Wine Maker
+234311,保育主任,Conservation Officer
+234312,环境顾问,Environmental Consultant
+234313,环境研究科学家,Environmental Research Scientist
+234314,巡山,Park Ranger
+234399,环境科学家NEC,Environmental Scientists nec
+234411,地质学家,Geologist
+234412,地球物理学家,Geophysicist
+234413,水文地质学家,Hydrogeologist
+234511,生命科学家（普通）,Life Scientist (General)
+234513,生物化学家,Biochemist
+234514,生物技术专家,Biotechnologist
+234515,植物学家,Botanist
+234516,海洋生物学家,Marine Biologist
+234517,微生物学家,Microbiologist
+234518,动物学家,Zoologist
+234599,生命科学家的NEC,Life Scientists nec
+234611,医学实验室科学家,Medical Laboratory Scientist
+234711,兽医,Veterinarian
+234911,自然保护者,Conservator
+234912,冶金学家,Metallurgist
+234913,气象学家,Meteorologist
+234914,物理学家（医学物理学家）,Physicist (Medical Physicist only)
+234914,物理学家（医学物理学家）,Physicist
+234915,运动生理学家,Exercise Physiologist
+234999,自然和物理科学专业人员NEC,Natural and Physical Science Professionals  nec
+241111,幼儿教育（学前教育）教师,Early Childhood (Pre-Primary School) Teacher
+241213,小学教师,Primary School Teacher
+241311,中学教师（澳大利亚）,Middle School Teacher (Aus) / Intermediate School Teacher (NZ)
+241411,中学教师,Secondary School  Teacher
+241511,特别需要教师,Special Needs Teacher
+241512,聋哑教师,Teacher of the Hearing Impaired
+241513,视障教师,Teacher of the Sight Impaired
+241599,特殊教育教师NEC,Special Education Teachers nec
+242111,大学讲师（符合大学助研或研究员）,University Lecturer (Suitable for the position of Research Associate or Research Fellow in a University)
+242112,大学导师,University Tutor
+242211,职业教育教师（非技工）,Vocational Education Teacher (Non Trades)
+242211,职业教育教师（非技工）,Vocational Education Teacher (Trades)
+249111,教育顾问,Education Adviser
+249112,教育评论家,Education Reviewer
+249211,美术教师（补习）,Art Teacher (Private Tuition)
+249212,舞蹈老师（补习）,Dance Teacher (Private Tuition)
+249213,戏剧老师（补习）,Drama Teacher (Private Tuition)
+249214,音乐教师（补习）,Music Teacher (Private Tuition)
+249299,私人导师和教师NEC,Private Tutors and Teachers nec
+249311,讲其他语言的英语教师,Teacher of English to Speakers of Other Languages
+251111,营养师,Dietitian
+251112,营养师,Nutritionist
+251211,医用放射诊断技师,Medical Diagnostic Radiographer
+251212,医疗放射治疗师,Medical Radiation Therapist
+251213,核医学技师,Nuclear Medicine Technologist
+251214,超声检查技师,Sonographer
+251311,环境卫生官员,Environmental Health Officer
+251312,职业健康与安全顾问,Occupational Health and Safety Adviser
+251411,验光师,Optometrist
+251412,视觉矫正师,Orthoptist
+251511,医院药剂师,Hospital Pharmacist
+251512,工业药师,Industrial Pharmacist
+251513,零售药剂师,Retail Pharmacist
+251911,健康推广主任,Health Promotion Officer
+251912,矫形或义肢技师,Orthotist or Prosthetist
+251999,健康诊断和促进专业人员NEC,Health Diagnostic and Promotion Professionals nec
+252111,脊医,Chiropractor
+252112,整骨专家,Osteopath
+252211,针灸师,Acupuncturist
+252212,顺势疗法医师,Homoeopath
+252213,自然疗法医师,Naturopath
+252214,中国传统中医,Traditional Chinese Medicine Practitioner
+252299,互补性健康治疗师NEC,Complementary Health Therapists nec
+252311,牙科专家,Dental Specialist
+252312,牙科医生,Dentist
+252411,职业治疗师,Occupational Therapist
+252511,物理治疗师,Physiotherapist
+252611,足病诊疗师,Podiatrist
+252711,听力学家,Audiologist
+252712,语言病理学家,Speech Pathologist
+253111,普通科医生,General Practitioner
+253112,居民医疗官,Resident Medical Officer
+253211,麻醉师,Anaesthetist
+253311,专科医师（全科医学）,Specialist Physician (General Medicine)
+253312,心脏病专家,Cardiologist
+253313,临床血液病医生,Clinical Haematologist
+253314,肿瘤内科医生医生,Medical Oncologist
+253315,内分泌学家,Endocrinologist
+253316,胃肠病医生,Gastroenterologist
+253317,重症监护专家,Intensive Care Specialist
+253318,神经学家,Neurologist
+253321,儿科医生,Paediatrician
+253322,肾内科专家,Renal Medicine Specialist
+253323,风湿病专家,Rheumatologist
+253324,胸科医学专家,Thoracic Medicine Specialist
+253399,专家医师NEC的,Specialist Physicians nec
+253411,精神科医生,Psychiatrist
+253511,外科医生（普通）,Surgeon (General)
+253512,心胸外科医生,Cardiothoracic Surgeon
+253513,神经外科专家,Neurosurgeon
+253514,矫形外科医生,Orthopaedic Surgeon
+253515,耳鼻喉科专家,Otorhinolaryngologist
+253516,儿科医生,Paediatric Surgeon
+253517,整形外科医生,Plastic and Reconstructive Surgeon
+253518,泌尿科医师,Urologist
+253521,血管外科医生,Vascular Surgeon
+253911,皮肤科医生,Dermatologist
+253912,急诊医学专家,Emergency Medicine Specialist
+253913,产科医生和妇科医生,Obstetrician and Gynaecologist
+253914,眼科医生,Ophthalmologist
+253915,病理学家,Pathologist
+253917,诊断和介入放射科专家,Diagnostic and Interventional Radiologist
+253918,放射肿瘤科专家,Radiation Oncologist
+253999,其他医疗执业人员,Medical Practitioners nec
+254111,助产士,Midwife
+254211,护士教育家,Nurse Educator
+254212,护理研究员,Nurse Researcher
+254311,护士经理,Nurse Manager
+254411,护士执业,Nurse Practitioner
+254412,注册护士（老年护理）,Registered Nurse (Aged Care)
+254413,注册护士（儿童和家庭健康）,Registered Nurse (Child and Family Health)
+254414,注册护士（社区卫生服务）,Registered Nurse (Community Health)
+254415,注册护士（重症监护和紧急）,Registered Nurse (Critical Care and Emergency)
+254416,注册护士（发展迟缓）,Registered Nurse (Developmental Disability)
+254417,注册护士（残疾和康复）,Registered Nurse (Disability and Rehabilitation)
+254418,注册护士（医学）,Registered Nurse (Medical)
+254421,注册护士（医疗实践）,Registered Nurse (Medical Practice)
+254422,注册护士（心理健康）,Registered Nurse (Mental Health)
+254423,注册护士（围手术期）,Registered Nurse (Perioperative)
+254424,注册护士（手术）,Registered Nurse (Surgical)
+254425,注册护士（儿科）,Registered Nurse (Paediatric)
+254499,其他注册护士,Registered Nurses nec
+261111,ICT业务分析师,ICT business Analyst
+261112,系统分析员,Systems Analyst
+261211,多媒体专家,Multimedia Specialist
+261212,Web开发员,Web Developer
+261311,分析程序员,Analyst Programmer
+261312,开发程序员,Developer Programmer
+261313,软件工程师,Software Engineer
+261314,软件测试员,Software Tester
+261399,软件和应用程序员NEC,Software and Applications Programmers nec
+262111,数据库管理员,Database Administrator
+262112,信息和通信技术安全专家,ICT Security Specialist
+262113,系统管理员,Systems Administrator
+263111,计算机网络和系统工程师,Computer Network and Systems Engineer
+263112,网络管理员,Network Administrator
+263113,网络分析师,Network Analyst
+263211,ICT质量保证工程师,ICT Quality Assurance Engineer
+263212,信息和通信技术支持工程师,ICT Support Engineer
+263213,信息和通信技术系统测试工程师,ICT Systems Test Engineer
+263299,信息和通信技术支持和测试工程师NEC,ICT Support and Test Engineers nec
+263311,电信工程师,Telecommunications Engineer
+263312,电信网络工程师,Telecommunications Network Engineer
+271111,律师,Barrister
+271211,法官,Judge
+271212,裁判官,Magistrate
+271213,审裁处成员,Tribunal Member
+271214,知识产权律师,Intellectual Property Lawyer
+271299,司法和其他法律专业人员NEC,Judicial and Other Legal Professionals nec
+271311,律师,Solicitor
+272111,职业顾问,Careers Counsellor
+272112,药物和酒精顾问,Drug and Alcohol Counsellor
+272113,家庭和婚姻顾问,Family and Marriage Counsellor
+272114,康复顾问,Rehabilitation Counsellor
+272115,学生顾问辅导员,Student Counsellor
+272199,辅导员NEC,Counsellors nec
+272211,宗教部长,Minister of Religion
+272311,临床心理学家,Clinical Psychologist
+272312,教育心理学家,Educational Psychologist
+272313,组织心理学家,Organisational Psychologist
+272314,心理治疗师,Psychotherapist
+272399,心理学家NEC,Psychologists nec
+272411,历史学家,Historian
+272412,口译,Interpreter
+272413,翻译,Translator
+272414,考古学家,Archaeologist
+272499,社会专业人员NEC,Social Professionals nec
+272511,社工,Social Worker
+272611,社区艺术工作家,Community Arts Worker
+272612,康乐主任,Recreation Officer
+272613,福利工作者,Welfare Worker
+311111,农业技术员,Agricultural Technician
+311211,麻醉技术员,Anaesthetic Technician
+311212,心脏技术员,Cardiac Technician
+311213,医学实验室技术员,Medical Laboratory Technician
+311214,手术室技术员,Operating Theatre Technician
+311215,药剂技术员,Pharmacy Technician
+311216,病理收集员（澳洲） /抽血员（新西兰）,Pathology Collector (Aus) / Phlebotomist (NZ)
+311299,医疗技师NEC,Medical Technicians nec
+311311,渔业主任,Fisheries Officer
+311312,肉类督察,Meat Inspector
+311313,检疫官员,Quarantine Officer
+311399,初级产品检查员NEC,Primary Products Inspectors nec
+311411,化学技术员,Chemistry Technician
+311412,地球科学技术员,Earth Science Technician
+311413,生命科学技术员,Life Science Technician
+311414,学校实验室技术员,School Laboratory Technician
+311415,水文工作者,Hydrographer
+311499,其他科学技术员,Science Technicians nec
+312111,建筑绘图员,Architectural Draftsperson
+312112,建筑助理,Building Associate
+312113,建筑检查员,Building Inspector
+312114,建筑估算员,Construction Estimator
+312115,水暖督察,Plumbing Inspector
+312116,测量或空间科学技术员,Surveying or Spatial Science Technician
+312199,建筑，建造及测量技术员NEC,Architectural
+312211,土木工程绘图员,Civil Engineering Draftsperson
+312212,土木工程技术员,Civil Engineering Technician
+312311,电气工程绘图员,Electrical Engineering Draftsperson
+312312,电气工程技术员,Electrical Engineering Technician
+312411,电子工程绘图员,Electronic Engineering Draftsperson
+312412,电子工程技术员,Electronic Engineering Technician
+312511,机械绘图员,Mechanical Engineering Draftsperson
+312512,机械工程技术员,Mechanical Engineering Technician
+312611,安全检查员,Safety Inspector
+312911,维护规划员,Maintenance Planner
+312912,冶金或材料技术员,Metallurgical or Materials Technician
+312913,矿副,Mine Deputy
+312999,建筑及工程技术员NEC,Building and Engineering Technicians nec
+313111,硬件技术员,Hardware Technician
+313112,ICT 客户支持,ICT Customer Support Officer
+313113,Web管理员,Web Administrator
+313199,信息和通信技术支持技术员NEC,ICT Support Technicians nec
+313211,无线电通信技术员,Radio Communications Technician
+313212,电信领域工程师,Telecommunications Field Engineer
+313213,电信网络规划师,Telecommunications Network Planner
+313214,电信技术人员或技师,Telecommunications Technical Officer or Technologist
+321111,汽车电工,Automotive Electrician
+321211,汽车技工（普通）,Motor Mechanic (General)
+321212,柴油汽车技工,Diesel Motor Mechanic
+321213,摩托车技工,Motorcycle Mechanic
+321214,小型发动机技工,Small Engine Mechanic
+322111,铁匠,Blacksmith
+322112,电镀工,Electroplater
+322113,兽医,Farrier
+322114,金属铸造行业工人,Metal Casting Trades Worker
+322115,金属抛光工,Metal Polisher
+322211,钣金行业工人,Sheetmetal Trades Worker
+322311,金属构造工,Metal Fabricator
+322312,压力焊工,Pressure Welder
+322313,焊工（甲等）,Welder (First Class)
+323111,飞机维修工程师（航空电子）,Aircraft Maintenance Engineer (Avionics)
+323112,飞机维修工程师（机械）,Aircraft Maintenance Engineer (Mechanical)
+323113,飞机维修工程师（结构）,Aircraft Maintenance Engineer (Structures)
+323211,钳工（普通）,Fitter (General)
+323212,钳工和车床工,Fitter and Turner
+323213,钳工，焊工,Fitter-Welder
+323214,金属机械师（甲等）,Metal Machinist (First Class)
+323215,纺织，服装和制鞋技工,Textile
+323299,金属钳工和机械师NEC,Metal Fitters and Machinists nec
+323311,雕刻工,Engraver
+323312,枪械工,Gunsmith
+323313,锁匠,Locksmith
+323314,精密仪器制造和修理工,Precision Instrument Maker and Repairer
+323315,锯制造和修理工,Saw Maker and Repairer
+323316,钟表制造和修理工,Watch and Clock Maker and Repairer
+323411,工程制模工人,Engineering Patternmaker
+323412,模具工人,Toolmaker
+324111,钣金工人,Panelbeater
+324211,车身修理工,Vehicle Body Builder
+324212,汽车翻修工,Vehicle Trimmer
+324311,汽车油漆技工,Vehicle Painter
+331111,瓦工,Bricklayer
+331112,石匠,Stonemason
+331211,木工和细木工,Carpenter and Joiner
+331212,木匠,Carpenter
+331213,细木工,Joiner
+332111,地板工,Floor Finisher
+332211,绘画工人,Painting trades workers
+333111,玻璃工,Glazier
+333211,纤维泥水匠,Fibrous Plasterer
+333212,固体泥水匠,Solid Plasterer
+333311,屋顶铺瓦工,Roof Tiler
+333411,墙和地板瓦工,Wall and Floor Tiler
+334111,管道工（普通）,Plumber (General)
+334112,空调和机械服务水管工,Airconditioning and Mechanical Services Plumber
+334113,下水道工,Drainer
+334114,煤气工,Gasfitter
+334115,屋顶水暖工,Roof plumber
+341111,电工（普通）,Electrician (General)
+341112,电工（特种）,Electrician (Special Class)
+341113,电梯升降机技工,Lift Mechanic
+342111,空调和制冷技工,Airconditioning and Refrigeration Mechanic
+342211,电气接线员,Electrical Linesworker
+342212,电缆接线技工,Technical Cable Jointer
+342311,商业机械技工,Business Machine Mechanic
+342312,通信运营商,Communications Operator
+342313,电子设备行业工人,Electronic Equipment Trades Worker
+342314,电子仪器行业工人（普通）,Electronic Instrument Trades Worker (General)
+342315,电子仪器行业工人（特别类）,Electronic Instrument Trades Worker (Special Class)
+342411,线缆工（数据通信）,Cabler (Data and Telecommunications)
+342412,电信电缆接线员,Telecommunications Cable Jointer
+342413,电信接线员,Telecommunications Linesworker
+342414,电讯技术员,Telecommunications Technician
+351111,面包师,Baker
+351112,糕饼师,Pastrycook
+351211,屠宰及熟肉加工,Butcher or Smallgoods Maker (Excluding the activity of slaughtering animals
+351311,主厨,Chef
+351411,厨师,Cook
+361111,驯犬师或训犬师,Dog Handler or Trainer
+361112,驯马师,Horse Trainer
+361114,动物园管理员,Zookeeper
+361115,养犬手,Kennel Hand
+361199,动物服务员和教员NEC,Animal Attendants and Trainers nec
+361211,剪切者,Shearer
+361311,兽医护士,Veterinary Nurse
+362111,花匠,Florist
+362211,园丁（普通）,Gardener (General)
+362212,树艺师,Arborist
+362213,园艺师,Landscape Gardener
+362311,球场管理员,Greenkeeper
+362411,托儿所保育员,Nurseryperson
+391111,理发师,Hairdresser
+392111,打印装订工,Print Finisher
+392112,丝网印刷工,Screen Printer
+392211,图形印前行业工人,Graphic Pre-press Trades Worker
+392311,印刷技工,Printing Machinist
+392312,小型胶印印刷工,Small Offset Printer
+393111,帆布制品加工商,Canvas Goods Fabricator
+393112,皮革制品制造商,Leather Goods Maker
+393113,帐篷厂商,Sail Maker
+393114,鞋匠,Shoemaker
+393211,服装裁剪工,Apparel Cutter
+393212,服装模具工人,Clothing Patternmaker
+393213,裁缝,Dressmaker or Tailor
+393299,服装行业工人NEC,Clothing Trades Workers nec
+393311,家俱商,Upholsterer
+394111,细木工,Cabinetmaker
+394211,家具装订工,Furniture Finisher
+394212,图片成帧器,Picture Framer
+394213,木机械师,Wood Machinist
+394214,木车床工,Wood Turner
+394299,木机械师和其他木技工工人NEC,Wood Machinists and Other Wood Trades Workers nec
+399111,船舶构造和维修,Boat Builder and Repairer
+399112,造船工人,Shipwright
+399211,化工厂操作员,Chemical Plant Operator
+399212,天然气或石油操作,Gas or Petroleum Operator
+399213,发电厂操作,Power Generation Plant Operator
+399311,画廊或博物馆技术员,Gallery or Museum Technician
+399312,图书馆技术员,Library Technician
+399411,珠宝商,Jeweller
+399511,广播发射机操作,Broadcast Transmitter Operator
+399512,相机操作（电影，电视或视频）,Camera Operator (Film
+399513,光技术员,Light Technician
+399514,化妆师,Make Up Artist
+399515,乐器制造工人或维修工,Musical Instrument Maker or Repairer
+399516,音响技术员,Sound Technician
+399517,电视设备操作工,Television Equipment Operator
+399599,演艺技师NEC,Performing Arts Technicians nec
+399611,招牌写手,Signwriter
+399911,潜水员,Diver
+399912,室内装潢师,Interior Decorator
+399913,光分配员,Optical Dispenser
+399914,光学技工,Optical Mechanic
+399916,塑料技术员,Plastics Technician
+399917,羊毛分级员,Wool Classer
+399918,消防设备技术员,Fire Protection Equipment Technician
+399999,技术人员和其他业职工,Technicians and Trades Workers nec
+411111,救护主任,Ambulance Officer
+411112,重症监护救护车医务人员,Intensive Care Ambulance Paramedic
+411211,牙齿卫生员,Dental Hygienist
+411212,牙科义肢,Dental Prosthetist
+411213,牙科技师,Dental Technician
+411214,牙科治疗师,Dental Therapist
+411311,措施满足治疗师,Diversional Therapist
+411411,登记护士,Enrolled Nurse
+411412,育儿护士,Mothercraft Nurse
+411511,土著居民和托雷斯海峡岛民卫生工作家,Aboriginal and Torres Strait Islander Health Worker
+411611,按摩治疗师,Massage Therapist
+411711,社区工作家,Community Worker
+411712,残疾人服务主任,Disabilities Services Officer
+411713,家庭支持工作家,Family Support Worker
+411714,假释或缓刑主任,Parole or Probation Officer
+411715,安老院主任,Residential Care Officer
+411716,青年工人,Youth Worker
+441111,国防军成员 - 其他职级,Defence Force Member – Other Ranks
+441211,紧急服务工作人员,Emergency Service Worker
+441212,消防战士,Fire Fighter
+441311,侦探,Detective
+441312,警官,Police Officer
+442111,监狱工作人员,Prison Officer
+451211,驾驶教师,Driving Instructor
+451311,殡仪馆主任,Funeral Director
+451399,葬礼工人NEC,Funeral Workers nec
+451711,乘务员,Flight Attendant
+451799,旅游服务员NEC,Travel Attendants nec
+451815,急救训练师,First Aid Trainer
+452311,潜水教练（开放水域）,Diving Instructor (Open Water)
+452312,体操教练或导师,Gymnastics Coach or Instructor
+452313,骑马教练或导师,Horse Riding Coach or Instructor
+452314,滑雪用品导师,Snowsport Instructor
+452315,游泳教练或导师,Swimming Coach or Instructor
+452316,网球教练,Tennis Coach
+452317,其他体育教练或导师,Other Sports Coach or Instructor
+452318,赛狗或赛马官员,Dog or Horse Racing Official
+452321,体育发展主任,Sports Development Officer
+452322,体育裁判,Sports Umpire
+452323,其他体育官员,Other Sports Official
+452411,足球运动员,Footballer
+452412,高尔夫球,Golfer
+452413,骑师,Jockey
+452499,体育运动员NEC,Sportspersons nec
+511111,合同管理员,Contract Administrator
+511112,计划或项目管理员,Program or Project Administrator
+599111,财产转让员,Conveyancer
+599112,法律行政,Legal Executive
+599212,法院执达主任或警长（澳洲）,Court Bailiff or Sheriff (Aus) / Court Collections Officer (NZ)
+599611,保险调查员,Insurance Investigator
+599612,保险公证员,Insurance Loss Adjuster
+599613,保险风险测量师,Insurance Risk Surveyor
+599915,临床编码员,Clinical Coder
+611111,拍卖员,Auctioneer
+611112,股票及站代理,Stock and Station Agent
+611211,保险公司,Insurance Agent
+612111,商业经纪人,Business Broker
+612112,物业经理,Property Manager
+612113,房地产代理校长,Real Estate Agency Principal
+612114,房地产代理,Real Estate Agent
+612115,房地产代表,Real Estate Representative
+639211,零售买家,Retail Buyer
+639212,羊毛买家,Wool Buyer
+712211,钻井工人,Driller
