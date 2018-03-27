@@ -69,8 +69,6 @@ categories: EE
 
 **No program specified**
 
-[See full text of Ministerial Instruction](/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions.html#invitations)
-
 **Number of invitations issued:** 3,000Footnote \***Rank required to be invited to apply:** 3,000th or above
 
 **Date and time of round:** March&nbsp;26, 2018 at 12:00:18 UTC
@@ -79,9 +77,6 @@ categories: EE
 
 **Tie-breaking rule:**&nbsp;February 23, 2018 at 08:06:19 UTC
 
-- If more than one candidate has the lowest score, [the cut-off](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1318&top=29#CRS) is based on the date and time they submitted their Express Entry profiles.
-
-	
 2018年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/topic/26065" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
