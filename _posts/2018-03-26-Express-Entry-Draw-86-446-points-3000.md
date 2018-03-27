@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Express Entry 2018-03-26 2018 年第 6 捞：3000人，0分"
+title:  "Express Entry 2018-03-26 2018 年第 6 捞：3000人，446分"
 date:   2018-03-26 23:56:00  +0800
 categories: EE
 ---
 
-飞出国：加拿大时间 2018-03-26，CIC 发布 Express Entry 2018 年第 6 捞（总第 86 捞），3000人，0分。
+飞出国：加拿大时间 2018-03-26，CIC 发布 Express Entry 2018 年第 6 捞（总第 86 捞），3000人，446分。
 
 2017年6月6日，EE CRS 进一步调整评分标准，增加[加拿大亲属分数及法语额外加分](http://www.flyabroadnews.com/express-entry-comprehensive-ranking-system-crs-2017-flyabroad/)。
 
@@ -13,7 +13,7 @@ categories: EE
 
 加拿大联邦技术移民 [Express Entry] 不要求申请人有雇主offer，也没有职业和专业限制，对加拿大受管制职业也不要求获得省政府的认证，只需要满足加拿大联邦技术移民 [FSW]，加拿大经验类移民 [CEC] 或 加拿大技工类移民 [FST] 任何一种加拿大联邦技术移民签证类别要求就可以创建 Express Entry profile 到池子排队（EE pool），然后加拿大联邦移民部会不定期根据分数高低发出 EE 邀请，获得邀请后90天内提交移民签证申请，提交移民签证申请后有半年左右时间就可以获得签证了。
 
-2016年11月19日，加拿大 Express Entry CRS 评分标准调整，加拿大雇主 offer 大部分只能加 50 分，600 分以上申请人明显减少，同时随着加拿大联邦 EE 邀请人数增加，EE 邀请分数已经大大低于 450 分，当前最低是 0 分就可以获得邀请，这给学历高，语言好，有加拿大学历或加拿大工作经验的申请人提供了方便快捷的申请方式，随着 0 分上申请人被联邦捞取，加拿大安大略省省提名项目 400 分类别申请人里大部分获得邀请的应该是 400 - 0 之间申请人，对安省省提名 [HCP] 类别也是利好消息。
+2016年11月19日，加拿大 Express Entry CRS 评分标准调整，加拿大雇主 offer 大部分只能加 50 分，600 分以上申请人明显减少，同时随着加拿大联邦 EE 邀请人数增加，EE 邀请分数已经大大低于 450 分，当前最低是 413 分就可以获得邀请，这给学历高，语言好，有加拿大学历或加拿大工作经验的申请人提供了方便快捷的申请方式，随着 413 分上申请人被联邦捞取，加拿大安大略省省提名项目 400 分类别申请人里大部分获得邀请的应该是 400 - 413 之间申请人，对安省省提名 [HCP] 类别也是利好消息。
 
 **2017年6月6日后，加拿大 Express Entry 又遇重大调整：**
 
@@ -42,7 +42,7 @@ categories: EE
 
 如果不能符合加拿大联邦 EE 最低分数，也不满足安省 400 分项目类别，申请人还可以考虑 Express Entry 下的省提名项目，具体请见飞出国论坛或飞出国技术移民网站。
 
-截止到现在加拿大 EE 累计捞取 167340 人，历次最低分 0 分，历次最高分 886分。飞出国加拿大 EE 历次邀请情况记录：
+截止到现在加拿大 EE 累计捞取 167340 人，历次最低分 413 分，历次最高分 886分。飞出国加拿大 EE 历次邀请情况记录：
 
 <table border = "1" cellpadding="1" cellspacing="0">
   <tr>
@@ -69,6 +69,8 @@ categories: EE
 
 **No program specified**
 
+[See full text of Ministerial Instruction](/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions.html#invitations)
+
 **Number of invitations issued:** 3,000Footnote \***Rank required to be invited to apply:** 3,000th or above
 
 **Date and time of round:** March&nbsp;26, 2018 at 12:00:18 UTC
@@ -77,6 +79,9 @@ categories: EE
 
 **Tie-breaking rule:**&nbsp;February 23, 2018 at 08:06:19 UTC
 
+- If more than one candidate has the lowest score, [the cut-off](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1318&top=29#CRS) is based on the date and time they submitted their Express Entry profiles.
+
+	
 2018年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/topic/26065" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
