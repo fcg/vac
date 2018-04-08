@@ -52,18 +52,15 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the&nbsp;21 March 2018 round.
 > 
-> ![](/WorkinginAustralia/PublishingImages/21032018-skillselect-results.jpg)
+> ![澳洲技术移民 Skillselect EOI  2018-03-21 邀请结果](https://www.homeaffairs.gov.au/WorkinginAustralia/PublishingImages/21032018-skillselect-results.jpg)
 > 
-> #### 
- Invitation process and cut offs
+> #### Invitation process and cut offs
 > 
 > The highest ranked clients by points score are invited to apply for the relevant visa. For clients who have equal points scores, the time at which they reached their points score for that subclass (referred to as the date of effect) determines their order of invitation. Expressions of Interest with earlier dates of effect are invited before later dates.
 > 
 > SkillSelect first allocates available places to 
- [
- Skilled – Independent visas (subclass 189)](http://js.flyabroad.com.hk/au/189) and then the remaining to 
- [
- Skilled – Regional (Provisional) visas (subclass 489)](http://js.flyabroad.com.hk/au/489). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
+ [Skilled – Independent visas (subclass 189)](http://js.flyabroad.com.hk/au/189) and then the remaining to 
+ [Skilled – Regional (Provisional) visas (subclass 489)](http://js.flyabroad.com.hk/au/489). If all places are taken up by subclass 189 visas then there will be no invitations issued for subclass 489 visas in these occupations.
 > 
 > | **Visa Subclass** | **Points score** | **Date of effect** |
 > | --- | --- | --- |
@@ -85,15 +82,12 @@ categories: gsm
 > | 2613 | Software and Applications Programmers | 75 | 3/03/2018&nbsp; 11:05 AM |
 > | 2631 | Computer Network Professionals | 75 | 16/03/2018&nbsp; 5:01 AM |
 > 
-> PublishingPageContent3
-> 
 
 更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2017-2018 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2017-2018/24327)。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
-
 
 [2211]: http://bbs.fcgvisa.com/t/flyabroad/7058
 [2212]: http://bbs.fcgvisa.com/t/flyabroad/7059
