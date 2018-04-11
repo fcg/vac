@@ -52,7 +52,7 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the&nbsp;21 March 2018 round.
 > 
-> ![澳洲技术移民 Skillselect EOI  2018-03-21 邀请结果](https://www.homeaffairs.gov.au/WorkinginAustralia/PublishingImages/21032018-skillselect-results.jpg)
+> ![澳洲技术移民 Skillselect EOI  2018-03-21 邀请结果-飞出国](https://www.homeaffairs.gov.au/WorkinginAustralia/PublishingImages/21032018-skillselect-results.jpg)
 > 
 > #### Invitation process and cut offs
 > 

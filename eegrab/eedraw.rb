@@ -28,7 +28,8 @@ def parsenewee
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[7]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[7]/text()"
-  rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[6]/text()"
+  # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[6]/text()"
+  rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[7]/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
@@ -225,5 +226,5 @@ BBSS
   db.close
 end
 
-# parsenewee
+parsenewee
 posttovac
