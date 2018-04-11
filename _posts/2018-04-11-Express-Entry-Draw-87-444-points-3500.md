@@ -69,8 +69,6 @@ categories: EE
 
 **No program specified**
 
-[See full text of Ministerial Instruction](/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions.html#invitations)
-
 **Number of invitations issued:** 3,500Footnote \*
 
 **Rank required to be invited to apply:** 3,500th or above
@@ -81,9 +79,28 @@ categories: EE
 
 **Tie-breaking rule:**&nbsp;March 26, 2018 at 08:25:40 UTC
 
-- If more than one candidate has the lowest score, [the cut-off](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1318&top=29#CRS) is based on the date and time they submitted their Express Entry profiles.
+## Comprehensive Ranking System (CRS) score distribution of candidates in the Express Entry pool as of April 4, 2018
 
-	
+CRS Score Range | Number of Candidates
+---------------- | --------------------
+601-1200 | **147**
+451-600 | **1,273**
+401-450 | **25,964**
+*441-450* | *1,662*
+*431-440* | *6,552*
+*421-430* | *5,309*
+*411-420* | 5,915
+*401-410* | 6,526
+351-400 | **32,122**
+*391-400* | 5,706
+*381-390* | 6,666
+*371-380* | 6,686
+*361-370* | 6,553
+*351-360* | 6,511
+301-350 | **19,011**
+0-300 | **3,295**
+Total | **81,812**
+
 2018年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/topic/26065" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
@@ -96,4 +113,3 @@ categories: EE
 [FST]: http://flyabroad.io/ca/ee/fst
 [Human Capital Category]: http://bbs.fcgvisa.com/t/oinp-human-capital/12184
 [HCP]: http://bbs.fcgvisa.com/t/oinp-human-capital/12184
-
