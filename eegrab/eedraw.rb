@@ -51,6 +51,7 @@ def parsenewee
   # eedate = doc.css(datecss).last.inner_text.to_s.delete("\u2013").strip.delete("\u00A0")
 
   # d = Date.parse(date).strftime('%F')
+  updated = Time.now.strftime("%Y-%m-%d")
 
   ReverseMarkdown.config do |config|
     config.unknown_tags     = :bypass
@@ -60,7 +61,27 @@ def parsenewee
 
   miBody = ReverseMarkdown.convert miee
 
-  # p miBody
+  poolsmd = "\n\n"
+
+  poolsheader2 = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/caption/h2/text()").to_s.strip
+  poolsdate = poolsheader2.split(" as of ")[1]
+p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
+
+  crsarray = Array.new(poolymdDate)
+
+  scorerangetrs = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/tbody[1]/tr")
+
+  poolsmd = "## #{poolsheader2} \n\n"
+  poolmd += "CRS Score Range | Number of Candidates"
+  poolmd += "------- | -------"
+
+  scorerangetrs.each do |tr|
+    p rowmd = "#{tr.xpath("td[1]").inner_text.strip} | #{tr.xpath("td[2]").inner_text.strip}"
+    crsarry << tr.xpath("td[2]").inner_text.strip
+    poolmd += rowmd
+  end
+
+  crsarray.push(updated)
 
   p eedate = eedate.split("–").last.strip
 
@@ -77,7 +98,10 @@ def parsenewee
   row = [ymdDate, invitations, rank, totalnum, inyear, miBody]
 
   db.execute("INSERT INTO eedraws (EEDate, EEinvitations,EErank,TotalNum,NumInYear,MIBody)
-          VALUES (?, ?,?,?,?,?)", row)
+          VALUES (?,?,?,?,?,?)", row)
+
+  db.execute("INSERT INTO crspool (changeddate, r601, r451, r401, rr441, rr431, rr421, rr411, rr401, r351, rr391, rr381, rr371, rr361, rr351, r301, r0, total, updated)
+  VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", crsarray))
 
   db.close
 end
@@ -226,5 +250,41 @@ BBSS
   db.close
 end
 
+def recreatececrspooltable()
+
+  db = SQLite3::Database.open "csol.db"
+
+    # db.execute("Drop table if exists crspool")
+    
+    rows = db.execute <<-SQL
+      create table crspool (
+      Id INTEGER PRIMARY KEY AUTOINCREMENT,
+      changeddate TEXT DEFAULT NULL,
+      r601 TEXT DEFAULT NULL,
+      r451 TEXT DEFAULT NULL,
+      r401 TEXT DEFAULT NULL,
+      rr441 TEXT DEFAULT NULL,
+      rr431 TEXT DEFAULT NULL,
+      rr421 TEXT DEFAULT NULL,
+      rr411 TEXT DEFAULT NULL,
+      rr401 TEXT DEFAULT NULL,
+      r351 TEXT DEFAULT NULL,
+      rr391 TEXT DEFAULT NULL,
+      rr381 TEXT DEFAULT NULL,
+      rr371 TEXT DEFAULT NULL,
+      rr361 TEXT DEFAULT NULL,
+      rr351 TEXT DEFAULT NULL,
+      r301 TEXT DEFAULT NULL,
+      r0 TEXT DEFAULT NULL,
+      total TEXT DEFAULT NULL,
+      updated TEXT DEFAULT NULL
+      );
+    SQL
+
+    db.close
+
+end
+
+recreatececrspooltable
 parsenewee
 posttovac
