@@ -71,6 +71,16 @@ p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
 
   scorerangetrs = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/tbody")
 
+# "2018-04-19"
+# "601-1200 | 136"
+# "451-600 | 935"
+# "401-450 | 26,588"
+# "441-450431-440421-430411-420401-410 | 1,4506,9195,5156,0936,611"
+# "351-400 | 32,578"
+# "391-400381-390371-380361-370351-360 | 5,8156,7436,8066,6446,570"
+# "301-350 | 19,053"
+# "0-300 | 3,369"
+
   poolsmd = "\n\n"
   poolsmd = "## #{poolsheader2} \n\n"
   poolsmd += "CRS Score Range | Number of Candidates"
@@ -244,7 +254,7 @@ bbsstr = <<-BBSS
 BBSS
 
     File.open("#{postdir}#{eepostfile}.md", 'w') do |file|
-      content = frontstr + intrstr + mibody + poolsmd + bbsstr
+      content = frontstr + intrstr + mibody + bbsstr
 
       file.write content
     end
@@ -291,5 +301,5 @@ def recreatececrspooltable()
 end
 
 # recreatececrspooltable
-parsenewee
+# parsenewee
 posttovac
