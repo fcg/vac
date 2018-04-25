@@ -67,7 +67,7 @@ def parsenewee
   poolsdate = poolsheader2.split(" as of ")[1]
 p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
 
-  crsarray = Array.new(poolymdDate)
+  crsarray = Array.new()
 
   scorerangetrs = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/tbody[1]/tr")
 
@@ -101,7 +101,7 @@ p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
           VALUES (?,?,?,?,?,?)", row)
 
   db.execute("INSERT INTO crspool (changeddate, r601, r451, r401, rr441, rr431, rr421, rr411, rr401, r351, rr391, rr381, rr371, rr361, rr351, r301, r0, total, updated)
-  VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", crsarray))
+  VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", crsarray)
 
   db.close
 end
@@ -252,7 +252,7 @@ end
 
 def recreatececrspooltable()
 
-  db = SQLite3::Database.open "csol.db"
+  db = SQLite3::Database.open "eedraws.db"
 
     # db.execute("Drop table if exists crspool")
     
