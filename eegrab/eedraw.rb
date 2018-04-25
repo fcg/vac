@@ -69,17 +69,22 @@ p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
 
   crsarray = Array.new()
 
-  scorerangetrs = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/tbody[1]/tr")
+  scorerangetrs = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/tbody")
 
+  poolsmd = "\n\n"
   poolsmd = "## #{poolsheader2} \n\n"
-  poolmd += "CRS Score Range | Number of Candidates"
-  poolmd += "------- | -------"
+  poolsmd += "CRS Score Range | Number of Candidates"
+  poolsmd += "------- | -------"
+
+  
 
   scorerangetrs.each do |tr|
-    p rowmd = "#{tr.xpath("td[1]").inner_text.strip} | #{tr.xpath("td[2]").inner_text.strip}"
-    crsarry << tr.xpath("td[2]").inner_text.strip
-    poolmd += rowmd
+    p rowmd = "#{tr.xpath("tr/th[1]").inner_text.strip} | #{tr.xpath("tr/td[1]").inner_text.strip}"
+    crsarray << tr.xpath("tr/td[1]").inner_text.strip
+    poolsmd += rowmd
   end
+
+  poolsmd = "\n\n"
 
   crsarray.push(updated)
 
@@ -221,8 +226,8 @@ YAML
 
 INTR
 
-    bbsstr = <<-BBSS
-	
+bbsstr = <<-BBSS
+
 2018年EE邀请情况请参考<a href=\"#{bbslink}\" target=\"_blank\">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
@@ -239,7 +244,7 @@ INTR
 BBSS
 
     File.open("#{postdir}#{eepostfile}.md", 'w') do |file|
-      content = frontstr + intrstr + mibody + bbsstr
+      content = frontstr + intrstr + mibody + poolsmd + bbsstr
 
       file.write content
     end
@@ -285,6 +290,6 @@ def recreatececrspooltable()
 
 end
 
-recreatececrspooltable
+# recreatececrspooltable
 parsenewee
 posttovac
