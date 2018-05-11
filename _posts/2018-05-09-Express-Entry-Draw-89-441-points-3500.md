@@ -79,27 +79,27 @@ categories: EE
 
 **Tie-breaking rule:** December 12, 2017 at 01:51:38 UTC
 
-Comprehensive Ranking System (CRS) score distribution of candidates in the Express Entry pool as of April 19, 2018
+## Comprehensive Ranking Systi (CRS) score distribution of candidates in the Express Entry pool as of May 4, 2018
 
-CRS Score Range | Number of Candidates
---------------- | -------------------
-601-1200 | **136**
-451-600 | 935
-401-450 | **26,588**
-*441-450* | *1,450*
-*431-440* | *6,919*
-*421-430* | *5,515*
-*411-420* | 6,093
-*401-410* | 6,611
-351-400 | **32,578**
-*391-400* | 5,815
-*381-390* | 6,743
-*371-380* | 6,806
-*361-370* | 6,644
-*351-360* | 6,570
-301-350 | **19,053**
-0-300 | **3,369**
-Total - flyabroad | **82,659**
+|CRS Score Range|Number of Candidates|
+| ------ | ------ |
+|601-1200|**205**|
+|451-600|**1,116**|
+|401-450|**26,661**|
+|*441-450*|*992*|
+|*431-440*|*7,196*|
+|*421-430*|*5,590*|
+|*411-420*|*6,272*|
+|*401-410*|*6,611*|
+|351-400|**33,058**|
+|*391-400*|*5,897*|
+|*381-390*|*6,871*|
+|*371-380*|*6,855*|
+|*361-370*|*6,720*|
+|*351-360*|*6,715*|
+|301-350|**19,293**|
+|0-300|**3,313**|
+|Total-flyabroad|**83,646**|
 
 - If more than one candidate has the lowest score, [the cut-off](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1318&top=29#CRS) is based on the date and time they submitted their Express Entry profiles.
 
