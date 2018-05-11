@@ -23,22 +23,23 @@ def parsenewee
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
   # invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[4]/text()"
-  invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[4]/text()"
+  invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[4]/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[7]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[7]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[6]/text()"
-  rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[7]/text()"
+  rankxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[7]/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[6]/strong[1]/text()"
   # datexpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[6]/text()"
-  datexpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[1]/strong/text()"
+  datexpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[1]/strong/text()"
+
   # mieexpath = ".//*[@id='mi-pr-express']"
   # mieexpath = "/html/body/div[2]/div/main/div[1]/div[7]"
-  mieexpath = "/html/body/div[2]/div/main/div[1]/div[8]"
+  mieexpath = "/html/body/div[2]/div/main/div[1]/div[7]"
 
   datecss = '.nowrap'
 
@@ -63,7 +64,7 @@ def parsenewee
 
   poolsmd = "\n\n"
 
-  poolsheader2 = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/caption/h2/text()").to_s.strip
+  poolsheader2 = doc.xpath("/html/body/div[2]/div/main/div[1]/div[9]/div/div/div/table/caption/h2/text()").to_s.strip
   poolsdate = poolsheader2.split(" as of ")[1]
 p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
 
@@ -85,8 +86,6 @@ p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
   poolsmd = "## #{poolsheader2} \n\n"
   poolsmd += "CRS Score Range | Number of Candidates"
   poolsmd += "------- | -------"
-
-  
 
   scorerangetrs.each do |tr|
     p rowmd = "#{tr.xpath("tr/th[1]").inner_text.strip} | #{tr.xpath("tr/td[1]").inner_text.strip}"
