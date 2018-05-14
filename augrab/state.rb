@@ -10,7 +10,7 @@ require 'reverse_markdown'
 
 CEILINGS   = "//*[@id='tab-content-3']/table".freeze
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
-TURL = "http://www.border.gov.au/Trav/Work/Skil".freeze
+TURL = "https://www.homeaffairs.gov.au/trav/work/skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
 F1718 = '2018-03-28'.freeze # 每月都有28
