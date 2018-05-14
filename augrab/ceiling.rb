@@ -13,7 +13,7 @@ CEILINGTRS = ".//*[@id='tab-content-3']/table/tbody/tr"
 
 TURL = "https://www.homeaffairs.gov.au/trav/work/skil"
 
-CURRENTFN = "2018-03-21"  # 每次有新更新先修改这里
+CURRENTFN = "2018-04-18"  # 每次有新更新先修改这里
 F1718 = "ceilling-17-18"
 DATADIR = "../_data/sol/"
 POSTDIR = "../_posts/"
