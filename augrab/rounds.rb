@@ -209,6 +209,7 @@ end
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/21-march-2018-invitation-round.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/4-april-2018-invitation-round.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/18-april-2018-invitation-round.aspx")
+parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/9-may-2018-invitation-round.aspx")
 
 def recreatecutofftable()
 

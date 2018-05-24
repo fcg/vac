@@ -13,8 +13,8 @@ CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
 TURL = "https://www.homeaffairs.gov.au/trav/work/skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
-F1718 = '2018-03-28'.freeze # 每月都有28
-MONTH = '2018-03'.freeze # 每次修改这里
+F1718 = '2018-04-28'.freeze # 每月都有28
+MONTH = '2018-04'.freeze # 每次修改这里
 
 T190CSV = '190-1718'.freeze
 ZDBTOTAL = 'zdb-total-1718'.freeze
