@@ -79,6 +79,28 @@ categories: EE
 
 **Tie-breaking rule:** December 30, 2017 at 06:39:40 UTC
 
+## Comprehensive Ranking Systi (CRS) score distribution of candidates in the Express Entry pool as of May 16, 2018
+
+CRS Score Range | Number of Candidates
+----------------|-------------------
+601-1200 | **185**
+451-600 | **871**
+401-450 | **27,123**
+*441-450* | *909*
+*431-440* | *7,495*
+*421-430* | *5,747*
+*411-420* | *6,344*
+*401-410* | *6,628*
+351-400 | **33,129**
+*391-400* | *5,957*
+*381-390* | *6,876*
+*371-380* | *6,868*
+*361-370* | *6,724*
+*351-360* | *6,704*
+301-350 | **19,375**
+0-300 | **3,362**
+Total-fcg | **84,045**
+
 - If more than one candidate has the lowest score, [the cut-off](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1318&top=29#CRS) is based on the date and time they submitted their Express Entry profiles.
 
 2018年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/topic/26065" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
