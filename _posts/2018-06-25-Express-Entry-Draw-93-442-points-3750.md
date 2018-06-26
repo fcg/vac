@@ -79,6 +79,32 @@ categories: EE
 
 **Tie-breaking rule:** January 28, 2018 at 21:06:11 UTC
 
+----
+
+## Comprehensive Ranking System (CRS) score distribution of candidates in the Express Entry pool as of June 20, 2018
+
+CRS Score Range | Number of Candidates
+---------------- | --------------------
+601-1200 | **209**
+451-600 | **1,057**
+401-450 | **29,083**
+*441-450* | *1,731*
+*431-440* | *8,030*
+*421-430* | *5,874*
+*411-420* | *6,519*
+*401-410* | *6,929*
+351-400 | **34,160**
+*391-400* | *6,159*
+*381-390* | *7,041*
+*371-380* | *7,080*
+*361-370* | *6,981*
+*351-360* | *6,899*
+301-350 | **19,750**
+0-300 | **3,307**
+Total | **87,566**
+
+The numbers in this table reflect the total number of people in the pool overall, a few days before an invitation round. The score distribution may change as people submit new profiles and other profiles expire.
+
 2018年EE邀请情况请参考<a href="http://bbs.fcgvisa.com/t/topic/26065" target="_blank">飞出国论坛 Express Entry 邀请情况记录</a>。
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
