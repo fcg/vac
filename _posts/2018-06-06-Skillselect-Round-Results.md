@@ -54,7 +54,7 @@ categories: gsm
 > 
 > The following graph shows the points for clients who were invited to apply in the&nbsp;6&nbsp;June 2018 round.
 > 
-> ![Skillselect round results 23 May 2018](/WorkinginAustralia/PublishingImages/06062018-skillselect-invitation-round.jpg)
+> ![Skillselect round results 23 May 2018](https://www.homeaffairs.gov.au/WorkinginAustralia/PublishingImages/06062018-skillselect-invitation-round.jpg)
 > 
 > #### Invitation process and cut offs
 > 
