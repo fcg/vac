@@ -9,7 +9,7 @@ require 'openssl'
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
-POOLSHEADER = "/html/body/div[2]/div/main/div[1]/div[6]/div/div/div/table/caption/h2"
+POOLSHEADER = "/html/body/main/div[1]/div[7]/div/div/div/table/caption/h2"
 
 def parsenewee
   ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
@@ -25,23 +25,26 @@ def parsenewee
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
   # invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[4]/text()"
-  invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[4]/p[4]/text()"
+  invitationsxpath = "/html/body/main/div[1]/div[5]/p[4]/text()"
+
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[7]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[7]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[6]/text()"
-  rankxpath = "/html/body/div[2]/div/main/div[1]/div[4]/p[7]/text()"
+  rankxpath = "/html/body/main/div[1]/div[5]/p[7]/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[6]/strong[1]/text()"
   # datexpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[6]/text()"
-  datexpath = "/html/body/div[2]/div/main/div[1]/div[4]/p[1]/strong/text()"
+  datexpath = "/html/body/main/div[1]/div[5]/p[6]/text()"
 
   # mieexpath = ".//*[@id='mi-pr-express']"
   # mieexpath = "/html/body/div[2]/div/main/div[1]/div[7]"
-  mieexpath = "/html/body/div[2]/div/main/div[1]/div[4]"
+  mieexpath = "/html/body/main/div[1]/div[5]"
+
+  rangetrs = "/html/body/main/div[1]/div[7]/div/div/div/table/tbody"
 
   datecss = '.nowrap'
 
@@ -72,7 +75,7 @@ p  poolymdDate = Date.strptime(poolsdate, '%b %d, %Y').strftime('%Y-%m-%d')
 
   crsarray = Array.new()
 
-  scorerangetrs = doc.xpath("/html/body/div[2]/div/main/div[1]/div[10]/div/div/div/table/tbody")
+  scorerangetrs = doc.xpath(rangetrs)
 
 # "2018-04-19"
 # "601-1200 | 136"
