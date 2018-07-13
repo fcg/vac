@@ -61,6 +61,8 @@ def parse_current(filename)
 
   # p body
 
+  body = body.gsub("/WorkinginAustralia/PublishingImages/","https://www.homeaffairs.gov.au/WorkinginAustralia/PublishingImages/")
+
   rawcontext = body.gsub("[](/","[](http://www.homeaffairs.gov.au/")
   .gsub("/trav/visa-1/189-","http://js.flyabroad.com.hk/au/189")
   .gsub("/trav/visa-1/489-","http://js.flyabroad.com.hk/au/489")
