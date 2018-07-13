@@ -67,7 +67,9 @@ def parse_current(filename)
   .gsub("http://www.homeaffairs.gov.au","")
   .gsub(/\| \n/,"\| ").gsub(/\n \|/," \|").lines.join("> ")
 
-  datestring = maindiv.xpath('//*[@id="page-content"]/div[1]/div/h1').text.gsub(" Invitation Round","").strip
+  datepath = '//*[@id="main-content"]/div/div/h1'
+
+  datestring = maindiv.xpath(datepath).text.gsub(" Invitation Round","").strip
 
   # datestring = maindiv.css("#ctl00_PlaceHolderMain_PublishingPageContent__ControlWrapper_RichHtmlField > p:nth-child(2) > strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
   # datestring = maindiv.css("div")[1].css("strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
@@ -211,7 +213,8 @@ end
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/18-april-2018-invitation-round.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/9-may-2018-invitation-round.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/23-may-2018-invitation-round.aspx")
-parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/6-june-2018-invitation-round.aspx")
+# parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/6-june-2018-invitation-round.aspx")
+parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/20-june-2018-invitation-round.aspx")
 
 def recreatecutofftable()
 
