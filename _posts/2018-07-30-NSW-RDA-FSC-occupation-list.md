@@ -1,9 +1,9 @@
-  ---
-  layout: post
-  title:  "2018-07-30 NSW FSC 远南海岸地区偏远地区担保"
-  date:   2018-07-30 07:56:00  +0800
-  categories: gsm
-  ---
+---
+layout: post
+title:  "2018-07-30 NSW FSC 远南海岸地区偏远地区担保"
+date:   2018-07-30 07:56:00  +0800
+categories: gsm
+---
   
 # 2018-2019 年度 NSW FSC RDA 489 偏远担保职业清单 - 飞出国
   

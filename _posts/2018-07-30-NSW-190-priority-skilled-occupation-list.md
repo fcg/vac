@@ -1,9 +1,9 @@
-  ---
-  layout: post
-  title:  "2018-07-30 NSW 190 州担保清单"
-  date:   2018-07-30 07:56:00  +0800
-  categories: gsm
-  ---
+---
+layout: post
+title:  "2018-07-30 NSW 190 州担保清单"
+date:   2018-07-30 07:56:00  +0800
+categories: gsm
+---
   
 # 2018-2019 年度 NSW 最新州担保州担保职业清单 - 飞出国
   
