@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 2018-2019 年度澳洲 NSW FSC 偏远地区担保清单 
+title: 2018-2019 年度澳洲 NSW 190 优先职业清单
 date: 2018-06-18 13:00:00
 categories: gsm
 ---
 
-## 2018-07-20 澳大利亚技术移民 NSW RDA FSC 最新偏远地区州担保清单
+## 2018-07-20 澳大利亚新南威尔士州担保 190 优先职业清单
 
 飞出国： NSW 190 Priority skilled occupation list - 2018-19 Skilled Nominated visa (subclass 190)
 
