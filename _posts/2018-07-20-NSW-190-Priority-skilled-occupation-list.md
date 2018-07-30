@@ -11,14 +11,14 @@ categories: gsm
 
 Updated 20 July 2018
 
-ANZSCO | Nominated Occupation - flyabroad | Field
+
+ANZSCO | 2018-19 NSW 190 Occupation-flyabroad | Field
 -- | -- | --
 133111 | Construction Project Manager | Other
 133211 | Engineering Manager | Other
 134111 | Child Care Centre Manager | Education
 134212 | Nursing Clinical Director | Health
 134214 | Welfare Centre Manager | Health
-141311 | Hotel or Motel Manager | Tourism & Hospitality
 221111 | Accountant (General) | Business & Finance
 221112 | Management Accountant | Business & Finance
 221113 | Taxation Accountant | Business & Finance
@@ -27,6 +27,7 @@ ANZSCO | Nominated Occupation - flyabroad | Field
 224111 | Actuary | Business & Finance
 224511 | Land Economist | Other
 224512 | Valuer | Other
+224711 | Management Consultant | Business & Finance
 232111 | Architect | Other
 232112 | Landscape Architect | Engineers
 233111 | Chemical Engineer | Engineers
@@ -42,16 +43,14 @@ ANZSCO | Nominated Occupation - flyabroad | Field
 233513 | Production or Plant Engineer | Engineers
 233911 | Aeronautical Engineer | Engineers
 233913 | Biomedical Engineer | Engineers
-233914 | Engineering Technologist | Engineers
 233915 | Environmental Engineer | Engineers
 233916 | Naval Architect | Engineers
 234112 | Agricultural Scientist | Science
 234611 | Medical Laboratory Scientist | Science
 234711 | Veterinarian | Science
-234914 | Physicist(medical physicist only) | Science
+234914 | Physicist (medical physicist only) | Science
 241111 | Early Childhood (Pre-Primary School) Teacher | Education
-241411 | Secondary School Teacher | Education
-241511 | Special Needs Teacher | Education
+241411 | Secondary School  Teacher | Education
 251211 | Medical Diagnostic Radiographer | Health
 251212 | Medical Radiation Therapist | Health
 251213 | Nuclear Medicine Technologist | Health
@@ -60,20 +59,16 @@ ANZSCO | Nominated Occupation - flyabroad | Field
 252411 | Occupational Therapist | Health
 252511 | Physiotherapist | Health
 252611 | Podiatrist | Health
-253411 | Psychiatrist | Health
+253411 | Psychiatrist Health | Health
 253912 | Emergency Medicine Specialist | Health
-253913 | Obstetrician and Gynaecologist | Health
-253914 | Ophthalmologist | Health
 253915 | Pathologist | Health
 253917 | Diagnostic and Interventional Radiologist | Health
-253999 | Medical Practitioners nec | Health
 254111 | Midwife | Health
-254411 | Nurse Practitioner | Health
 254412 | Registered Nurse (Aged Care) | Health
 254413 | Registered Nurse (Child and Family Health) | Health
-254414 | Registered Nurse (Community Health) | Health
+254414 | Registered Nurse (Community Health) Health | Health
 254415 | Registered Nurse (Critical Care and Emergency) | Health
-254417 | Registered Nurse (Disability and Rehabilitation) | Health
+254417 | Registered Nurse (Disability and Rehabil itation) | Health
 254418 | Registered Nurse (Medical) | Health
 254421 | Registered Nurse (Medical Practice) | Health
 254422 | Registered Nurse (Mental Health) | Health
@@ -90,19 +85,16 @@ ANZSCO | Nominated Occupation - flyabroad | Field
 263111 | Computer Network and Systems Engineer | ICT
 263311 | Telecommunications Engineer | ICT
 263312 | Telecommunications Network Engineer | ICT
-271111 | Barrister | Business & Finance
-271311 | Solicitor | Business & Finance
-272311 | Clinical Psychologist | Social & Welfare Professionals
-272312 | Educational Psychologist | Social & Welfare Professionals
-272313 | Organisational Psychologist | Social & Welfare Professionals
-272399 | Psychologists nec | Health
-272511 | Social Worker | Social & Welfare Professionals
-312111 | Architectural Draftsperson | Engineers
-312211 | Civil Engineering Draftsperson | Engineers
-312212 | Civil Engineering Technician | Engineers
-312311 | Electrical Engineering Draftsperson | Engineers
+271111 | Barrister Business & Finance | Business & Finance
+271311 | Solicitor Business & Finance | Business & Finance
+272311 | Clinical Psychologist Social & Welfare Professionals | Social & Welfare Professionals
+272312 | Educational Psychologist Social & Welfare Professionals | Social & Welfare Professionals
+272399 | Psychologists nec Health | Health
+272511 | Social Worker Social & Welfare Professionals | Social & Welfare Professionals
+312211 | Civil Engineering Draftsperson Engineers | Engineers
+312212 | Civil Engineering Technician Engineers | Engineers
+312311 | Electrical Engineering Draftsperson Engineers | Engineers
 312312 | Electrical Engineering Technician | Engineers
-313214 | Telecommunications Technical Officer or Technologist | ICT
 321111 | Automotive Electrician | Automotive Trades
 321211 | Motor Mechanic (General) | Automotive Trades
 321212 | Diesel Motor Mechanic | Automotive Trades
@@ -116,7 +108,7 @@ ANZSCO | Nominated Occupation - flyabroad | Field
 323213 | Fitter-Welder | Metal Trades
 323214 | Metal Machinist (First Class) | Metal Trades
 323313 | Locksmith | Metal Trades
-324111 | Panel Beater | Automotive Trades
+324111 | Panelbeater | Automotive Trades
 331111 | Bricklayer | Building Trades
 331112 | Stonemason | Building Trades
 331211 | Carpenter and Joiner | Building Trades
@@ -135,12 +127,10 @@ ANZSCO | Nominated Occupation - flyabroad | Field
 341111 | Electrician (General) | Building Trades
 341113 | Lift Mechanic | Building Trades
 342111 | Airconditioning and Refrigeration Mechanic | Building Trades
+342212 | Technical Cable Jointer | Other
 342313 | Electronic Equipment Trades Worker | Other
-342314 | Electronic Instrument Trades Worker (General) | Other
 351111 | Baker | Tourism & Hospitality
-351211 | Butcher or Small goods Maker (excluding the activity of slaughtering animals, or primarily boning, slicing or packaging meat in a non-retail setting.) | Other
-351311 | Chef (excludes positions in Fast Food or Takeaway Food Service) | Tourism & Hospitality
-351411 | Cook* (excludes positions in Fast Food or Takeaway Food Service) *Must have at least 2 years work experience as Cook in a commercial kitchen | Tourism & Hospitality
+351311 | Chef (excludes positions in Fast Food or Service) | Takeaway Food Tourism & Hospitality
 394111 | Cabinetmaker | Building Trades
 411411 | Enrolled Nurse | Health
 
