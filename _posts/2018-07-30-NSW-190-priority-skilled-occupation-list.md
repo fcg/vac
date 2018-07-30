@@ -7,17 +7,30 @@ categories: gsm
   
 # 2018-2019 年度 NSW 最新州担保州担保职业清单 - 飞出国
   
-### 2018-19 年度新州州担保优先职业清单 - 飞出国
+2018-19 年度新州州担保优先职业清单 - 飞出国
 
 新南威尔士州2018年7月最新州担保清单，飞出国：**该 NSW 州担保优先职业列表发布于2018年7月20日。** 并与 2018-07-30 号再次更新。
 
-## NSW 190 申请条件 - 飞出国
+nsw 2018-19 年度州担保清单删除13个职业-飞出国：
 
-* 申请人的年龄必须低于45岁；
-* 满足不同职业对于英语语言的要求，可接受的语言考试包括IELTS、TOEFL iBT、PTE、CAE以及OET，提交申请之时语言成绩必须在2年有效期之内；
-* 申请人的职业必须在RDA FSC职业清单之上，并通过相应的职业评估，提交申请之时职业评估结果在2年有效期之内；
-* 满足EOI评分65分评分标准，包括州担保的5分加分；
-* 申请人身体健康，品行端正，无犯罪记录。
+1. 141311   酒店或汽车旅馆经理/Hotel or Motel Manager
+2. 254411  护士执业/Nurse Practitioner
+3. 312111  建筑绘图员/Architectural Draftsperson
+4. 233914 工程技师/Engineering Technologist
+5. 241511  特别需要教师/Special Needs Teacher
+6. 313214 电信技术人员或技师/Telecommunications Technical Officer or Technologist
+7. 342314 电子仪器行业工人（普通/Electronic Instrument Trades Worker (General)
+8. 351211 屠宰及熟肉加工/Butcher or Smallgoods Maker
+9. 351411 厨师/Cook
+10. 253913 产科医生和妇科医生/Obstetrician and Gynaecologist
+11. 253914 眼科医生/Ophthalmologist
+12. 253999 其他医疗执业人员/Medical Practitioners nec
+13. 272313 组织心理学家/Organisational Psychologist
+
+nsw 2018-19 年度190 新增2个职业-飞出国：
+
+1. [224711] 管理顾问/Management Consultant
+2. [342212] 电缆接线技工/Technical Cable Jointer
 
 ## NSW 2018-19 年度州担保优先职业列表 - 飞出国
 
@@ -28,7 +41,6 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [134111] | 幼儿中心经理 / Child Care Centre Manager | Education
 [134212] | 护理临床主任 / Nursing Clinical Director | Health
 [134214] | 福利中心经理 / Welfare Centre Manager | Health
-[141311] | 酒店或汽车旅馆经理 / Hotel or Motel Manager | Tourism & Hospitality
 [221111] | 会计师（普通） / Accountant (General) | Business & Finance
 [221112] | 管理会计师 / Management Accountant | Business & Finance
 [221113] | 税务会计师 / Taxation Accountant | Business & Finance
@@ -37,6 +49,7 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [224111] | 精算师 / Actuary | Business & Finance
 [224511] | 土地经济学家 / Land Economist | Other
 [224512] | 估值师 / Valuer | Other
+[224711] | 管理顾问 / Management Consultant | Business & Finance
 [232111] | 建筑师 / Architect | Other
 [232112] | 景观设计师 / Landscape Architect | Engineers
 [233111] | 化学工程师 / Chemical Engineer | Engineers
@@ -52,16 +65,14 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [233513] | 生产或工厂工程师 / Production or Plant Engineer | Engineers
 [233911] | 航空工程师 / Aeronautical Engineer | Engineers
 [233913] | 生物医学工程师 / Biomedical Engineer | Engineers
-[233914] | 工程技师 / Engineering Technologist | Engineers
 [233915] | 环境工程师 / Environmental Engineer | Engineers
 [233916] | 海军建筑师 / Naval Architect | Engineers
 [234112] | 农业科学家 / Agricultural Scientist | Science
 [234611] | 医学实验室科学家 / Medical Laboratory Scientist | Science
 [234711] | 兽医 / Veterinarian | Science
-[234914] | 物理学家（医学物理学家） / Physicist(medical physicist only) | Science
+[234914] | 物理学家（医学物理学家） / Physicist (medical physicist only) | Science
 [241111] | 幼儿教育（学前教育）教师 / Early Childhood (Pre-Primary School) Teacher | Education
 [241411] | 中学教师 / Secondary School Teacher | Education
-[241511] | 特别需要教师 / Special Needs Teacher | Education
 [251211] | 医用放射诊断技师 / Medical Diagnostic Radiographer | Health
 [251212] | 医疗放射治疗师 / Medical Radiation Therapist | Health
 [251213] | 核医学技师 / Nuclear Medicine Technologist | Health
@@ -70,20 +81,16 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [252411] | 职业治疗师 / Occupational Therapist | Health
 [252511] | 物理治疗师 / Physiotherapist | Health
 [252611] | 足病诊疗师 / Podiatrist | Health
-[253411] | 精神科医生 / Psychiatrist | Health
+[253411] | 精神科医生 / Psychiatrist Health | Health
 [253912] | 急诊医学专家 / Emergency Medicine Specialist | Health
-[253913] | 产科医生和妇科医生 / Obstetrician and Gynaecologist | Health
-[253914] | 眼科医生 / Ophthalmologist | Health
 [253915] | 病理学家 / Pathologist | Health
 [253917] | 诊断和介入放射科专家 / Diagnostic and Interventional Radiologist | Health
-[253999] | 其他医疗执业人员 / Medical Practitioners nec | Health
 [254111] | 助产士 / Midwife | Health
-[254411] | 护士执业 / Nurse Practitioner | Health
 [254412] | 注册护士（老年护理） / Registered Nurse (Aged Care) | Health
 [254413] | 注册护士（儿童和家庭健康） / Registered Nurse (Child and Family Health) | Health
-[254414] | 注册护士（社区卫生服务） / Registered Nurse (Community Health) | Health
+[254414] | 注册护士（社区卫生服务） / Registered Nurse (Community Health) Health | Health
 [254415] | 注册护士（重症监护和紧急） / Registered Nurse (Critical Care and Emergency) | Health
-[254417] | 注册护士（残疾和康复） / Registered Nurse (Disability and Rehabilitation) | Health
+[254417] | 注册护士（残疾和康复） / Registered Nurse (Disability and Rehabil itation) | Health
 [254418] | 注册护士（医学） / Registered Nurse (Medical) | Health
 [254421] | 注册护士（医疗实践） / Registered Nurse (Medical Practice) | Health
 [254422] | 注册护士（心理健康） / Registered Nurse (Mental Health) | Health
@@ -100,19 +107,16 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [263111] | 计算机网络和系统工程师 / Computer Network and Systems Engineer | ICT
 [263311] | 电信工程师 / Telecommunications Engineer | ICT
 [263312] | 电信网络工程师 / Telecommunications Network Engineer | ICT
-[271111] | 律师 / Barrister | Business & Finance
-[271311] | 律师 / Solicitor | Business & Finance
-[272311] | 临床心理学家 / Clinical Psychologist | Social & Welfare Professionals
-[272312] | 教育心理学家 / Educational Psychologist | Social & Welfare Professionals
-[272313] | 组织心理学家 / Organisational Psychologist | Social & Welfare Professionals
-[272399] | 心理学家NEC / Psychologists nec | Health
-[272511] | 社工 / Social Worker | Social & Welfare Professionals
-[312111] | 建筑绘图员 / Architectural Draftsperson | Engineers
-[312211] | 土木工程绘图员 / Civil Engineering Draftsperson | Engineers
-[312212] | 土木工程技术员 / Civil Engineering Technician | Engineers
-[312311] | 电气工程绘图员 / Electrical Engineering Draftsperson | Engineers
+[271111] | 律师 / Barrister Business & Finance | Business & Finance
+[271311] | 律师 / Solicitor Business & Finance | Business & Finance
+[272311] | 临床心理学家 / Clinical Psychologist Social & Welfare Professionals | Social & Welfare Professionals
+[272312] | 教育心理学家 / Educational Psychologist Social & Welfare Professionals | Social & Welfare Professionals
+[272399] | 心理学家NEC / Psychologists nec Health | Health
+[272511] | 社工 / Social Worker Social & Welfare Professionals | Social & Welfare Professionals
+[312211] | 土木工程绘图员 / Civil Engineering Draftsperson Engineers | Engineers
+[312212] | 土木工程技术员 / Civil Engineering Technician Engineers | Engineers
+[312311] | 电气工程绘图员 / Electrical Engineering Draftsperson Engineers | Engineers
 [312312] | 电气工程技术员 / Electrical Engineering Technician | Engineers
-[313214] | 电信技术人员或技师 / Telecommunications Technical Officer or Technologist | ICT
 [321111] | 汽车电工 / Automotive Electrician | Automotive Trades
 [321211] | 汽车技工（普通） / Motor Mechanic (General) | Automotive Trades
 [321212] | 柴油汽车技工 / Diesel Motor Mechanic | Automotive Trades
@@ -126,7 +130,7 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [323213] | 钳工，焊工 / Fitter-Welder | Metal Trades
 [323214] | 金属机械师（甲等） / Metal Machinist (First Class) | Metal Trades
 [323313] | 锁匠 / Locksmith | Metal Trades
-[324111] | 钣金工人 / Panel Beater | Automotive Trades
+[324111] | 钣金工人 / Panelbeater | Automotive Trades
 [331111] | 瓦工 / Bricklayer | Building Trades
 [331112] | 石匠 / Stonemason | Building Trades
 [331211] | 木工和细木工 / Carpenter and Joiner | Building Trades
@@ -145,14 +149,20 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [341111] | 电工（普通） / Electrician (General) | Building Trades
 [341113] | 电梯升降机技工 / Lift Mechanic | Building Trades
 [342111] | 空调和制冷技工 / Airconditioning and Refrigeration Mechanic | Building Trades
+[342212] | 电缆接线技工 / Technical Cable Jointer | Other
 [342313] | 电子设备行业工人 / Electronic Equipment Trades Worker | Other
-[342314] | 电子仪器行业工人（普通） / Electronic Instrument Trades Worker (General) | Other
 [351111] | 面包师 / Baker | Tourism & Hospitality
-[351211] | 屠宰及熟肉加工 / Butcher or Small goods Maker (excluding the activity of slaughtering animals, or primarily boning, slicing or packaging meat in a non-retail setting.) | Other
-[351311] | 主厨 / Chef (excludes positions in Fast Food or Takeaway Food Service) | Tourism & Hospitality
-[351411] | 厨师 / Cook* (excludes positions in Fast Food or Takeaway Food Service) *Must have at least 2 years work experience as Cook in a commercial kitchen | Tourism & Hospitality
+[351311] | 主厨 / Chef (excludes positions in Fast Food or Service) | Takeaway Food Tourism & Hospitality
 [394111] | 细木工 / Cabinetmaker | Building Trades
 [411411] | 登记护士 / Enrolled Nurse | Health
+
+## NSW 190 申请条件 - 飞出国
+
+* 申请人的年龄必须低于45岁；
+* 满足不同职业对于英语语言的要求，可接受的语言考试包括IELTS、TOEFL iBT、PTE、CAE以及OET，提交申请之时语言成绩必须在2年有效期之内；
+* 申请人的职业必须在RDA FSC职业清单之上，并通过相应的职业评估，提交申请之时职业评估结果在2年有效期之内；
+* 满足EOI评分65分评分标准，包括州担保的5分加分；
+* 申请人身体健康，品行端正，无犯罪记录。
 
 更多参考飞出国论坛：[澳大利亚技术移民 SkillSelect NSW 州担保版块](http://bbs.fcgvisa.com/c/skillselect/nsw)。  
 
@@ -167,7 +177,6 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [134111]: http://bbs.fcgvisa.com/t/flyabroad/1063?target=blank
 [134212]: http://bbs.fcgvisa.com/t/flyabroad/1065?target=blank
 [134214]: http://bbs.fcgvisa.com/t/flyabroad/1068?target=blank
-[141311]: http://bbs.fcgvisa.com/t/flyabroad/1089?target=blank
 [221111]: http://bbs.fcgvisa.com/t/flyabroad/895?target=blank
 [221112]: http://bbs.fcgvisa.com/t/flyabroad/896?target=blank
 [221113]: http://bbs.fcgvisa.com/t/flyabroad/897?target=blank
@@ -176,6 +185,7 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [224111]: http://bbs.fcgvisa.com/t/flyabroad/921?target=blank
 [224511]: http://bbs.fcgvisa.com/t/flyabroad/934?target=blank
 [224512]: http://bbs.fcgvisa.com/t/flyabroad/935?target=blank
+[224711]: http://bbs.fcgvisa.com/t/flyabroad/937?target=blank
 [232111]: http://bbs.fcgvisa.com/t/flyabroad/977?target=blank
 [232112]: http://bbs.fcgvisa.com/t/flyabroad/978?target=blank
 [233111]: http://bbs.fcgvisa.com/t/flyabroad/993?target=blank
@@ -191,7 +201,6 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [233513]: http://bbs.fcgvisa.com/t/flyabroad/1009?target=blank
 [233911]: http://bbs.fcgvisa.com/t/flyabroad/1016?target=blank
 [233913]: http://bbs.fcgvisa.com/t/flyabroad/1018?target=blank
-[233914]: http://bbs.fcgvisa.com/t/flyabroad/1019?target=blank
 [233915]: http://bbs.fcgvisa.com/t/flyabroad/1020?target=blank
 [233916]: http://bbs.fcgvisa.com/t/flyabroad/1021?target=blank
 [234112]: http://bbs.fcgvisa.com/t/flyabroad/1024?target=blank
@@ -200,7 +209,6 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [234914]: http://bbs.fcgvisa.com/t/flyabroad/1051?target=blank
 [241111]: http://bbs.fcgvisa.com/t/flyabroad/1587?target=blank
 [241411]: http://bbs.fcgvisa.com/t/flyabroad/1594?target=blank
-[241511]: http://bbs.fcgvisa.com/t/flyabroad/1595?target=blank
 [251211]: http://bbs.fcgvisa.com/t/flyabroad/1469?target=blank
 [251212]: http://bbs.fcgvisa.com/t/flyabroad/1468?target=blank
 [251213]: http://bbs.fcgvisa.com/t/flyabroad/1467?target=blank
@@ -211,13 +219,9 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [252611]: http://bbs.fcgvisa.com/t/flyabroad/1443?target=blank
 [253411]: http://bbs.fcgvisa.com/t/flyabroad/1418?target=blank
 [253912]: http://bbs.fcgvisa.com/t/flyabroad/1397?target=blank
-[253913]: http://bbs.fcgvisa.com/t/flyabroad/1395?target=blank
-[253914]: http://bbs.fcgvisa.com/t/flyabroad/1393?target=blank
 [253915]: http://bbs.fcgvisa.com/t/flyabroad/1391?target=blank
 [253917]: http://bbs.fcgvisa.com/t/flyabroad/1388?target=blank
-[253999]: http://bbs.fcgvisa.com/t/flyabroad/1382?target=blank
 [254111]: http://bbs.fcgvisa.com/t/flyabroad/1379?target=blank
-[254411]: http://bbs.fcgvisa.com/t/flyabroad/1364?target=blank
 [254412]: http://bbs.fcgvisa.com/t/flyabroad/1360?target=blank
 [254413]: http://bbs.fcgvisa.com/t/flyabroad/1357?target=blank
 [254414]: http://bbs.fcgvisa.com/t/flyabroad/1354?target=blank
@@ -243,15 +247,12 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [271311]: http://bbs.fcgvisa.com/t/flyabroad/1121?target=blank
 [272311]: http://bbs.fcgvisa.com/t/flyabroad/1129?target=blank
 [272312]: http://bbs.fcgvisa.com/t/flyabroad/1130?target=blank
-[272313]: http://bbs.fcgvisa.com/t/flyabroad/1131?target=blank
 [272399]: http://bbs.fcgvisa.com/t/flyabroad/1133?target=blank
 [272511]: http://bbs.fcgvisa.com/t/flyabroad/1139?target=blank
-[312111]: http://bbs.fcgvisa.com/t/flyabroad/1170?target=blank
 [312211]: http://bbs.fcgvisa.com/t/flyabroad/1177?target=blank
 [312212]: http://bbs.fcgvisa.com/t/flyabroad/1178?target=blank
 [312311]: http://bbs.fcgvisa.com/t/flyabroad/1179?target=blank
 [312312]: http://bbs.fcgvisa.com/t/flyabroad/1180?target=blank
-[313214]: http://bbs.fcgvisa.com/t/flyabroad/1199?target=blank
 [321111]: http://bbs.fcgvisa.com/t/flyabroad/1200?target=blank
 [321211]: http://bbs.fcgvisa.com/t/flyabroad/1201?target=blank
 [321212]: http://bbs.fcgvisa.com/t/flyabroad/1202?target=blank
@@ -284,11 +285,9 @@ ANZSCO | NSW 2018-19 年度优先州担保职业 - 飞出国 | 行业 -飞出国
 [341111]: http://bbs.fcgvisa.com/t/flyabroad/1301?target=blank
 [341113]: http://bbs.fcgvisa.com/t/flyabroad/1305?target=blank
 [342111]: http://bbs.fcgvisa.com/t/flyabroad/1309?target=blank
+[342212]: http://bbs.fcgvisa.com/t/flyabroad/1312?target=blank
 [342313]: http://bbs.fcgvisa.com/t/flyabroad/1315?target=blank
-[342314]: http://bbs.fcgvisa.com/t/flyabroad/1316?target=blank
 [351111]: http://bbs.fcgvisa.com/t/flyabroad/1322?target=blank
-[351211]: http://bbs.fcgvisa.com/t/flyabroad/1324?target=blank
 [351311]: http://bbs.fcgvisa.com/t/flyabroad/1325?target=blank
-[351411]: http://bbs.fcgvisa.com/t/flyabroad/1326?target=blank
 [394111]: http://bbs.fcgvisa.com/t/flyabroad/1358?target=blank
 [411411]: http://bbs.fcgvisa.com/t/flyabroad/1473?target=blank
