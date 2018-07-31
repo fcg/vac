@@ -5,7 +5,7 @@ date:   2018-07-31 07:56:00  +0800
 categories: gsm
 ---
   
-# 2018-2019 年度 NSW FSC RDA 489 偏远担保职业清单 - 飞出国
+# 2018-2019 年度 NSW MNC RDA 489 偏远担保职业清单 - 飞出国
   
 # NSW-Mid North Coast 中北海岸489担保
 
@@ -23,7 +23,7 @@ NSW Mid North Coast (RDA MNC) ：*MNC地区包括Coffs Harbour科夫斯港、Bel
 
 飞出国：**该 NSW MNC 偏远地区担保职业列表更新于2018年7月16日。**
   
-ANZSCO | NSW FSC 偏远地区担保职业 - 飞出国 | 行业领域 | 其他要求-飞出国
+ANZSCO | NSW MNC 偏远地区担保职业 - 飞出国 | 行业领域 | 其他要求-飞出国
 ----- | --------------------------- | ------- | --------------
 [251211] | 医用放射诊断技师 / Medical Dianostic Radiographer 
 [251212] | 医疗放射治疗师 / Medical Radiation Therapist 
