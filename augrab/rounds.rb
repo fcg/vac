@@ -17,23 +17,23 @@ TURL = "http://www.border.gov.au/Trav/Work/Skil"
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
-def download_skillselect()
+# def download_skillselect()
 
-	open('skillselect.html', 'wb') do |file|
-	  puts "download skillselect html"
-	  file << open(TURL, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
-	end
+# 	open('skillselect.html', 'wb') do |file|
+# 	  puts "download skillselect html"
+# 	  file << open(TURL, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
+# 	end
 
-end
+# end
 
-def download_doc(url,name)
+# def download_doc(url,name)
 
-	open("2016/#{name}", 'wb') do |file|
-	  puts "download #{name}"
-	  file << open(url, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
-	end
+# 	open("2016/#{name}", 'wb') do |file|
+# 	  puts "download #{name}"
+# 	  file << open(url, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
+# 	end
 
-end
+# end
 
 ReverseMarkdown.config do |config|
   config.unknown_tags     = :pass_through
@@ -44,7 +44,7 @@ end
 # 解析最新澳洲 skillselect round 邀请情况并生成对应的 csv 文件和 post 文件
 def parse_current(filename)
 
-  csvdir = '../_data/ee/'
+  # csvdir = '../_data/ee/'
   postdir = '../_posts/'
 
   anzbbs = YAML.load(File.open("anz4tobbs.yml"))
@@ -159,10 +159,10 @@ categories: gsm
 FRON
 
 intrstr = <<-INTR
-## 澳洲技术移民 Skillselect EOI  #{updated} 邀请结果
+# 澳洲技术移民 Skillselect EOI  #{updated} 邀请结果
 
 飞出国：#{updated} 澳洲技术移民 EOI 发出 189 签证邀请 #{n189} 份，489 亲属担保 #{n489} 份，
-截止到 #{updated}，澳洲技术移民 EOI 2016-2017 年度共发出 189 邀请 #{t189} 份，489 邀请 #{t489} 份，总计 #{tall} 份。
+截止到 #{updated}，澳洲技术移民 EOI 2018-2019 年度共发出 189 邀请 #{t189} 份，489 邀请 #{t489} 份，总计 #{tall} 份。
 
 本次邀请中，189 邀请分数 #{dtp189} 分（截止到 #{dt189}），489 邀请分数 #{dtp489}（截止到 #{dt489}）。
 
@@ -174,9 +174,11 @@ INTR
 
 linkstr = <<-ENDS
 
-更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2017-2018 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/skillselect-eoi-2017-2018/24327)。
+更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2018-2019 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/topic/28485)。
 
-需要获得相关移民及出国签证申请帮助可以联系飞出国微信（flyabroad）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
+[荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
+
+需要获得相关移民及出国签证申请帮助可以联系飞出国： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
@@ -193,6 +195,8 @@ File.open("#{postdir}#{updated}-Skillselect-Round-Results.md", 'w') do |file|
 end
 
 end
+
+parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-july-2018-invitation-round.aspx")
 
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
@@ -216,7 +220,7 @@ end
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/9-may-2018-invitation-round.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/23-may-2018-invitation-round.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/6-june-2018-invitation-round.aspx")
-parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/20-june-2018-invitation-round.aspx")
+# parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/20-june-2018-invitation-round.aspx")
 
 def recreatecutofftable()
 
