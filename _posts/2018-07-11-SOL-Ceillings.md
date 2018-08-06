@@ -15,7 +15,7 @@ categories: gsm
 <th>职业名称 - 飞出国</th>
 <th>配额</th>
 <th>已邀请</th>
-<th>新增</th>
+<th>剩余</th>
 </tr>
 {% for c in site.data.sol.2018-07-11 %}
 <tr>
@@ -23,7 +23,7 @@ categories: gsm
 <td> {{ c.namecn }} </td>
 <td> {{ c.ceiling }} </td>
 <td> {{ c.result }} </td>
-<td> {{ c.change }} </td>
+<td> {{ c.remain }} </td>
 </tr>
 {% endfor %}
 </table>

@@ -20,7 +20,8 @@ POSTDIR = "../_posts/"
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
-def initdb
+def theTrs()
+
   ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
   charset = 'utf-8'
 
@@ -31,27 +32,73 @@ def initdb
   table = doc.css("table").last
   trs = table.css("tbody/tr")
 
-  anzbbs = YAML.load(File.open("anz4tobbs.yml"))
-  anzcn  = YAML.load(File.open("anz4tocn.yml"))
+end
+
+def updateceilingslog(_month)  # jullog 
+
+  trs = theTrs()
+
+  db = SQLite3::Database.open "csol.db"
+
+  trs.each do |tr|
+    next if tr.xpath("td").empty?
+    next if tr.xpath("td[1]").empty?
+
+    td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+    td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+    td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+    td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+
+    db.execute("update ceilingslog set #{_month} = #{td4result} where anzsco4 = #{td1anzsco4}")
+
+  end
+
+end
+
+def upateceilling()
+
+  trs = theTrs()
 
   db = SQLite3::Database.open "csol.db"
 
     trs.each do |tr|
+
       next if tr.xpath("td").empty?
       next if tr.xpath("td[1]").empty?
 
-      p td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
-      # td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
-      td4result = 0
+      td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
-      db.execute("insert into ceilings (anzsco4, bbsid, nameen, namecn, ceiling) values (?,?,?,?,?)",
-        [td1anzsco4,anzbbs[td1anzsco4.to_i] , td2nameen, anzcn[td1anzsco4.to_i], td3ceiling])
+      crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, updated from ceilings where anzsco4 = ?",td1anzsco4)
 
-      db.execute("insert into ceilingslog (anzsco4) values (#{td1anzsco4})")
+      lastresutl = crow[0][5]
+      lastupdate = crow[0][6]
 
+      change = td4result - lastresutl
+
+      p "#{td1anzsco4}:#{lastresutl}:#{td4result}:#{change}"
+
+      updated = Time.now.strftime("%Y-%m-%d")
+
+      db.execute("update ceilings set result = ? , change = ?, updated = ? where anzsco4 = ?", [td4result, change, updated, td1anzsco4]) if lastupdate != updated
+
+  end
+
+end
+
+def postmonthcsv()
+  db = SQLite3::Database.open "csol.db"
+
+  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings")
+
+  CSV.open("#{DATADIR}#{CURRENTFN}.csv", "w") do |csv|
+    csv << %w(anzsco4 bbsid nameen namecn ceiling result change remain)
+    rows.each do |row|
+      csv << row
     end
+  end
 
 end
 
@@ -90,7 +137,7 @@ categories: gsm
 <th>职业名称 - 飞出国</th>
 <th>配额</th>
 <th>已邀请</th>
-<th>新增</th>
+<th>剩余</th>
 </tr>
 {% for c in site.data.sol.#{CURRENTFN} %}
 <tr>
@@ -98,7 +145,7 @@ categories: gsm
 <td> {{ c.namecn }} </td>
 <td> {{ c.ceiling }} </td>
 <td> {{ c.result }} </td>
-<td> {{ c.change }} </td>
+<td> {{ c.remain }} </td>
 </tr>
 {% endfor %}
 </table>
@@ -168,6 +215,104 @@ def upateceilling()
 
 end
 
+def maxeoi
+
+  db = SQLite3::Database.open "csol.db"
+
+  tablearray = Array.new
+  linkarray = Array.new
+
+  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings where change > 0 order by change desc")
+
+  puts "飞出国：本次邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
+
+  tablearray.push "代码 | 长表职业类别 - 飞出国 | 18-19配额 | 本次邀请 | 剩余配额"
+  tablearray.push "---- | --------------- | -------- | -------- | -------"
+
+  linkarray.push ""
+  anzbbs = YAML.load(File.open("anz4tobbs.yml"))
+
+  rows.each do |row|
+
+    anz = row[0]
+    bbsid = row[1]
+    name = "#{row[3]}/#{row[2]}"
+    quota = row[4]
+    result = row[5]
+    change = row[6]
+    remain = row[7]
+
+    tablearray.push "[#{anz}] | #{name} | #{quota} | #{change} | #{remain}"
+
+    linkarray.push "[#{anz}]: http://bbs.fcgvisa.com/t/flyabroad/#{anzbbs[anz.to_i]}"
+
+  end
+
+  puts tablearray.join("\n")
+  puts linkarray.join("\n")
+
+end
+
+# jullog INTERGER DEFAULT NULL,
+# auglog INTERGER DEFAULT NULL,
+# septlog INTERGER DEFAULT NULL,
+# octlog INTERGER DEFAULT NULL,
+# novlog INTERGER DEFAULT NULL,
+# declog INTERGER DEFAULT NULL,
+# janlog INTERGER DEFAULT NULL,
+# feblog INTERGER DEFAULT NULL,
+# marlog INTERGER DEFAULT NULL,
+# aprlog INTERGER DEFAULT NULL,
+# maylog INTERGER DEFAULT NULL,
+# junlog INTERGER DEFAULT NULL,
+
+# updateceilingslog("auglog-")
+
+# upateceilling()
+# postmonthcsv()
+# updatecsv()
+postceiling()
+
+# maxeoi()
+
+#########
+def initdb
+  ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
+  charset = 'utf-8'
+
+  html = open(TURL, 'User-Agent' => ua)
+
+  doc = Nokogiri::HTML::parse(html, nil, charset)
+
+  table = doc.css("table").last
+  trs = table.css("tbody/tr")
+
+  anzbbs = YAML.load(File.open("anz4tobbs.yml"))
+  anzcn  = YAML.load(File.open("anz4tocn.yml"))
+
+  db = SQLite3::Database.open "csol.db"
+
+    trs.each do |tr|
+      next if tr.xpath("td").empty?
+      next if tr.xpath("td[1]").empty?
+
+      td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+      # td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+      td4result = 0
+
+      db.execute("insert into ceilings (anzsco4, bbsid, nameen, namecn, ceiling) values (?,?,?,?,?)",
+        [td1anzsco4,anzbbs[td1anzsco4.to_i] , td2nameen, anzcn[td1anzsco4.to_i], td3ceiling])
+
+      db.execute("insert into ceilingslog (anzsco4) values (#{td1anzsco4})")
+
+    end
+
+end
+
+#########
+
 def recreateceilingtable()
 
   db = SQLite3::Database.open "csol.db"
@@ -236,47 +381,3 @@ end
 # recreateceilingtable()
 # recreateceilinglogtable()
 # initdb()
-
-def maxeoi
-
-  db = SQLite3::Database.open "csol.db"
-
-  tablearray = Array.new
-  linkarray = Array.new
-
-  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings where change > 0 order by change desc")
-
-  puts "飞出国：本次邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
-
-  tablearray.push "代码 | 长表职业类别 - 飞出国 | 18-19配额 | 本次邀请 | 剩余配额"
-  tablearray.push "---- | --------------- | -------- | -------- | -------"
-
-  linkarray.push ""
-  anzbbs = YAML.load(File.open("anz4tobbs.yml"))
-
-  rows.each do |row|
-
-    anz = row[0]
-    bbsid = row[1]
-    name = "#{row[3]}/#{row[2]}"
-    quota = row[4]
-    result = row[5]
-    change = row[6]
-    remain = row[7]
-
-    tablearray.push "[#{anz}] | #{name} | #{quota} | #{change} | #{remain}"
-
-    linkarray.push "[#{anz}]: http://bbs.fcgvisa.com/t/flyabroad/#{anzbbs[anz.to_i]}"
-
-  end
-
-  puts tablearray.join("\n")
-  puts linkarray.join("\n")
-
-end
-
-upateceilling()
-updatecsv()
-postceiling()
-
-maxeoi()
