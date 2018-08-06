@@ -11,6 +11,16 @@ require 'reverse_markdown'
 NOMI16   = ".//*[@id='sub-heading-3']/table[1]/tbody/tr"
 NOMI1516 = ".//*[@id='sub-heading-3']/table[2]/tbody/tr"
 
+FOOT =<<-FT
+
+[荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
+
+需要获得相关移民及出国签证申请帮助可以联系飞出国： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
+
+> 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
+
+FT
+
 CUTOFFTABLEROW = ".//*[@id='ctl00_PlaceHolderMain_PublishingPageContent__ControlWrapper_RichHtmlField']/table[4]/tbody/tr"
 
 TURL = "https://www.homeaffairs.gov.au/Trav/Work/Skil"
@@ -162,7 +172,7 @@ end
 
 end
 
-parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-july-2018-invitation-round.aspx")
+# parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-july-2018-invitation-round.aspx")
 
 # parse_current("https://www.border.gov.au/WorkinginAustralia/Pages/12-july-2017-round-results.aspx")
 # parse_current("http://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
@@ -212,63 +222,48 @@ def recreatecutofftable()
 
 end
 
-def build_cutoff(filename)
+def post_cutoff(_code)
 
   anzbbs = YAML.load(File.open("anz4tobbs.yml"))
   anzcn  = YAML.load(File.open("anz4tocn.yml"))  
 
-  html = open(filename)
-  charset = 'utf-8'
-
-  doc = Nokogiri::HTML::parse(html, nil, charset)
-
-  maindiv = doc.css(".ym-gbox-left").last
-
-  body = ReverseMarkdown.convert maindiv.inner_html
-
-  rawcontext = body.gsub("[](/","[](https://www.border.gov.au/").gsub(/\| \n/,"\| ").gsub(/\n \|/," \|").lines.join("> ")
-
-  datestring = maindiv.css("div")[1].css("strong")[0].text.gsub("Invitations issued\u00A0on\u00A0","").gsub("\u00A0"," ").strip
-  updated = DateTime.parse(datestring).strftime("%Y-%m-%d")
-
-  ## Cut Off Occupations
-  trows = doc.xpath(CUTOFFTABLEROW)
-
-  occarray = Array.new
-  bbslinkarray = Array.new
-
-  occarray.push "代码 | 邀请数量受限职业 - 飞出国 | 邀请分 | 邀请人数 | 邀请截止时间"
-  occarray.push "---- | ----------------------- | ----- | ------- | -----------"
-
-  bbslinkarray.push ""
-
   db = SQLite3::Database.open "csol.db"
 
-  trows.each do |tr|
-      next if tr.xpath("td").empty?
-      next if tr.xpath("td[1]").inner_text.include? "Occupation"
-      td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
-      td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
-      td3points  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
-      td4date   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
-      namecn = anzcn[td1anzsco4.to_i]
-      bbsid = anzbbs[td1anzsco4.to_i]
+  tablearray = Array.new
+  linkarray = Array.new
 
-      row = db.execute("select change from ceilings where anzsco4 = ?",td1anzsco4)
+  tablearray.push "## #{_code} #{anzcn[_code.to_i]} 职业邀请分数及截止日期记录 － 飞出国"
+  tablearray.push "\n"
 
-      change = row[0][0]
- 
-      occarray.push "[#{td1anzsco4}] | #{namecn}/#{td2nameen} | #{td3points} | #{change} | #{td4date}"
+  tablearray.push "ANZSCO - 飞出国 | 邀请分数 | 邀请人数 | 邀请截止日期 | 邀请日期"
+  tablearray.push "---- | -------- | -------- | ------- | ------"
 
-      bbslinkarray.push "[#{td1anzsco4}]: http://bbs.fcgvisa.com/t/flyabroad/#{bbsid}"
+  rows = db.execute("select anzsco4, bbsid, nameen, namecn, points, change, effectdate, updated from cutoff where anzsco4 = #{_code} order by updated desc")
 
-      db.execute("insert into cutoff (anzsco4, bbsid, nameen, namecn, points, change, effectdate, updated) values (?,?,?,?,?,?,?,?)",
-        [td1anzsco4, bbsid, td2nameen, namecn, td3points, change, td4date, updated])
+  rows.each do |row|
+
+    anz = row[0]
+    bbsid = row[1]
+    nameen = row[2]
+    namecn = row[3]
+    points = row[4]
+    change = row[5]
+    effectdate = row[6]
+    updated = row[7]
+
+    tablearray.push "[#{anz}] | #{points} | #{change} | #{effectdate} | #{updated}"
+
   end
 
-  puts occarray.join("\n")
+  linkarray.push "[#{_code}]: http://bbs.fcgvisa.com/t/flyabroad/#{anzbbs[_code.to_i]}"
+
+  puts tablearray.join("\n")
+  puts FOOT
+  puts linkarray.join("\n")
 
 end
+
+post_cutoff("2613")
 
 # recreatecutofftable()
 # loadoldcutoff()

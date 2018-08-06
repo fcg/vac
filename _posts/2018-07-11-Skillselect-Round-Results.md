@@ -82,7 +82,6 @@ categories: gsm
 > | 2611 | ICT Business and System Analysts | 80 | 5/07/2018 6:10 PM |
 > | 2613 | Software and Applications Programmers | 75 | 11/04/2018 6:05 PM |
 > | 2631 | Computer Network Professionals | 75 | 11/05/2018 9:55 AM |
-> 
 
 更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2018-2019 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/topic/28485)。
 
