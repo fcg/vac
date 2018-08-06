@@ -198,7 +198,7 @@ categories: gsm
 {% endfor %}
 </table>
 
-更多说明请参考<a href="http://bbs.fcgvisa.com/t/2018-2019-sol-occupation-ceilings-for-the-2017-18-programme-year/24331" target="blank">飞出国论坛</a> 。
+更多说明请参考<a href="http://bbs.fcgvisa.com/t/topic/28694/" target="blank">飞出国论坛</a> 。
 
 [荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
 

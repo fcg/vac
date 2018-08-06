@@ -13,27 +13,9 @@ NOMI1516 = ".//*[@id='sub-heading-3']/table[2]/tbody/tr"
 
 CUTOFFTABLEROW = ".//*[@id='ctl00_PlaceHolderMain_PublishingPageContent__ControlWrapper_RichHtmlField']/table[4]/tbody/tr"
 
-TURL = "http://www.border.gov.au/Trav/Work/Skil"
+TURL = "https://www.homeaffairs.gov.au/Trav/Work/Skil"
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
-
-# def download_skillselect()
-
-# 	open('skillselect.html', 'wb') do |file|
-# 	  puts "download skillselect html"
-# 	  file << open(TURL, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
-# 	end
-
-# end
-
-# def download_doc(url,name)
-
-# 	open("2016/#{name}", 'wb') do |file|
-# 	  puts "download #{name}"
-# 	  file << open(url, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
-# 	end
-
-# end
 
 ReverseMarkdown.config do |config|
   config.unknown_tags     = :pass_through
@@ -44,7 +26,6 @@ end
 # 解析最新澳洲 skillselect round 邀请情况并生成对应的 csv 文件和 post 文件
 def parse_current(filename)
 
-  # csvdir = '../_data/ee/'
   postdir = '../_posts/'
 
   anzbbs = YAML.load(File.open("anz4tobbs.yml"))
@@ -58,8 +39,6 @@ def parse_current(filename)
   maindiv = doc.css("#main-content > div").last
 
   body = ReverseMarkdown.convert maindiv.inner_html
-
-  # p body
 
   body = body.gsub("/WorkinginAustralia/PublishingImages/","https://www.homeaffairs.gov.au/WorkinginAustralia/PublishingImages/")
 
@@ -81,19 +60,6 @@ def parse_current(filename)
   # 因为表格模式改变，需要调整新的顺序
 
   tbs = maindiv.css("table")
-
-#  p n189 = tbs[0].css("td")[1].inner_text.gsub(",","").to_i
-#  p n489 = tbs[0].css("td")[3].inner_text.gsub(",","").to_i
-
-#  p t189 = tbs[1].css("tr")[1].css("td").last.text.strip
-#  p t489 = tbs[1].css("tr")[2].css("td").last.text.strip
-#  p tall = tbs[1].css("tr")[3].css("td").last.text.strip
-
-#   p dtp189 = tbs[2].css("td")[1].text.strip
-#   p dtp489 = tbs[2].css("td")[4].text.strip
-
-# p tbs[2].css("td")[2].text.strip 
-# p tbs[2].css("td")[5].text.strip
 
 p n189 = tbs[0].css("td")[1].inner_text.gsub(",","").to_i
 p n489 = tbs[0].css("td")[3].inner_text.gsub(",","").to_i
@@ -243,18 +209,6 @@ def recreatecutofftable()
     SQL
 
     db.close
-
-end
-
-def loadoldcutoff()
-  db1 = SQLite3::Database.open "2016/csol-83.db"
-  db2 = SQLite3::Database.open "csol.db"
-
-  rows = db1.execute "select anzsco4,bbsid,nameen,namecn,points,change,effectdate,updated from cutoff"
-
-  rows.each do |row|
-    db2.execute("insert into cutoff (anzsco4,bbsid,nameen,namecn,points,change,effectdate,updated) values(?,?,?,?,?,?,?,?)",row)
-  end
 
 end
 
