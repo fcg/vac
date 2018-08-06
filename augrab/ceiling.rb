@@ -18,6 +18,15 @@ F1819 = "ceilling-18-19"
 DATADIR = "../_data/sol/"
 POSTDIR = "../_posts/"
 
+FOOT =<<-FT
+
+[荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
+
+需要获得相关移民及出国签证申请帮助可以联系飞出国： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
+
+> 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
+FT
+
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
 def theTrs()
@@ -117,6 +126,45 @@ def updatecsv()
 
 end
 
+def postrawceiling()
+
+    db = SQLite3::Database.open "csol.db"
+  
+    tablearray = Array.new
+    linkarray = Array.new
+  
+    rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings order by ceiling desc")
+  
+    puts "飞出国：#{CURRENTFN} 邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
+    puts "\n"
+    tablearray.push "代码 | 长表职业类别 - 飞出国 | 18-19配额 "
+    tablearray.push "---- | --------------- | -------- "
+  
+    linkarray.push ""
+    anzbbs = YAML.load(File.open("anz4tobbs.yml"))
+  
+    rows.each do |row|
+  
+      anz = row[0]
+      bbsid = row[1]
+      name = "#{row[3]}/#{row[2]}"
+      quota = row[4]
+      result = row[5]
+      change = row[6]
+      remain = row[7]
+  
+      tablearray.push "[#{anz}] | #{name} | #{quota} "
+  
+      linkarray.push "[#{anz}]: http://bbs.fcgvisa.com/t/flyabroad/#{anzbbs[anz.to_i]}"
+  
+    end
+  
+    puts tablearray.join("\n")
+    puts FOOT
+    puts linkarray.join("\n")
+  
+  end
+
 def postceiling()
 
 postctx =<<-POST
@@ -136,13 +184,13 @@ categories: gsm
 <th>职业代码</th>
 <th>职业名称 - 飞出国</th>
 <th>配额</th>
-<th>已邀请</th>
+<th>邀请</th>
 <th>剩余</th>
 </tr>
 {% for c in site.data.sol.#{CURRENTFN} %}
 <tr>
 <td> <a href="http://bbs.fcgvisa.com/t/topic/{{ c.bbsid }}" target="_blank">{{ c.anzsco4 }}</a> </td>
-<td> {{ c.namecn }} </td>
+<td> {{ c.namecn }}/{{ c.nameen }} </td>
 <td> {{ c.ceiling }} </td>
 <td> {{ c.result }} </td>
 <td> {{ c.remain }} </td>
@@ -224,7 +272,7 @@ def maxeoi
 
   rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings where change > 0 order by change desc")
 
-  puts "飞出国：本次邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
+  puts "飞出国：#{CURRENTFN} 邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
 
   tablearray.push "代码 | 长表职业类别 - 飞出国 | 18-19配额 | 本次邀请 | 剩余配额"
   tablearray.push "---- | --------------- | -------- | -------- | -------"
@@ -249,6 +297,7 @@ def maxeoi
   end
 
   puts tablearray.join("\n")
+  puts FOOT
   puts linkarray.join("\n")
 
 end
@@ -271,7 +320,8 @@ end
 # upateceilling()
 # postmonthcsv()
 # updatecsv()
-postceiling()
+# postceiling()
+postrawceiling
 
 # maxeoi()
 

@@ -14,13 +14,13 @@ categories: gsm
 <th>职业代码</th>
 <th>职业名称 - 飞出国</th>
 <th>配额</th>
-<th>已邀请</th>
+<th>邀请</th>
 <th>剩余</th>
 </tr>
 {% for c in site.data.sol.2018-07-11 %}
 <tr>
 <td> <a href="http://bbs.fcgvisa.com/t/topic/{{ c.bbsid }}" target="_blank">{{ c.anzsco4 }}</a> </td>
-<td> {{ c.namecn }} </td>
+<td> {{ c.namecn }}/{{ c.nameen }} </td>
 <td> {{ c.ceiling }} </td>
 <td> {{ c.result }} </td>
 <td> {{ c.remain }} </td>
