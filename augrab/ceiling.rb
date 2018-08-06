@@ -275,8 +275,8 @@ def maxeoi
 
 end
 
-# upateceilling()
-# updatecsv()
-# postceiling()
+upateceilling()
+updatecsv()
+postceiling()
 
-# maxeoi()
+maxeoi()
