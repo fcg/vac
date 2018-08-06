@@ -13,11 +13,11 @@ CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
 TURL = "https://www.homeaffairs.gov.au/trav/work/skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
-F1718 = '2018-06-28'.freeze # 每月都有28
-MONTH = '2018-06'.freeze # 每次修改这里
+F1819 = '2018-07-28'.freeze # 每月都有28
+MONTH = '2018-07'.freeze # 每次修改这里
 
-T190CSV = '190-1718'.freeze
-ZDBTOTAL = 'zdb-total-1718'.freeze
+T190CSV = '190-1819'.freeze
+ZDBTOTAL = 'zdb-total-1819'.freeze
 DATADIR = '../_data/zdb/'.freeze
 POSTDIR = '../_posts/'.freeze
 
@@ -41,9 +41,9 @@ end
 
 T190 = <<-TH.freeze
 
-### 飞出国 2017-2018 年度各州 190 州担保数据记录
+### 飞出国 2018-2019 年度各州 190 州担保数据记录
 
-下面数据只针对 2017-2018 年度澳洲 190 州担保各州担保数据。
+下面数据只针对 2018-2019 年度澳洲 190 州担保各州担保数据。
 
 <table border = "1" cellpadding="1" cellspacing="0">
 <tr>
@@ -89,7 +89,7 @@ TMONTH = <<-TBODY.freeze
     <th>西澳</th>
     <th>总计</th>
   </tr>
-{% for zdb in site.data.zdb.#{F1718} %}
+{% for zdb in site.data.zdb.#{F1819} %}
 <tr>
 <td> {{ zdb.Class }} </td>
 <td> {{ zdb.ACT }} </td>
@@ -110,11 +110,11 @@ FRONTSTR = <<-YAML.freeze
 ---
 layout: post
 title:  "#{MONTH} 澳洲州担保邀请数据"
-date:   #{F1718} 23:56:00  +0800
+date:   #{F1819} 23:56:00  +0800
 categories: gsm
 ---
 
-飞出国澳洲 SkillSelect 2017-2018 年度州担保邀请数据统计。
+飞出国澳洲 SkillSelect 2018-2019 年度州担保邀请数据统计。
 
 ## #{MONTH} 澳洲州担保邀请数据
 
@@ -205,7 +205,7 @@ def save_month_CSV
     table = getMonthTable
     trs = table.css('tbody>tr')
     	# 具体月份 web
-    CSV.open("#{DATADIR}#{F1718}.csv", 'w') do |csv|
+    CSV.open("#{DATADIR}#{F1819}.csv", 'w') do |csv|
     csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
 
     trs.each_with_index do |tr, rindex|
@@ -248,7 +248,7 @@ end
 
 def post
   # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
-	File.open("#{POSTDIR}#{F1718}-State-Territory-nominations.md", 'w') do |file|
+	File.open("#{POSTDIR}#{F1819}-State-Territory-nominations.md", 'w') do |file|
 
 		content = FRONTSTR + TMONTH + T190 + ENDSTR
 		file.write content
