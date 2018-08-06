@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 澳洲 2017-2018 SOL 配额
+title: 澳洲 2018-2019 独立技术移民配额
 ---
 
-## 澳大利亚技术移民2017-2018年度 SOL 职业(189+489亲属)配额完成情况汇总
+## 澳大利亚技术移民2018-2019年度 SOL 职业(189+489亲属)配额完成情况汇总
 
 >Occupation ceilings for the 2018-19 programme year
 

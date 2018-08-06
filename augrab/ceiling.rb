@@ -182,8 +182,8 @@ def recreateceilingtable()
       nameen TEXT DEFAULT NULL,
       namecn TEXT DEFAULT NULL,
       ceiling INTERGER DEFAULT NULL,
-      result INTERGER DEFAULT NULL,
-      change INTERGER DEFAULT NULL,
+      result INTERGER DEFAULT 0,
+      change INTERGER DEFAULT 0,
       updated TEXT DEFAULT NULL
       );
     SQL
