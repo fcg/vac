@@ -58,7 +58,7 @@ def parse_current(filename)
   .gsub("http://www.homeaffairs.gov.au","")
   .gsub(/\| \n/,"\| ").gsub(/\n \|/," \|").lines.join("> ")
 
-  datepath = '//*[@id="main-content"]/div/div/h1'
+  datepath = '//*[@id="page-content"]/div[1]/div/h1'
 
   datestring = maindiv.xpath(datepath).text.gsub(" Invitation Round","").strip
 
@@ -83,8 +83,8 @@ p tall = tbs[1].css("tr")[3].css("td").last.text.strip
  p dtp489 = tbs[2].css("td")[4].text.strip
 
  # 截止日期
-p dt189 = tbs[2].css("td")[2].text.strip 
-p dt489 = tbs[2].css("td")[5].text.strip
+p dt189 = tbs[2].css("td")[2].text.gsub("\u00A0"," ").strip 
+p dt489 = tbs[2].css("td")[5].text.gsub("\u00A0"," ").strip
 
   dt189 = DateTime.strptime(dt189.gsub("\u00A0"," "), "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
   dt489 = DateTime.strptime(dt489.gsub("\u00A0"," "), "%d/%m/%Y %l:%M %p").strftime("%Y-%m-%d %H:%M")
@@ -171,6 +171,8 @@ File.open("#{postdir}#{updated}-Skillselect-Round-Results.md", 'w') do |file|
 end
 
 end
+
+parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-august-2018-invitation-round.aspx")
 
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-july-2018-invitation-round.aspx")
 
