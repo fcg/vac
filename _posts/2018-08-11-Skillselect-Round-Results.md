@@ -25,16 +25,7 @@ categories: gsm
 [2613] | 软件和应用程序的程序员/Software and Applications Programmers | 75 | 69 | 20/06/2018 8:32 PM
 [2631] | 计算机网络专业人士/Computer Network Professionals | 70 | 21 | 27/09/2017 12:29 PM
 
-<!--Global navigation (Breadcrumbs) goes here --><style>                                                                 
->     li ul li.static ul {display:none; }
->     li ul li.selected ul {display:block; }
->     li.selected ul li ul {display:block; }
->     .real-breadcrumb h2 { display:none; }
-> </style> ![Skip Navigation Links](/WebResource.axd?d=HpVuKBQdcWfj-Z1C5oixvYCVuG0UlZ85GNrDGaodyu34mrhujgCOkWDPGlvV6s2ssOdsTpE7s3AoykT35cfsFAPCd658B7MHfYJU7uEcH-Y1&t=635201406537823876)Home
-> 
 > # 11 August 2018 Invitation Round
-> <!--Page content-->
-> Page Content
 > 
 > The table below shows the number of invitations issued in the SkillSelect invitation round on&nbsp;11 August 2018.
 > 
@@ -67,7 +58,9 @@ categories: gsm
 > 
 > The highest ranked clients by points score are invited to apply for the relevant visa. For clients who have equal points scores, the time at which they reached their points score for that subclass (referred to as the date of effect) determines their order of invitation. Expressions of Interest with earlier dates of effect are invited before later dates.
 > 
-> SkillSelect first allocates available places to  [Skilled – Independent visas (subclass 189)](http://js.flyabroad.com.hk/au/189) and then the remaining to  [Skilled – Regional (Provisional) visas (subclass 489)](http://js.flyabroad.com.hk/au/489). If all places are taken up by subclass 189 visas, then there will be no invitations issued for subclass 489 visas in these occupations.
+> SkillSelect first allocates available places to 
+ [Skilled – Independent visas (subclass 189)](http://js.flyabroad.com.hk/au/189) and then the remaining to 
+ [Skilled – Regional (Provisional) visas (subclass 489)](http://js.flyabroad.com.hk/au/489). If all places are taken up by subclass 189 visas, then there will be no invitations issued for subclass 489 visas in these occupations.
 > 
 > | Visa Subclass | Minimum Points score | Date of effect |
 > | --- | --- | --- |
@@ -88,9 +81,6 @@ categories: gsm
 > | 2611 | ICT Business and System Analysts | 75 | 7/04/2018 3:25 AM |
 > | 2613 | Software and Applications Programmers | 75 | 20/06/2018 8:32 PM |
 > | 2631 | Computer Network Professionals | 70 | 27/09/2017 12:29 PM |
-> 
-> PublishingPageContent3
-> 
 
 更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2018-2019 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/topic/28485)。
 
