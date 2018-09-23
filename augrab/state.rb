@@ -58,7 +58,7 @@ T190 = <<-TH.freeze
 <th>西澳</th>
 <th>总计</th>
 </tr>
-{% for zdb in site.data.zdb.190-1718 %}
+{% for zdb in site.data.zdb.190-1819 %}
 <tr>
 <td> {{ zdb.updated }} </td>
 <td> {{ zdb.ACT }} </td>
@@ -280,7 +280,7 @@ def recreate190table
   db.close
 end
 
-# recreate190table
+recreate190table
 
 download_skillselect
 save_month
