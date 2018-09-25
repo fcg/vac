@@ -4,9 +4,9 @@ title:  "2018-08-20 NSW Central-West 中西部地区偏远地区担保"
 date:   2018-08-20 07:56:00  +0800
 categories: gsm
 ---
-  
+
 # 2018-2019 年度 NSW Central-West RDA 489 偏远担保职业清单 - 飞出国
- 
+
 开放当天两个会计职业就因为申请人爆棚而关闭：
 
 * 221111 Accountant (General) – CLOSED AS OF 6:30 PM 20/08/2018
