@@ -7,7 +7,7 @@ categories: gsm
 
 # 2018-2019 年度最新 VETASSESS Group A 类职业 - 飞出国
 
-ANZSCO | Occupation Name - flyabroad | Additional Information
+ANZSCO | VET Group A Occupation Name - flyabroad | Additional Information
 ------ | --------- | -------
 224111 | Actuary | This occupation requires a major in Actuarial Studies or Actuarial Science. Actuarial Studies is the application of mathematical and statistical analysis in order to solve financial planning problems in areas such as insurance, superannuation and investment(ASCED). Qualifications in Mathematics or Statistics with supporting highly relevant employment will be assessed on a case-by-case basis.																
 234111 | Agricultural Consultant | Information sheet
