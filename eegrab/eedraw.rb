@@ -25,24 +25,28 @@ def parsenewee
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/text()"
   # invitationsxpath = ".//*[@id='mi-pr-express']/p[5]/strong[4]/text()"
   # invitationsxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[4]/text()"
-  invitationsxpath = "/html/body/main/div[1]/div[6]/p[5]/text()"
+  # invitationsxpath = "/html/body/main/div[1]/div[6]/p[5]/text()"
+  invitationsxpath = "/html/body/main/div[1]/div[5]/p[4]/text()"
  
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong/text()"
   # rankxpath = ".//*[@id='mi-pr-express']/p[6]/strong[3]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[7]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[7]/text()"
   # rankxpath = "/html/body/div[2]/div/main/div[1]/div[8]/p[6]/text()"
-  rankxpath = "/html/body/main/div[1]/div[6]/p[8]/text()"
+  # rankxpath = "/html/body/main/div[1]/div[6]/p[8]/text()"
+  rankxpath = "/html/body/main/div[1]/div[5]/p[7]/text()"
+
   # datexpath = ".//*[@id='mi-pr-express']/p[5]/strong[2]/span/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/text()"
   # datexpath = ".//*[@id='mi-pr-express']/h3/time/text()"
   # datexpath = ".//*[@id='mi-pr-express']/p[6]/strong[1]/text()"
   # datexpath = "/html/body/div[2]/div/main/div[1]/div[7]/p[6]/text()"
-  datexpath = "/html/body/main/div[1]/div[6]/p[7]/text()"
+  # datexpath = "/html/body/main/div[1]/div[6]/p[7]/text()"
+  datexpath = "/html/body/main/div[1]/div[5]/p[6]/text()"
 
   # mieexpath = ".//*[@id='mi-pr-express']"
   # mieexpath = "/html/body/div[2]/div/main/div[1]/div[7]"
-  mieexpath = "/html/body/main/div[1]/div[6]"
+  mieexpath = "/html/body/main/div[1]/div[5]"
 
   rangetrs = "/html/body/main/div[1]/div[8]/div/div/div/table/tbody"
 
