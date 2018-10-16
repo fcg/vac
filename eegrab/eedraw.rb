@@ -153,7 +153,7 @@ def posttovac
     currentNum = totalnum[0]
 
     maxrank = db.execute('select MAX(EErank) from eedraws where TotalNum <= ?', [currentNum]).first[0]
-    minrank = db.execute('select MIN(EErank) from eedraws where TotalNum <= ?', [currentNum]).first[0]
+    minrank = db.execute('select MIN(EErank) from eedraws where EErank > 400 and TotalNum <= ?', [currentNum]).first[0]
     sumnum  = db.execute('select SUM(EEinvitations) from eedraws where TotalNum <= ?', [currentNum]).first[0]
 
     #  p currentNum
