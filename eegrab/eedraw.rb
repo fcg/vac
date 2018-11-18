@@ -9,7 +9,8 @@ require 'openssl'
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
-POOLSHEADER = "/html/body/main/div[1]/div[8]/div/div/div/table/caption/h2"
+# POOLSHEADER = "/html/body/main/div[1]/div[8]/div/div/div/table/caption/h2"
+POOLSHEADER = "/html/body/main/div[1]/div[8]/div/table/caption/h2"
 
 def parsenewee
   ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
