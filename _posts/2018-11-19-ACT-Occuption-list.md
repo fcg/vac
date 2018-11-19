@@ -9,13 +9,13 @@ categories: gsm
 
 下表是将于 2018年11月29日生效的 ACT 堪培拉最新更新州担保清单，ACT 每年2月和8月会对州担保清单进行更新。
 
-## 2018年11月29日生效的最新 ACT 190 州担保职业清单
+## 2018年11月29日生效的最新 ACT 190 州担保职业清单-飞出国
 
-Open 的职业 85 个，其中加 `*` 代表需要注册或执照 Registration or licencing is required。Closed 职业 331 个。
+飞出国：2018年11月29日最新开放 ACT 190 州担保职业里，Open 的职业 85 个，其中加 `*` 代表需要注册或执照 Registration or licencing is required。Closed 职业 331 个。共有 416 个职业可以申请 ACT，也就是可以申请职业十分宽泛，能否获得申请资格主要看申请人的评分。
 
-Open 的职业有 20 分加分，‘Closed’ on the ACT Occupation List 没有额外加分。因此，职业开放状态代表影响申请人的分数。
+在最新的 ACT 邀请系统里，`Open` 的职业有 20 分加分，`Closed` on the ACT Occupation List 没有额外加分。因此，职业的开放状态直接影响申请人的分数。
 
-ANZSCO | ACT 190 担保职业 - 飞出国 | 状态-飞出国
+ANZSCO | ACT 190 担保职业（2018-11-29 生效） - 飞出国 | 状态-飞出国
 ----- | --------------------------- | ------------------
 [131112] | 销售和市场营销经理 / Sales & Marketing Manager | Open
 [131113] | 广告管理 / Advertising Manager | Open
