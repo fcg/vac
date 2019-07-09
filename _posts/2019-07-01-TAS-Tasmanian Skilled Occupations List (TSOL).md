@@ -17,169 +17,170 @@ TSOL 主要用于塔州境外申请的 489 类别 Overseas Applicant Category (3
 
 飞出国：该清单于2019年1月开始实施，2019年7月还没有变化。大部分 TAS 州担保不需要申请人在塔州紧缺职业清单上。
 
-ANZSCO | TAS 州担保职业 - 飞出国 | Overseas applicant 489 雅思要求 | 评估机构 - flyabroad
------ | ---------------------- | ------- | -------------------
-[121111] | 水产养殖农民 / Aquaculture Farmer | 4个7 | 
-[121213] | 水果或坚果种植者 / Fruit or Nut Grower | 4个7 | 
-[121215] | 葡萄种植者 / Grape Grower | 4个7 | 
-[121216] | 混合作物农民 / Mixed Crop Farmer | 4个7 | 
-[121221] | 菜农（澳洲） / Vegetable Grower | 4个7 | 
-[121299] | 作物农民NEC的 / Crop Farmers nec | 4个7 | 
-[121311] | 养蜂家 / Apiarist | 4个7 | 
-[121312] | 肉牛农民 / Beef Cattle Farmer | 4个7 | 
-[121313] | 奶牛农民 / Dairy Cattle Farmer | 4个7 | 
-[121316] | 马饲养员 / Horse Breeder | 4个7 | 
-[121317] | 农民人畜混 / Mixed Livestock Farmer | 4个7 | 
-[121318] | 养猪农民 / Pig Farmer | 4个7 | 
-[121321] | 家禽饲养 / Poultry Farmer | 4个7 | 
-[121322] | 羊农民 / Sheep Farmer | 4个7 | 
-[121399] | 畜牧业农民NEC / Livestock Farmers nec | 4个7 | 
-[131112] | 销售和市场营销经理 / Sales and Marketing Manager | 4个7 | 
-[133111] | 施工项目经理 / Construction Project Manager | 4个7 | 
-[133211] | 工程师经理 / Engineering Manager | 4个7 | 
-[133512] | 生产经理（制造业） / Production Manager (Manufacturing) | 4个7 | 
-[133611] | 采购供应及分销经理 / Supply and Distribution Manager | 4个7 | 
-[134212] | 护理临床主任 / Nursing Clinical Director | 4个7 | 
-[134213] | 初级卫生机构经理 / Primary Health Organisation Manager | 4个7 | 
-[134214] | 福利中心经理 / Welfare Centre Manager | 4个7 | 
-[139914] | 质量保证经理 / Quality Assurance Manager | 4个7 | 
-[141111] | 咖啡馆或餐厅经理 / Cafe or Restaurant Manager | 4个7 | 
-[141311] | 酒店或汽车旅馆经理 / Hotel or Motel Manager | 4个7 | 
-[149413] | 运输公司经理 / Transport Company Manager | 4个7 | 
-[224512] | 估值师 / Valuer | 4个7 | 
-[224711] | 管理顾问 / Management Consultant | 4个7 | 
-[232111] | 建筑师 / Architect | 4个7 | 
-[232212] | 测量员 / Surveyor | 4个7 | 
-[232312] | 工业设计师 / Industrial Designer | 4个7 | 
-[232611] | 城市和区域规划师 / Urban and Regional Planner | 4个7 | 
-[233211] | 土木工程师 / Civil Engineer | 4个7 | 
-[233212] | 岩土工程师 / Geotechnical Engineer | 4个7 | 
-[233213] | 工料测量师 / Quantity Surveyor | 4个7 | 
-[233214] | 结构工程师 / Structural Engineer | 4个7 | 
-[233215] | 交通工程师 / Transport Engineer | 4个7 | 
-[233311] | 电气工程师 / Electrical Engineer | 4个7 | 
-[233512] | 机械工程师 / Mechanical Engineer | 4个7 | 
-[233911] | 航空工程师 / Aeronautical Engineer | 4个7 | 
-[233914] | 工程技师 / Engineering Technologist* | 4个7 | 
-[234111] | 农业顾问 / Agricultural Consultant | 4个7 | 
-[234112] | 农业科学家 / Agricultural Scientist | 4个7 | 
-[234213] | 葡萄酒生产商 / Wine Maker | 4个7 | 
-[234711] | 兽医 / Veterinarian | 4个7 | 
-[234914] | 物理学家（医学物理学家） / Physicist (Medical Physicist only) | 4个7 | 
-[241111] | 幼儿教育（学前教育）教师 / Early Childhood (Pre-Primary School) Teacher | 4个7 | 
-[241213] | 小学教师 / Primary School Teacher | 4个7 | 
-[241411] | 中学教师 / Secondary School Teacher | 4个7 | 
-[241511] | 特别需要教师 / Special Needs Teacher | 4个7 | 
-[251111] | 营养师 / Dietitian | 4个7 | 
-[251211] | 医用放射诊断技师 / Medical Diagnostic Radiographer | 4个7 | 
-[251212] | 医疗放射治疗师 / Medical Radiation Therapist | 4个7 | 
-[251214] | 超声检查技师 / Sonographer | 4个7 | 
-[251912] | 矫形或义肢技师 / Orthoptist or Prosthetist | 4个7 | 
-[252111] | 脊医 / Chiropractor | 4个7 | 
-[252112] | 整骨专家 / Osteopath | 4个7 | 
-[252311] | 牙科专家 / Dental Specialist | 4个7 | 
-[252312] | 牙科医生 / Dentist | 4个7 | 
-[252411] | 职业治疗师 / Occupational Therapist | 4个7 | 
-[252511] | 物理治疗师 / Physiotherapist | 4个7 | 
-[252611] | 足病诊疗师 / Podiatrist | 4个7 | 
-[252711] | 听力学家 / Audiologist | 4个7 | 
-[252712] | 语言病理学家 / Speech Pathologist | 4个7 | 
-[253111] | 普通科医生 / General Practitioner | 4个7 | 
-[253211] | 麻醉师 / Anaesthetist | 4个7 | 
-[253311] | 专科医师（全科医学） / Specialist Physician (General Medicine) | 4个7 | 
-[253312] | 心脏病专家 / Cardiologist | 4个7 | 
-[253313] | 临床血液病医生 / Clinical Haematologist | 4个7 | 
-[253314] | 肿瘤内科医生医生 / Medical Oncologist | 4个7 | 
-[253315] | 内分泌学家 / Endocrinologist | 4个7 | 
-[253316] | 胃肠病医生 / Gastroenterologist | 4个7 | 
-[253317] | 重症监护专家 / Intensive Care Specialist | 4个7 | 
-[253318] | 神经学家 / Neurologist | 4个7 | 
-[253321] | 儿科医生 / Paediatrician | 4个7 | 
-[253399] | 专家医师NEC的 / Specialist Physicians nec | 4个7 | 
-[253411] | 精神科医生 / Psychiatrist | 4个7 | 
-[253511] | 外科医生（普通） / Surgeon (General) | 4个7 | 
-[253512] | 心胸外科医生 / Cardiothoracic Surgeon | 4个7 | 
-[253513] | 神经外科专家 / Neurosurgeon | 4个7 | 
-[253514] | 矫形外科医生 / Orthopedic Surgeon | 4个7 | 
-[253515] | 耳鼻喉科专家 / Otorhinolaryngologist | 4个7 | 
-[253516] | 儿科医生 / Paediatric Surgeon | 4个7 | 
-[253517] | 整形外科医生 / Plastic and Reconstructive Surgeon | 4个7 | 
-[253518] | 泌尿科医师 / Urologist | 4个7 | 
-[253521] | 血管外科医生 / Vascular Surgeon | 4个7 | 
-[253911] | 皮肤科医生 / Dermatologist | 4个7 | 
-[253912] | 急诊医学专家 / Emergency Medicine Specialist | 4个7 | 
-[253913] | 产科医生和妇科医生 / Obstetrician and Gynaecologist | 4个7 | 
-[253914] | 眼科医生 / Ophthalmologist | 4个7 | 
-[253915] | 病理学家 / Pathologist | 4个7 | 
-[253917] | 诊断和介入放射科专家 / Diagnostic and Interventional Radiologist | 4个7 | 
-[253918] | 放射肿瘤科专家 / Radiation Oncologist | 4个7 | 
-[253999] | 其他医疗执业人员 / Medical Practitioners nec | 4个7 | 
-[254111] | 助产士 / Midwife | 4个7 | 
-[254411] | 护士执业 / Nurse Practitioner | 4个7 | 
-[254412] | 注册护士（老年护理） / Registered Nurse (Aged Care) | 4个7 | 
-[254413] | 注册护士（儿童和家庭健康） / Registered Nurse (Child and Family Health) | 4个7 | 
-[254414] | 注册护士（社区卫生服务） / Registered Nurse (Community Health) | 4个7 | 
-[254415] | 注册护士（重症监护和紧急） / Registered Nurse (Critical Care and Emergency) | 4个7 | 
-[254416] | 注册护士（发展迟缓） / Registered Nurse (Developmental Disability) | 4个7 | 
-[254417] | 注册护士（残疾和康复） / Registered Nurse (Disability and Rehabilitation) | 4个7 | 
-[254418] | 注册护士（医学） / Registered Nurse (Medical) | 4个7 | 
-[254421] | 注册护士（医疗实践） / Registered Nurse (Medical Practice) | 4个7 | 
-[254422] | 注册护士（心理健康） / Registered Nurse (Mental Health) | 4个7 | 
-[254423] | 注册护士（围手术期） / Registered Nurse (Perioperative) | 4个7 | 
-[254499] | 其他注册护士 / Registered Nurses nec | 4个7 | 
-[271311] | 律师 / Solicitor | 4个7 | 
-[272311] | 临床心理学家 / Clinical Psychologist | 4个7 | 
-[272399] | 心理学家NEC / Psychologists nec | 4个7 | 
-[272412] | 口译 / Interpreter | 4个7 | 
-[272511] | 社工 / Social Worker | 4个7 | 
-[311111] | 农业技术员 / Agricultural Technician | 4个7 | 
-[312111] | 建筑绘图员 / Architectural Draftsperson | 4个7 | 
-[312211] | 土木工程绘图员 / Civil Engineering Draftsperson | 4个7 | 
-[312512] | 机械工程技术员 / Mechanical Engineering Technician | 4个7 | 
-[321111] | 汽车电工 / Automotive Electrician | 4个7 | 
-[321211] | 汽车技工（普通） / Motor Mechanic (General) | 4个7 | 
-[321212] | 柴油汽车技工 / Diesel Motor Mechanic | 4个7 | 
-[321213] | 摩托车技工 / Motorcycle Mechanic | 4个7 | 
-[321214] | 小型发动机技工 / Small Engine Mechanic | 4个7 | 
-[322211] | 钣金行业工人 / Sheetmetal Trades Worker | 4个7 | 
-[322311] | 金属构造工 / Metal Fabricator | 4个7 | 
-[322313] | 焊工（甲等） / Welder (First Class) | 4个7 | 
-[323211] | 钳工（普通） / Fitter (General) | 4个7 | 
-[323212] | 钳工和车床工 / Fitter and Turner | 4个7 | 
-[323213] | 钳工，焊工 / Fitter-Welder | 4个7 | 
-[323214] | 金属机械师（甲等） / Metal Machinist (First Class) | 4个7 | 
-[323313] | 锁匠 / Locksmith | 4个7 | 
-[324111] | 钣金工人 / Panelbeater | 4个7 | 
-[331111] | 瓦工 / Bricklayer | 4个7 | 
-[331112] | 石匠 / Stonemason | 4个7 | 
-[331211] | 木工和细木工 / Carpenter and Joiner | 4个7 | 
-[331212] | 木匠 / Carpenter | 4个7 | 
-[332211] | 绘画工人 / Painting trades workers | 4个7 | 
-[333111] | 玻璃工 / Glazier | 4个7 | 
-[333211] | 纤维泥水匠 / Fibrous Plasterer | 4个7 | 
-[333212] | 固体泥水匠 / Solid Plasterer | 4个7 | 
-[333311] | 屋顶铺瓦工 / Roof Tiler | 4个7 | 
-[333411] | 墙和地板瓦工 / Wall and Floor Tiler | 4个7 | 
-[334111] | 管道工（普通） / Plumber (General) | 4个7 | 
-[341111] | 电工（普通） / Electrician (General) | 4个7 | 
-[342111] | 空调和制冷技工 / Airconditioning and Refrigeration Mechanic | 4个7 | 
-[351111] | 面包师 / Baker | 4个7 | 
-[351112] | 糕饼师 / Pastry Cook | 4个7 | 
-[351211] | 屠宰及熟肉加工 / Butcher or Smallgoods Maker | 4个7 | 
-[351311] | 主厨 / Chef | 4个7 | 
-[351411] | 厨师 / Cook | 4个7 | 
-[362211] | 园丁（普通） / Gardener (General) | 4个7 | 
-[391111] | 理发师 / Hairdresser | 4个7 | 
-[394111] | 细木工 / Cabinetmaker | 4个7 | 
-[399312] | 图书馆技术员 / Library Technician | 4个7 | 
-[411111] | 救护主任 / Ambulance Officer | 4个7 | 
-[411112] | 重症监护救护车医务人员 / Intensive Care Ambulance Paramedic | 4个7 | 
-[411213] | 牙科技师 / Dental Technician | 4个7 | 
-[411411] | 登记护士 / Enrolled Nurse | 4个7 | 
-[411711] | 社区工作家 / Community Worker | 4个7 | 
-[411712] | 残疾人服务主任 / Disabilities Services Officer | 4个7 | 
-[411715] | 安老院主任 / Residential Care Officer | 4个7 | 
-[411716] | 青年工人 / Youth Worker | 4个7 | 
+|ANZSCO|Occupation|Assessing Authority|
+| --- | --- | --- |
+|121111|Aquaculture Farmer|VETASSESS|
+|121213|Fruit or Nut Grower|VETASSESS|
+|121215|Grape Grower|VETASSESS|
+|121216|Mixed Crop Farmer|VETASSESS|
+|121221|Vegetable Grower|VETASSESS|
+|121299|Crop Farmers nec|VETASSESS|
+|121311|Apiarist|VETASSESS|
+|121312|Beef Cattle Farmer|VETASSESS|
+|121313|Dairy Cattle Farmer|VETASSESS|
+|121316|Horse Breeder|VETASSESS|
+|121317|Mixed Livestock Farmer|VETASSESS|
+|121318|Pig Farmer|VETASSESS|
+|121321|Poultry Farmer|VETASSESS|
+|121322|Sheep Farmer|VETASSESS|
+|121399|Livestock Farmers nec|VETASSESS|
+|131112|Sales and Marketing Manager|AIM|
+|133111|Construction Project Manager|VETASSESS|
+|133211|Engineering Manager|Engineers Australia/AIM|
+|133512|Production Manager (Manufacturing)|VETASSESS|
+|133611|Supply and Distribution Manager|AIM|
+|134212|Nursing Clinical Director|ANMAC|
+|134213|Primary Health Organisation Manager|VETASSESS|
+|134214|Welfare Centre Manager|ACWA/VETASSESS|
+|139914|Quality Assurance Manager|VETASSESS|
+|141111|Cafe or Restaurant Manager|VETASSESS|
+|141311|Hotel or Motel Manager|VETASSESS|
+|149413|Transport Company Manager|VETASSESS|
+|224512|Valuer|VETASSESS|
+|224711|Management Consultant|VETASSESS|
+|232111|Architect|AACA|
+|232212|Surveyor|SSSI|
+|232312|Industrial Designer|VETASSESS|
+|232611|Urban and Regional Planner|VETASSESS|
+|233211|Civil Engineer|Engineers Australia|
+|233212|Geotechnical Engineer|Engineers Australia|
+|233213|Quantity Surveyor|AIQS|
+|233214|Structural Engineer|Engineers Australia|
+|233215|Transport Engineer|Engineers Australia|
+|233311|Electrical Engineer|Engineers Australia|
+|233512|Mechanical Engineer|Engineers Australia|
+|233911|Aeronautical Engineer|Engineers Australia|
+|233914|Engineering Technologist* *Qualifications and experience must be directly linked to another Engineering occupation listed on TSOL.|Engineers Australia|
+|234111|Agricultural Consultant|VETASSESS|
+|234112|Agricultural Scientist|VETASSESS|
+|234213|Wine Maker|VETASSESS|
+|234711|Veterinarian|AVBC|
+|234914|Physicist (Medical Physicist only)|ACPSEM|
+|241111|Early Childhood (Pre-Primary School) Teacher|AITSL|
+|241213|Primary School Teacher|AITSL|
+|241411|Secondary School Teacher|AITSL|
+|241511|Special Needs Teacher|AITSL|
+|251111|Dietitian|DAA|
+|251211|Medical Diagnostic Radiographer|AIR|
+|251212|Medical Radiation Therapist|AIR|
+|251214|Sonographer|AIR|
+|251912|Orthoptist or Prosthetist|VETASSESS|
+|252111|Chiropractor|CCEA|
+|252112|Osteopath|ANZOC|
+|252311|Dental Specialist|ADC|
+|252312|Dentist|ADC|
+|252411|Occupational Therapist|OTC|
+|252511|Physiotherapist|APC|
+|252611|Podiatrist|APodC/ANZPAC|
+|252711|Audiologist|VETASSESS|
+|252712|Speech Pathologist|SPA|
+|253111|General Practitioner|Medical Board of Australia|
+|253211|Anaesthetist|Medical Board of Australia|
+|253311|Specialist Physician (General Medicine)|Medical Board of Australia|
+|253312|Cardiologist|Medical Board of Australia|
+|253313|Clinical Haematologist|Medical Board of Australia|
+|253314|Medical Oncologist|Medical Board of Australia|
+|253315|Endocrinologist|Medical Board of Australia|
+|253316|Gastroenterologist|Medical Board of Australia|
+|253317|Intensive Care Specialist|Medical Board of Australia|
+|253318|Neurologist|Medical Board of Australia|
+|253321|Paediatrician|Medical Board of Australia|
+|253399|Specialist Physicians nec|Medical Board of Australia|
+|253411|Psychiatrist|Medical Board of Australia|
+|253511|Surgeon (General)|Medical Board of Australia|
+|253512|Cardiothoracic Surgeon|Medical Board of Australia|
+|253513|Neurosurgeon|Medical Board of Australia|
+|253514|Orthopedic Surgeon|Medical Board of Australia|
+|253515|Otorhinolaryngologist|Medical Board of Australia|
+|253516|Paediatric Surgeon|Medical Board of Australia|
+|253517|Plastic and Reconstructive Surgeon|Medical Board of Australia|
+|253518|Urologist|Medical Board of Australia|
+|253521|Vascular Surgeon|Medical Board of Australia|
+|253911|Dermatologist|Medical Board of Australia|
+|253912|Emergency Medicine Specialist|Medical Board of Australia|
+|253913|Obstetrician and Gynaecologist|Medical Board of Australia|
+|253914|Ophthalmologist|Medical Board of Australia|
+|253915|Pathologist|Medical Board of Australia|
+|253917|Diagnostic and Interventional Radiologist|Medical Board of Australia|
+|253918|Radiation Oncologist|Medical Board of Australia|
+|253999|Medical Practitioners nec|Medical Board of Australia|
+|254111|Midwife|ANMAC|
+|254411|Nurse Practitioner|ANMAC|
+|254412|Registered Nurse (Aged Care)|ANMAC|
+|254413|Registered Nurse (Child and Family Health)|ANMAC|
+|254414|Registered Nurse (Community Health)|ANMAC|
+|254415|Registered Nurse (Critical Care andEmergency)|ANMAC|
+|254416|Registered Nurse (Developmental Disability)|ANMAC|
+|254417|Registered Nurse (Disability andRehabilitation)|ANMAC|
+|254418|Registered Nurse (Medical)|ANMAC|
+|254421|Registered Nurse (Medical Practice)|ANMAC|
+|254422|Registered Nurse (Mental Health)|ANMAC|
+|254423|Registered Nurse (Perioperative)|ANMAC|
+|254499|Registered Nurses nec|ANMAC|
+|271311|Solicitor|The Law Society of Tasmania|
+|272311|Clinical Psychologist|APS|
+|272399|Psychologists nec|APS|
+|272412|Interpreter|NAATI|
+|272511|Social Worker|AASW|
+|311111|Agricultural Technician|VETASSESS|
+|312111|Architectural Draftsperson|VETASSESS|
+|312211|Civil Engineering Draftsperson|Engineers Aust./VETASSESS|
+|312512|Mechanical Engineering Technician|TRA|
+|321111|Automotive Electrician|TRA|
+|321211|Motor Mechanic (General)|TRA|
+|321212|Diesel Motor Mechanic|TRA|
+|321213|Motorcycle Mechanic|TRA|
+|321214|Small Engine Mechanic|TRA|
+|322211|Sheetmetal Trades Worker|TRA|
+|322311|Metal Fabricator|TRA|
+|322313|Welder (First Class)|TRA|
+|323211|Fitter (General)|TRA|
+|323212|Fitter and Turner|TRA|
+|323213|Fitter-Welder|TRA|
+|323214|Metal Machinist (First Class)|TRA|
+|323313|Locksmith|TRA|
+|324111|Panelbeater|TRA|
+|331111|Bricklayer|TRA|
+|331112|Stonemason|TRA|
+|331211|Carpenter and Joiner|TRA|
+|331212|Carpenter|TRA|
+|332211|Painting trades workers|TRA|
+|333111|Glazier|TRA|
+|333211|Fibrous Plasterer|TRA|
+|333212|Solid Plasterer|TRA|
+|333311|Roof Tiler|TRA|
+|333411|Wall and Floor Tiler|TRA|
+|334111|Plumber (General)|TRA|
+|341111|Electrician (General)|TRA|
+|342111|Airconditioning and Refrigeration Mechanic|TRA|
+|351111|Baker|TRA|
+|351112|Pastry Cook|TRA|
+|351211|Butcher or Smallgoods Maker|TRA|
+|351311|Chef|TRA|
+|351411|Cook|TRA|
+|362211|Gardener (General)|TRA|
+|391111|Hairdresser|TRA|
+|394111|Cabinetmaker|TRA|
+|399312|Library Technician|VETASSESS|
+|411111|Ambulance Officer|VETASSESS|
+|411112|Intensive Care Ambulance Paramedic|VETASSESS|
+|411213|Dental Technician|TRA|
+|411411|Enrolled Nurse|ANMAC|
+|411711|Community Worker|VETASSESS|
+|411712|Disabilities Services Officer|VETASSESS|
+|411715|Residential Care Officer|VETASSESS|
+|411716|Youth Worker|VETASSESS|
+
 更多参考飞出国论坛：[TAS 塔州担保申请要求，流程及注意事项](hhttps://bbs.fcgvisa.com/t/2019-tas/31131)。  
 
 需要获得相关移民及出国签证申请帮助可以联系飞出国微信（`flyabroad_hk`）： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me</a>。
