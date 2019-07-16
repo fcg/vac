@@ -77,7 +77,7 @@ NSW的Riverina开放了489偏远地区担保，最低要求4个6，有一些比�
 |Construction Estimator|312114||
 |Civil Engineering Draftsperson|312211||
 |Mechanical Engineering Technician|312512|*|
-|ICT Customer support Officer|313112|…….Page/3|
+|ICT Customer support Officer|313112||
 |Motor Mechanic (general)|321211|At least 2 years work experience in a licenced Motor Vehicle Repair Business or heavy vehicle experience|
 |Diesel Motor Mechanic|321212||
 |Sheet metal trades worker|322211||
