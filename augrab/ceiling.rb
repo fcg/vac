@@ -16,7 +16,21 @@ CEILINGTRS = '//*[@id="ctl00_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField
 
 TURL = "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/occupation-ceilings"
 
-CURRENTFN = "2019-07-11"  # 每次有新更新先修改这里
+# jullog INTERGER DEFAULT NULL,
+# auglog INTERGER DEFAULT NULL,
+# septlog INTERGER DEFAULT NULL,
+# octlog INTERGER DEFAULT NULL,
+# novlog INTERGER DEFAULT NULL,
+# declog INTERGER DEFAULT NULL,
+# janlog INTERGER DEFAULT NULL,
+# feblog INTERGER DEFAULT NULL,
+# marlog INTERGER DEFAULT NULL,
+# aprlog INTERGER DEFAULT NULL,
+# maylog INTERGER DEFAULT NULL,
+# junlog INTERGER DEFAULT NULL,
+
+LOGM = "auglog" # 每次有新更新先修改这里
+CURRENTFN = "2019-08-11"  # 每次有新更新先修改这里
 F1920 = "ceilling-19-20"
 DATADIR = "../_data/sol/"
 POSTDIR = "../_posts/"
@@ -48,7 +62,7 @@ def theTrs()
 
 end
 
-def updateceilingslog(_month)  # jullog 
+def updateceilingslog()  # jullog 使用 LOGM 固定变量
 
   trs = theTrs()
 
@@ -63,7 +77,7 @@ def updateceilingslog(_month)  # jullog
     td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
     td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
-    db.execute("update ceilingslog set #{_month} = #{td4result} where anzsco4 = #{td1anzsco4}")
+    db.execute("update ceilingslog set #{LOGM} = #{td4result} where anzsco4 = #{td1anzsco4}")
 
   end
 
@@ -458,20 +472,7 @@ end
 # postrawceiling()
 # postrawceilingdec()
 
-# jullog INTERGER DEFAULT NULL,
-# auglog INTERGER DEFAULT NULL,
-# septlog INTERGER DEFAULT NULL,
-# octlog INTERGER DEFAULT NULL,
-# novlog INTERGER DEFAULT NULL,
-# declog INTERGER DEFAULT NULL,
-# janlog INTERGER DEFAULT NULL,
-# feblog INTERGER DEFAULT NULL,
-# marlog INTERGER DEFAULT NULL,
-# aprlog INTERGER DEFAULT NULL,
-# maylog INTERGER DEFAULT NULL,
-# junlog INTERGER DEFAULT NULL,
-
-updateceilingslog("auglog")
+updateceilingslog()  # month 在前面定义
 upateceilling()
 postmonthcsv()
 updatecsv()
