@@ -10,14 +10,14 @@ require 'reverse_markdown'
 
 CEILINGS   = "//*[@id='tab-content-3']/table".freeze
 CEILINGTRS = "//*[@id='tab-content-3']/table/tbody/tr".freeze
-TURL = "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds".freeze
+TURL = "https://www.homeaffairs.gov.au/trav/work/skil".freeze
 
 ### 注意，每次修改这里为当前发布数据月份的最后一天
-F1920 = '2019-07-28'.freeze # 每月都有28
-MONTH = '2019-07'.freeze # 每次修改这里
+F1819 = '2018-09-28'.freeze # 每月都有28
+MONTH = '2018-09'.freeze # 每次修改这里
 
-T190CSV = '190-1920'.freeze
-ZDBTOTAL = 'zdb-total-1920'.freeze
+T190CSV = '190-1819'.freeze
+ZDBTOTAL = 'zdb-total-1819'.freeze
 DATADIR = '../_data/zdb/'.freeze
 POSTDIR = '../_posts/'.freeze
 
@@ -41,9 +41,9 @@ end
 
 T190 = <<-TH.freeze
 
-### 飞出国 2019-2020 年度各州 190 州担保数据记录
+### 飞出国 2018-2019 年度各州 190 州担保数据记录
 
-下面数据只针对 2019-2020 年度澳洲 190 州担保各州担保数据。
+下面数据只针对 2018-2019 年度澳洲 190 州担保各州担保数据。
 
 <table border = "1" cellpadding="1" cellspacing="0">
 <tr>
@@ -89,7 +89,7 @@ TMONTH = <<-TBODY.freeze
     <th>西澳</th>
     <th>总计</th>
   </tr>
-{% for zdb in site.data.zdb.#{F1920} %}
+{% for zdb in site.data.zdb.#{F1819} %}
 <tr>
 <td> {{ zdb.Class }} </td>
 <td> {{ zdb.ACT }} </td>
@@ -110,11 +110,11 @@ FRONTSTR = <<-YAML.freeze
 ---
 layout: post
 title:  "#{MONTH} 澳洲州担保邀请数据"
-date:   #{F1920} 23:56:00  +0800
+date:   #{F1819} 23:56:00  +0800
 categories: gsm
 ---
 
-飞出国澳洲 SkillSelect 2019-2020 年度州担保邀请数据统计。
+飞出国澳洲 SkillSelect 2018-2019 年度州担保邀请数据统计。
 
 ## #{MONTH} 澳洲州担保邀请数据
 
@@ -122,13 +122,11 @@ YAML
 
 ENDSTR = <<-ENDS.freeze
 
-更多请参考飞出国论坛： [2019-2020 年度澳洲州担保邀请记录](https://bbs.fcgvisa.com/t/2019-20-nominations-by-state-and-territory-governments-2019-2020/33259) 。
+更多请参考飞出国论坛： [2017-2018 年度澳洲州担保邀请记录](http://bbs.fcgvisa.com/t/2017-2018/24722/) 。
 
----
+[荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
 
-[飞出国](https://my.flyabroad.io)，您的移民规划师！根据申请人的具体情况为客户甄选最合适的项目，提供最经济、最稳妥的移民置业及资产规划方案。
-
-提交免费在线评估后可以 微信 联系飞出国(`flyabroad_hk`)或 预约面谈 ： https://flyabroad.me/contact/ 。
+需要获得相关移民及出国签证申请帮助可以联系飞出国： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
@@ -207,7 +205,7 @@ def save_month_CSV
     table = getMonthTable
     trs = table.css('tbody>tr')
     	# 具体月份 web
-    CSV.open("#{DATADIR}#{F1920}.csv", 'w') do |csv|
+    CSV.open("#{DATADIR}#{F1819}.csv", 'w') do |csv|
     csv << %w(Class ACT NSW NT Qld SA Tas Vic WA Total)
 
     trs.each_with_index do |tr, rindex|
@@ -250,7 +248,7 @@ end
 
 def post
   # 读数据库，同时读 csv 获取最新的当月州担保数据，全部数据（2016/17 total activity ）和190具体个月累计数据。
-	File.open("#{POSTDIR}#{F1920}-State-Territory-nominations.md", 'w') do |file|
+	File.open("#{POSTDIR}#{F1819}-State-Territory-nominations.md", 'w') do |file|
 
 		content = FRONTSTR + TMONTH + T190 + ENDSTR
 		file.write content

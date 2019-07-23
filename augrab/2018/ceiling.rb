@@ -8,16 +8,13 @@ require "yaml"
 require 'date'
 require 'reverse_markdown'
 
-# CEILINGS   = ".//*[@id='tab-content-3']/table"
-# CEILINGTRS = ".//*[@id='tab-content-3']/table/tbody/tr"
+CEILINGS   = ".//*[@id='tab-content-3']/table"
+CEILINGTRS = ".//*[@id='tab-content-3']/table/tbody/tr"
 
-CEILINGS   = '//*[@id="ctl00_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField"]/table'
-CEILINGTRS = '//*[@id="ctl00_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField"]/table/tbody/tr'
-
-TURL = "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/occupation-ceilings"
+TURL = "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds"
 
 CURRENTFN = "2019-07-11"  # 每次有新更新先修改这里
-F1920 = "ceilling-19-20"
+F1819 = "ceilling-19-20"
 DATADIR = "../_data/sol/"
 POSTDIR = "../_posts/"
 
@@ -82,17 +79,17 @@ def upateceilling()
 
       td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
-     p td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+      td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
 
       crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, updated from ceilings where anzsco4 = ?",td1anzsco4)
 
-      lastresult = crow[0][5]
+      lastresutl = crow[0][5]
       lastupdate = crow[0][6]
 
-      change = td4result - lastresult
+      change = td4result - lastresutl
 
-      p "#{td1anzsco4}:#{lastresult}:#{td4result}:#{change}"
+      p "#{td1anzsco4}:#{lastresutl}:#{td4result}:#{change}"
 
       updated = Time.now.strftime("%Y-%m-%d")
 
@@ -122,7 +119,7 @@ def updatecsv()
 
   rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings order by remain")
 
-  CSV.open("#{DATADIR}#{F1920}.csv", "w") do |csv|
+  CSV.open("#{DATADIR}#{F1819}.csv", "w") do |csv|
     csv << %w(anzsco4 bbsid nameen namecn ceiling result change remain)
     rows.each do |row|
       csv << row
@@ -142,7 +139,7 @@ def postrawceiling()
   
     puts "飞出国：#{CURRENTFN} 邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
     puts "\n"
-    tablearray.push "代码 | 长表职业类别 - 飞出国 | 2019-20配额 "
+    tablearray.push "代码 | 长表职业类别 - 飞出国 | 18-19配额 "
     tablearray.push "---- | --------------- | -------- "
   
     linkarray.push ""
@@ -252,12 +249,12 @@ def upateceilling()
 
       crow = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, updated from ceilings where anzsco4 = ?",td1anzsco4)
 
-      lastresult = crow[0][5]
+      lastresutl = crow[0][5]
       lastupdate = crow[0][6]
 
-      change = td4result - lastresult
+      change = td4result - lastresutl
 
-      p "#{td1anzsco4}:#{lastresult}:#{td4result}:#{change}"
+      p "#{td1anzsco4}:#{lastresutl}:#{td4result}:#{change}"
 
       csv << crow[0].push(td4result).push(change)
 
@@ -309,8 +306,30 @@ def maxeoi
 
 end
 
-#########
+# jullog INTERGER DEFAULT NULL,
+# auglog INTERGER DEFAULT NULL,
+# septlog INTERGER DEFAULT NULL,
+# octlog INTERGER DEFAULT NULL,
+# novlog INTERGER DEFAULT NULL,
+# declog INTERGER DEFAULT NULL,
+# janlog INTERGER DEFAULT NULL,
+# feblog INTERGER DEFAULT NULL,
+# marlog INTERGER DEFAULT NULL,
+# aprlog INTERGER DEFAULT NULL,
+# maylog INTERGER DEFAULT NULL,
+# junlog INTERGER DEFAULT NULL,
 
+updateceilingslog("auglog")
+
+upateceilling()
+postmonthcsv()
+updatecsv()
+postceiling()
+maxeoi()
+
+# postrawceiling
+
+#########
 def initdb
   ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1'
   charset = 'utf-8'
@@ -333,7 +352,7 @@ def initdb
 
       td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
-      td3ceiling  = tr.xpath("td[3]").inner_text.gsub(",","").gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
+      td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       # td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result = 0
 
@@ -416,26 +435,3 @@ end
 # recreateceilingtable()
 # recreateceilinglogtable()
 # initdb()
-
-# jullog INTERGER DEFAULT NULL,
-# auglog INTERGER DEFAULT NULL,
-# septlog INTERGER DEFAULT NULL,
-# octlog INTERGER DEFAULT NULL,
-# novlog INTERGER DEFAULT NULL,
-# declog INTERGER DEFAULT NULL,
-# janlog INTERGER DEFAULT NULL,
-# feblog INTERGER DEFAULT NULL,
-# marlog INTERGER DEFAULT NULL,
-# aprlog INTERGER DEFAULT NULL,
-# maylog INTERGER DEFAULT NULL,
-# junlog INTERGER DEFAULT NULL,
-
-upateceilling()
-postmonthcsv()
-updatecsv()
-postceiling()
-maxeoi()
-
-updateceilingslog("jullog")
-
-postrawceiling()

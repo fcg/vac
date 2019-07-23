@@ -37,11 +37,11 @@ ANZSCO | NSW 2019-20 年度优先州担保职业 - 飞出国 | 状态 |额外要
 [211112] | 舞蹈演员及编舞 / Dancer or Choreographer | Limited | No
 [211213] | 音乐家（器乐） / Musician (Instrumental) | Limited | No
 [212312] | 总监（电影电视收音机或舞台） / Director (Film, Television, Radio or Stage) | Limited | No
-[221111] | 会计师（普通） / Accountant (General) | Medium | Yes
-[221112] | 管理会计师 / Management Accountant | Limited | Yes
-[221113] | 税务会计师 / Taxation Accountant | Limited | Yes
-[221213] | 外审 / External Auditor | Medium | Yes
-[221214] | 内审 / Internal Auditor | Low | Yes
+[221111] | 会计师（普通） / Accountant (General) | Medium | **是**
+[221112] | 管理会计师 / Management Accountant | Limited | **是**
+[221113] | 税务会计师 / Taxation Accountant | Limited | **是**
+[221213] | 外审 / External Auditor | Medium | **是**
+[221214] | 内审 / Internal Auditor | Low | **是**
 [224111] | 精算师 / Actuary | Low | No
 [224112] | 数学家 / Mathematician | Low | No
 [224113] | 统计学家 / Statistician | Low | No
@@ -54,18 +54,18 @@ ANZSCO | NSW 2019-20 年度优先州担保职业 - 飞出国 | 状态 |额外要
 [232411] | 平面设计师 / Graphic Designer | Medium | No
 [232412] | 插图画家 / Illustrator | Low | No
 [232511] | 室内设计师 / Interior Designer | Limited | No
-[233111] | 化学工程师 / Chemical Engineer | Limited | Yes
+[233111] | 化学工程师 / Chemical Engineer | Limited | **是**
 [233112] | 材料工程师 / Materials Engineer | Limited | No
-[233211] | 土木工程师 / Civil Engineer | High | Yes
+[233211] | 土木工程师 / Civil Engineer | High | **是**
 [233212] | 岩土工程师 / Geotechnical Engineer | Limited | No
 [233213] | 工料测量师 / Quantity Surveyor | Limited | No
 [233214] | 结构工程师 / Structural Engineer | Low | No
 [233215] | 交通工程师 / Transport Engineer | Limited | No
-[233311] | 电气工程师 / Electrical Engineer | Limited | Yes
-[233411] | 电子工程师 / Electronics Engineer | Limited | Yes
-[233511] | 工业工程师 / Industrial Engineer | Limited | Yes
-[233512] | 机械工程师 / Mechanical Engineer | Low | Yes
-[233513] | 生产或工厂工程师 / Production or Plant Engineer | Limited | Yes
+[233311] | 电气工程师 / Electrical Engineer | Limited | **是**
+[233411] | 电子工程师 / Electronics Engineer | Limited | **是**
+[233511] | 工业工程师 / Industrial Engineer | Limited | **是**
+[233512] | 机械工程师 / Mechanical Engineer | Low | **是**
+[233513] | 生产或工厂工程师 / Production or Plant Engineer | Limited | **是**
 [233611] | 采矿工程师（不包括石油） / Mining Engineer (Excluding Petroleum) | Limited | No
 [233612] | 石油工程师 / Petroleum Engineer | Limited | No
 [233911] | 航空工程师 / Aeronautical Engineer | Low | No
@@ -92,7 +92,7 @@ ANZSCO | NSW 2019-20 年度优先州担保职业 - 飞出国 | 状态 |额外要
 [234914] | 物理学家（医学物理学家） / Physicist | Limited | No
 [234999] | 自然和物理科学专业人员NEC / Natural and Physical Science Professionals nec | Limited | No
 [241111] | 幼儿教育（学前教育）教师 / Early Childhood Teacher | Medium | No
-[241411] | 中学教师 / Secondary School Teacher | Low | Yes
+[241411] | 中学教师 / Secondary School Teacher | Low | **是**
 [241511] | 特别需要教师 / Special Needs Teacher | Limited | No
 [251211] | 医用放射诊断技师 / Medical Diagnostic Radiographer | Limited | No
 [251212] | 医疗放射治疗师 / Medical Radiation Therapist | Limited | No
@@ -117,7 +117,7 @@ ANZSCO | NSW 2019-20 年度优先州担保职业 - 飞出国 | 状态 |额外要
 [254412] | 注册护士（老年护理） / Registered Nurse (Aged Care) | Low | No
 [254413] | 注册护士（儿童和家庭健康） / Registered Nurse (Child and Family Health) | Limited | No
 [254414] | 注册护士（社区卫生服务） / Registered Nurse (Community Health) | Limited | No
-[254415] | 注册护士（重症监护和紧急） / Registered Nurse (Critical Care and Emergency) | Limited | Yes
+[254415] | 注册护士（重症监护和紧急） / Registered Nurse (Critical Care and Emergency) | Limited | **是**
 [254417] | 注册护士（残疾和康复） / Registered Nurse (Disability and Rehabilitation) | Limited | No
 [254418] | 注册护士（医学） / Registered Nurse (Medical) | Limited | No
 [254421] | 注册护士（医疗实践） / Registered Nurse (Medical Practice) | Low | No
@@ -125,24 +125,24 @@ ANZSCO | NSW 2019-20 年度优先州担保职业 - 飞出国 | 状态 |额外要
 [254423] | 注册护士（围手术期） / Registered Nurse (Perioperative) | Limited | No
 [254424] | 注册护士（手术） / Registered Nurse (Surgical) | Limited | No
 [254425] | 注册护士（儿科） / Registered Nurse (Paediatric) | Limited | No
-[254499] | 其他注册护士 / Registered Nurses nec | Limited | Yes
-[261111] | ICT业务分析师 / ICT business Analyst | High | Yes
-[261112] | 系统分析员 / Systems Analyst | High | Yes
+[254499] | 其他注册护士 / Registered Nurses nec | Limited | **是**
+[261111] | ICT业务分析师 / ICT business Analyst | High | **是**
+[261112] | 系统分析员 / Systems Analyst | High | **是**
 [261211] | 多媒体专家 / Multimedia Specialist | Limited | No
 [261212] | Web开发员 / Web Developer | Medium | No
-[261311] | 分析程序员 / Analyst Programmer | Medium | Yes
-[261312] | 开发程序员 / Developer Programmer | High | Yes
-[261313] | 软件工程师 / Software Engineer | High | Yes
+[261311] | 分析程序员 / Analyst Programmer | Medium | **是**
+[261312] | 开发程序员 / Developer Programmer | High | **是**
+[261313] | 软件工程师 / Software Engineer | High | **是**
 [261314] | 软件测试员 / Software Tester | High | No
 [262111] | 数据库管理员 / Database Administrator | Limited | No
-[262112] | 信息和通信技术安全专家 / ICT Security Specialist | Low | Yes
+[262112] | 信息和通信技术安全专家 / ICT Security Specialist | Low | **是**
 [262113] | 系统管理员 / Systems Administrator | Medium | No
-[263111] | 计算机网络和系统工程师 / Computer Network and Systems Engineer | Medium | Yes
+[263111] | 计算机网络和系统工程师 / Computer Network and Systems Engineer | Medium | **是**
 [263112] | 网络管理员 / Network Administrator | Limited | No
 [263212] | 信息和通信技术支持工程师 / ICT Support Engineer | Medium | No
 [263213] | 信息和通信技术系统测试工程师 / ICT Systems Test Engineer | Low | No
-[263311] | 电信工程师 / Telecommunications Engineer | Limited | Yes
-[263312] | 电信网络工程师 / Telecommunications Network Engineer | Limited | Yes
+[263311] | 电信工程师 / Telecommunications Engineer | Limited | **是**
+[263312] | 电信网络工程师 / Telecommunications Network Engineer | Limited | **是**
 [271111] | 律师 / Barrister | Limited | No
 [271311] | 律师 / Solicitor | Low | No
 [272311] | 临床心理学家 / Clinical Psychologist | Limited | No

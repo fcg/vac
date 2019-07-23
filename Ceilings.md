@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 澳洲 2018-2019 独立技术移民配额
+title: 澳洲 2019-2020 独立技术移民配额
 ---
 
 ## 澳大利亚技术移民2018-2019年度 SOL 职业(189+489亲属)配额完成情况汇总
 
->Occupation ceilings for the 2018-19 programme year
+>Occupation ceilings for the 2019-20 programme year
 
-飞出国：下表基于为2018-2019年度澳大利亚技术移民SOL配额使用情况汇总表。
+飞出国：下表基于为2019-2020年度澳大利亚技术移民SOL配额使用情况汇总表。
 
 飞出国下表排序是按照剩余职业配额由少到多排序的。
 
@@ -19,7 +19,7 @@ title: 澳洲 2018-2019 独立技术移民配额
 <th>已邀请</th>
 <th>所剩配额</th>
 </tr>
-{% for c in site.data.sol.ceilling-18-19 %}
+{% for c in site.data.sol.ceilling-19-20 %}
 <tr>
 <td> <a href="http://bbs.fcgvisa.com/t/topic/{{ c.bbsid }}" target="_blank">{{ c.anzsco4 }}</a> </td>
 <td> {{ c.namecn }} </td>
@@ -30,10 +30,12 @@ title: 澳洲 2018-2019 独立技术移民配额
 {% endfor %}
 </table>
 
-更多说明请参考<a href="http://bbs.fcgvisa.com/t/17031/" target="blank">飞出国论坛</a> 。
+更多说明请参考<a href="https://bbs.fcgvisa.com/t/2019-2020-skillselect-eoi-189-489/33252/" target="blank">飞出国论坛</a> 。
 
-[荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
+---
 
-需要获得相关移民及出国签证申请帮助可以联系飞出国： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
+[飞出国](https://my.flyabroad.io)，您的移民规划师！根据申请人的具体情况为客户甄选最合适的项目，提供最经济、最稳妥的移民置业及资产规划方案。
+
+提交免费在线评估后可以 微信 联系飞出国(`flyabroad_hk`)或 预约面谈 ： https://flyabroad.me/contact/ 。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。

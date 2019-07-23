@@ -13,11 +13,9 @@ NOMI1516 = ".//*[@id='sub-heading-3']/table[2]/tbody/tr"
 
 FOOT =<<-FT
 
----
+[荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
 
-[飞出国](https://my.flyabroad.io)，您的移民规划师！根据申请人的具体情况为客户甄选最合适的项目，提供最经济、最稳妥的移民置业及资产规划方案。
-
-提交免费在线评估后可以 微信 联系飞出国(`flyabroad_hk`)或 预约面谈 ： https://flyabroad.me/contact/ 。
+需要获得相关移民及出国签证申请帮助可以联系飞出国： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
@@ -25,7 +23,7 @@ FT
 
 CUTOFFTABLEROW = ".//*[@id='ctl00_PlaceHolderMain_PublishingPageContent__ControlWrapper_RichHtmlField']/table[4]/tbody/tr"
 
-TURL = "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds"
+TURL = "https://www.homeaffairs.gov.au/Trav/Work/Skil"
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
@@ -48,18 +46,16 @@ def parse_current(filename)
 
  doc = Nokogiri::HTML::parse(html, nil, charset)
 
-#  maindiv = doc.css("#main-content > div").last
- maindiv = doc.css("#content-index-1 > div").last
- 
+ maindiv = doc.css("#main-content > div").last
+
  body = ReverseMarkdown.convert maindiv.inner_html
 
- body = body.gsub("/work-in-australia/PublishingImages/skillselect-invitation-round-graphs/",
-    "https://immi.homeaffairs.gov.au/work-in-australia/PublishingImages/skillselect-invitation-round-graphs/")
+ body = body.gsub("/WorkinginAustralia/PublishingImages/","https://www.homeaffairs.gov.au/WorkinginAustralia/PublishingImages/")
 
- rawcontext = body.gsub("[](/","[](https://immi.homeaffairs.gov.au/")
- .gsub("/visas/getting-a-visa/visa-listing/skilled-independent-189","http://js.flyabroad.com.hk/au/189")
- .gsub("/visas/getting-a-visa/visa-listing/skilled-regional-provisional-489","http://js.flyabroad.com.hk/au/489")
- .gsub("https://immi.homeaffairs.gov.au","")
+ rawcontext = body.gsub("[](/","[](http://www.homeaffairs.gov.au/")
+ .gsub("/trav/visa-1/189-","http://js.flyabroad.com.hk/au/189")
+ .gsub("/trav/visa-1/489-","http://js.flyabroad.com.hk/au/489")
+ .gsub("http://www.homeaffairs.gov.au","")
  .gsub(/\| \n/,"\| ").gsub(/\n \|/," \|").lines.join("> ")
 
  datepath = '//*[@id="main-content"]/div/div/h1' 
@@ -139,10 +135,10 @@ categories: gsm
 FRON
 
 intrstr = <<-INTR
-# 澳洲技术移民 Skillselect EOI #{updated} 邀请结果 - 飞出国
+# 澳洲技术移民 Skillselect EOI #{updated} 邀请结果
 
 飞出国：#{updated} 澳洲技术移民 EOI 发出 189 签证邀请 #{n189} 份，489 亲属担保 #{n489} 份，
-截止到 #{updated}，澳洲技术移民 EOI 2019-2020 年度共发出 189 邀请 #{t189} 份，489 邀请 #{t489} 份，总计 #{tall} 份。
+截止到 #{updated}，澳洲技术移民 EOI 2018-2019 年度共发出 189 邀请 #{t189} 份，489 邀请 #{t489} 份，总计 #{tall} 份。
 
 本次邀请中，189 邀请分数 #{dtp189} 分（截止到 #{dt189}），489 邀请分数 #{dtp489}（截止到 #{dt489}）。
 
@@ -154,13 +150,11 @@ INTR
 
 linkstr = <<-ENDS
 
-更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2019-2020 年度邀请记录 - flyabroad](https://bbs.fcgvisa.com/t/2019-2020-skillselect-eoi-189-489/33252/)。
+更多请参考飞出国论坛： [澳洲技术移民 Skillselect EOI 2018-2019 年度邀请记录 - fcgvisa](http://bbs.fcgvisa.com/t/topic/28485)。
 
----
+[荷兰库拉索移民](http://www.flyabroad.hk/curacao)适合技术移民无望或技术移民遥遥无期的高知中产阶层人群。一套提供持续较高收益的国际房产（酒店公寓），一个说走就走的国际身份（无移民监），一个中产阶层与欧洲强国护照最接近的移民项目（荷兰护照）。
 
-[飞出国](https://my.flyabroad.io)，您的移民规划师！根据申请人的具体情况为客户甄选最合适的项目，提供最经济、最稳妥的移民置业及资产规划方案。
-
-提交免费在线评估后可以 微信 联系飞出国(`flyabroad_hk`)或 预约面谈 ： https://flyabroad.me/contact/ 。
+需要获得相关移民及出国签证申请帮助可以联系飞出国： <a href="http://flyabroad.me/contact" target="_blank">http://flyabroad.me/contact/</a>。
 
 > 以上内容由`飞出国香港`（<a href="http://flyabroad.hk/" target="_blank">flyabroad.hk</a>）整理完成，转载请保留并注明出处。
 
@@ -178,7 +172,7 @@ end
 
 end
 
-# parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-september-2018-invitation-round.aspx")
+parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-september-2018-invitation-round.aspx")
 
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-august-2018-invitation-round.aspx")
 # parse_current("https://www.homeaffairs.gov.au/WorkinginAustralia/Pages/11-july-2018-invitation-round.aspx")
@@ -273,8 +267,6 @@ end
 
 post_cutoff("2613")
 
-recreatecutofftable()
-
-parse_current("https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds")
-loadoldcutoff()
-build_cutoff("https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds")
+# recreatecutofftable()
+# loadoldcutoff()
+# build_cutoff("https://www.border.gov.au/WorkinginAustralia/Pages/26-july-2017-round-results.aspx")
