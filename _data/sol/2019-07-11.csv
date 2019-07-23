@@ -4,10 +4,10 @@ anzsco4,bbsid,nameen,namecn,ceiling,result,change,remain
 1332,6547,Engineering Managers,工程经理,1000,0,0,1000
 1341,6552,Child Care Centre Managers,幼儿中心经理,1000,0,0,1000
 1342,6553,Health and Welfare Services Managers,卫生和福利服务经理,1785,0,0,1785
-1399,6559,Other Specialist Managers,,3044,0,0,3044
-2111,7050,"Actors, Dancers and Other Entertainers",,1000,0,0,1000
-2112,7051,Music Professionals,,1000,0,0,1000
-2121,7054,"Artistic Directors, and Media Producers and Presenters",,1098,0,0,1098
+1399,6559,Other Specialist Managers,其他专业管理人员,3044,0,0,3044
+2111,7050,"Actors, Dancers and Other Entertainers",演员，舞蹈演员和其他娱乐人员,1000,0,0,1000
+2112,7051,Music Professionals,音乐家,1000,0,0,1000
+2121,7054,"Artistic Directors, and Media Producers and Presenters",艺术总监，媒体制作人，主持人,1098,0,0,1098
 2211,7058,Accountants*,会计师,2746,83,83,2663
 2212,7059,"Auditors, Company Secretaries and Corporate Treasurers*",审计，公司秘书及企业司库,1552,47,47,1505
 2241,7066,"Actuaries, Mathematicians and Statisticians",精算师，数学家和统计学家,1000,6,6,994

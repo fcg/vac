@@ -131,7 +131,7 @@ def updatecsv()
 
 end
 
-def postrawceiling()
+def postrawceilingdec()
 
     db = SQLite3::Database.open "csol.db"
   
@@ -140,7 +140,7 @@ def postrawceiling()
   
     rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings order by ceiling desc")
   
-    puts "飞出国：#{CURRENTFN} 邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照邀请人数由多到少的职业列表。"
+    puts "飞出国：#{CURRENTFN} 邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照配额人数由多到少的职业列表。"
     puts "\n"
     tablearray.push "代码 | 长表职业类别 - 飞出国 | 2019-20配额 "
     tablearray.push "---- | --------------- | -------- "
@@ -168,7 +168,46 @@ def postrawceiling()
     puts FOOT
     puts linkarray.join("\n")
   
+end
+
+def postrawceiling()
+
+  db = SQLite3::Database.open "csol.db"
+
+  tablearray = Array.new
+  linkarray = Array.new
+
+  rows = db.execute("select anzsco4, bbsid, nameen, namecn, ceiling, result, change, ceiling - result as remain from ceilings")
+
+  puts "飞出国：#{CURRENTFN} 邀请后澳大利亚技术移民 SOL 职业(189+489亲属)配额完成情况飞出国已经整理到网站，下表是飞出国整理的按照职业代码排序的职业配额列表。"
+  puts "\n"
+  tablearray.push "代码 | 长表职业类别 - 飞出国 | 2019-20配额 "
+  tablearray.push "---- | --------------- | -------- "
+
+  linkarray.push ""
+  anzbbs = YAML.load(File.open("anz4tobbs.yml"))
+
+  rows.each do |row|
+
+    anz = row[0]
+    bbsid = row[1]
+    name = "#{row[3]}/#{row[2]}"
+    quota = row[4]
+    result = row[5]
+    change = row[6]
+    remain = row[7]
+
+    tablearray.push "[#{anz}] | #{name} | #{quota} "
+
+    linkarray.push "[#{anz}]: http://bbs.fcgvisa.com/t/flyabroad/#{anzbbs[anz.to_i]}"
+
   end
+
+  puts tablearray.join("\n")
+  puts FOOT
+  puts linkarray.join("\n")
+
+end
 
 def postceiling()
 
@@ -245,7 +284,7 @@ def upateceilling()
   next if tr.xpath("td").empty?
   next if tr.xpath("td[1]").empty?
 
-      p td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
+      td1anzsco4 = tr.xpath("td[1]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td2nameen  = tr.xpath("td[2]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip
       td3ceiling  = tr.xpath("td[3]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
       td4result   = tr.xpath("td[4]").inner_text.gsub(/\u00A0/,"").gsub(/\u200B/,"").strip.to_i
@@ -257,7 +296,7 @@ def upateceilling()
 
       change = td4result - lastresult
 
-      p "#{td1anzsco4}:#{lastresult}:#{td4result}:#{change}"
+      "#{td1anzsco4}:#{lastresult}:#{td4result}:#{change}"
 
       csv << crow[0].push(td4result).push(change)
 
@@ -416,6 +455,8 @@ end
 # recreateceilingtable()
 # recreateceilinglogtable()
 # initdb()
+# postrawceiling()
+# postrawceilingdec()
 
 # jullog INTERGER DEFAULT NULL,
 # auglog INTERGER DEFAULT NULL,
@@ -430,12 +471,9 @@ end
 # maylog INTERGER DEFAULT NULL,
 # junlog INTERGER DEFAULT NULL,
 
+updateceilingslog("auglog")
 upateceilling()
 postmonthcsv()
 updatecsv()
 postceiling()
 maxeoi()
-
-updateceilingslog("jullog")
-
-postrawceiling()

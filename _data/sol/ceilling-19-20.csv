@@ -12,8 +12,8 @@ anzsco4,bbsid,nameen,namecn,ceiling,result,change,remain
 2336,7091,Mining Engineers,采矿工程师,1000,5,5,995
 1332,6547,Engineering Managers,工程经理,1000,0,0,1000
 1341,6552,Child Care Centre Managers,幼儿中心经理,1000,0,0,1000
-2111,7050,"Actors, Dancers and Other Entertainers",,1000,0,0,1000
-2112,7051,Music Professionals,,1000,0,0,1000
+2111,7050,"Actors, Dancers and Other Entertainers",演员，舞蹈演员和其他娱乐人员,1000,0,0,1000
+2112,7051,Music Professionals,音乐家,1000,0,0,1000
 2243,7068,Economists,经济学家,1000,0,0,1000
 2245,7070,Land Economists and Valuers,土地经济学家和估价师,1000,0,0,1000
 2322,7081,Cartographers and Surveyors,制图师和测量师,1000,0,0,1000
@@ -42,7 +42,7 @@ anzsco4,bbsid,nameen,namecn,ceiling,result,change,remain
 4524,1532,Sportspersons,体育运动员,1000,0,0,1000
 3611,7199,Animal Attendants and Trainers,体育教练和裁判,1051,0,0,1051
 2524,7119,Occupational Therapists,职业治疗师,1082,0,0,1082
-2121,7054,"Artistic Directors, and Media Producers and Presenters",,1098,0,0,1098
+2121,7054,"Artistic Directors, and Media Producers and Presenters",艺术总监，媒体制作人，主持人,1098,0,0,1098
 2415,7104,Special Education Teachers,特殊教育教师,1111,0,0,1111
 2512,7111,Medical Imaging Professionals,医学影像专业人员,1203,0,0,1203
 2541,7129,Midwives,助产士,1218,0,0,1218
@@ -68,7 +68,7 @@ anzsco4,bbsid,nameen,namecn,ceiling,result,change,remain
 2211,7058,Accountants*,会计师,2746,83,83,2663
 3513,7197,Chefs,厨师,2738,0,0,2738
 2621,7135,Database and Systems Administrators and ICT Security Specialists,数据库和系统管理员，信息与通信技术安全专家,2887,34,34,2853
-1399,6559,Other Specialist Managers,,3044,0,0,3044
+1399,6559,Other Specialist Managers,其他专业管理人员,3044,0,0,3044
 3322,7184,Painting Trades Workers,涂装业职工,3330,0,0,3330
 2421,7105,University Lecturers and Tutors,大学教师和导师,3407,0,0,3407
 2531,7123,General Practitioners and Resident Medical officers,全科执业,3550,14,14,3536
