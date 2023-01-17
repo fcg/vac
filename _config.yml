@@ -5,6 +5,20 @@ encoding: utf-8
 permalink:           pretty
 #relative_permalinks: true
 
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      category:
+      tags:
+    posts:
+      description:
+      image:
+      category:
+      tags:
+      published: false
+      sitemap: false
 
 # Setup
 title:               飞出国签证申请中心
@@ -69,4 +83,4 @@ author:
 
 # Custom vars
 version:             1.0.0
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]

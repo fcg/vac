@@ -1,0 +1,163 @@
+name: data
+on:
+  schedule:
+    - cron: 0 0 * * *
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/flat.yml
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: Check out repo
+        uses: actions/checkout@v3
+      - name: Fetch country names
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-country-name-en.json
+          downloaded_filename: data-country-name-en.json
+      - name: Fetch processing times
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-en.json
+          downloaded_filename: data-ptime-en.json
+      - name: Fetch data for in Canada services
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-non-country-en.json
+          downloaded_filename: data-ptime-non-country-en.json          
+      - name: Fetch data for ee rounds
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canada.ca/content/dam/ircc/documents/json/ee_rounds_123_en.json
+          downloaded_filename: ee_rounds_123_en.json
+      - name: Fetch data for canada news rss
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canada.ca/en/news.datatable.json
+          downloaded_filename: news.datatable.json
+      - name: Fetch data for CANADAVISA_NEWS_RSS
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canadavisa.com/news/rss.html
+          downloaded_filename: canadavisa_news_rss.rss
+      - name: Fetch data for CICNEWS_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.cicnews.com/feed
+          downloaded_filename: cicnews_feed.rss
+      - name: Fetch data for CANADIM_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: http://www.canadim.com/feed/
+          downloaded_filename: canadim_feed.rss
+      - name: Fetch data for IMMIGROUP_RSS
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.immigroup.com/rss.xml
+          downloaded_filename: immigroup_rss.rss
+      - name: Fetch data for CANADIANVISA_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://canadianvisa.org/feed/
+          downloaded_filename: canadianvisa_feed.rss
+      - name: Fetch data for SETTLER_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.settler.ca/english/feed/
+          downloaded_filename: settler_feed.rss
+      - name: Fetch data for CANADIANIMMIGRANT_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://canadianimmigrant.ca/feed
+          downloaded_filename: canadianimmigrant_feed.rss
+      - name: Fetch data for PREPAREFORCANADA_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.prepareforcanada.com/feed/
+          downloaded_filename: prepareforcanada_feed.rss
+      - name: Fetch data for IMMIGRATEMANITOBA_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.immigratemanitoba.com/feed/
+          downloaded_filename: immigratemanitoba_feed.rss
+      - name: Fetch data for VISAPLACE_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.visaplace.com/feed/
+          downloaded_filename: visaplace_feed.rss
+      - name: Fetch data for ASKMIGRATION_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://askmigration.com/feed/
+          downloaded_filename: askmigration_feed.rss
+      - name: Fetch data for IMMIGRATIONNEWSCANADA_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://immigrationnewscanada.ca/feed/
+          downloaded_filename: immigrationnewscanada_feed.rss
+      - name: Fetch data for THEBUSINESSIMMIGRANT_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://thebusinessimmigrant.com/feed/
+          downloaded_filename: thebusinessimmigrant_feed.rss
+      - name: Fetch data for AMKGLOBALGROUP_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://amkglobalgroup.com/feed/
+          downloaded_filename: amkglobalgroup_feed.rss
+      - name: Fetch data for CANADAIMMIGRANTS_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://canadaimmigrants.com/feed/
+          downloaded_filename: canadaimmigrants_feed.rss
+      - name: Fetch data for MEURRENSONIMMIGRATION_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://meurrensonimmigration.com/feed/
+          downloaded_filename: meurrensonimmigration_feed.rss
+      - name: Fetch data for IMMIGRANTS101_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://immigrants101.com/feed/
+          downloaded_filename: immigrants101_feed.rss
+      - name: Fetch data for SUREIMMIGRATION_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sureimmigration.com/feed/
+          downloaded_filename: sureimmigration_feed.rss
+      - name: Fetch data for THEIMMIGRATIONTEAM_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.theimmigrationteam.com/feed/
+          downloaded_filename: theimmigrationteam_feed.rss
+      - name: Fetch data for IMMIGRATIONCOACH_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://immigrationcoach.ca/feed/
+          downloaded_filename: immigrationcoach_feed.rss
+      - name: Fetch data for LEGALLYCANADIAN_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.legallycanadian.com/feed/
+          downloaded_filename: legallycanadian_feed.rss
+      - name: Fetch data for CANADAIMMIGRATIONLAWYERS_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://canadaimmigrationlawyers.ca/feed/
+          downloaded_filename: canadaimmigrationlawyers_feed.rss
+      - name: Fetch data for ALBERTA_CA_NEWSROOM
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.alberta.ca/NewsRoom/newsroom.cfm
+          downloaded_filename: alberta_ca_newsroom.rss
+      - name: Fetch data for MANAIMMIGRATION_FEED
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://manaimmigration.com/feed/
+          downloaded_filename: manaimmigration_feed.rss
