@@ -1,0 +1,127 @@
+{
+"default-update": {
+"lastupdated": "January 10, 2023"
+},
+
+"visitor-inside-canada": {
+"online": "23 days",
+"paper": "47 days"
+},
+
+"visitor_extension": {
+"online": "200 days",
+"paper": "140 days"
+},
+
+"study_permit_outside": {
+"study_permit_outside": "9 weeks"
+},
+
+"study_extension": {
+"online": "141 days",
+"paper": "116 days"
+},
+
+"work_extension_new_employer": {
+"online": "168 days",
+"paper": "60 days"
+},
+
+"iec": {
+"iec": "6 weeks",
+"iec_past": "No processing time available"
+},
+
+"eta": {
+"eta": "5 minutes"
+},
+
+"atlantic_immigration": {
+"atlantic_immigration": "15 months"
+},
+
+"cec": {
+"cec_ee": "20 months"
+},
+
+"quebec_business": {
+"quebec_business": "66 months"
+},
+
+"provincial_nominees_back": {
+"provincial_nominees_paper_back": "21 months",
+"provincial_nominees_ee": "12 months"
+},
+
+"self_employed_federal": {
+"self_employed_federal": "41 months"
+},
+
+"fed_skilled_workers": {
+"skilled_workers_ee": "30 months"
+},
+
+"fed_skilled_trades": {
+"skilled_trades_ee": "63 months"
+},
+
+"skilled_workers_quebec": {
+"skilled_workers_quebec": "19 months"
+},
+
+"startup_back": {
+"startup_back": "32 months"
+},
+
+"spouse_can": {
+"service_comittment": "13 months"
+},
+
+"spouse_int": {
+"service_comittment": "17 months"
+},
+
+"parent_grandparent_forward": {
+"parent_grandparent_forward": "38 months"
+},
+
+"refugees_protected_back": {
+"refugees_protected_past": "19 months"
+},
+
+"humanitarian_compassionate_back": {
+"humanitarian_compassionate_back": "27 months"
+},
+
+"citizenship": {
+"grant_after2015": "24 months",
+"cit_cert": "15 months",
+"cit_resumption": "34 months",
+"cit_renunciation": "15 months",
+"cit_search": "16 months",
+"cit_adoption_part1": "Part 1: 10 months"
+},
+
+"pr_card": {
+"new_pr": "120 days",
+"existing_pr": "77 days"
+},
+
+"rep_documents": {
+"vos": "22 weeks",
+"replacement": "5 weeks",
+"amend_imm": "25 weeks",
+"amend_tr": "4 weeks"
+},
+
+"caregivers": {
+"childcare": "34 months",
+"childcare_pr": "29 months",
+"supportworker": "34 months",
+"supportworker_pr": "21 months"
+},
+
+"sawp": {
+"sawp_current": "21 days"
+}
+}
