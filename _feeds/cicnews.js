@@ -6,6 +6,9 @@ import { cheerio } from "https://deno.land/x/cheerio@1.0.7/mod.ts";
 const response = await fetch("https://www.cicnews.com/feed");
 const xml = await response.text();
 const { entries } = await parseFeed(xml);
+
+const mdbasedir = "./_feeds/_cicnews/";
+const shfilename = "cicnews.sh";
 const shfilearray = [];
 let shcontent = "";
 
@@ -26,7 +29,7 @@ entries.forEach(async (element) => {
 
   if (!pubdate.isAfter(yesterday)) return;
 
-  const htmlfilename = pubdate + "-" + basename(path);
+  const htmlfilename = `${pubdateyyyymmdd}-${basename(path)}`;
   const mdfilename = htmlfilename.replace(".html","_cicnews.md");
   const cnmdfilename = mdfilename.replace("_cicnews","_cn");
   const fcgmdfilename = mdfilename.replace(".md","_fcg.md");
@@ -38,10 +41,11 @@ entries.forEach(async (element) => {
   shfilearray.push(`trans -b en:zh "file://${mdfilename}" | tee "${cnmdfilename}"`); 
   shfilearray.push(`sed -i 's/##* //g;s/^\\* //g;' ${mdfilename}`);
   shfilearray.push(`paste "${cnmdfilename}" "${mdfilename}" | tee "${fcgmdfilename}"\n`);
-  shfilearray.push(`cat "${jekyllfrontmatterfilename}" "${fcgmdfilename}" > "../_posts/${fcgmdfilename}"\n`);
+  shfilearray.push(`cat "${jekyllfrontmatterfilename}" "${fcgmdfilename}" > "../../_posts/${fcgmdfilename}"\n`);
+  shfilearray.push(`echo "\\nFCGvisa translated, © CIC News All Rights Reserved." >> "../../_posts/${fcgmdfilename}"\n`);
 
   const $ = cheerio.default.load(description);
-const desc = $("p").first().text(); 
+  const desc = $("p").first().text(); 
 
   let frontmatter = 
 `---
@@ -53,8 +57,6 @@ categories: ca_news
 ---
 
 `
-
-await Deno.writeTextFile(jekyllfrontmatterfilename, frontmatter, { append: false, create: true});
   
   try {
     const res = await fetch(url);
@@ -63,7 +65,9 @@ await Deno.writeTextFile(jekyllfrontmatterfilename, frontmatter, { append: false
 
     const article = $(".article_box").html();    
 
-    await Deno.writeTextFile(htmlfilename, article, { append: false, create: true});
+    await Deno.writeTextFile(`${mdbasedir}${htmlfilename}`, article, { append: false, create: true});
+
+    await Deno.writeTextFile(`${mdbasedir}${jekyllfrontmatterfilename}`, frontmatter, { append: false, create: true});
     
   } catch (error) {
     console.log(error);
@@ -76,12 +80,9 @@ shfilearray.push("# rm -f *_cicnews.md");
 shfilearray.push("# rm -f *_fcg.md");
 shfilearray.push("# rm -f *_cn.md");
 
-shfilearray.forEach((element) => {    
-    shcontent=shcontent + element.toString() + "\n";    
-});
-console.log(shfilearray.join('\n'));
+shcontent = shfilearray.join('\n');
 
-await Deno.writeTextFile("cicnews.sh", shcontent,);
+await Deno.writeTextFile(`${mdbasedir}${shfilename}`, shcontent,);
 
 // sed -i '2,21d' *_cicnews.md
 // sed -i 's/\[\([^][]*\)\]([^()]*)/\1/g' *_cicnews.md
