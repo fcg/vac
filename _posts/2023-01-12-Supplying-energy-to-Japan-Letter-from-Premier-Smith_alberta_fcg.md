@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Supplying energy to Japan: Letter from Premier Smith"
+description: On Wednesday, Alberta Premier Danielle Smith sent the following letter to Prime Minister Justin Trudeau about supplying affordable, sustainable and reliable energy to Japan.
+date:   Thu, 12 Jan 2023 10:50:00 -0700
+categories: alberta
+---
+
+尊敬的特鲁多总理，Dear Prime Minister Trudeau,
+
+我欢迎日本首相岸田文雄访问加拿大，讨论包括能源安全在内的全球安全问题。鉴于艾伯塔省与日本在文化和经济上的紧密融合，以及我们在向世界提供负责任的能源方面的作用，我敦促您提出艾伯塔省向日本提供负担得起的、可持续的和可靠的能源的强烈愿望。I welcome the visit to Canada by Japanese Prime Minister Fumio Kishida to discuss global security issues, including energy security. Given Alberta’s close cultural and economic integration with Japan and given our role in supplying responsible energy to the world, I urge you to raise Alberta’s strong desire to supply affordable, sustainable and reliable energy to Japan.
+
+艾伯塔省与日本在联邦和国家以下各级有着深厚、长期的关系，其中一直包括在能源问题上的重要参与。 2021 年 11 月，阿尔伯塔省与日本石油、天然气和金属国家公司 (JOGMEC) 签署了谅解备忘录 (MOU)，以扩大阿尔伯塔省能源部门的市场准入，并重申对自然资源合作与开发的承诺，包括加强合作氢、氨和碳捕获、利用和储存等环境技术。 WestJet 最近宣布卡尔加里和东京之间的直飞航班进一步强调了这种关系的持久性。Alberta has a deep, long-standing relationship with Japan at both the federal and subnational levels, which has always included significant engagement on energy issues. In November 2021, Alberta signed a memorandum of understanding (MOU) with the Japan Oil, Gas and Metals National Corporation (JOGMEC), to expand market access for Alberta’s energy sector, and renewed a commitment to natural resource cooperation and development, including improving cooperation on environmental technologies like hydrogen, ammonia and carbon capture, utilization and storage.  WestJet’s recent announcement of direct flights between Calgary and Tokyo further underscores the enduring nature of the relationship.
+
+日本是全球第二大液化天然气 (LNG) 进口国，2021 年其液化天然气进口总量的近 10% 来自俄罗斯，鉴于乌克兰的持续冲突，这带来了重大挑战。艾伯塔省很自豪能成为全球最负责任的石油和天然气生产商之一，我们可以成为我们全球盟友的首选供应商。我们无与伦比的能源资源、对减排的承诺以及与日本的历史联系使我们成为日本努力将其液化天然气供应多样化到由一个重要盟友负责任地开发的国家的关键贡献者。Japan is the second largest global importer of Liquefied Natural Gas (LNG), and nearly 10% of its total LNG imports in 2021 originated from Russia, presenting significant challenges given the ongoing conflict in Ukraine. Alberta is proud to be one of the most responsible producers of oil and gas globally and we can be the supplier of choice for our global allies. Our unparalleled energy resources, commitment to emissions reduction and historical connections with Japan position us to be a key contributor to Japan’s efforts to diversify its LNG supply to one that is responsibly developed by a key ally.
+
+正是在这种背景下，我很受鼓舞地听到副总理弗里兰以我们民主伙伴的经济安全的名义承诺快速跟踪能源和采矿项目。我敢肯定，对于热衷于与我们合作以获取和开发我们的资源的国际盟友和合作伙伴来说，这同样是个好消息。艾伯塔省认为，将负责任生产的能源运输到日本和其他盟国是一个强有力的商业案例。It is within this context that I was encouraged to hear Deputy Prime Minister Freeland commit to fast-tracking energy and mining projects in the name of economic security for our democratic partners. I am certain that it is equally welcome news to our international allies and partners who are keen to work with us to access and develop our resources.  Alberta believes there is a strong business case for shipping responsibly produced energy to Japan and other allies.
+
+艾伯塔省通过政府和行业在减少温室气体 (GHG) 排放方面处于领先地位。艾伯塔省的能源公司承诺投资 240 亿美元用于项目，以帮助到 2030 年将运营产生的年度温室气体排放量减少 2200 万吨，并实现到 2050 年实现净零排放的目标。例如，Air Products 耗资数十亿美元的具有里程碑意义的净零排放氢能源综合设施将使阿尔伯塔成为加拿大氢经济的中心，陶氏化学将在其位于萨斯喀彻温堡的工厂建造世界上第一个净零碳排放综合聚乙烯综合设施。Alberta, both through government and industry, is leading the way on reducing greenhouse gas (GHG) emissions.  Alberta’s energy firms are committing to invest $24 billion on projects to help reduce annual GHG emissions from operations by 22 million tonnes by 2030 and achieve a goal of net-zero by 2050.   Examples include Air Products’ multi-billion-dollar landmark net-zero hydrogen energy complex that will make Alberta the centre of Canada’s hydrogen economy and Dow’s construction of the world's first net-zero carbon emission integrated polyethylene complex at its site in Fort Saskatchewan.
+
+艾伯塔省还被公认为石油和天然气行业健全和实用监管的领导者。根据 2021 年的报告年度，艾伯塔省已经将石油和天然气行业的甲烷排放量从 2014 年的基线减少了 44%，远远超过了我们到 2025 年至少减少 45% 的目标。我们继续推动进一步的改进和机会，以推动更深层次的削减。石油和天然气甲烷排放的管理是加拿大最伟大的气候成功案例之一，作为该领域的行业领导者，艾伯塔省可以与日本分享很多经验教训。Alberta is also recognized as a leader in sound and practical regulation of our oil and gas industry.  Based on the 2021 reporting year, Alberta has already reduced methane emissions from the oil and gas sector by 44 percent from the 2014 baseline – well ahead of our goal of at least 45 percent by 2025.  We continue to push for additional improvements and opportunities to drive deeper reductions.  The management of oil and gas methane emissions is one of Canada’s greatest climate success stories, and as an industry-leader in this area, there is much that Alberta can share with Japan on lessons learned.
+
+至关重要的是，加拿大在世界能源舞台上保持强大的影响力，防止专制统治者不关心其能源生产对环境和人类的影响来填补真空。将我们定位为向世界提供负责任生产能源的首选供应商，这对我们的盟友和所有加拿大人都有好处。It is critical that Canada maintain a strong presence on the world energy stage, preventing despotic rulers with little concern for the environmental and human impacts of their energy production to fill the vacuum. Positioning ourselves to be the preferred supplier of responsibly produced energy to the world is good for our allies and good for all Canadians.
+
+由于各省是自身自然资源的所有者和管理者，任何有关潜在能源出口的讨论都必须让受影响的省份充分参与。阿尔伯塔很乐意帮助联邦政府制定商业案例，并参与与日本的谅解备忘录的制定，以增加阿尔伯塔清洁液化天然气的出口。As provinces are the owners and stewards of their own natural resources, any discussions regarding the potential export of energy must fully involve the impacted provinces.  Alberta would be pleased to help the federal government develop the business case and participate in the development of an MOU with Japan for the increased export of clean Albertan LNG.
+
+我期待着与您就此次访问的其他后续项目进行合作。I look forward to working with you on additional follow up items from the visit.
+
+FCGvisa translated, alberta.ca All Rights Reserved.
