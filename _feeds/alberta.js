@@ -16,9 +16,9 @@ async function abnewsfeeds() {
   const shfilearray = [];
   let shcontent = "";
 
-  entries.forEach(async (element) => {
-    // console.log(element);
-
+  // entries.forEach(async (element) => {
+  // console.log(element);
+  for (const element of entries) {
     const id = element.id;
     const pageurl = element.links[0].href;
     const title = element.title.value;
@@ -35,7 +35,10 @@ async function abnewsfeeds() {
     const pubdate = moment(publishedraw);
     const pubdateyyyymmdd = pubdate.format("YYYY-MM-DD");
 
-    if (!pubdate.isAfter(yesterday)) return;
+    if (!pubdate.isAfter(yesterday)) {
+      await browser.close();
+      return;
+    }
 
     const htmlfilename = `${pubdateyyyymmdd}-${path}.html`;
     // console.log(htmlfilename);
@@ -109,7 +112,7 @@ categories: alberta
     } catch (error) {
       console.log(error);
     }
-  });
+  }
 
   // shfilearray.push("cp -f *_fcg.md ../_posts/");
   shfilearray.push("# rm -f *.html");
@@ -127,6 +130,8 @@ categories: alberta
 async function abupdate() {
   const abupdateurl = "https://www.alberta.ca/aaip-updates.aspx";
   const mdbasedir = "./_feeds/_alberta/";
+
+  const yesterday = moment(new Date()).subtract(1, "days");
 
   const shfilename = "albertaupdate.sh";
   const shfilearray = [];
@@ -175,8 +180,12 @@ async function abupdate() {
   for (const theupdate of updates) {
     let headerraw = theupdate.header;
     let headstrings = headerraw.split(":");
-    let date = headstrings[0].trim();
-    let dateymd = moment(date).format("YYYY-MM-DD");
+    let dateraw = headstrings[0].trim();
+    let date = moment(dateraw);
+
+    if (!date.isAfter(yesterday)) return;
+
+    let dateymd = date.format("YYYY-MM-DD");
     let title = headstrings[1].trim();
     let titlepath = title.replaceAll(",", "-").replaceAll("'", "-").replaceAll(
       "|",
@@ -270,7 +279,7 @@ async function abupdate() {
   // console.log(updatelist);
 }
 
-// abnewsfeeds();
+abnewsfeeds();
 abupdate();
 
 // await browser.close();
