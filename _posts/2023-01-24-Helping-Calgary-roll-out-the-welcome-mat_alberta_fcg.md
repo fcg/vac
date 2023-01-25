@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Helping Calgary roll out the welcome mat"
+title: "Helping Calgary roll out the welcome mat"
 description: Alberta’s government is investing in Calgary’s downtown to support a vibrant and safe community and grow economic momentum.
 date: Tue, 24 Jan 2023 15:00:00 -0700
 categories: alberta

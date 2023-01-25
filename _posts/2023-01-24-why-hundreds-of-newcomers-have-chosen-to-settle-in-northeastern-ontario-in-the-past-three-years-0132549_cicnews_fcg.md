@@ -53,8 +53,5 @@ categories: ca_news
 为您喜欢的事情争取更多时间	Gain more time for the things you love
 	
 平均 15 分钟的通勤时间，让您有更多时间做您喜欢的事情。更快地拥有一个家，组建一个家庭，创造您一直想要的生活。新移民和年轻的专业人士都可以在安大略省东北部享受全新的生活。	Gain more time for the things you love with an average 15 minute commute to work. Own a home faster, start a family and create the life you’ve always wanted. Newcomers and young professionals alike can breathe in a fresh new life in Northeastern Ontario.
-	
-！	!
-	
 
 FCGvisa translated, © CIC News All Rights Reserved.
