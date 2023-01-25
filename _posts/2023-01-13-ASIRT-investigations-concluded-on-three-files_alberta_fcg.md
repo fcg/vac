@@ -2,7 +2,7 @@
 layout: post
 title: "ASIRT investigations concluded on three files"
 description: The Alberta Serious Incident Response Team (ASIRT) has completed its investigations into three separate incidents and released the full reports on each of them.
-date:  Fri, 13 Jan 2023 10:00:00 -0700
+date: Fri, 13 Jan 2023 10:00:00 -0700
 categories: alberta
 ---
 

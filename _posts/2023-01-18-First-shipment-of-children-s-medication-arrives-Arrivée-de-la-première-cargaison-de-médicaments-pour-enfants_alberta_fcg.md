@@ -2,7 +2,7 @@
 layout: post
 title: "First shipment of children’s medication arrives | Arrivée de la première cargaison de médicaments pour enfants"
 description: Alberta’s first shipment of children’s liquid acetaminophen has arrived and will be distributed to hospitals across the province immediately.
-date:  Wed, 18 Jan 2023 20:25:00 -0700
+date: Wed, 18 Jan 2023 20:25:00 -0700
 categories: alberta
 ---
 
@@ -43,14 +43,14 @@ _副总理 Nathan Neudorf、埃德蒙顿国际机场首席执行官 Myron Keehn 
 
 * 阿拉伯语 Arabic
 * 印地语 Hindi
-*  韩国人 Korean
+* 韩国人 Korean
 * 波斯语 Persian
 * 旁遮普语 Punjabi
-*  简体中文 Simplified Chinese
+* 简体中文 Simplified Chinese
 * 索马里语 Somali
-*  西班牙语 Spanish
+* 西班牙语 Spanish
 * 他加禄语 Tagalog
-*  繁体中文 Traditional Chinese
+* 繁体中文 Traditional Chinese
 * 乌克兰语 Ukrainian
 *乌尔都语 Urdu
 * 越南语 Vietnamese

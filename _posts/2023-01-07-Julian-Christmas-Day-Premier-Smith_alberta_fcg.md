@@ -2,7 +2,7 @@
 layout: post
 title: "Julian Christmas Day: Premier Smith"
 description: Premier Danielle Smith issued this statement on Orthodox Christmas:
-date:  Sat, 07 Jan 2023 10:00:00 -0700
+date: Sat, 07 Jan 2023 10:00:00 -0700
 categories: alberta
 ---
 

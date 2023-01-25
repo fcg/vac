@@ -2,14 +2,14 @@
 layout: post
 title: "Affordability payment portal opens January 18 | Lancement du portail des versements visant à rendre la vie plus abordable le 18 janvier"
 description: Beginning January 18 at 9 a.m., eligible Alberta parents and seniors can apply to receive $600 in affordability payments over six months.
-date:  Tue, 17 Jan 2023 13:00:00 -0700
+date: Tue, 17 Jan 2023 13:00:00 -0700
 categories: alberta
 ---
 
 * 在线申请既快速又安全 Applying online is fast and secure
 * 弱势艾伯塔人将自动收到付款 Vulnerable Albertans will receive payments automatically
-*  要闻速览 Quick facts
-*  相关信息 Related information
+* 要闻速览 Quick facts
+* 相关信息 Related information
 * 多媒体 Multimedia
 * 翻译 Translations
 * 在线申请既快速又安全 Présenter une demande en ligne est rapide et sûr
@@ -64,11 +64,11 @@ categories: alberta
 * 无法立即提供所有必需信息的申请人将有机会保存他们的申请，直到他们可以返回申请以添加剩余的详细信息。他们的付款可能会延迟，直到他们能够提供相关信息。 Applicants who are not able to provide all of the required information immediately will have an opportunity to save their application until they can return to the application to add the remaining details. Their payments may be delayed until they can provide the relevant information.
 * 艾伯塔省政府将使用来自加拿大税务局 (CRA) 的 2021 年税收数据来验证基于收入的资格。 Alberta’s government will use 2021 tax data from the Canada Revenue Agency (CRA) to verify eligibility based on income.
 * 为获得申请方面的帮助，艾伯塔人可以： For help with their applications, Albertans can:
-* 拨打验证账户支持热线 1-844-643-2789  *  call the Verified Account support line at 1-844-643-2789
-* 拨打负担能力行动计划信息热线 1-844-644-9955。  *  call the Affordability Action Plan Information Line at 1-844-644-9955.
-* 亲自访问任何注册代理或艾伯塔省支持中心，免费获得 50 个地点和 100 多种语言的支持。在申请期间，Alberta Supports 提供延长的服务时间：  *  visit any registry agent or Alberta Supports centre in person to receive support in 50 locations and more than 100 languages at no charge. During the application period, Alberta Supports is providing extended hours from:
-* 下午 4:30到晚上 8 点周一至周五，以及    *  4:30 p.m. to 8 p.m. Monday to Friday, and
-* 上午 9 点至下午 3 点在星期六。    *  9 a.m. to 3 p.m. on Saturdays.
+* 拨打验证账户支持热线 1-844-643-2789 * call the Verified Account support line at 1-844-643-2789
+* 拨打负担能力行动计划信息热线 1-844-644-9955。 * call the Affordability Action Plan Information Line at 1-844-644-9955.
+* 亲自访问任何注册代理或艾伯塔省支持中心，免费获得 50 个地点和 100 多种语言的支持。在申请期间，Alberta Supports 提供延长的服务时间： * visit any registry agent or Alberta Supports centre in person to receive support in 50 locations and more than 100 languages at no charge. During the application period, Alberta Supports is providing extended hours from:
+* 下午 4:30到晚上 8 点周一至周五，以及  * 4:30 p.m. to 8 p.m. Monday to Friday, and
+* 上午 9 点至下午 3 点在星期六。  * 9 a.m. to 3 p.m. on Saturdays.
 * 与所有在线帐户一样，艾伯塔人应使用强密码，不要与其他任何人分享密码。申请网站上提供了有关如何创建强密码的提示。 As with all online accounts, Albertans should use strong passwords and not share their password with anyone else. Tips on how to create a strong password are available on the application site.
 * 艾伯塔省政府不会发送短信或电子邮件要求艾伯塔人提交个人或银行信息以接收付款。 Alberta’s government will not send texts or emails asking Albertans to submit personal or banking information to receive payments.
 * 在线提供其他信息，包括操作视频和问题解答。 Additional information, including a how-to video and answers to questions, is available online.
@@ -88,14 +88,14 @@ categories: alberta
 
 * 阿拉伯语 Arabic
 * 印地语 Hindi
-*  韩国人 Korean
+* 韩国人 Korean
 * 波斯语 Persian
 * 旁遮普语 Punjabi
-*  简体中文 Simplified Chinese
+* 简体中文 Simplified Chinese
 * 索马里语 Somali
-*  西班牙语 Spanish
+* 西班牙语 Spanish
 * 他加禄语 Tagalog
-*  繁体中文 Traditional Chinese
+* 繁体中文 Traditional Chinese
 * 乌克兰语 Ukrainian
 *乌尔都语 Urdu
 * 越南语 Vietnamese
@@ -150,11 +150,11 @@ categories: alberta
 * 无法立即提供所有必需信息的申请人可以选择保存他们的申请，直到他们可以返回以添加剩余的详细信息。他们的付款可能会延迟，直到他们能够提供相关信息。 Les demandeurs qui ne sont pas en mesure de fournir immédiatement tous les renseignements requis auront la possibilité de sauvegarder leur demande jusqu’à ce qu’ils puissent y revenir pour ajouter les détails restants. Leurs versements peuvent être retardés jusqu’à ce qu’ils puissent fournir les renseignements pertinents.
 * 艾伯塔省政府将使用来自加拿大税务局 (CRA) 的 2021 年税收数据来验证基于收入的资格。 Le gouvernement de l’Alberta utilisera les données fiscales de 2021 de l’Agence du revenu du Canada (ARC) pour vérifier l’admissibilité en fonction du revenu.
 *为了获得申请方面的帮助，艾伯塔人可以： Pour obtenir de l’aide pour leurs demandes, les Albertaines et les Albertains peuvent :
-* 拨打经过验证的帐户帮助热线 1-844-643-2789；  *  appeler la ligne d’assistance du compte vérifié au 1 844 643-2789;
-* 拨打负担能力行动计划信息热线 1-844-644-9955；  *  appeler la ligne d’information du Affordability Action Plan (Plan d’action pour rendre la vie plus abordable) au 1 844 644-9955;
-* 亲自访问注册代理或 Alberta Supports 以获取 50 个地点和 100 多种语言的免费支持。在请求期间，Alberta Supports 提供延长的运营时间：  *  se rendre en personne auprès d’un agent du registre ou d’Alberta Supports pour bénéficier gratuitement d’une assistance dans 50 emplacements et dans plus de 100 langues. Pendant la période de demande, Alberta Supports propose des heures d’ouverture prolongées :
-* 周一至周五下午 4:30 至晚上 8 点；    *  de 16 h 30 à 20 h du lundi au vendredi;
-* 周六上午 9 点至下午 3 点。    *  de 9 h à 15 h le samedi.
+* 拨打经过验证的帐户帮助热线 1-844-643-2789； * appeler la ligne d’assistance du compte vérifié au 1 844 643-2789;
+* 拨打负担能力行动计划信息热线 1-844-644-9955； * appeler la ligne d’information du Affordability Action Plan (Plan d’action pour rendre la vie plus abordable) au 1 844 644-9955;
+* 亲自访问注册代理或 Alberta Supports 以获取 50 个地点和 100 多种语言的免费支持。在请求期间，Alberta Supports 提供延长的运营时间： * se rendre en personne auprès d’un agent du registre ou d’Alberta Supports pour bénéficier gratuitement d’une assistance dans 50 emplacements et dans plus de 100 langues. Pendant la période de demande, Alberta Supports propose des heures d’ouverture prolongées :
+* 周一至周五下午 4:30 至晚上 8 点；  * de 16 h 30 à 20 h du lundi au vendredi;
+* 周六上午 9 点至下午 3 点。  * de 9 h à 15 h le samedi.
 *与所有在线帐户一样，艾伯塔人应使用强密码，不要与任何人分享密码。有关如何创建强密码的提示可以在申请提交网站上找到。 Comme pour tous les comptes en ligne, les Albertaines et Albertains doivent utiliser des mots de passe forts et ne pas communiquer leur mot de passe à quiconque. Des conseils sur la façon de créer un mot de passe fort se trouvent sur le site de présentation des demandes.
 * 艾伯塔省政府不会发送短信或电子邮件要求艾伯塔人提交个人或银行信息以接收这些付款。 Le gouvernement de l’Alberta n’enverra pas de messages textes ni de courriels demandant aux Albertaines et aux Albertains de soumettre des renseignements personnels ou bancaires pour recevoir ces paiements.
 * 在线提供其他信息，包括操作视频和问题解答。 Des renseignements supplémentaires, notamment une vidéo pratique et des réponses aux questions sont accessibles en ligne.

@@ -2,15 +2,15 @@
 layout: post
 title: "HCAP: Direct action to lower EMS response times | PASS : Action directe pour réduire les délais d’intervention des SMU"
 description: Alberta’s government is committed to ensuring an ambulance is available to everyone where and when they need it.
-date:  Mon, 16 Jan 2023 10:15:00 -0700
+date: Mon, 16 Jan 2023 10:15:00 -0700
 categories: alberta
 ---
 
 * 派遣审查 Dispatch review
 * 加快 EMS 将患者护理转移到急诊室 Speeding up EMS transfer of patient care to emergency departments
 *设施之间的非紧急转移 Non-emergency transfers between facilities
-*  要闻速览 Quick facts
-*  相关信息 Related information
+* 要闻速览 Quick facts
+* 相关信息 Related information
 * 相关新闻 Related news
 * 多媒体 Multimedia
 * 翻译 Translations
@@ -105,9 +105,9 @@ AHS 制定了一项新的省级政策，该政策现已在所有医院生效，�
 
 * 阿拉伯语 Arabic
 * 旁遮普语 Punjabi
-*  简体中文 Simplified Chinese
-*  西班牙语 Spanish
-*  繁体中文 Traditional Chinese
+* 简体中文 Simplified Chinese
+* 西班牙语 Spanish
+* 繁体中文 Traditional Chinese
 
 * * ** *
 

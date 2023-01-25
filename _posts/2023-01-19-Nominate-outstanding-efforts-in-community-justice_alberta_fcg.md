@@ -2,11 +2,11 @@
 layout: post
 title: "Nominate outstanding efforts in community justice"
 description: Albertans are invited to nominate individuals and organizations that have made Alberta’s communities safer.
-date:  Thu, 19 Jan 2023 14:52:00 -0700
+date: Thu, 19 Jan 2023 14:52:00 -0700
 categories: alberta
 ---
 
-*  相关信息 Related information
+* 相关信息 Related information
 
 每年，艾伯塔省政府都会通过艾伯塔省社区正义奖表彰杰出的社区领导和积极预防犯罪和保护我们社区的努力。 2023 年奖项的提名现已开放。Each year, Alberta’s government recognizes outstanding community-level leadership and efforts that proactively prevent crime and protect our communities through the Alberta Community Justice Awards. Nominations are now open for the 2023 awards.
 
@@ -20,7 +20,7 @@ categories: alberta
 
 * 新兴卓越 Emerging Excellence
 
-*  创新 Innovation
+* 创新 Innovation
 
 * 服务提升 Service Enhancement
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Redesigning Alberta’s Legislature Grounds"
 description: Albertans have a chance to help choose the design of a new water feature for the historic Legislature grounds.
-date:  Thu, 12 Jan 2023 11:17:00 -0700
+date: Thu, 12 Jan 2023 11:17:00 -0700
 categories: alberta
 ---
 
 * 有你的发言权 Have Your Say
-*  要闻速览 Quick Facts
-*  相关信息 Related information
+* 要闻速览 Quick Facts
+* 相关信息 Related information
 * 相关新闻 Related news
 * 多媒体 Multimedia
 
@@ -40,9 +40,9 @@ categories: alberta
 
 * 投资 2000 万加元用于更新或更换艾伯塔省立法机构的水景和人行道 $20 million is being invested into renewing or replacing the Alberta legislature grounds water features and walkways
 
-* 1000 万加元来自艾伯塔省政府的 2022 年预算资本计划  *  $10 million through the Alberta government’s Budget 2022 Capital Plan
+* 1000 万加元来自艾伯塔省政府的 2022 年预算资本计划 * $10 million through the Alberta government’s Budget 2022 Capital Plan
 
-* 1000 万加元来自加拿大基础设施投资计划 (ICIP)，其中 800 万加元来自加拿大政府，200 万加元来自艾伯塔省政府  *  $10 million through the Investing in Canada Infrastructure Program (ICIP), with $8 million from the Government of Canada and $2 million from the Alberta government
+* 1000 万加元来自加拿大基础设施投资计划 (ICIP)，其中 800 万加元来自加拿大政府，200 万加元来自艾伯塔省政府 * $10 million through the Investing in Canada Infrastructure Program (ICIP), with $8 million from the Government of Canada and $2 million from the Alberta government
 
 * 该项目的建设预计将于 2023 年春季开始，预计于 2024 年完工。 Construction for this project is anticipated to begin in spring 2023, with completion expected in 2024.
 

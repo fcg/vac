@@ -2,7 +2,7 @@
 layout: post
 title: "Inflation relief portal and payments coming soon | Portail de lutte contre l’inflation et paiement à venir bientôt"
 description: Monthly $100 affordability payments for families, seniors, and vulnerable Albertans will be released soon, and Albertans can act now to get ready.
-date:  Mon, 09 Jan 2023 10:45:00 -0700
+date: Mon, 09 Jan 2023 10:45:00 -0700
 categories: alberta
 ---
 
@@ -10,8 +10,8 @@ categories: alberta
 * 老年人支付能力支付 Affordability payments for seniors
 * 照顾 18 岁以下儿童的父母或监护人的支付能力 Affordability payments for parents or guardians caring for children under 18
 * 为照顾 18 岁以下儿童的寄养和亲属关系看护人支付的支付能力 Affordability payments for foster and kinship caregivers caring for children under 18
-*  要闻速览： Quick facts:
-*  相关信息 Related information
+* 要闻速览： Quick facts:
+* 相关信息 Related information
 * 多媒体 Multimedia
 * 翻译 Translations
 * 为严重残障人士保障收入 (AISH)、收入支持（就业和收入支持）和发育障碍人士 (PDD) 的客户提供的付款使他们的生活更负担得起 Paiements visant à rendre la vie plus abordable pour les clients de l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées), de l’Income Support (soutien à l’emploi et aux revenus) et du Persons with Developmental Disabilities (PDD) (personnes atteintes de déficience développementale)
@@ -105,14 +105,14 @@ AISH、收入支持和 PDD 客户的负担能力付款Affordability payments for
 
 * 阿拉伯语 Arabic
 * 印地语 Hindi
-*  韩国人 Korean
+* 韩国人 Korean
 * 波斯语 Persian
 * 旁遮普语 Punjabi
-*  简体中文 Simplified Chinese
+* 简体中文 Simplified Chinese
 * 索马里语 Somali
-*  西班牙语 Spanish
+* 西班牙语 Spanish
 * 他加禄语 Tagalog
-*  繁体中文 Traditional Chinese
+* 繁体中文 Traditional Chinese
 * 乌克兰语 Ukrainian
 *乌尔都语 Urdu
 * 越南语 Vietnamese

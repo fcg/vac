@@ -2,7 +2,7 @@
 layout: post
 title: "Sheriffs make Alberta’s highways safer"
 description: The Alberta Sheriffs removed nearly 1,500 impaired drivers from Alberta’s highways in 2022, the first full year since being given expanded authorities.
-date:  Tue, 10 Jan 2023 10:00:00 -0700
+date: Tue, 10 Jan 2023 10:00:00 -0700
 categories: alberta
 ---
 

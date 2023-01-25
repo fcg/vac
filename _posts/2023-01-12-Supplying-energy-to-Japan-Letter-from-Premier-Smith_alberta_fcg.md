@@ -2,7 +2,7 @@
 layout: post
 title: "Supplying energy to Japan: Letter from Premier Smith"
 description: On Wednesday, Alberta Premier Danielle Smith sent the following letter to Prime Minister Justin Trudeau about supplying affordable, sustainable and reliable energy to Japan.
-date:  Thu, 12 Jan 2023 10:50:00 -0700
+date: Thu, 12 Jan 2023 10:50:00 -0700
 categories: alberta
 ---
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Alberta intervenes in firearms lawsuits"
 description: The Federal Court has granted Alberta’s application to intervene in six lawsuits against federal legislation that bans more than 1,500 models of firearms.
-date:  Thu, 12 Jan 2023 11:28:00 -0700
+date: Thu, 12 Jan 2023 11:28:00 -0700
 categories: alberta
 ---
 
-*  要闻速览 Quick facts
-*  相关信息 Related information
+* 要闻速览 Quick facts
+* 相关信息 Related information
 * 相关新闻 Related news
 
 2022 年 9 月 26 日，阿尔伯塔省司法部长兼总检察长宣布，该省将寻求在六起正在进行的诉讼中推进法律论证，这些诉讼涉及与联邦枪支禁令相关的宪法和非宪法法律问题。On September 26, 2022, Alberta’s Minister of Justice and Attorney General announced that the province would seek to advance legal arguments in six ongoing lawsuits concerning constitutional and non-constitutional legal issues related to the federal firearms ban.
@@ -44,17 +44,17 @@ categories: alberta
 
 * 目前的司法复核包括： The current judicial reviews include:
 
-* Cassandra Parker 和 K.K.S Tactical Supplies Ltd. V Canada (AG)  *  Cassandra Parker and K.K.S Tactical Supplies Ltd. V Canada (AG)
+* Cassandra Parker 和 K.K.S Tactical Supplies Ltd. V Canada (AG) * Cassandra Parker and K.K.S Tactical Supplies Ltd. V Canada (AG)
 
-* 加拿大枪支权利联盟等。诉加拿大 (AG)  *  Canadian Coalition for Firearms Rights et al. v Canada (AG)
+* 加拿大枪支权利联盟等。诉加拿大 (AG) * Canadian Coalition for Firearms Rights et al. v Canada (AG)
 
-* John Hipwell 诉加拿大 (AG)  *  John Hipwell v Canada (AG)
+* John Hipwell 诉加拿大 (AG) * John Hipwell v Canada (AG)
 
-* Michael Doherty 等人诉加拿大 (AG)  *  Michael Doherty et al v Canada (AG)
+* Michael Doherty 等人诉加拿大 (AG) * Michael Doherty et al v Canada (AG)
 
-* Christine Generoux 等人。诉加拿大 (AG)  *  Christine Generoux et al. v Canada (AG)
+* Christine Generoux 等人。诉加拿大 (AG) * Christine Generoux et al. v Canada (AG)
 
-* Jennifer Eichenberg 等人诉加拿大 (AG)  *  Jennifer Eichenberg et al v Canada (AG)
+* Jennifer Eichenberg 等人诉加拿大 (AG) * Jennifer Eichenberg et al v Canada (AG)
 
 ## 相关信息Related information
 

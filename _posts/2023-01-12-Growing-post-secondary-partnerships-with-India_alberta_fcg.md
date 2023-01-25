@@ -2,11 +2,11 @@
 layout: post
 title: "Growing post-secondary partnerships with India"
 description: Alberta has signed a memorandum of understanding (MOU) with the Shastri Indo-Canadian Institute to strengthen ties between post-secondary institutions in Alberta and India.
-date:  Thu, 12 Jan 2023 15:30:00 -0700
+date: Thu, 12 Jan 2023 15:30:00 -0700
 categories: alberta
 ---
 
-*  相关信息 Related information
+* 相关信息 Related information
 * 翻译 Translations
 
 _（从左到右）Shastri Indo-Canadian Institute 副总裁兼候任总裁 Pavneesh Madan 博士与 Demetrios Nicolaides 部长一起签署谅解备忘录。_(L-R) Dr. Pavneesh Madan, Vice President and President Elect, Shastri Indo-Canadian Institute joins Minister Demetrios Nicolaides to sign the memorandum of understanding._

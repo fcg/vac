@@ -2,11 +2,11 @@
 layout: post
 title: "Nominations open for Alberta’s highest honour | Mise en candidature pour la plus haute distinction de l’Alberta"
 description: Albertans are encouraged to nominate remarkable citizens, leaders and innovators for membership in the Alberta Order of Excellence.
-date:  Thu, 05 Jan 2023 10:00:00 -0700
+date: Thu, 05 Jan 2023 10:00:00 -0700
 categories: alberta
 ---
 
-*  相关信息 Related information
+* 相关信息 Related information
 * 相关信息 Renseignements connexes
 * 翻译 Translations
 
@@ -42,14 +42,14 @@ categories: alberta
 
 * 阿拉伯语 Arabic
 * 印地语 Hindi
-*  韩国人 Korean
+* 韩国人 Korean
 * 波斯语 Persian
 * 旁遮普语 Punjabi
-*  简体中文 Simplified Chinese
+* 简体中文 Simplified Chinese
 * 索马里语 Somali
-*  西班牙语 Spanish
+* 西班牙语 Spanish
 * 他加禄语 Tagalog
-*  繁体中文 Traditional Chinese
+* 繁体中文 Traditional Chinese
 * 乌克兰语 Ukrainian
 *乌尔都语 Urdu
 * 越南语 Vietnamese

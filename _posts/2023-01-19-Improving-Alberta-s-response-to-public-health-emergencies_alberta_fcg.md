@@ -2,12 +2,12 @@
 layout: post
 title: "Improving Alberta’s response to public health emergencies"
 description: Premier Danielle Smith is establishing an expert panel to review the legislation and governance practices used by the Government of Alberta during the management of the COVID-19 public health emergency and to recommend changes necessary to improve government response to future health emergencies.
-date:  Thu, 19 Jan 2023 14:00:00 -0700
+date: Thu, 19 Jan 2023 14:00:00 -0700
 categories: alberta
 ---
 
-*  要闻速览 Quick facts
-*  相关信息 Related information
+* 要闻速览 Quick facts
+* 相关信息 Related information
 
 > “我们从艾伯塔省政府对 COVID-19 突发公共卫生事件的应对中吸取了宝贵的经验教训。重要的是我们要吸取这些教训来加强我们对未来公共卫生危机的管理，而专家组的建议将是这样做的关键。”“There are valuable lessons we learned from the Alberta government’s response to the COVID-19 public health emergency. It’s important that we apply those lessons to strengthen our management of future public health crises, and the panel’s recommendations will be key in doing so.”
 >
@@ -25,21 +25,21 @@ categories: alberta
 
 * 在审查适用的立法和治理实践时，专家组将在突发公共卫生事件的总体背景下考虑和平衡各种因素，包括： In reviewing applicable legislation and governance practices, the panel will consider and balance various factors in the overall context of a public health emergency, including:
 
-* 一般公共卫生和健康信息  *  general public health and health information
+* 一般公共卫生和健康信息 * general public health and health information
 
-*心理健康  *  mental health and wellness
+*心理健康 * mental health and wellness
 
-* 儿童和学生健康、心理健康和教育  *  child and student health, mental health and education
+* 儿童和学生健康、心理健康和教育 * child and student health, mental health and education
 
-* 卫生专业人员的执业标准  *  health professionals’ practice standards
+* 卫生专业人员的执业标准 * health professionals’ practice standards
 
-* 紧急措施的有效实施  *  effective implementation of emergency measures
+* 紧急措施的有效实施 * effective implementation of emergency measures
 
-* 保护权利和自由  *  protection of rights and freedoms
+* 保护权利和自由 * protection of rights and freedoms
 
-* 经济和金融影响  *  economic and financial effects
+* 经济和金融影响 * economic and financial effects
 
-* 就业标准  *  employment standards
+* 就业标准 * employment standards
 
 * 该小组的预算为 200 万美元。 The budget for the panel is $2 million.
 

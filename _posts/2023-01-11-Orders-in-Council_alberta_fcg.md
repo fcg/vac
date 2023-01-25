@@ -2,7 +2,7 @@
 layout: post
 title: "Orders in Council"
 description: Order Approved – January 10, 2023
-date:  Wed, 11 Jan 2023 10:30:00 -0700
+date: Wed, 11 Jan 2023 10:30:00 -0700
 categories: alberta
 ---
 
