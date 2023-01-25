@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Responding to the crisis in Ukraine"
-description: March 4, 2022: Responding to the crisis in Ukraine
+description: March 4, 2022-Responding to the crisis in Ukraine
 date: 2022-03-04
 categories: alberta
 ---

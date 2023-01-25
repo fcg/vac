@@ -59,12 +59,12 @@ async function canadavisafeeds() {
     );
 
     const $ = cheerio.default.load(description);
-    const desc = $("p").first().text();
+    const desc = $("p").first().text().replaceAll(":","-");
 
     let frontmatter = `---
 layout: post
 title: ${title}
-description: ${desc}
+description: '${desc}'
 date: ${publishedraw}
 categories: canadavisa
 ---

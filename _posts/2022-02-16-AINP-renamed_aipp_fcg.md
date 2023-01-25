@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AINP renamed"
-description: February 16, 2022: AINP renamed
+description: February 16, 2022-AINP renamed
 date: 2022-02-16
 categories: alberta
 ---

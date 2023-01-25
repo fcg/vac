@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guru Gobind Singh Ji: Minister Sawhney"
-description: Minister of Trade, Immigration and Multiculturalism Rajan Sawhney issued the following statement on the anniversary of the birth of Guru Gobind Singh Ji:
+description: Minister of Trade, Immigration and Multiculturalism Rajan Sawhney issued the following statement on the anniversary of the birth of Guru Gobind Singh Ji
 date: Thu, 05 Jan 2023 09:28:00 -0700
 categories: alberta
 ---

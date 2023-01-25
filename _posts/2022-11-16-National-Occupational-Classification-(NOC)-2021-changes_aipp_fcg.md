@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "National Occupational Classification (NOC) 2021 changes"
-description: November 16, 2022: National Occupational Classification (NOC) 2021 changes
+description: November 16, 2022-National Occupational Classification (NOC) 2021 changes
 date: 2022-11-16
 categories: alberta
 ---

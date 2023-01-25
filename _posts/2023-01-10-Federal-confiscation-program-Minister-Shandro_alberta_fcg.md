@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Federal confiscation program: Minister Shandro"
-description: Minister of Justice Tyler Shandro issued the following statement on the federal firearms confiscation program:
+description: Minister of Justice Tyler Shandro issued the following statement on the federal firearms confiscation program
 date: Tue, 10 Jan 2023 11:10:00 -0700
 categories: alberta
 ---

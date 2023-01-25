@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "December Labour Force Survey: Minister Jean"
-description: Minister of Jobs, Economy and Northern Development Brian Jean issued the following statement about the December 2022 Labour Force Survey from Statistics Canada:
+description: Minister of Jobs, Economy and Northern Development Brian Jean issued the following statement about the December 2022 Labour Force Survey from Statistics Canada
 date: Fri, 06 Jan 2023 09:55:00 -0700
 categories: alberta
 ---

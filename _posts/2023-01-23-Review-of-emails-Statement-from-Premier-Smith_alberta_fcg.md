@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review of emails: Statement from Premier Smith"
-description: Premier Danielle Smith issued the following statement following the comprehensive review of emails between the Alberta Crown Prosecution Services and Premier’s Office staff:
+description: Premier Danielle Smith issued the following statement following the comprehensive review of emails between the Alberta Crown Prosecution Services and Premier’s Office staff
 date: Mon, 23 Jan 2023 11:05:00 -0700
 categories: alberta
 ---

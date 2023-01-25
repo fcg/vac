@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Canada welcomes high number of Francophone newcomers, meeting its Francophone Immigration Target in 2022"
-description: A growing number of Canadians report that French is their first official language, but the proportion that French speaking Canadians represents dropped from 2016 (22.2%) to 2022 (21.4). In 2019, IRCC announced the goal of 4.4% of French-speaking immigrants outside Quebec by 2023 in the “Meeting our Objectives: Francophone Immigration Strategy” publication. Discover if You […]
+description: A growing number of Canadians report that French is their first official language, but the proportion that French speaking Canadians represents dropped from 2016 (22.2%) to 2022 (21.4). In 2019, IRCC announced the goal of 4.4% of French-speaking immigrants outside Quebec by 2023 in the “Meeting our Objectives - Francophone Immigration Strategy” publication. Discover if You […]
 date:   Mon, 23 Jan 2023 19:07:39 +0000
 categories: ca_news
 ---

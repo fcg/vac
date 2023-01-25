@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "New Year’s Day: Premier Smith | Message du jour de l’An de la première ministre Danielle Smith"
-description: Premier Danielle Smith issued this statement celebrating the arrival of 2023:
-date: Sun, 01 Jan 2023 10:15:00 -0700
+description: 'Premier Danielle Smith issued this statement celebrating the arrival of 2023:
+date: Sun, 01 Jan 2023 10:15:00 -0700'
 categories: alberta
 ---
 

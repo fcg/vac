@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Launch of new pathways"
-description: October 26, 2020: Launch of new pathways
+description: October 26, 2020 - Launch of new pathways
 date: 2020-10-26
 categories: alberta
 ---

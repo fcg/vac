@@ -2,7 +2,7 @@
 layout: post
 title: Why hundreds of newcomers have chosen to settle in Northeastern Ontario in the past three years
 description: Many newcomers are choosing to settle in communities located in Northeastern Ontario over large cities like Toronto or Montreal. Cities in Northeastern Ontario give newcomers the chance to create the life they’ve always wanted. Affordable cost of living, job opportunities, and many facilities and amenities give newcomers the chance to build their life quickly. In […]
-date:   Tue, 24 Jan 2023 12:30:56 +0000
+date: Tue, 24 Jan 2023 12:30:56 +0000
 categories: ca_news
 ---
 	

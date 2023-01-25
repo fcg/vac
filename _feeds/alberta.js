@@ -82,12 +82,12 @@ async function abnewsfeeds() {
     );
 
     const $ = cheerio.default.load(description);
-    const desc = $("p").first().text();
+    const desc = $("p").first().text().replaceAll(":","-");
 
     let frontmatter = `---
 layout: post
 title: ${title}
-description: ${desc}
+description: '${desc}'
 date: ${publishedraw}
 categories: alberta
 ---
@@ -167,7 +167,7 @@ async function abupdate() {
     }).toArray();
 
   for (const theupdate of updates) {
-    let headerraw = theupdate.header;
+    let headerraw = theupdate.header.replaceAll(":","-");
     let headstrings = headerraw.split(":");
     let dateraw = headstrings[0].trim();
 
@@ -203,7 +203,7 @@ async function abupdate() {
     let frontmatter = `---
     layout: post
     title:  ${title}
-    description: ${headerraw}
+    description: '${headerraw}'
     date:   ${dateymd}
     categories: alberta
     ---
