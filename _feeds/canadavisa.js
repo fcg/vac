@@ -63,9 +63,9 @@ async function canadavisafeeds() {
 
     let frontmatter = `---
 layout: post
-title:  "${title}"
+title: ${title}
 description: ${desc}
-date:   ${publishedraw}
+date: ${publishedraw}
 categories: canadavisa
 ---
 

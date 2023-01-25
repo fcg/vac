@@ -86,9 +86,9 @@ async function abnewsfeeds() {
 
     let frontmatter = `---
 layout: post
-title:  "${title}"
+title: ${title}
 description: ${desc}
-date:   ${publishedraw}
+date: ${publishedraw}
 categories: alberta
 ---
 

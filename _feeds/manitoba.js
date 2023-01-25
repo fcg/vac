@@ -88,7 +88,7 @@ async function mbnewsfeeds() {
 layout: post
 title:  ${title}
 description: ${desc}
-date:   ${publishedraw}
+date: ${publishedraw}
 categories: manitoba
 ---
 
