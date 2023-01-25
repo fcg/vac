@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is the Global Talent Stream?"
+title: What is the Global Talent Stream?
 description: The Global Talent stream is part of Canada’s Temporary Foreign Worker Program (TFWP), which is intended to be used when there are labour and skill shortages and there are no Canadians or permanent residents available to fill positions. Schedule a Free Work Permit Consultation with the Cohen Immigration Law Firm The Global Talent stream helps […]
 date:   Tue, 24 Jan 2023 13:00:57 +0000
 categories: ca_news
