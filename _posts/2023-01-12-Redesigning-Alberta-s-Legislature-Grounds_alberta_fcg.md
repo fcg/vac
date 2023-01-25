@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Redesigning Alberta’s Legislature Grounds"
+title: "Redesigning Alberta’s Legislature Grounds"
 description: Albertans have a chance to help choose the design of a new water feature for the historic Legislature grounds.
-date:   Thu, 12 Jan 2023 11:17:00 -0700
+date:  Thu, 12 Jan 2023 11:17:00 -0700
 categories: alberta
 ---
 
-* 有你的发言权  Have Your Say
-*   要闻速览  Quick Facts
-*   相关信息  Related information
-* 相关新闻  Related news
-* 多媒体  Multimedia
+* 有你的发言权 Have Your Say
+*  要闻速览 Quick Facts
+*  相关信息 Related information
+* 相关新闻 Related news
+* 多媒体 Multimedia
 
 每年，数以万计的艾伯塔人都会到立法机关场地野餐、在泳池里游泳、散步，并参加社区、教育和宗教活动。Every year, tens of thousands of Albertans visit the Legislature grounds to picnic, wade in the pools, walk, and attend community, educational, and religious events.
 
@@ -36,26 +36,26 @@ categories: alberta
 
 ## 要闻速览Quick Facts
 
-* 由于 COVID-19 大流行以及机械系统和公共安全问题，自 2020 年以来，圆顶喷泉、倒影池和浅水池已对公众关闭。  The dome fountain and reflecting and wading pools have been closed to the public since 2020 due to the COVID-19 pandemic and mechanical system and public safety issues.
+* 由于 COVID-19 大流行以及机械系统和公共安全问题，自 2020 年以来，圆顶喷泉、倒影池和浅水池已对公众关闭。 The dome fountain and reflecting and wading pools have been closed to the public since 2020 due to the COVID-19 pandemic and mechanical system and public safety issues.
 
-* 投资 2000 万加元用于更新或更换艾伯塔省立法机构的水景和人行道  $20 million is being invested into renewing or replacing the Alberta legislature grounds water features and walkways
+* 投资 2000 万加元用于更新或更换艾伯塔省立法机构的水景和人行道 $20 million is being invested into renewing or replacing the Alberta legislature grounds water features and walkways
 
-* 1000 万加元来自艾伯塔省政府的 2022 年预算资本计划    *   $10 million through the Alberta government’s Budget 2022 Capital Plan
+* 1000 万加元来自艾伯塔省政府的 2022 年预算资本计划  *  $10 million through the Alberta government’s Budget 2022 Capital Plan
 
-* 1000 万加元来自加拿大基础设施投资计划 (ICIP)，其中 800 万加元来自加拿大政府，200 万加元来自艾伯塔省政府    *   $10 million through the Investing in Canada Infrastructure Program (ICIP), with $8 million from the Government of Canada and $2 million from the Alberta government
+* 1000 万加元来自加拿大基础设施投资计划 (ICIP)，其中 800 万加元来自加拿大政府，200 万加元来自艾伯塔省政府  *  $10 million through the Investing in Canada Infrastructure Program (ICIP), with $8 million from the Government of Canada and $2 million from the Alberta government
 
-* 该项目的建设预计将于 2023 年春季开始，预计于 2024 年完工。  Construction for this project is anticipated to begin in spring 2023, with completion expected in 2024.
+* 该项目的建设预计将于 2023 年春季开始，预计于 2024 年完工。 Construction for this project is anticipated to begin in spring 2023, with completion expected in 2024.
 
 ## 相关信息Related information
 
-* 立法机关以改善参与为由  Legislature grounds improvement engagement
+* 立法机关以改善参与为由 Legislature grounds improvement engagement
 
 相关新闻Related news
 
-* 艾伯塔省立法机构的新水景（2022 年 5 月 27 日）  New water features for Alberta legislature (May 27, 2022)
+* 艾伯塔省立法机构的新水景（2022 年 5 月 27 日） New water features for Alberta legislature (May 27, 2022)
 
 多媒体Multimedia
 
-*立法机关改善参与视频  Legislature grounds improvement engagement video
+*立法机关改善参与视频 Legislature grounds improvement engagement video
 
 FCGvisa translated, alberta.ca All Rights Reserved.

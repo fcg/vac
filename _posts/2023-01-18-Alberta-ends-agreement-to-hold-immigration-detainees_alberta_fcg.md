@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Alberta ends agreement to hold immigration detainees"
+title: "Alberta ends agreement to hold immigration detainees"
 description: Alberta is ending the practice of holding federal immigration detainees in provincial jails and is calling on the federal government to find better alternatives.
-date:   Wed, 18 Jan 2023 09:00:00 -0700
+date:  Wed, 18 Jan 2023 09:00:00 -0700
 categories: alberta
 ---
 
-*   相关信息  Related information
+*  相关信息 Related information
 
 艾伯塔省政府已向联邦政府发出书面通知，称其将终止与加拿大边境服务局 (CBSA) 的一项协议，即使用省级惩教中心收容因移民问题而被拘留的人。Alberta’s government has provided written notice to the federal government that it is ending an agreement with the Canada Border Services Agency (CBSA) to use provincial correctional centres to house people being detained on immigration matters.
 
@@ -24,6 +24,6 @@ categories: alberta
 
 ## 相关信息Related information
 
-* 埃利斯部长终止 CBSA 协议  Minister Ellis ending CBSA agreement
+* 埃利斯部长终止 CBSA 协议 Minister Ellis ending CBSA agreement
 
 FCGvisa translated, alberta.ca All Rights Reserved.

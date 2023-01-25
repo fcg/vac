@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Julian Christmas Day: Premier Smith"
+title: "Julian Christmas Day: Premier Smith"
 description: Premier Danielle Smith issued this statement on Orthodox Christmas:
-date:   Sat, 07 Jan 2023 10:00:00 -0700
+date:  Sat, 07 Jan 2023 10:00:00 -0700
 categories: alberta
 ---
 
-* 翻译  Translations
+* 翻译 Translations
 
 “致所有根据儒略历庆祝圣诞节的人——信奉使徒、东正教和东方基督教信仰的艾伯塔人——愿这是你与家人和其他在你心中占有特殊地位的人分享的幸福日子。“To everyone celebrating Christmas according to the Julian calendar - Albertans who follow the Apostolic, Orthodox and Eastern Christian faiths - may this be a blessed day you are sharing with family and others who have a special place in your heart.
 
@@ -20,6 +20,6 @@ categories: alberta
 
 ## 翻译Translations
 
-* 乌克兰语  Ukrainian
+* 乌克兰语 Ukrainian
 
 FCGvisa translated, alberta.ca All Rights Reserved.

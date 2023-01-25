@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Growing post-secondary partnerships with India"
+title: "Growing post-secondary partnerships with India"
 description: Alberta has signed a memorandum of understanding (MOU) with the Shastri Indo-Canadian Institute to strengthen ties between post-secondary institutions in Alberta and India.
-date:   Thu, 12 Jan 2023 15:30:00 -0700
+date:  Thu, 12 Jan 2023 15:30:00 -0700
 categories: alberta
 ---
 
-*   相关信息  Related information
-* 翻译  Translations
+*  相关信息 Related information
+* 翻译 Translations
 
 _（从左到右）Shastri Indo-Canadian Institute 副总裁兼候任总裁 Pavneesh Madan 博士与 Demetrios Nicolaides 部长一起签署谅解备忘录。_(L-R) Dr. Pavneesh Madan, Vice President and President Elect, Shastri Indo-Canadian Institute joins Minister Demetrios Nicolaides to sign the memorandum of understanding._
 
@@ -29,13 +29,13 @@ Shastri-Indo-Canadian Institute 为加拿大和印度的学生提供了新的机
 
 虽然谅解备忘录将扩大艾伯塔省和印度之间的学术和研究机会，但它也概述了两个司法管辖区的 PSI 需要关注的几个优先事项，包括：While the MOU will expand academic and research opportunities between Alberta and India, it also outlines several priorities for PSIs in both jurisdictions to focus on, including:
 
-* 加强阿尔伯塔省的国际学生招生战略，以吸引更多来自印度的新移民  enhancing Alberta’s international student recruitment strategies to attract more newcomers from India
+* 加强阿尔伯塔省的国际学生招生战略，以吸引更多来自印度的新移民 enhancing Alberta’s international student recruitment strategies to attract more newcomers from India
 
-* 促进艾伯塔省与印度的教育合作与协作  promoting Alberta-India education cooperation and collaboration
+* 促进艾伯塔省与印度的教育合作与协作 promoting Alberta-India education cooperation and collaboration
 
-* 支持艾伯塔省和印度的 PSI 之间的访问和访问。  supporting missions and visits between PSIs in Alberta and India.
+* 支持艾伯塔省和印度的 PSI 之间的访问和访问。 supporting missions and visits between PSIs in Alberta and India.
 
-* 让艾伯塔省和印度的行业参与进来，以支持艾伯塔省政府的国际教育和就业目标。  engaging industry in Alberta and India to support the Government of Alberta’s international education and employment goals.
+* 让艾伯塔省和印度的行业参与进来，以支持艾伯塔省政府的国际教育和就业目标。 engaging industry in Alberta and India to support the Government of Alberta’s international education and employment goals.
 
 该协议的条款有效期为两年，并有机会再延长两年。The terms of the agreement are in effect for two years, with the opportunity to extend for an additional two years.
 
@@ -43,12 +43,12 @@ Shastri Indo-Canadian Institute 是一个由印度和加拿大政府授权的双
 
 ## 相关信息Related information
 
-* Shastri 印加研究所  Shastri Indo-Canadian Institute
+* Shastri 印加研究所 Shastri Indo-Canadian Institute
 
 ## 翻译Translations
 
-* 印地语  Hindi
-* 旁遮普语  Punjabi
-*乌尔都语  Urdu
+* 印地语 Hindi
+* 旁遮普语 Punjabi
+*乌尔都语 Urdu
 
 FCGvisa translated, alberta.ca All Rights Reserved.

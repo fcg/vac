@@ -1,26 +1,26 @@
 ---
 layout: post
-title:  "HCAP: Direct action to lower EMS response times | PASS : Action directe pour réduire les délais d’intervention des SMU"
+title: "HCAP: Direct action to lower EMS response times | PASS : Action directe pour réduire les délais d’intervention des SMU"
 description: Alberta’s government is committed to ensuring an ambulance is available to everyone where and when they need it.
-date:   Mon, 16 Jan 2023 10:15:00 -0700
+date:  Mon, 16 Jan 2023 10:15:00 -0700
 categories: alberta
 ---
 
-* 派遣审查  Dispatch review
-* 加快 EMS 将患者护理转移到急诊室  Speeding up EMS transfer of patient care to emergency departments
-*设施之间的非紧急转移  Non-emergency transfers between facilities
-*   要闻速览  Quick facts
-*   相关信息  Related information
-* 相关新闻  Related news
-* 多媒体  Multimedia
-* 翻译  Translations
-* 调度系统审查  Examen du système de répartition
-* 加速将患者护理从 EMS 转移到急诊科  Accélération du transfert des soins aux patients par les SMU vers les services d’urgence
-* 机构之间的非紧急转移  Transferts non urgents entre établissements
-* 要闻速览  Faits en bref
-* 相关信息  Renseignements connexes (en anglais seulement)
-* 相关新闻  Nouvelles connexes
-* 多媒体  Multimédia (en anglais seulement)
+* 派遣审查 Dispatch review
+* 加快 EMS 将患者护理转移到急诊室 Speeding up EMS transfer of patient care to emergency departments
+*设施之间的非紧急转移 Non-emergency transfers between facilities
+*  要闻速览 Quick facts
+*  相关信息 Related information
+* 相关新闻 Related news
+* 多媒体 Multimedia
+* 翻译 Translations
+* 调度系统审查 Examen du système de répartition
+* 加速将患者护理从 EMS 转移到急诊科 Accélération du transfert des soins aux patients par les SMU vers les services d’urgence
+* 机构之间的非紧急转移 Transferts non urgents entre établissements
+* 要闻速览 Faits en bref
+* 相关信息 Renseignements connexes (en anglais seulement)
+* 相关新闻 Nouvelles connexes
+* 多媒体 Multimédia (en anglais seulement)
 
 艾伯塔省的医疗保健行动计划 (HCAP) 将带来更好的 EMS 响应时间。为履行这一承诺，艾伯塔省政府将接受艾伯塔省紧急医疗服务省咨询委员会 (AEPAC) 报告和独立派遣审查的所有建议，并正在制定实施这些建议的行动计划。Alberta’s Heath Care Action Plan (HCAP) will lead to better EMS response times. To fulfill this commitment, Alberta’s government will be accepting all recommendations of both the Alberta Emergency Medical Services Provincial Advisory Committee (AEPAC) report and the independent dispatch review and is working on a plan of action to carry them out.
 
@@ -30,10 +30,10 @@ categories: alberta
 
 一线工作人员、市政当局和其他 EMS 合作伙伴确定的行动正在实施，包括：Actions identified by frontline workers, municipalities and other EMS partners are being put in place, including:
 
-* 在高峰时段增加 20 辆救护车——预计将于春季在卡尔加里和埃德蒙顿推出  adding 20 additional ambulances during peak hours — expected to start rolling out in the spring in Calgary and Edmonton
-*根据省级新指南，通过将不太紧急的患者转移到医院等候区，在急诊室快速转移救护车  fast-tracking ambulance transfers at emergency departments by moving less urgent patients to hospital waiting areas, based on new provincial guidelines that are now in place
-* 通过为埃德蒙顿和卡尔加里的设施之间的非紧急转移承包经过适当培训的资源来释放护理人员  freeing up paramedics by contracting appropriately trained resources for non-emergency transfers between facilities in Edmonton and Calgary
-* 授权护理人员在现场评估患者的状况，并决定是否需要用救护车将他们送往急诊室。  empowering paramedics to assess a patient’s condition on scene and decide whether they need to be taken to an ER by ambulance.
+* 在高峰时段增加 20 辆救护车——预计将于春季在卡尔加里和埃德蒙顿推出 adding 20 additional ambulances during peak hours — expected to start rolling out in the spring in Calgary and Edmonton
+*根据省级新指南，通过将不太紧急的患者转移到医院等候区，在急诊室快速转移救护车 fast-tracking ambulance transfers at emergency departments by moving less urgent patients to hospital waiting areas, based on new provincial guidelines that are now in place
+* 通过为埃德蒙顿和卡尔加里的设施之间的非紧急转移承包经过适当培训的资源来释放护理人员 freeing up paramedics by contracting appropriately trained resources for non-emergency transfers between facilities in Edmonton and Calgary
+* 授权护理人员在现场评估患者的状况，并决定是否需要用救护车将他们送往急诊室。 empowering paramedics to assess a patient’s condition on scene and decide whether they need to be taken to an ER by ambulance.
 
 > “这项工作支持我们在 AHS 一直关注的四个优先领域：改进 EMS 响应时间；减少急诊室等待时间；减少手术等待时间；改善整个医疗保健系统的患者流动。我们正在实现目标，并且每天都在进步。”“This work supports four priority areas that we’ve been focused on at AHS: improving EMS response times; decreasing emergency department wait times; reducing wait times for surgeries; and improving patient flow throughout the healthcare system. We are getting there, and making progress every day.”
 >
@@ -75,39 +75,39 @@ AHS 制定了一项新的省级政策，该政策现已在所有医院生效，�
 
 ## 要闻速览Quick facts
 
-* 埃德蒙顿和卡尔加里今年将各自增加 10 辆救护车，这是在 2022 年高峰时段这两个城市增加的 19 辆救护车之上。  Edmonton and Calgary will each get ten more ambulances this year, which is on top of the 19 ambulances that were added in both cities during peak hours in 2022.
-* EMS 将继续提供需要更高水平临床护理的设施间转移。非紧急（低敏锐度）患者转移的签约供应商将符合所有适当的标准，包括人员和设备，并将由 AHS 监督。  EMS will continue to provide inter-facility transfers that require higher levels of clinical care. Contracted providers for non-emergency (low acuity) patient transfers will meet all appropriate standards, including staff and equipment, and will be overseen by AHS.
-* 根据新政策，需要更紧急护理或需要积极监测的患者没有资格将 EMS 转移给急诊科工作人员。  Patients who require more urgent care or need to be actively monitored are not eligible for EMS transfer to emergency department staff based on the new policy.
+* 埃德蒙顿和卡尔加里今年将各自增加 10 辆救护车，这是在 2022 年高峰时段这两个城市增加的 19 辆救护车之上。 Edmonton and Calgary will each get ten more ambulances this year, which is on top of the 19 ambulances that were added in both cities during peak hours in 2022.
+* EMS 将继续提供需要更高水平临床护理的设施间转移。非紧急（低敏锐度）患者转移的签约供应商将符合所有适当的标准，包括人员和设备，并将由 AHS 监督。 EMS will continue to provide inter-facility transfers that require higher levels of clinical care. Contracted providers for non-emergency (low acuity) patient transfers will meet all appropriate standards, including staff and equipment, and will be overseen by AHS.
+* 根据新政策，需要更紧急护理或需要积极监测的患者没有资格将 EMS 转移给急诊科工作人员。 Patients who require more urgent care or need to be actively monitored are not eligible for EMS transfer to emergency department staff based on the new policy.
 
 ## 相关信息Related information
 
-* 医疗保健行动计划  Healthcare Action Plan
-* 艾伯塔省紧急医疗服务省咨询委员会最终报告  Alberta Emergency Medical Services Provincial Advisory Committee Final Report
-* 艾伯塔省紧急医疗服务派遣审查  Alberta Emergency Medical Services Dispatch Review
-* AHS 政策：紧急医疗服务将患者护理转移至急诊科  AHS Policy: Emergency Medical Services Transfer of Patient Care To the Emergency Department
+* 医疗保健行动计划 Healthcare Action Plan
+* 艾伯塔省紧急医疗服务省咨询委员会最终报告 Alberta Emergency Medical Services Provincial Advisory Committee Final Report
+* 艾伯塔省紧急医疗服务派遣审查 Alberta Emergency Medical Services Dispatch Review
+* AHS 政策：紧急医疗服务将患者护理转移至急诊科 AHS Policy: Emergency Medical Services Transfer of Patient Care To the Emergency Department
 
 相关新闻Related news
 
-* 医疗保健行动计划：EMS 响应时间（2022 年 12 月 21 日）  Healthcare Action Plan: EMS response times (Dec 21, 2022)
-* 改革 AHS 以改善患者护理（2022 年 11 月 17 日）  Reforming AHS to improve patient care  (Nov 17, 2022)
-* EMS 咨询委员会报告：Copping 部长（2022 年 10 月 4 日）  EMS advisory committee report: Minister Copping  (Oct 4, 2022)
-* 采取行动应对 EMS 压力（2022 年 5 月 26 日）  Taking action to address EMS pressures  (May 26, 2022)
-* 减轻艾伯塔省 EMS 系统的压力（2022 年 5 月 25 日）  Easing the pressure on Alberta’s EMS system  (May 25, 2022)
-* 2022 年预算提高了 EMS 容量（2022 年 3 月 10 日）  Budget 2022 boosts EMS capacity (Mar 10, 2022)
-* 解决紧急医疗服务压力（2022 年 1 月 24 日）  Addressing emergency medical services pressures (Jan 24, 2022)
+* 医疗保健行动计划：EMS 响应时间（2022 年 12 月 21 日） Healthcare Action Plan: EMS response times (Dec 21, 2022)
+* 改革 AHS 以改善患者护理（2022 年 11 月 17 日） Reforming AHS to improve patient care  (Nov 17, 2022)
+* EMS 咨询委员会报告：Copping 部长（2022 年 10 月 4 日） EMS advisory committee report: Minister Copping  (Oct 4, 2022)
+* 采取行动应对 EMS 压力（2022 年 5 月 26 日） Taking action to address EMS pressures  (May 26, 2022)
+* 减轻艾伯塔省 EMS 系统的压力（2022 年 5 月 25 日） Easing the pressure on Alberta’s EMS system  (May 25, 2022)
+* 2022 年预算提高了 EMS 容量（2022 年 3 月 10 日） Budget 2022 boosts EMS capacity (Mar 10, 2022)
+* 解决紧急医疗服务压力（2022 年 1 月 24 日） Addressing emergency medical services pressures (Jan 24, 2022)
 
 多媒体Multimedia
 
-* 观看新闻发布会  Watch the news conference
-* 收听新闻发布会  Listen to the news conference
+* 观看新闻发布会 Watch the news conference
+* 收听新闻发布会 Listen to the news conference
 
 ## 翻译Translations
 
-* 阿拉伯语  Arabic
-* 旁遮普语  Punjabi
-*   简体中文  Simplified Chinese
-*   西班牙语  Spanish
-*   繁体中文  Traditional Chinese
+* 阿拉伯语 Arabic
+* 旁遮普语 Punjabi
+*  简体中文 Simplified Chinese
+*  西班牙语 Spanish
+*  繁体中文 Traditional Chinese
 
 * * ** *
 
@@ -121,10 +121,10 @@ AHS 制定了一项新的省级政策，该政策现已在所有医院生效，�
 
 一线工作人员、市政当局和其他 EMS 合作伙伴确定的行动正在实施，包括：Les actions définies par les travailleurs de première ligne, les municipalités et les autres partenaires des SMU sont en cours de mise en œuvre, notamment :
 
-* 在高峰时段增加 20 辆救护车——预计将于春季在卡尔加里和埃德蒙顿开始部署；  ajouter 20 ambulances supplémentaires pendant les heures de pointe – le déploiement devrait commencer au printemps à Calgary et à Edmonton;
-*根据现已生效的省级新指南，通过将不太紧急的患者转移到医院候诊室，加快救护车转移到急诊室；  accélérer les transferts par ambulance dans les services d’urgence en déplaçant les patients moins urgents vers les salles d’attente des hôpitaux, conformément aux nouvelles lignes directrices provinciales qui sont maintenant en vigueur;
-*使用经过适当培训的资源释放护理人员，以便在埃德蒙顿和卡尔加里设施之间进行非紧急转移；  libérer les ambulanciers paramédicaux en faisant appel à des ressources ayant reçu une formation appropriée pour les transferts non urgents entre les établissements d’Edmonton et de Calgary;
-* 授权护理人员，让他们能够在现场评估患者的状况，并确定是否应该用救护车将他们转移到急诊室。  habiliter les ambulanciers paramédicaux en leur donnant la capacité d’évaluer l’état d’un patient sur place et de déterminer s’il doit être transféré aux urgences en ambulance.
+* 在高峰时段增加 20 辆救护车——预计将于春季在卡尔加里和埃德蒙顿开始部署； ajouter 20 ambulances supplémentaires pendant les heures de pointe – le déploiement devrait commencer au printemps à Calgary et à Edmonton;
+*根据现已生效的省级新指南，通过将不太紧急的患者转移到医院候诊室，加快救护车转移到急诊室； accélérer les transferts par ambulance dans les services d’urgence en déplaçant les patients moins urgents vers les salles d’attente des hôpitaux, conformément aux nouvelles lignes directrices provinciales qui sont maintenant en vigueur;
+*使用经过适当培训的资源释放护理人员，以便在埃德蒙顿和卡尔加里设施之间进行非紧急转移； libérer les ambulanciers paramédicaux en faisant appel à des ressources ayant reçu une formation appropriée pour les transferts non urgents entre les établissements d’Edmonton et de Calgary;
+* 授权护理人员，让他们能够在现场评估患者的状况，并确定是否应该用救护车将他们转移到急诊室。 habiliter les ambulanciers paramédicaux en leur donnant la capacité d’évaluer l’état d’un patient sur place et de déterminer s’il doit être transféré aux urgences en ambulance.
 
 > “这项工作支持我们在艾伯塔省卫生服务中心重点关注的四个优先领域：改善 EMS 响应时间、减少急诊室等待时间、减少手术等待时间以及改善整个医疗保健网络的患者流量。我们正在实现目标，而且我们每天都在朝着这个方向取得进展。 »« Ce travail soutient quatre domaines prioritaires sur lesquels nous nous sommes concentrés à Services de santé Alberta : l’amélioration des délais d’intervention des SMU, la réduction des temps d’attente dans les services d’urgence, la réduction des temps d’attente pour les opérations chirurgicales et l’amélioration du flux des patients dans l’ensemble du réseau de la santé. Nous y arrivons, et nous faisons des progrès en ce sens chaque jour. »
 >
@@ -166,30 +166,30 @@ AHS 制定了一项新的省级政策，该政策现已在所有医院生效，�
 
 ## 要闻速览Faits en bref
 
-* 埃德蒙顿和卡尔加里今年将分别收到 10 辆额外的救护车，2022 年这两个城市在高峰时段增加了 19 辆救护车。  Edmonton et Calgary recevront chacune dix ambulances supplémentaires cette année, qui s’ajouteront aux 19 ambulances qui ont été ajoutées dans les deux villes aux heures de pointe en 2022.
-* EMS 将继续在需要更高水平临床护理的设施之间转移患者。非紧急患者转移（较不严重的病例）的签约供应商将符合所有适当的标准，包括人员和设备，并将由艾伯塔省卫生服务部门监督。  Les SMU continueront à assurer les transferts entre établissements des patients qui nécessitent des niveaux de soins cliniques plus élevés. Les fournisseurs sous contrat pour les transferts de patients non urgents (cas moins graves) respecteront toutes les normes appropriées, y compris en matière de personnel et d’équipement, et seront supervisés par Services de santé Alberta.
-*根据新政策，需要更多紧急护理或需要积极监测的患者没有资格从 EMS 转移到急诊科工作人员。  Selon la nouvelle politique, les patients qui nécessitent des soins plus urgents ou qui doivent faire l’objet d’une surveillance active ne sont pas admissibles au transfert par les SMU au personnel du service des urgences.
+* 埃德蒙顿和卡尔加里今年将分别收到 10 辆额外的救护车，2022 年这两个城市在高峰时段增加了 19 辆救护车。 Edmonton et Calgary recevront chacune dix ambulances supplémentaires cette année, qui s’ajouteront aux 19 ambulances qui ont été ajoutées dans les deux villes aux heures de pointe en 2022.
+* EMS 将继续在需要更高水平临床护理的设施之间转移患者。非紧急患者转移（较不严重的病例）的签约供应商将符合所有适当的标准，包括人员和设备，并将由艾伯塔省卫生服务部门监督。 Les SMU continueront à assurer les transferts entre établissements des patients qui nécessitent des niveaux de soins cliniques plus élevés. Les fournisseurs sous contrat pour les transferts de patients non urgents (cas moins graves) respecteront toutes les normes appropriées, y compris en matière de personnel et d’équipement, et seront supervisés par Services de santé Alberta.
+*根据新政策，需要更多紧急护理或需要积极监测的患者没有资格从 EMS 转移到急诊科工作人员。 Selon la nouvelle politique, les patients qui nécessitent des soins plus urgents ou qui doivent faire l’objet d’une surveillance active ne sont pas admissibles au transfert par les SMU au personnel du service des urgences.
 
 ## 相关信息Renseignements connexes (en anglais seulement)
 
-* 医疗保健行动计划  Healthcare Action Plan
-* 艾伯塔省紧急医疗服务省咨询委员会最终报告  Alberta Emergency Medical Services Provincial Advisory Committee Final Report
-* 艾伯塔省紧急医疗服务派遣审查  Alberta Emergency Medical Services Dispatch Review
-* AHS 政策：紧急医疗服务将患者护理转移至急诊科  AHS Policy: Emergency Medical Services Transfer of Patient Care To the Emergency Department
+* 医疗保健行动计划 Healthcare Action Plan
+* 艾伯塔省紧急医疗服务省咨询委员会最终报告 Alberta Emergency Medical Services Provincial Advisory Committee Final Report
+* 艾伯塔省紧急医疗服务派遣审查 Alberta Emergency Medical Services Dispatch Review
+* AHS 政策：紧急医疗服务将患者护理转移至急诊科 AHS Policy: Emergency Medical Services Transfer of Patient Care To the Emergency Department
 
 相关新闻Nouvelles connexes
 
-* 医疗保健行动计划：EMS 响应时间（2022 年 12 月 21 日）  Plan d’action pour les soins de santé : Les délais d’intervention des SMU (21 décembre 2022)
-* 艾伯塔省卫生服务改革以改善患者护理（2022 年 11 月 17 日）  Réforme de Services de santé Alberta pour l’amélioration des soins aux patients (17 novembre 2022)
-* EMS 咨询委员会报告：Copping 部长（2022 年 10 月 4 日）  EMS advisory committee report: Minister Copping (4 octobre 2022) (en anglais seulement)
-* 采取行动应对 EMS 压力（2022 年 5 月 26 日）  Taking action to address EMS pressures (26 mai 2022) (en anglais seulement)
-* 减轻艾伯塔省EMS系统的压力（2022年5月25日）  Easing the pressure on Alberta’s EMS system (25 mai 2022) (en anglais seulement)
-*2022 年预算提高了 EMS 容量（2022 年 3 月 10 日）  Budget 2022 boosts EMS capacity (10 mars 2022) (en anglais seulement)
-* 解决紧急医疗服务压力（2022 年 1 月 24 日）  Addressing emergency medical services pressures (24 janvier 2022) (en anglais seulement)
+* 医疗保健行动计划：EMS 响应时间（2022 年 12 月 21 日） Plan d’action pour les soins de santé : Les délais d’intervention des SMU (21 décembre 2022)
+* 艾伯塔省卫生服务改革以改善患者护理（2022 年 11 月 17 日） Réforme de Services de santé Alberta pour l’amélioration des soins aux patients (17 novembre 2022)
+* EMS 咨询委员会报告：Copping 部长（2022 年 10 月 4 日） EMS advisory committee report: Minister Copping (4 octobre 2022) (en anglais seulement)
+* 采取行动应对 EMS 压力（2022 年 5 月 26 日） Taking action to address EMS pressures (26 mai 2022) (en anglais seulement)
+* 减轻艾伯塔省EMS系统的压力（2022年5月25日） Easing the pressure on Alberta’s EMS system (25 mai 2022) (en anglais seulement)
+*2022 年预算提高了 EMS 容量（2022 年 3 月 10 日） Budget 2022 boosts EMS capacity (10 mars 2022) (en anglais seulement)
+* 解决紧急医疗服务压力（2022 年 1 月 24 日） Addressing emergency medical services pressures (24 janvier 2022) (en anglais seulement)
 
 多媒体Multimédia (en anglais seulement)
 
-* 观看新闻发布会  Regarder la conférence de presse
-* 听新闻发布会  Écouter la conférence de presse
+* 观看新闻发布会 Regarder la conférence de presse
+* 听新闻发布会 Écouter la conférence de presse
 
 FCGvisa translated, alberta.ca All Rights Reserved.

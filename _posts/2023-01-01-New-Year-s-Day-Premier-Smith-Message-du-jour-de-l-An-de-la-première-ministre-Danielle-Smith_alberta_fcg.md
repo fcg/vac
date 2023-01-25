@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "New Year’s Day: Premier Smith | Message du jour de l’An de la première ministre Danielle Smith"
+title: "New Year’s Day: Premier Smith | Message du jour de l’An de la première ministre Danielle Smith"
 description: Premier Danielle Smith issued this statement celebrating the arrival of 2023:
-date:   Sun, 01 Jan 2023 10:15:00 -0700
+date:  Sun, 01 Jan 2023 10:15:00 -0700
 categories: alberta
 ---
 
-* 翻译  Translations
+* 翻译 Translations
 
 “新年伊始，艾伯塔人有很多理由感到乐观。“With a new year dawning, Albertans have many reasons for optimism.
 
@@ -34,18 +34,18 @@ categories: alberta
 
 ## 翻译Translations
 
-* 阿拉伯语  Arabic
-* 印地语  Hindi
-*   韩国人  Korean
-* 波斯语  Persian
-* 旁遮普语  Punjabi
-*   简体中文  Simplified Chinese
-* 索马里语  Somali
-*   西班牙语  Spanish
-* 他加禄语  Tagalog
-*   繁体中文  Traditional Chinese
-* 乌克兰语  Ukrainian
-*乌尔都语  Urdu
-* 越南语  Vietnamese
+* 阿拉伯语 Arabic
+* 印地语 Hindi
+*  韩国人 Korean
+* 波斯语 Persian
+* 旁遮普语 Punjabi
+*  简体中文 Simplified Chinese
+* 索马里语 Somali
+*  西班牙语 Spanish
+* 他加禄语 Tagalog
+*  繁体中文 Traditional Chinese
+* 乌克兰语 Ukrainian
+*乌尔都语 Urdu
+* 越南语 Vietnamese
 
 FCGvisa translated, alberta.ca All Rights Reserved.

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Federal confiscation program: Minister Shandro"
+title: "Federal confiscation program: Minister Shandro"
 description: Minister of Justice Tyler Shandro issued the following statement on the federal firearms confiscation program:
-date:   Tue, 10 Jan 2023 11:10:00 -0700
+date:  Tue, 10 Jan 2023 11:10:00 -0700
 categories: alberta
 ---
 
-*   相关信息  Related information
+*  相关信息 Related information
 
 “上周，门迪奇诺部长承认联邦政府仍未弄清楚如何实施他们的枪支没收计划。“Last week, Minister Mendicino admitted that the federal government has still not figured out how to implement their firearms confiscation program.
 
@@ -28,6 +28,6 @@ categories: alberta
 
 ## 相关信息Related information
 
-* 加拿大公共安全部门的没收备忘录  Public Safety Canada's confiscation memo
+* 加拿大公共安全部门的没收备忘录 Public Safety Canada's confiscation memo
 
 FCGvisa translated, alberta.ca All Rights Reserved.

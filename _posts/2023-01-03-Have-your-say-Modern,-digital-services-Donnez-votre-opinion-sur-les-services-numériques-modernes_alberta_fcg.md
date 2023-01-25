@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Have your say: Modern, digital services | Donnez votre opinion  sur les services numériques modernes"
+title: "Have your say: Modern, digital services | Donnez votre opinion sur les services numériques modernes"
 description: Albertans are invited to share their opinions about their needs, expectations and priorities accessing online government services in an online survey.
-date:   Tue, 03 Jan 2023 10:05:00 -0700
+date:  Tue, 03 Jan 2023 10:05:00 -0700
 categories: alberta
 ---
 
-*   要闻速览  Quick facts
-*   相关信息  Related information
-* 翻译  Translations
-* 要闻速览  Faits en bref
-* 相关信息  Renseignements connexes
+*  要闻速览 Quick facts
+*  相关信息 Related information
+* 翻译 Translations
+* 要闻速览 Faits en bref
+* 相关信息 Renseignements connexes
 
 无论是管理福利、寻找负担得起的住房和托儿服务，还是更新驾驶执照，艾伯塔人比以往任何时候都更多地使用数字解决方案。Whether managing benefits, finding affordable housing and child care or renewing a driver’s licence, Albertans are using digital solutions more than ever.
 
@@ -26,32 +26,32 @@ categories: alberta
 
 ## 要闻速览Quick facts
 
-* 艾伯塔省的数字战略将指导该省实现技术团队、流程以及政府对技术和创新的整体方法的现代化。  Alberta’s Digital Strategy will guide the province in modernizing technical teams, processes and the government’s overall approach to technology and innovation.
-* 在线服务无需预订下班时间以及安排旅行和儿童保育，从而节省了艾伯塔人的时间和金钱。  Online services save Albertans time and money by eliminating the need to book time off work and make travel and child-care arrangements.
-* 目前有 70 多种在线政府服务可供艾伯塔人随时随地使用任何设备使用。  There are currently more than 70 online government services available to Albertans any time, anywhere, using any device.
-* 自 2019 年春季以来，已有 30 项政府服务上线。    *   Since spring 2019, 30 government services have moved online.
-* 目前，技术与创新部正在与其他部门合作，在来年将 20 多项附加服务上线。    *   Currently, Technology and Innovation is working with other departments to bring more than 20 additional services online in the coming year.
-* 最近的研究表明，75% 的加拿大人表示政府服务应该在线提供。    *   Recent research shows 75 per cent of Canadians indicate that government services should be available online.
+* 艾伯塔省的数字战略将指导该省实现技术团队、流程以及政府对技术和创新的整体方法的现代化。 Alberta’s Digital Strategy will guide the province in modernizing technical teams, processes and the government’s overall approach to technology and innovation.
+* 在线服务无需预订下班时间以及安排旅行和儿童保育，从而节省了艾伯塔人的时间和金钱。 Online services save Albertans time and money by eliminating the need to book time off work and make travel and child-care arrangements.
+* 目前有 70 多种在线政府服务可供艾伯塔人随时随地使用任何设备使用。 There are currently more than 70 online government services available to Albertans any time, anywhere, using any device.
+* 自 2019 年春季以来，已有 30 项政府服务上线。  *  Since spring 2019, 30 government services have moved online.
+* 目前，技术与创新部正在与其他部门合作，在来年将 20 多项附加服务上线。  *  Currently, Technology and Innovation is working with other departments to bring more than 20 additional services online in the coming year.
+* 最近的研究表明，75% 的加拿大人表示政府服务应该在线提供。  *  Recent research shows 75 per cent of Canadians indicate that government services should be available online.
 
 ## 相关信息Related information
 
-* 数字战略参与  Digital Strategy Engagement
+* 数字战略参与 Digital Strategy Engagement
 
 ## 翻译Translations
 
-* 阿拉伯语  Arabic
-* 印地语  Hindi
-*   韩国人  Korean
-* 波斯语  Persian
-* 旁遮普语  Punjabi
-*   简体中文  Simplified Chinese
-* 索马里语  Somali
-*   西班牙语  Spanish
-* 他加禄语  Tagalog
-*   繁体中文  Traditional Chinese
-* 乌克兰语  Ukrainian
-*乌尔都语  Urdu
-* 越南语  Vietnamese
+* 阿拉伯语 Arabic
+* 印地语 Hindi
+*  韩国人 Korean
+* 波斯语 Persian
+* 旁遮普语 Punjabi
+*  简体中文 Simplified Chinese
+* 索马里语 Somali
+*  西班牙语 Spanish
+* 他加禄语 Tagalog
+*  繁体中文 Traditional Chinese
+* 乌克兰语 Ukrainian
+*乌尔都语 Urdu
+* 越南语 Vietnamese
 
 * * ** *
 
@@ -68,18 +68,18 @@ categories: alberta
 
 ## 要闻速览Faits en bref
 
-* 艾伯塔省的数字战略将使技术团队、流程以及政府的技术和创新整体方法实现现代化。  La stratégie numérique de l’Alberta lui permettra de moderniser les équipes techniques, les processus et l’approche globale du gouvernement en matière de technologie et d’innovation.
+* 艾伯塔省的数字战略将使技术团队、流程以及政府的技术和创新整体方法实现现代化。 La stratégie numérique de l’Alberta lui permettra de moderniser les équipes techniques, les processus et l’approche globale du gouvernement en matière de technologie et d’innovation.
 
-* 目前，市民可随时随地通过任何设备使用 70 多项在线政务服务。  Plus de 70 services gouvernementaux en ligne sont actuellement accessibles aux citoyens en tout temps, en tout lieu, sur tout type d’appareil.
+* 目前，市民可随时随地通过任何设备使用 70 多项在线政务服务。 Plus de 70 services gouvernementaux en ligne sont actuellement accessibles aux citoyens en tout temps, en tout lieu, sur tout type d’appareil.
 
-* 截至 2019 年春季，已有 30 项政府服务迁移至线上。    *   Depuis le printemps 2019, 30 services gouvernementaux ont migré en ligne.
+* 截至 2019 年春季，已有 30 项政府服务迁移至线上。  *  Depuis le printemps 2019, 30 services gouvernementaux ont migré en ligne.
 
-* 目前，技术与创新部正在与其他部门合作，在明年将另外 20 项服务转移到网上。    *   À l’heure actuelle, le ministère de la Technologie et de l’Innovation collabore avec d’autres ministères en vue de transférer 20 autres services en ligne au cours de l’année qui vient.
+* 目前，技术与创新部正在与其他部门合作，在明年将另外 20 项服务转移到网上。  *  À l’heure actuelle, le ministère de la Technologie et de l’Innovation collabore avec d’autres ministères en vue de transférer 20 autres services en ligne au cours de l’année qui vient.
 
-*最近的研究表明，75% 的加拿大人认为政府服务应该在线提供。    *   Les études récentes indiquent que 75 % des Canadiens et des Canadiennes estiment que les services gouvernementaux devraient être accessibles en ligne.
+*最近的研究表明，75% 的加拿大人认为政府服务应该在线提供。  *  Les études récentes indiquent que 75 % des Canadiens et des Canadiennes estiment que les services gouvernementaux devraient être accessibles en ligne.
 
 ## 相关信息Renseignements connexes
 
-* 数字战略参与  Digital Strategy Engagement (en anglais seulement)
+* 数字战略参与 Digital Strategy Engagement (en anglais seulement)
 
 FCGvisa translated, alberta.ca All Rights Reserved.

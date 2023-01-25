@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Sheriffs make Alberta’s highways safer"
+title: "Sheriffs make Alberta’s highways safer"
 description: The Alberta Sheriffs removed nearly 1,500 impaired drivers from Alberta’s highways in 2022, the first full year since being given expanded authorities.
-date:   Tue, 10 Jan 2023 10:00:00 -0700
+date:  Tue, 10 Jan 2023 10:00:00 -0700
 categories: alberta
 ---
 
-* 交通违章与商用车安全  Traffic violations and commercial vehicle safety
-* 商用车检查  Commercial vehicle inspections
+* 交通违章与商用车安全 Traffic violations and commercial vehicle safety
+* 商用车检查 Commercial vehicle inspections
 
 2021 年，艾伯塔省政府通过提高艾伯塔省治安官的权力来应对农村犯罪和艾伯塔人的安全问题。现在，警长公路巡逻队能够调查酒后驾驶和其他刑事犯罪，以便艾伯塔人在该省的高速公路上行驶时感到更安全。In 2021, Alberta’s government worked to respond to rural crime and the safety concerns of Albertans by increasing the authority of Alberta Sheriffs. Now, the Sheriff Highway Patrol is able to investigate impaired driving and other criminal offences so that Albertans can feel safer when driving on the province’s highways.
 
@@ -27,13 +27,13 @@ Sheriff Highway Patrol 的执法重点还包括超速、分心驾驶和商用车
 
 超速行驶会对艾伯塔省高速公路上的行人安全构成重大威胁，在艾伯塔省近 25% 的致命碰撞事故中，司机超过规定的限速或在天气和道路条件下行驶速度过快。当涉及极速时，风险只会变得更大——治安官在 2022 年遇到了几起案件，包括：Speeding can pose a significant threat to the safety of people on Alberta’s highways and nearly 25 per cent of fatal collisions in Alberta involve drivers exceeding the posted speed limit or travelling too fast for weather and road conditions. The risk only gets greater when extreme speed is involved – and sheriffs encountered several cases in 2022, including:
 
-* 一名 39 岁的妇女在 Stony Plain 附近帕克兰县 16 号高速公路上的 110 公里/小时区域以 189 公里/小时的速度行驶。这名妇女也因酒精而受损。  a 39-year-old woman driving 189 km/h in a 110 km/h zone on Highway 16 in Parkland County near Stony Plain. The woman was also impaired by alcohol.
+* 一名 39 岁的妇女在 Stony Plain 附近帕克兰县 16 号高速公路上的 110 公里/小时区域以 189 公里/小时的速度行驶。这名妇女也因酒精而受损。 a 39-year-old woman driving 189 km/h in a 110 km/h zone on Highway 16 in Parkland County near Stony Plain. The woman was also impaired by alcohol.
 
-* 一名 20 岁的男子在埃德蒙顿西部帕克兰县 16 号高速公路上的 110 公里/小时区域以 228 公里/小时的速度行驶。  a 20-year-old man driving 228 km/h in a 110 km/h zone on Highway 16 in Parkland County west of Edmonton.
+* 一名 20 岁的男子在埃德蒙顿西部帕克兰县 16 号高速公路上的 110 公里/小时区域以 228 公里/小时的速度行驶。 a 20-year-old man driving 228 km/h in a 110 km/h zone on Highway 16 in Parkland County west of Edmonton.
 
-* 一名 25 岁男子以 203 公里/小时的速度在舍伍德公园外 21 号高速公路上的 100 公里/小时区域骑摩托车。  a 25-year-old man riding his motorcycle at 203 km/h in a 100 km/h zone on Highway 21 outside of Sherwood Park.
+* 一名 25 岁男子以 203 公里/小时的速度在舍伍德公园外 21 号高速公路上的 100 公里/小时区域骑摩托车。 a 25-year-old man riding his motorcycle at 203 km/h in a 100 km/h zone on Highway 21 outside of Sherwood Park.
 
-* 一名 33 岁男子以 195 公里/小时的速度在克罗湖附近的 63 号高速公路上以 110 公里/小时的速度行驶。这名男子持有毕业驾驶执照，要求酒精读数为零，但他也未能通过路边呼气测试。随后的调查还确定他非法逍遥法外，并因违反假释规定而被通缉。  a 33-year-old man driving 195 km/h in a 110 km/h zone on Highway 63 near Crow Lake. The man – who had a graduated driver’s licence requiring a zero alcohol reading – also failed a roadside breath test. Subsequent investigation also determined he was unlawfully at large and wanted for parole violations.
+* 一名 33 岁男子以 195 公里/小时的速度在克罗湖附近的 63 号高速公路上以 110 公里/小时的速度行驶。这名男子持有毕业驾驶执照，要求酒精读数为零，但他也未能通过路边呼气测试。随后的调查还确定他非法逍遥法外，并因违反假释规定而被通缉。 a 33-year-old man driving 195 km/h in a 110 km/h zone on Highway 63 near Crow Lake. The man – who had a graduated driver’s licence requiring a zero alcohol reading – also failed a roadside breath test. Subsequent investigation also determined he was unlawfully at large and wanted for parole violations.
 
 商用车检查Commercial vehicle inspections
 

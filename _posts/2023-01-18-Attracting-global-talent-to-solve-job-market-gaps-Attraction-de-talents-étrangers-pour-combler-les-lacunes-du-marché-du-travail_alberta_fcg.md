@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Attracting global talent to solve job market gaps | Attraction de talents étrangers pour combler les lacunes du marché du travail"
+title: "Attracting global talent to solve job market gaps | Attraction de talents étrangers pour combler les lacunes du marché du travail"
 description: Alberta’s government is working to attract more newcomers to help grow the economy and address labour shortages in key sectors.
-date:   Wed, 18 Jan 2023 12:15:00 -0700
+date:  Wed, 18 Jan 2023 12:15:00 -0700
 categories: alberta
 ---
 
-*   要闻速览：  Quick Facts:
-*   相关信息  Related information
-* 多媒体  Multimedia
-* 要闻速览  Faits en bref
-* 相关信息  Renseignements connexes (en anglais seulement)
-* 多媒体  Multimédia
-* 翻译  Translations
+*  要闻速览： Quick Facts:
+*  相关信息 Related information
+* 多媒体 Multimedia
+* 要闻速览 Faits en bref
+* 相关信息 Renseignements connexes (en anglais seulement)
+* 多媒体 Multimédia
+* 翻译 Translations
 
 艾伯塔省经济强劲复苏，而阻碍经济进一步增长的最大问题是劳动力短缺。艾伯塔省政府正在对艾伯塔省优势移民计划 (AAIP) 进行修改，这将增加在艾伯塔省有近亲的国际高需求工人填补这些空缺的机会。Alberta’s economy has recovered strongly and the biggest issue hindering further economic growth is a shortage of labour. Alberta’s government is making changes to the Alberta Advantage Immigration Program (AAIP) that will increase opportunities for international, high-demand workers with close relatives in Alberta to fill those vacancies.
 
@@ -34,24 +34,24 @@ AAIP 是一项经济移民计划，使艾伯塔省能够提名合格的工人获
 
 ## 要闻速览：Quick Facts:
 
-* 2022 年 12 月，阿尔伯塔省新增了 41,000 多个全职工作岗位，2022 年全职工作岗位总数接近 94,000 个。自 2021 年初以来，阿尔伯塔省增加了 221,000 个全职工作岗位。  In December 2022, Alberta gained more than 41,000 new full-time jobs for a total of nearly 94,000 full-time jobs in 2022. 221,000 full-time jobs have been added in Alberta since the start of 2021.
-* 艾伯塔省预测，到 2025 年，多个职业、技能水平和部门的工作岗位将累计短缺 33,100 人  Alberta is forecasting a cumulative job shortage of 33,100 workers by 2025 across several occupations, skill levels and sectors
-* AAIP 是一项经济移民计划，允许艾伯塔省提名个人获得永久居留权。  AAIP is an economic immigration program that allows Alberta to nominate individuals for permanent residence.
-* 被提名人必须具备填补艾伯塔省工作短缺的技能，并能够养家糊口。    *   Nominees must have skills to fill job shortages in Alberta and be able to provide for their families.
-* 加拿大移民、难民和公民部 (IRCC) 设定 AAIP 年度提名限额：  Immigration, Refugees and Citizenship Canada (IRCC) sets AAIP annual nomination limits:
-* 2022 年，AAIP 颁发了 IRCC 分配给七个移民流中的技术和半技术移民的所有 6,500 个提名证书。    *   In 2022, AAIP issued all 6,500 nomination certificates that were allocated by IRCC to skilled and semi-skilled immigrants across seven immigration streams.
-* 3,120 个证书被分配到艾伯塔省快速通道类别下。  3,120 certificates were allocated under the Alberta Express Entry Stream.
+* 2022 年 12 月，阿尔伯塔省新增了 41,000 多个全职工作岗位，2022 年全职工作岗位总数接近 94,000 个。自 2021 年初以来，阿尔伯塔省增加了 221,000 个全职工作岗位。 In December 2022, Alberta gained more than 41,000 new full-time jobs for a total of nearly 94,000 full-time jobs in 2022. 221,000 full-time jobs have been added in Alberta since the start of 2021.
+* 艾伯塔省预测，到 2025 年，多个职业、技能水平和部门的工作岗位将累计短缺 33,100 人 Alberta is forecasting a cumulative job shortage of 33,100 workers by 2025 across several occupations, skill levels and sectors
+* AAIP 是一项经济移民计划，允许艾伯塔省提名个人获得永久居留权。 AAIP is an economic immigration program that allows Alberta to nominate individuals for permanent residence.
+* 被提名人必须具备填补艾伯塔省工作短缺的技能，并能够养家糊口。  *  Nominees must have skills to fill job shortages in Alberta and be able to provide for their families.
+* 加拿大移民、难民和公民部 (IRCC) 设定 AAIP 年度提名限额： Immigration, Refugees and Citizenship Canada (IRCC) sets AAIP annual nomination limits:
+* 2022 年，AAIP 颁发了 IRCC 分配给七个移民流中的技术和半技术移民的所有 6,500 个提名证书。  *  In 2022, AAIP issued all 6,500 nomination certificates that were allocated by IRCC to skilled and semi-skilled immigrants across seven immigration streams.
+* 3,120 个证书被分配到艾伯塔省快速通道类别下。 3,120 certificates were allocated under the Alberta Express Entry Stream.
 
 ## 相关信息Related information
 
-* 艾伯塔省的职业前景（2021-2030）  Alberta’s Occupational Outlook (2021-2030)
-* 艾伯塔优势移民计划 - 更新  Alberta Advantage Immigration Program - Updates
-* 艾伯塔省快速入境流  Alberta Express Entry Stream
+* 艾伯塔省的职业前景（2021-2030） Alberta’s Occupational Outlook (2021-2030)
+* 艾伯塔优势移民计划 - 更新 Alberta Advantage Immigration Program - Updates
+* 艾伯塔省快速入境流 Alberta Express Entry Stream
 
 多媒体Multimedia
 
-* 观看新闻发布会  Watch the news conference
-* 收听新闻发布会  Listen to the news conference
+* 观看新闻发布会 Watch the news conference
+* 收听新闻发布会 Listen to the news conference
 
 * * ** *
 
@@ -75,44 +75,44 @@ AAIP 是一项经济移民计划，使艾伯塔省能够提名合格的工人获
 
 ## 要闻速览Faits en bref
 
-* 截至 2022 年 12 月，阿尔伯塔省的新增工作岗位数量为 41,000 个，2022 年全职工作岗位总数接近 94,000 个。2021 年初至今，阿尔伯塔省新增工作岗位 221,000 个。  En décembre 2022, le nombre de nouveaux emplois en Alberta se situait à 41 000, pour un total de près de 94 000 emplois à temps plein en 2022. Depuis le début de l’année 2021, 221 000 nouveaux emplois ont été ajoutés en Alberta.
+* 截至 2022 年 12 月，阿尔伯塔省的新增工作岗位数量为 41,000 个，2022 年全职工作岗位总数接近 94,000 个。2021 年初至今，阿尔伯塔省新增工作岗位 221,000 个。 En décembre 2022, le nombre de nouveaux emplois en Alberta se situait à 41 000, pour un total de près de 94 000 emplois à temps plein en 2022. Depuis le début de l’année 2021, 221 000 nouveaux emplois ont été ajoutés en Alberta.
 
-* 艾伯塔省预计到 2025 年，多个职业和部门以及不同技能水平的工人累计短缺 33,100 人。  L’Alberta prévoit une pénurie cumulative de 33 100 travailleurs d’ici 2025 dans plusieurs professions et secteurs, et pour différents niveaux de compétences.
+* 艾伯塔省预计到 2025 年，多个职业和部门以及不同技能水平的工人累计短缺 33,100 人。 L’Alberta prévoit une pénurie cumulative de 33 100 travailleurs d’ici 2025 dans plusieurs professions et secteurs, et pour différents niveaux de compétences.
 
-* AIIP（阿尔伯塔省提名计划）是一项经济移民计划，允许阿尔伯塔省提名技术工人并授予他们永久居民身份。  L’AIIP (Programme des candidats de l’Alberta) est un programme d’immigration économique qui permet à l’Alberta de désigner des travailleurs qualifiés et de leur accorder le statut de résident permanent.
+* AIIP（阿尔伯塔省提名计划）是一项经济移民计划，允许阿尔伯塔省提名技术工人并授予他们永久居民身份。 L’AIIP (Programme des candidats de l’Alberta) est un programme d’immigration économique qui permet à l’Alberta de désigner des travailleurs qualifiés et de leur accorder le statut de résident permanent.
 
-*申请人必须具备填补艾伯塔省职位空缺的技能，并能够养家糊口。    *   Les candidats doivent posséder les compétences nécessaires pour occuper les postes vacants en Alberta et être en mesure de subvenir aux besoins de leur famille.
+*申请人必须具备填补艾伯塔省职位空缺的技能，并能够养家糊口。  *  Les candidats doivent posséder les compétences nécessaires pour occuper les postes vacants en Alberta et être en mesure de subvenir aux besoins de leur famille.
 
-* 加拿大移民、难民和公民部 (IRCC) 规定了 AAIP（阿尔伯塔省提名计划）任命的年度最大数量：  Immigration, Réfugiés et Citoyenneté Canada (IRCC) établit le nombre maximal annuel de nominations de l’AAIP (Programme des candidats de l’Alberta) :
+* 加拿大移民、难民和公民部 (IRCC) 规定了 AAIP（阿尔伯塔省提名计划）任命的年度最大数量： Immigration, Réfugiés et Citoyenneté Canada (IRCC) établit le nombre maximal annuel de nominations de l’AAIP (Programme des candidats de l’Alberta) :
 
-* 2022年，AAIP（Alberta Nominee Program）颁发了100% IRCC分配给半技术移民的提名证书，分为七个移民类别。    *   En 2022, l’AAIP (Programme des candidats de l’Alberta) a émis la totalité des certificats de nominations alloués par l’IRCC à des immigrants semi-qualifiés, dans le cadre de sept volets d’immigration.
+* 2022年，AAIP（Alberta Nominee Program）颁发了100% IRCC分配给半技术移民的提名证书，分为七个移民类别。  *  En 2022, l’AAIP (Programme des candidats de l’Alberta) a émis la totalité des certificats de nominations alloués par l’IRCC à des immigrants semi-qualifiés, dans le cadre de sept volets d’immigration.
 
-* 共有 3,120 个证书被分配到艾伯塔省的快速通道类别下。  Un total de 3 120 certificats a été alloué dans le cadre du volet d’Entrée express de l’Alberta.
+* 共有 3,120 个证书被分配到艾伯塔省的快速通道类别下。 Un total de 3 120 certificats a été alloué dans le cadre du volet d’Entrée express de l’Alberta.
 
 ## 相关信息Renseignements connexes (en anglais seulement)
 
-* 艾伯塔省的职业前景（2021-2030）  Alberta’s Occupational Outlook (2021-2030)
-* 艾伯塔优势移民计划 - 更新  Alberta Advantage Immigration Program - Updates
-* 艾伯塔省快速入境流  Alberta Express Entry Stream
+* 艾伯塔省的职业前景（2021-2030） Alberta’s Occupational Outlook (2021-2030)
+* 艾伯塔优势移民计划 - 更新 Alberta Advantage Immigration Program - Updates
+* 艾伯塔省快速入境流 Alberta Express Entry Stream
 
 多媒体Multimédia
 
-* 观看新闻发布会  Visionnez la conférence de presse
+* 观看新闻发布会 Visionnez la conférence de presse
 
 ## 翻译Translations
 
-* 阿拉伯语  Arabic
-* 印地语  Hindi
-*   韩国人  Korean
-* 波斯语  Persian
-* 旁遮普语  Punjabi
-*   简体中文  Simplified Chinese
-* 索马里语  Somali
-*   西班牙语  Spanish
-* 他加禄语  Tagalog
-*   繁体中文  Traditional Chinese
-* 乌克兰语  Ukrainian
-*乌尔都语  Urdu
-* 越南语  Vietnamese
+* 阿拉伯语 Arabic
+* 印地语 Hindi
+*  韩国人 Korean
+* 波斯语 Persian
+* 旁遮普语 Punjabi
+*  简体中文 Simplified Chinese
+* 索马里语 Somali
+*  西班牙语 Spanish
+* 他加禄语 Tagalog
+*  繁体中文 Traditional Chinese
+* 乌克兰语 Ukrainian
+*乌尔都语 Urdu
+* 越南语 Vietnamese
 
 FCGvisa translated, alberta.ca All Rights Reserved.

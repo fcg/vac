@@ -1,26 +1,26 @@
 ---
 layout: post
-title:  "Inflation relief portal and payments coming soon | Portail de lutte contre l’inflation et paiement à venir bientôt"
+title: "Inflation relief portal and payments coming soon | Portail de lutte contre l’inflation et paiement à venir bientôt"
 description: Monthly $100 affordability payments for families, seniors, and vulnerable Albertans will be released soon, and Albertans can act now to get ready.
-date:   Mon, 09 Jan 2023 10:45:00 -0700
+date:  Mon, 09 Jan 2023 10:45:00 -0700
 categories: alberta
 ---
 
-* AISH、收入支持和 PDD 客户的支付能力支付  Affordability payments for AISH, Income Support and PDD clients
-* 老年人支付能力支付  Affordability payments for seniors
-* 照顾 18 岁以下儿童的父母或监护人的支付能力  Affordability payments for parents or guardians caring for children under 18
-* 为照顾 18 岁以下儿童的寄养和亲属关系看护人支付的支付能力  Affordability payments for foster and kinship caregivers caring for children under 18
-*   要闻速览：  Quick facts:
-*   相关信息  Related information
-* 多媒体  Multimedia
-* 翻译  Translations
-* 为严重残障人士保障收入 (AISH)、收入支持（就业和收入支持）和发育障碍人士 (PDD) 的客户提供的付款使他们的生活更负担得起  Paiements visant à rendre la vie plus abordable pour les clients de l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées), de l’Income Support (soutien à l’emploi et aux revenus) et du Persons with Developmental Disabilities (PDD) (personnes atteintes de déficience développementale)
-*旨在让老年人的生活更负担得起的付款  Versements visant à rendre la vie des aînés plus abordable
-* 支付款项使 18 岁以下儿童的父母或监护人的生活负担得起  Paiements visant à rendre la vie des parents ou tuteurs s’occupant d’enfants de moins de 18 ans plus abordable
-* 付款使寄宿家庭或监护人的生活更负担得起  Paiements visant à rendre la vie des familles d’accueil ou des tuteurs plus abordable
-* 要闻速览  Faits en bref
-* 相关信息  Renseignements connexes (en anglais seulement)
-* 多媒体  Multimédia (en anglais seulement)
+* AISH、收入支持和 PDD 客户的支付能力支付 Affordability payments for AISH, Income Support and PDD clients
+* 老年人支付能力支付 Affordability payments for seniors
+* 照顾 18 岁以下儿童的父母或监护人的支付能力 Affordability payments for parents or guardians caring for children under 18
+* 为照顾 18 岁以下儿童的寄养和亲属关系看护人支付的支付能力 Affordability payments for foster and kinship caregivers caring for children under 18
+*  要闻速览： Quick facts:
+*  相关信息 Related information
+* 多媒体 Multimedia
+* 翻译 Translations
+* 为严重残障人士保障收入 (AISH)、收入支持（就业和收入支持）和发育障碍人士 (PDD) 的客户提供的付款使他们的生活更负担得起 Paiements visant à rendre la vie plus abordable pour les clients de l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées), de l’Income Support (soutien à l’emploi et aux revenus) et du Persons with Developmental Disabilities (PDD) (personnes atteintes de déficience développementale)
+*旨在让老年人的生活更负担得起的付款 Versements visant à rendre la vie des aînés plus abordable
+* 支付款项使 18 岁以下儿童的父母或监护人的生活负担得起 Paiements visant à rendre la vie des parents ou tuteurs s’occupant d’enfants de moins de 18 ans plus abordable
+* 付款使寄宿家庭或监护人的生活更负担得起 Paiements visant à rendre la vie des familles d’accueil ou des tuteurs plus abordable
+* 要闻速览 Faits en bref
+* 相关信息 Renseignements connexes (en anglais seulement)
+* 多媒体 Multimédia (en anglais seulement)
 
 艾伯塔省的经济已经强劲复苏，但许多人都在为家庭取暖和养家糊口而苦苦挣扎。艾伯塔省政府以加拿大规模最大的通货膨胀救济方案作为回应，并提供基础广泛且有针对性的支持。从本月开始，艾伯塔人将通过快速、有效和安全的申请和分配系统开始为期六个月的支付能力支付。Alberta’s economy has recovered strongly, but many people are struggling to heat their homes and feed their families. Alberta’s government has responded with the largest inflation relief package in Canada, with significant broad-based and targeted supports. Starting this month, six months of affordability payments will begin for Albertans through an application and distribution system that is fast, effective and safe.
 
@@ -52,11 +52,11 @@ AISH、收入支持和 PDD 客户的负担能力付款Affordability payments for
 
 所有访问 AISH、收入支持或 PDD 的客户都会自动加入该计划，无需注册即可获得福利。他们将从 1 月 31 日开始收到第一笔 100 美元的付款。All clients accessing AISH, Income Support or PDD are automatically enrolled in the program and do not need to sign up to receive their benefits. They will receive their first $100 payments starting January 31.
 
-* 付款将以与客户每月定期福利相同的方式交付，无论是通过自动存款还是实物支票。  Payments will be delivered the same way as a client’s regular monthly benefits, whether by automatic deposit or a physical cheque.
-* 对于未领取 AISH 或收入支持福利的现有 PDD 客户，将通过实物支票支付款项。  Payments will be delivered by physical cheque for existing PDD clients who are not receiving AISH or Income Support benefits.
-* 受益人也将直接收到有关他们加入付款计划和相关信息的通知。  Beneficiaries will also be notified directly about their enrollment in the payment program and related information.
-* 这些付款将被 AISH 和收入支持计划视为免税收入，不会影响资格或经济利益。  These payments will be treated as exempt income by the AISH and Income Support programs and will not impact eligibility or financial benefits.
-* 这些计划中有 18 岁以下儿童的家长还可以获得每个孩子 600 美元的额外付款。从 1 月 18 日开始，他们需要在线或亲自申请这些付款。  Parents in these programs with children under 18 can also receive $600 in additional payments per child. They will need to apply online or in person for these payments starting January 18.
+* 付款将以与客户每月定期福利相同的方式交付，无论是通过自动存款还是实物支票。 Payments will be delivered the same way as a client’s regular monthly benefits, whether by automatic deposit or a physical cheque.
+* 对于未领取 AISH 或收入支持福利的现有 PDD 客户，将通过实物支票支付款项。 Payments will be delivered by physical cheque for existing PDD clients who are not receiving AISH or Income Support benefits.
+* 受益人也将直接收到有关他们加入付款计划和相关信息的通知。 Beneficiaries will also be notified directly about their enrollment in the payment program and related information.
+* 这些付款将被 AISH 和收入支持计划视为免税收入，不会影响资格或经济利益。 These payments will be treated as exempt income by the AISH and Income Support programs and will not impact eligibility or financial benefits.
+* 这些计划中有 18 岁以下儿童的家长还可以获得每个孩子 600 美元的额外付款。从 1 月 18 日开始，他们需要在线或亲自申请这些付款。 Parents in these programs with children under 18 can also receive $600 in additional payments per child. They will need to apply online or in person for these payments starting January 18.
 
 老年人负担能力支付Affordability payments for seniors
 
@@ -74,48 +74,48 @@ AISH、收入支持和 PDD 客户的负担能力付款Affordability payments for
 
 照顾 18 岁以下儿童的符合条件的亲属关系或寄养人将自动加入该计划，无需注册即可获得负担能力付款。他们将在一月底收到第一笔款项。Eligible kinship or foster caregivers caring for a child under the age of 18 are automatically enrolled in the program and do not need to sign up to receive their affordability payments. They will receive their first payments at the end of January.
 
-* 付款将以与定期每月福利相同的方式交付，无论是通过自动存款还是实物支票。  Payments will be delivered the same way as regular monthly benefits, whether by automatic deposit or physical cheque.
-* 每月付款将从 1 月 31 日开始推出。  Monthly payments will be rolled out starting January 31.
+* 付款将以与定期每月福利相同的方式交付，无论是通过自动存款还是实物支票。 Payments will be delivered the same way as regular monthly benefits, whether by automatic deposit or physical cheque.
+* 每月付款将从 1 月 31 日开始推出。 Monthly payments will be rolled out starting January 31.
 
 艾伯塔省政府正在提供即时的生活成本和通货膨胀救济，同时也在努力支持长期的负担能力。艾伯塔人可以在线了解有关所有基础广泛且有针对性的负担能力救济计划的更多信息。Alberta’s government is delivering immediate cost of living and inflation relief while also working to support long-term affordability. Albertans can learn more about all the broad-based and targeted affordability relief programs online.
 
 ## 要闻速览：Quick facts:
 
-* 艾伯塔省政府将使用 CRA 2021 税收数据来验证基于收入的资格。  Alberta’s government will use CRA 2021 tax data to verify eligibility based on income.
-* 申请可以在 6 月 30 日之前提交，付款具有追溯力，包括之前符合条件的月份。  Applications can be submitted until June 30, with payments being retroactive to include previous months when a person was eligible.
-* 一旦成功完成申请流程，大多数艾伯塔人将在当月月底收到付款。具体时间因人而异。  Once the application process is successfully completed, most Albertans will receive payments at the end of that month. Exact timing will vary for each individual.
-* 自 2015 年以来，艾伯塔省一直在验证账户，以此作为艾伯塔人安全可靠地访问越来越多的政府服务的一种方式。  Alberta has had verified accounts since 2015 as a way for Albertans to safely and securely access a growing number of government services.
-* 与所有在线帐户一样，艾伯塔人应使用强密码，不要与其他任何人分享密码。艾伯塔省政府网站上提供了有关如何创建强密码的提示。  As with all online accounts, Albertans should use strong passwords and not share their password with anyone else. Tips on how to create a strong password are available on the Government of Alberta site.
-* 艾伯塔省政府不会发送短信或电子邮件要求艾伯塔人提交个人或银行信息以接收付款。  The Alberta government will not send texts or emails asking Albertans to submit personal or banking information to receive payments.
+* 艾伯塔省政府将使用 CRA 2021 税收数据来验证基于收入的资格。 Alberta’s government will use CRA 2021 tax data to verify eligibility based on income.
+* 申请可以在 6 月 30 日之前提交，付款具有追溯力，包括之前符合条件的月份。 Applications can be submitted until June 30, with payments being retroactive to include previous months when a person was eligible.
+* 一旦成功完成申请流程，大多数艾伯塔人将在当月月底收到付款。具体时间因人而异。 Once the application process is successfully completed, most Albertans will receive payments at the end of that month. Exact timing will vary for each individual.
+* 自 2015 年以来，艾伯塔省一直在验证账户，以此作为艾伯塔人安全可靠地访问越来越多的政府服务的一种方式。 Alberta has had verified accounts since 2015 as a way for Albertans to safely and securely access a growing number of government services.
+* 与所有在线帐户一样，艾伯塔人应使用强密码，不要与其他任何人分享密码。艾伯塔省政府网站上提供了有关如何创建强密码的提示。 As with all online accounts, Albertans should use strong passwords and not share their password with anyone else. Tips on how to create a strong password are available on the Government of Alberta site.
+* 艾伯塔省政府不会发送短信或电子邮件要求艾伯塔人提交个人或银行信息以接收付款。 The Alberta government will not send texts or emails asking Albertans to submit personal or banking information to receive payments.
 
 
 ## 相关信息Related information
 
-*负担能力支付  Affordability payments
-* 注册或检查您的已验证帐户状态  Sign-up or check on your Verified Account Status
-* 负担能力行动计划  Affordability Action Plan
+*负担能力支付 Affordability payments
+* 注册或检查您的已验证帐户状态 Sign-up or check on your Verified Account Status
+* 负担能力行动计划 Affordability Action Plan
 
 多媒体Multimedia
 
-* 观看新闻发布会  Watch the news conference
-* 收听新闻发布会  Listen to the news conference
-* 视频：如何申请负担能力付款  Video: How to apply for your affordability payments
+* 观看新闻发布会 Watch the news conference
+* 收听新闻发布会 Listen to the news conference
+* 视频：如何申请负担能力付款 Video: How to apply for your affordability payments
 
 ## 翻译Translations
 
-* 阿拉伯语  Arabic
-* 印地语  Hindi
-*   韩国人  Korean
-* 波斯语  Persian
-* 旁遮普语  Punjabi
-*   简体中文  Simplified Chinese
-* 索马里语  Somali
-*   西班牙语  Spanish
-* 他加禄语  Tagalog
-*   繁体中文  Traditional Chinese
-* 乌克兰语  Ukrainian
-*乌尔都语  Urdu
-* 越南语  Vietnamese
+* 阿拉伯语 Arabic
+* 印地语 Hindi
+*  韩国人 Korean
+* 波斯语 Persian
+* 旁遮普语 Punjabi
+*  简体中文 Simplified Chinese
+* 索马里语 Somali
+*  西班牙语 Spanish
+* 他加禄语 Tagalog
+*  繁体中文 Traditional Chinese
+* 乌克兰语 Ukrainian
+*乌尔都语 Urdu
+* 越南语 Vietnamese
 
 * * ** *
 
@@ -150,11 +150,11 @@ AISH、收入支持和 PDD 客户的负担能力付款Affordability payments for
 
 所有接受严重残障人士保障收入 (AISH)、收入支持和发育障碍人士 (PDD)（有发育障碍的人）的客户都会自动加入该计划，无需注册即可领取福利。他们将从 1 月 31 日开始收到第一笔 100 美元的款项。Tous les clients bénéficiant de l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées), de l’Income Support (soutien à l’emploi et aux revenus) et du Persons with Developmental Disabilities (PDD) (personnes atteintes de déficience développementale) sont automatiquement inscrits au programme et n’ont pas à s’inscrire pour recevoir leurs prestations. Ils recevront leur premier versement de 100 $ à compter du 31 janvier.
 
-* 付款将以与客户每月定期福利相同的方式通过自动存款或支票进行。  Les paiements seront effectués de la même manière que pour les prestations mensuelles régulières d’un client, par dépôt automatique ou par chèque.
-*对于未接受发育障碍人士 (PDD) 严重残障人士收入保障 (AISH) **或收入支持（就业和收入支持）的当前客户，将通过支票付款。**  Les paiements seront effectués par chèque pour les clients actuels qui ne reçoivent pas du Persons with Developmental Disabilities (PDD) (personnes atteintes de déficience développementale)l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées) **ou l’Income Support (soutien à l’emploi et aux revenus).**
-* 收件人也将直接收到他们加入付款计划的通知并提供相关信息。  Les bénéficiaires seront également informés directement de leur inscription au programme de paiement et recevront des renseignements connexes.
-* 这些付款将被视为免除严重残障人士保障收入 (AISH) 或收入支持的收入**，并且不会影响资格或经济福利。  Ces paiements seront traités comme des revenus exonérés par l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées) ou l’Income Support (soutien à l’emploi et aux revenus**)** et n’auront aucune incidence sur l’admissibilité ou les avantages financiers.
-* 与 18 岁以下儿童一起参加这些计划的家长还可以获得每个孩子 600 美元的额外付款。从 1 月 18 日开始，他们需要在线或亲自申请这些付款。  Les parents participant à ces programmes et ayant des enfants de moins de 18 ans peuvent également recevoir un versement supplémentaire de 600 $ par enfant. Ils devront faire une demande en ligne ou en personne pour ces paiements à partir du 18 janvier.
+* 付款将以与客户每月定期福利相同的方式通过自动存款或支票进行。 Les paiements seront effectués de la même manière que pour les prestations mensuelles régulières d’un client, par dépôt automatique ou par chèque.
+*对于未接受发育障碍人士 (PDD) 严重残障人士收入保障 (AISH) **或收入支持（就业和收入支持）的当前客户，将通过支票付款。** Les paiements seront effectués par chèque pour les clients actuels qui ne reçoivent pas du Persons with Developmental Disabilities (PDD) (personnes atteintes de déficience développementale)l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées) **ou l’Income Support (soutien à l’emploi et aux revenus).**
+* 收件人也将直接收到他们加入付款计划的通知并提供相关信息。 Les bénéficiaires seront également informés directement de leur inscription au programme de paiement et recevront des renseignements connexes.
+* 这些付款将被视为免除严重残障人士保障收入 (AISH) 或收入支持的收入**，并且不会影响资格或经济福利。 Ces paiements seront traités comme des revenus exonérés par l’Assured Income for the Severely Handicapped (AISH) (Revenu assuré pour les personnes gravement handicapées) ou l’Income Support (soutien à l’emploi et aux revenus**)** et n’auront aucune incidence sur l’admissibilité ou les avantages financiers.
+* 与 18 岁以下儿童一起参加这些计划的家长还可以获得每个孩子 600 美元的额外付款。从 1 月 18 日开始，他们需要在线或亲自申请这些付款。 Les parents participant à ces programmes et ayant des enfants de moins de 18 ans peuvent également recevoir un versement supplémentaire de 600 $ par enfant. Ils devront faire une demande en ligne ou en personne pour ces paiements à partir du 18 janvier.
 
 付款使老年人的生活更负担得起Versements visant à rendre la vie des aînés plus abordable
 
@@ -172,31 +172,31 @@ AISH、收入支持和 PDD 客户的负担能力付款Affordability payments for
 
 照料符合条件的 18 岁以下儿童的寄养家庭或监护人将自动加入该计划，因此无需注册即可获得无障碍支付。他们将在一月底收到第一笔付款。Les familles d’accueil ou tuteurs qui s’occupent d’un enfant de moins de 18 ans admissibles sont automatiquement inscrits au programme et n’ont donc pas à s’inscrire pour recevoir leurs paiements d’accessibilité. Ils recevront leur premier versement à la fin du mois de janvier.
 
-* 这些款项将以与定期每月福利相同的方式通过自动存款或支票支付。  Ces versements seront effectués de la même manière que pour les prestations mensuelles régulières, par dépôt automatique ou par chèque.
-* 每月付款将从 1 月 31 日开始发放。  Les paiements mensuels seront émis à partir du 31 janvier.
+* 这些款项将以与定期每月福利相同的方式通过自动存款或支票支付。 Ces versements seront effectués de la même manière que pour les prestations mensuelles régulières, par dépôt automatique ou par chèque.
+* 每月付款将从 1 月 31 日开始发放。 Les paiements mensuels seront émis à partir du 31 janvier.
 
 艾伯塔省政府正在提供即时救济，以应对不断上涨的生活成本和通货膨胀，同时努力支持长期负担能力。艾伯塔人可以在线了解有关所有一般和有针对性的经济负担减轻计划的更多信息。Le gouvernement de l’Alberta offre un allégement immédiat pour lutter contre la hausse du coût de la vie et l’inflation tout en s’efforçant de soutenir l’abordabilité à long terme. Les Albertaines et Albertains peuvent en savoir plus sur tous les programmes d’allègement de la charge financière, qu’ils soient généraux ou ciblés, en ligne.
 
 ## 要闻速览Faits en bref
 
-*艾伯塔省政府将使用 CRA 2021 税收数据来验证基于收入的资格。  Le gouvernement de l’Alberta utilisera les données fiscales de l’ARC 2021 pour vérifier l’admissibilité en fonction du revenu.
-* 索赔可以在 6 月 30 日之前提交，付款可追溯至包括一个人符合资格的前几个月。  Les demandes peuvent être soumises jusqu’au 30 juin, les paiements étant rétroactifs pour inclure les mois précédents où une personne était admissible.
-* 成功完成申请流程后，大多数艾伯塔人将在月底收到付款。支付的确切时间因人而异。  Une fois le processus de demande réalisé avec succès, la plupart des Albertaines et Albertains recevront des versements à la fin du mois. Le moment exact du versement varie selon les personnes.
-* 自 2015 年以来，艾伯塔省已经拥有经过验证的账户，这是艾伯塔人安全访问越来越多的政府服务的一种方式。  Depuis 2015, l’Alberta dispose de comptes vérifiés, un moyen pour les Albertaines et Albertains d’accéder en toute sécurité à un nombre croissant de services gouvernementaux.
-*与所有在线帐户一样，艾伯塔人应使用强密码，不要与任何人分享密码。有关如何创建强密码的建议，请访问艾伯塔省政府网站。  Comme pour tous les comptes en ligne, les Albertaines et Albertains doivent utiliser des mots de passe forts et ne pas communiquer leur mot de passe à quiconque. Des conseils sur la façon de créer un mot de passe fort se trouvent sur le site du gouvernement de l’Alberta.
-* 艾伯塔省政府不会发送短信或电子邮件要求艾伯塔人提交个人或银行信息以接收这些付款。  Le gouvernement de l’Alberta n’enverra pas de messages textes ni de courriels demandant aux Albertaines et Albertains de soumettre des renseignements personnels ou bancaires pour recevoir ces paiements.
+*艾伯塔省政府将使用 CRA 2021 税收数据来验证基于收入的资格。 Le gouvernement de l’Alberta utilisera les données fiscales de l’ARC 2021 pour vérifier l’admissibilité en fonction du revenu.
+* 索赔可以在 6 月 30 日之前提交，付款可追溯至包括一个人符合资格的前几个月。 Les demandes peuvent être soumises jusqu’au 30 juin, les paiements étant rétroactifs pour inclure les mois précédents où une personne était admissible.
+* 成功完成申请流程后，大多数艾伯塔人将在月底收到付款。支付的确切时间因人而异。 Une fois le processus de demande réalisé avec succès, la plupart des Albertaines et Albertains recevront des versements à la fin du mois. Le moment exact du versement varie selon les personnes.
+* 自 2015 年以来，艾伯塔省已经拥有经过验证的账户，这是艾伯塔人安全访问越来越多的政府服务的一种方式。 Depuis 2015, l’Alberta dispose de comptes vérifiés, un moyen pour les Albertaines et Albertains d’accéder en toute sécurité à un nombre croissant de services gouvernementaux.
+*与所有在线帐户一样，艾伯塔人应使用强密码，不要与任何人分享密码。有关如何创建强密码的建议，请访问艾伯塔省政府网站。 Comme pour tous les comptes en ligne, les Albertaines et Albertains doivent utiliser des mots de passe forts et ne pas communiquer leur mot de passe à quiconque. Des conseils sur la façon de créer un mot de passe fort se trouvent sur le site du gouvernement de l’Alberta.
+* 艾伯塔省政府不会发送短信或电子邮件要求艾伯塔人提交个人或银行信息以接收这些付款。 Le gouvernement de l’Alberta n’enverra pas de messages textes ni de courriels demandant aux Albertaines et Albertains de soumettre des renseignements personnels ou bancaires pour recevoir ces paiements.
 
 
 ## 相关信息Renseignements connexes (en anglais seulement)
 
-*旨在让生活更负担得起的付款  Versements visant à rendre la vie plus abordable
-* 注册或检查您已验证帐户的状态  S’inscrire ou vérifier l’état de votre compte vérifié
-* 让生活更实惠的行动计划  Plan d’action pour rendre la vie plus abordable
+*旨在让生活更负担得起的付款 Versements visant à rendre la vie plus abordable
+* 注册或检查您已验证帐户的状态 S’inscrire ou vérifier l’état de votre compte vérifié
+* 让生活更实惠的行动计划 Plan d’action pour rendre la vie plus abordable
 
 多媒体Multimédia (en anglais seulement)
 
-* 观看新闻发布会  Visionnez la conférence de presse
-* 听新闻发布会  Écouter la conférence de presse
-* • 视频：如何申请  • Vidéo : Comment faire une demande
+* 观看新闻发布会 Visionnez la conférence de presse
+* 听新闻发布会 Écouter la conférence de presse
+* • 视频：如何申请 • Vidéo : Comment faire une demande
 
 FCGvisa translated, alberta.ca All Rights Reserved.

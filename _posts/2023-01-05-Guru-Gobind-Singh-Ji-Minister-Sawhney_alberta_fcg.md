@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Guru Gobind Singh Ji: Minister Sawhney"
+title: "Guru Gobind Singh Ji: Minister Sawhney"
 description: Minister of Trade, Immigration and Multiculturalism Rajan Sawhney issued the following statement on the anniversary of the birth of Guru Gobind Singh Ji:
-date:   Thu, 05 Jan 2023 09:28:00 -0700
+date:  Thu, 05 Jan 2023 09:28:00 -0700
 categories: alberta
 ---
 
-* 翻译  Translations
+* 翻译 Translations
 
 “1 月 5 日，艾伯塔省和世界各地的锡克教徒齐聚一堂，庆祝锡克教第十任古鲁戈宾德·辛格·吉 (Guru Gobind Singh Ji)。“On January 5, Sikhs in Alberta and around the world join together and celebrate Guru Gobind Singh Ji, the 10th guru of the Sikh faith.
 
@@ -20,6 +20,6 @@ categories: alberta
 
 ## 翻译Translations
 
-* 旁遮普语  Punjabi
+* 旁遮普语 Punjabi
 
 FCGvisa translated, alberta.ca All Rights Reserved.

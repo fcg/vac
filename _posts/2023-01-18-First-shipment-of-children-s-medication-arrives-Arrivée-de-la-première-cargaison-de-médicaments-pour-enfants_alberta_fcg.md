@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "First shipment of children’s medication arrives | Arrivée de la première cargaison de médicaments pour enfants"
+title: "First shipment of children’s medication arrives | Arrivée de la première cargaison de médicaments pour enfants"
 description: Alberta’s first shipment of children’s liquid acetaminophen has arrived and will be distributed to hospitals across the province immediately.
-date:   Wed, 18 Jan 2023 20:25:00 -0700
+date:  Wed, 18 Jan 2023 20:25:00 -0700
 categories: alberta
 ---
 
-* 多媒体  Multimedia
-* 翻译  Translations
-* 多媒体  Multimédia
+* 多媒体 Multimedia
+* 翻译 Translations
+* 多媒体 Multimédia
 
 _副总理 Nathan Neudorf、埃德蒙顿国际机场首席执行官 Myron Keehn 和卫生部长 Jason Copping 在埃德蒙顿国际机场会见了载有第一批儿童止痛药的航班。_Deputy Premier Nathan Neudorf, Myron Keehn, CEO of Edmonton International Airport and Minister of Health Jason Copping meet the flight carrying the first shipment of children’s pain medication at the Edmonton International Airport._
 
@@ -36,24 +36,24 @@ _副总理 Nathan Neudorf、埃德蒙顿国际机场首席执行官 Myron Keehn 
 
 多媒体Multimedia
 
-* 音频：科平部长引述  Audio: Quote from Minister Copping
-* 货物到达照片  Photos of shipment arrival
+* 音频：科平部长引述 Audio: Quote from Minister Copping
+* 货物到达照片 Photos of shipment arrival
 
 ## 翻译Translations
 
-* 阿拉伯语  Arabic
-* 印地语  Hindi
-*   韩国人  Korean
-* 波斯语  Persian
-* 旁遮普语  Punjabi
-*   简体中文  Simplified Chinese
-* 索马里语  Somali
-*   西班牙语  Spanish
-* 他加禄语  Tagalog
-*   繁体中文  Traditional Chinese
-* 乌克兰语  Ukrainian
-*乌尔都语  Urdu
-* 越南语  Vietnamese
+* 阿拉伯语 Arabic
+* 印地语 Hindi
+*  韩国人 Korean
+* 波斯语 Persian
+* 旁遮普语 Punjabi
+*  简体中文 Simplified Chinese
+* 索马里语 Somali
+*  西班牙语 Spanish
+* 他加禄语 Tagalog
+*  繁体中文 Traditional Chinese
+* 乌克兰语 Ukrainian
+*乌尔都语 Urdu
+* 越南语 Vietnamese
 
 * * ** *
 
@@ -83,7 +83,7 @@ _副总理 Nathan Neudorf、埃德蒙顿国际机场首席执行官 Myron Keehn 
 
 多媒体Multimédia
 
-* 音频：科平部长引述  Audio : citation du ministre Copping (en anglais)
-* 货物到达照片  Photos de l’arrivée de la cargaison
+* 音频：科平部长引述 Audio : citation du ministre Copping (en anglais)
+* 货物到达照片 Photos de l’arrivée de la cargaison
 
 FCGvisa translated, alberta.ca All Rights Reserved.

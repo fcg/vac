@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Investigation continues into officer-involved death in Strathmore"
+title: "Investigation continues into officer-involved death in Strathmore"
 description: On Dec. 25, 2022, the Alberta Serious Incident Response Team (ASIRT) was directed to investigate an officer-involved shooting earlier that day in Strathmore.
-date:   Tue, 03 Jan 2023 15:40:00 -0700
+date:  Tue, 03 Jan 2023 15:40:00 -0700
 categories: alberta
 ---
 

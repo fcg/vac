@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Cutting red tape for food trade in Lloydminster"
+title: "Cutting red tape for food trade in Lloydminster"
 description: The Alberta and Saskatchewan governments and the Canadian Food Inspection Agency (CFIA) are partnering to remove barriers to interprovincial food trade in Lloydminster.
-date:   Thu, 19 Jan 2023 11:00:00 -0700
+date:  Thu, 19 Jan 2023 11:00:00 -0700
 categories: alberta
 ---
 
-*   相关信息  Related information
+*  相关信息 Related information
 
 作为一个被阿尔伯塔省和萨斯喀彻温省边界分割开来的城市，食品贸易问题一直是一个长期关注的问题。这项为期两年的试点旨在找到一种解决方案，以帮助劳埃德明斯特和加拿大各地的类似边境城镇。As a city split by the Alberta-Saskatchewan border, food trade issues have been a longtime concern. The two-year pilot aims to find a solution that could help Lloydminster and similar border towns throughout Canada.
 
@@ -36,7 +36,7 @@ categories: alberta
 
 ## 相关信息Related information
 
-* CFIA 意向通知  CFIA Notice of Intent
-*劳埃德明斯特食品贸易试点  Lloydminster Food Trade Pilot
+* CFIA 意向通知 CFIA Notice of Intent
+*劳埃德明斯特食品贸易试点 Lloydminster Food Trade Pilot
 
 FCGvisa translated, alberta.ca All Rights Reserved.
