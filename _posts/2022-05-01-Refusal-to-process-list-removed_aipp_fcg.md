@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Refusal to process list removed"
+title: "Refusal to process list removed"
 description: May 1, 2022: Refusal to process list removed
 date: 2022-05-01
 categories: alberta

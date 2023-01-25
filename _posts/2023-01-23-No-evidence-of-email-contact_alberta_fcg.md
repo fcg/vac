@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"No evidence of email contact"
+title: "No evidence of email contact"
 description: A comprehensive review of emails has not generated any records of contact between the Alberta Crown Prosecution Service (ACPS) and the Premier’s Office staff.
 date: Mon, 23 Jan 2023 09:50:00 -0700
 categories: alberta

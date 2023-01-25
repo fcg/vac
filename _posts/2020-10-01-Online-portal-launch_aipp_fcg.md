@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Online portal launch"
+title: "Online portal launch"
 description: October 1, 2020: Online portal launch
 date: 2020-10-01
 categories: alberta

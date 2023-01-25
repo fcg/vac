@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Helping more students with disabilities"
+title: "Helping more students with disabilities"
 description: An additional 5,200 students will receive disability funding with new changes to the Grant for Students with Disabilities.
 date: Mon, 23 Jan 2023 13:00:00 -0700
 categories: alberta

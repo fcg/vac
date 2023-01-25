@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Alberta Express Entry Selections Based on High Demand Occupations and Family Relatives"
+title: "Alberta Express Entry Selections Based on High Demand Occupations and Family Relatives"
 description: January 18, 2023: Alberta Express Entry Selections Based on High Demand Occupations and Family Relatives
 date: 2023-01-18
 categories: alberta

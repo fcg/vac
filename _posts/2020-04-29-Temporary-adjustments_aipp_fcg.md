@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Temporary adjustments"
+title: "Temporary adjustments"
 description: April 29, 2020: Temporary adjustments
 date: 2020-04-29
 categories: alberta

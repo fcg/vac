@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"HCAP: Lowering surgical wait times in Calgary"
+title: "HCAP: Lowering surgical wait times in Calgary"
 description: Albertans will have access to thousands more publicly funded orthopedic surgeries at Calgary chartered surgical facilities as part of the Health Care Action Plan (HCAP).
 date: Mon, 23 Jan 2023 11:15:00 -0700
 categories: alberta

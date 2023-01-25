@@ -16,9 +16,9 @@ async function abnewsfeeds() {
   const shfilearray = [];
   let shcontent = "";
 
-  // entries.forEach(async (element) => {
+  entries.forEach(async (element) => {
   // console.log(element);
-  for (const element of entries) {
+  // for (const element of entries) {
     const id = element.id;
     const pageurl = element.links[0].href;
     const title = element.title.value;
@@ -26,10 +26,19 @@ async function abnewsfeeds() {
     const description = element.description.value;
 
     const url = new URL(pageurl);
-    const path = title.replaceAll(" ", "-").replaceAll(":", "").replaceAll(
-      "’",
-      "-",
-    ).replaceAll("|", "").replaceAll("--", "-");
+    const path = title.replaceAll(",", "-").replaceAll("'", "-").replaceAll(
+      "|",
+      "",
+    ).replaceAll(
+      "(",
+      "",
+    ).replaceAll(
+      ")",
+      "",
+    ).replaceAll(
+      "#",
+      "",
+    ).replaceAll(" ", "-").replaceAll("--", "-");
 
     const yesterday = moment(new Date()).subtract(1, "days");
     const pubdate = moment(publishedraw);
@@ -112,7 +121,7 @@ categories: alberta
     } catch (error) {
       console.log(error);
     }
-  }
+  });
 
   // shfilearray.push("cp -f *_fcg.md ../_posts/");
   shfilearray.push("# rm -f *.html");
@@ -122,7 +131,12 @@ categories: alberta
 
   shcontent = shfilearray.join("\n");
 
-  await Deno.writeTextFile(`${mdbasedir}${shfilename}`, shcontent);
+  await Deno.writeTextFile(`${mdbasedir}${shfilename}`, shcontent, {
+    append: false,
+    create: true,
+  });
+
+  console.log(`${mdbasedir}${shfilename} saved!`);
 
   await browser.close();
 }
@@ -137,35 +151,10 @@ async function abupdate() {
   const shfilearray = [];
   let shcontent = "";
 
-  // const browser = await puppeteer.launch();
-  // const page = await browser.newPage();
-
-  // await page.goto(abupdateurl, {
-  //   waitUntil: "networkidle2",
-  // });
-
-  // const html = await page.content();
-
-  // await page.$eval("#goa-accordion54082 > div > button", (el) => el.click());
-
   const response = await fetch(abupdateurl);
   const html = await response.text();
 
-  // console.log(html);
-
   const $ = cheerio.default.load(html);
-
-  // const h3list = [];
-  // const lilist = [];
-
-  // $(".goa-accordion.goa-accordion--toolbar-active").find("li").each(function (index, element) {
-  //   console.log($(element).attr("id"));
-  //   if($(element).attr("id")){
-  //     h3list.push($(element).find("h3").text().trim());
-  // }
-  // });
-
-  // console.log(h3list);
 
   const updates = $(".goa-accordion.goa-accordion--toolbar-active").find("li")
     .map(function () {
@@ -181,8 +170,10 @@ async function abupdate() {
     let headerraw = theupdate.header;
     let headstrings = headerraw.split(":");
     let dateraw = headstrings[0].trim();
-    let date = moment(dateraw);
 
+    console.log(dateraw);
+
+    let date = moment(dateraw);
     if (!date.isAfter(yesterday)) return;
 
     let dateymd = date.format("YYYY-MM-DD");
@@ -196,7 +187,11 @@ async function abupdate() {
     ).replaceAll(
       ")",
       "",
+    ).replaceAll(
+      "#",
+      "",
     ).replaceAll(" ", "-").replaceAll("--", "-");
+
     let updatehtml = theupdate.content;
 
     let htmlfilename = `${dateymd}-${titlepath}.html`;
@@ -207,19 +202,20 @@ async function abupdate() {
 
     let frontmatter = `---
     layout: post
-    title:  "${title}"
+    title:  ${title}
     description: ${headerraw}
     date:   ${dateymd}
     categories: alberta
     ---
     
     `;
-    // let jekyllfrontmatterfilename = htmlfile.replace(".html", "_fm.md");
+
+    console.log(frontmatter);
 
     shfilearray.push(`# ${headerraw}\n`);
     shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
     shfilearray.push(
-      `sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' "tmp_${mdfilename}" | sed '/Tags:/,$d;/googletag/d;/On this page/d;/Sponsor Content/d;/Some parts of this/d;/alberta/d;/Schedule a Free/d;/Get a Free/d;/Discover if You Are Eligible for Canadian Immigration/d;/Visit CanadaVisa.com/d;' | cat -s | tee "${mdfilename}"`,
+      `sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' "tmp_${mdfilename}" | sed '/Tags:/,$d;/googletag/d;/On this page/d;/Sponsor Content/d;/Some parts of this/d;/alberta/d;/Schedule a Free/d;/Get a Free/d;/====/d;/Visit CanadaVisa.com/d;' | cat -s | tee "${mdfilename}"`,
     );
     shfilearray.push(
       `trans -b :zh "file://${mdfilename}" | tee "${cnmdfilename}"`,
@@ -255,28 +251,16 @@ async function abupdate() {
         create: true,
       });
 
-      await Deno.writeTextFile(`${mdbasedir}${shfilename}`, shcontent);
+      await Deno.writeTextFile(`${mdbasedir}${shfilename}`, shcontent, {
+        append: false,
+        create: true,
+      });
+
+      console.log(`${mdbasedir}${shfilename} saved!`);
     } catch (error) {
       console.log(error);
     }
   }
-
-  // console.log(updates);
-
-  // var expandedlist = [];
-  // var collapsedlist = [];
-  // $(".expanded-item").each(function (index, element) {
-  //   expandedlist.push($(element).html());
-  // });
-  // $(".collapsed-item").each(function (index, element) {
-  //   // console.log(element);
-  //   collapsedlist.push($(element).find(".goa-text").html());
-  // });
-
-  // console.log(expandedlist);
-  // console.log(collapsedlist);
-
-  // console.log(updatelist);
 }
 
 abnewsfeeds();
