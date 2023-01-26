@@ -51,7 +51,7 @@ entries.forEach(async (element) => {
   let frontmatter = 
 `---
 layout: post
-title: ${title}
+title: '${title}'
 description: '${desc}'
 date: ${publishedraw}
 categories: ca_news

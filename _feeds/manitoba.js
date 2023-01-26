@@ -86,7 +86,7 @@ async function mbnewsfeeds() {
 
     let frontmatter = `---
 layout: post
-title:  ${title}
+title: '${title}'
 description: '${desc}'
 date: ${publishedraw}
 categories: manitoba

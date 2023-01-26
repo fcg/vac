@@ -86,7 +86,7 @@ async function abnewsfeeds() {
 
     let frontmatter = `---
 layout: post
-title: ${title}
+title: '${title}'
 description: '${desc}'
 date: ${publishedraw}
 categories: alberta
@@ -263,7 +263,7 @@ async function abupdate() {
   }
 }
 
-abnewsfeeds();
+// abnewsfeeds();
 abupdate();
 
 // await browser.close();
