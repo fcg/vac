@@ -46,7 +46,7 @@ async function mbnewsfeeds() {
 
     if (!pubdate.isAfter(yesterday)) {
       await browser.close();
-      return;
+      break;
     }
 
     const htmlfilename = `${pubdateyyyymmdd}-${path}.html`;

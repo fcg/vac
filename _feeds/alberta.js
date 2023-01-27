@@ -16,9 +16,9 @@ async function abnewsfeeds() {
   const shfilearray = [];
   let shcontent = "";
 
-  entries.forEach(async (element) => {
+  // entries.forEach(async (element) => {
   // console.log(element);
-  // for (const element of entries) {
+  for (const element of entries) {
     const id = element.id;
     const pageurl = element.links[0].href;
     const title = element.title.value;
@@ -46,7 +46,7 @@ async function abnewsfeeds() {
 
     if (!pubdate.isAfter(yesterday)) {
       await browser.close();
-      return;
+      break;
     }
 
     const htmlfilename = `${pubdateyyyymmdd}-${path}.html`;
@@ -121,7 +121,7 @@ categories: alberta
     } catch (error) {
       console.log(error);
     }
-  });
+  }
 
   // shfilearray.push("cp -f *_fcg.md ../_posts/");
   shfilearray.push("# rm -f *.html");
@@ -136,7 +136,7 @@ categories: alberta
     create: true,
   });
 
-  console.log(`${mdbasedir}${shfilename} saved!`);
+  // console.log(`${mdbasedir}${shfilename} saved!`);
 
   await browser.close();
 }
@@ -171,7 +171,7 @@ async function abupdate() {
     let headstrings = headerraw.split(":");
     let dateraw = headstrings[0].trim();
 
-    console.log(dateraw);
+    // console.log(dateraw);
 
     let date = moment(dateraw);
     if (!date.isAfter(yesterday)) return;
@@ -210,7 +210,7 @@ async function abupdate() {
     
     `;
 
-    console.log(frontmatter);
+    // console.log(frontmatter);
 
     shfilearray.push(`# ${headerraw}\n`);
     shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
@@ -256,7 +256,7 @@ async function abupdate() {
         create: true,
       });
 
-      console.log(`${mdbasedir}${shfilename} saved!`);
+      // console.log(`${mdbasedir}${shfilename} saved!`);
     } catch (error) {
       console.log(error);
     }
