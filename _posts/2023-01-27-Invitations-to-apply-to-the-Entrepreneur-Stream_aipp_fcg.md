@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Invitations to apply to the Entrepreneur Stream'

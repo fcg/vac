@@ -201,14 +201,14 @@ async function abupdate() {
     const jekyllfrontmatterfilename = mdfilename.replace(".md", "_fm.md");
 
     let frontmatter = `---
-    layout: post
-    title:  ${title}
-    description: '${headerraw}'
-    date:   ${dateymd}
-    categories: alberta
-    ---
-    
-    `;
+layout: post
+title:  ${title}
+description: '${headerraw}'
+date:   ${dateymd}
+categories: alberta
+---
+
+`;
 
     // console.log(frontmatter);
 

@@ -68,8 +68,8 @@ async function onupdate() {
     const fcgmdfilename = mdfilename.replace(".md", "_fcg.md");
     const jekyllfrontmatterfilename = mdfilename.replace(".md", "_fm.md");
 
-    let frontmatter = `
----
+    let frontmatter = 
+`---
 layout: post
 title: '${title}'
 description: '${desc}'
@@ -77,7 +77,7 @@ date: ${dateymd}
 categories: ontario
 ---
 
-      `;
+`;
 
     // console.log(frontmatter);
 

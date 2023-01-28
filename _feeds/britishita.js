@@ -151,14 +151,14 @@ async function bcupdate() {
     const jekyllfrontmatterfilename = mdfilename.replace(".md", "_fm.md");
 
     let frontmatter = `---
-    layout: post
-    title:  ${title}
-    description: '${headerraw}'
-    date:   ${dateymd}
-    categories: british
-    ---
-    
-    `;
+layout: post
+title:  ${title}
+description: '${headerraw}'
+date:   ${dateymd}
+categories: british
+---
+
+`;
 
     // console.log(frontmatter);
 

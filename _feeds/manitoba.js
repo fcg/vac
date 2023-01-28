@@ -84,7 +84,8 @@ async function mbnewsfeeds() {
     const $ = cheerio.default.load(description);
     const desc = $("p").first().text().replaceAll(":","-");
 
-    let frontmatter = `---
+    let frontmatter = 
+`---
 layout: post
 title: '${title}'
 description: '${desc}'
