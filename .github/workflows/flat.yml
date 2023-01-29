@@ -19,6 +19,11 @@ jobs:
       - name: Fetch country names
         uses: githubocto/flat@v3
         with:
+          http_url: https://publications.saskatchewan.ca/api/v1/products/102708/formats/113850/download
+          downloaded_filename: SINP_EOI_Pool_Selections_Table.pdf
+      - name: Fetch country names
+        uses: githubocto/flat@v3
+        with:
           http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-country-name-en.json
           downloaded_filename: data-country-name-en.json
       - name: Fetch processing times
@@ -30,7 +35,7 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-non-country-en.json
-          downloaded_filename: data-ptime-non-country-en.json          
+          downloaded_filename: data-ptime-non-country-en.json
       - name: Fetch data for ee rounds
         uses: githubocto/flat@v3
         with:

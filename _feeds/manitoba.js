@@ -3,6 +3,7 @@ import moment from "https://deno.land/x/momentjs@2.29.1-deno/mod.ts";
 import { basename, dirname } from "https://deno.land/std/path/mod.ts";
 import { cheerio } from "https://deno.land/x/cheerio@1.0.7/mod.ts";
 import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
+import { GTR } from "https://deno.land/x/gtr/mod.ts";
 
 async function mbnewsfeeds() {
   const browser = await puppeteer.launch();
@@ -92,6 +93,24 @@ description: '${desc}'
 date: ${publishedraw}
 categories: manitoba
 ---
+
+`;
+
+const gtr = new GTR();
+
+const { titlecn } = await gtr.translate(
+  title,
+  { targetLang: "zh" },
+);
+
+const { desccn } = await gtr.translate(
+  desc,
+  { targetLang: "zh" },
+);
+
+let newupdates = `# ${dateymd} - ${pageurl}
+title: ${titlecn} / ${title}
+description: ${desccn} / ${desc}
 
 `;
 

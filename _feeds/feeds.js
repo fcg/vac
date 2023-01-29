@@ -1,4 +1,27 @@
 import { GTR } from "https://deno.land/x/gtr/mod.ts";
+import { SMTPClient } from "https://deno.land/x/denomailer/mod.ts";
+
+/* const client = new SMTPClient({
+  connection: {
+    hostname: "smtp.example.com",
+    port: 465,
+    tls: true,
+    auth: {
+      username: "example",
+      password: "password",
+    },
+  },
+});
+
+await client.send({
+  from: "me@example.com",
+  to: "you@example.com",
+  subject: "example",
+  content: "...",
+  html: "<p>...</p>",
+});
+
+await client.close(); */
 
 const gtr = new GTR();
 

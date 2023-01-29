@@ -4,6 +4,7 @@ import { basename, dirname } from "https://deno.land/std/path/mod.ts";
 import { cheerio } from "https://deno.land/x/cheerio@1.0.7/mod.ts";
 import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
 import { writeCSV } from "https://deno.land/x/csv/mod.ts";
+// import { GTR } from "https://deno.land/x/gtr/mod.ts";
 
 async function savecsv(csvfile, rows) {
   const f = await Deno.open(csvfile, {
@@ -77,6 +78,7 @@ function gettabledata(html, selector) {
 async function bcupdate() {
   const bcupdateurl =
     "https://www.welcomebc.ca/Immigrate-to-B-C/Invitations-To-Apply";
+  const pageurl = bcupdateurl;
   const mdbasedir = "./_feeds/_british/";
 
   const yesterday = moment(new Date()).subtract(1, "days");
@@ -113,6 +115,26 @@ async function bcupdate() {
   await savecsv("_feeds/_british/Skills-Immigration-invitations-2023.csv",table_data1);
 
   await savecsv("_feeds/_british/Entrepreneur-Immigration-invitations-2023.csv",table_data2);
+
+  // const { titlecn } = await gtr.translate(
+  //   title,
+  //   { targetLang: "zh" },
+  // );
+  
+  // const { desccn } = await gtr.translate(
+  //   headerraw,
+  //   { targetLang: "zh" },
+  // );
+
+// let newupdates = `# ${moment()} - ${pageurl}
+
+// `;
+
+// await Deno.writeTextFile("_feeds/updates.txt", newupdates, {
+// append: true,
+// create: true,
+// });
+
 
   return;
 

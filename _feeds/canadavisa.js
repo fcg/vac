@@ -2,6 +2,7 @@ import { parseFeed } from "https://deno.land/x/rss/mod.ts";
 import moment from "https://deno.land/x/momentjs@2.29.1-deno/mod.ts";
 import { basename, dirname } from "https://deno.land/std/path/mod.ts";
 import { cheerio } from "https://deno.land/x/cheerio@1.0.7/mod.ts";
+import { GTR } from "https://deno.land/x/gtr/mod.ts";
 
 async function canadavisafeeds() {
   const response = await fetch("https://www.canadavisa.com/news/rss.html");
@@ -70,6 +71,28 @@ categories: canadavisa
 ---
 
 `;
+const gtr = new GTR();
+
+const { titlecn } = await gtr.translate(
+  title,
+  { targetLang: "zh" },
+);
+
+const { desccn } = await gtr.translate(
+  desc,
+  { targetLang: "zh" },
+);
+
+let newupdates = `# ${dateymd} - ${pageurl}
+title: ${titlecn} / ${title}
+description: ${desccn} / ${desc}
+
+`;
+
+await Deno.writeTextFile("_feeds/updates.txt",newupdates,{
+append: true,
+create: true,
+});
 
     try {
       const res = await fetch(url);

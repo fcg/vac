@@ -2,6 +2,7 @@ import { parseFeed } from "https://deno.land/x/rss/mod.ts";
 import moment from "https://deno.land/x/momentjs@2.29.1-deno/mod.ts";
 import { basename, dirname } from "https://deno.land/std/path/mod.ts";
 import { cheerio } from "https://deno.land/x/cheerio@1.0.7/mod.ts";
+import { GTR } from "https://deno.land/x/gtr/mod.ts";
 
 const response = await fetch("https://www.cicnews.com/feed");
 const xml = await response.text();
@@ -26,6 +27,7 @@ entries.forEach(async (element) => {
   const yesterday = moment(new Date()).subtract(1, 'days');
   const pubdate = moment(publishedraw)
   const pubdateyyyymmdd = pubdate.format("YYYY-MM-DD");
+  const dateymd = pubdate.format("YYYY-MM-DD");
 
   if (!pubdate.isAfter(yesterday)) return;
 
@@ -58,7 +60,29 @@ categories: ca_news
 ---
 
 `
-  
+const gtr = new GTR();
+
+const { titlecn } = await gtr.translate(
+  title,
+  { targetLang: "zh" },
+);
+
+const { desccn } = await gtr.translate(
+  desc,
+  { targetLang: "zh" },
+);
+
+let newupdates = `# ${dateymd} - ${pageurl}
+title: ${titlecn} / ${title}
+description: ${desccn} / ${desc}
+
+`;
+
+await Deno.writeTextFile("_feeds/updates.txt",newupdates,{
+append: true,
+create: true,
+});
+
   try {
     const res = await fetch(url);
     const html = await res.text();
