@@ -44,6 +44,7 @@ async function mbnewsfeeds() {
     const yesterday = moment(new Date()).subtract(1, "days");
     const pubdate = moment(publishedraw);
     const pubdateyyyymmdd = pubdate.format("YYYY-MM-DD");
+    const dateymd = pubdate.format("YYYY-MM-DD");
 
     if (!pubdate.isAfter(yesterday)) {
       await browser.close();
@@ -113,6 +114,11 @@ title: ${titlecn} / ${title}
 description: ${desccn} / ${desc}
 
 `;
+
+await Deno.writeTextFile("_feeds/updates.txt",newupdates,{
+  append: true,
+  create: true,
+  });
 
     try {
       const page = await browser.newPage();
