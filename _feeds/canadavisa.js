@@ -14,7 +14,8 @@ async function canadavisafeeds() {
   const shfilearray = [];
   let shcontent = "";
 
-  entries.forEach(async (element) => {
+  // entries.forEach(async (element) => {
+    for (const element of entries){
     // console.log(element);
 
     const id = element.id;
@@ -30,7 +31,7 @@ async function canadavisafeeds() {
     const pubdate = moment(publishedraw);
     const pubdateyyyymmdd = pubdate.format("YYYY-MM-DD");
 
-    if (!pubdate.isAfter(yesterday)) return;
+    if (!pubdate.isAfter(yesterday)) break;
     // if (!pubdate.isAfter("2023-01-01")) return;
 
     const htmlfilename = `${pubdateyyyymmdd}-${basename(path)}`;
@@ -116,7 +117,7 @@ create: true,
     } catch (error) {
       console.log(error);
     }
-  });
+  }
 
   // shfilearray.push("cp -f *_fcg.md ../_posts/");
   shfilearray.push("# rm -f *.html");
