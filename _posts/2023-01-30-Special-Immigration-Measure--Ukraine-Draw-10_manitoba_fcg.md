@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Special Immigration Measure - Ukraine Draw #10'
-description: 'Number of Letters of Advice to Apply issued- 21 As part of the Manitoba government's response to the situation in Ukraine and in line with Immigration, Refugees and Citizenship Canada's special immigration measures for those affected, the Manitoba Provincial Nominee … Continue reading →'
+description: "Number of Letters of Advice to Apply issued- 21 As part of the Manitoba government's response to the situation in Ukraine and in line with Immigration, Refugees and Citizenship Canada's special immigration measures for those affected, the Manitoba Provincial Nominee … Continue reading →"
 date: Mon, 30 Jan 2023 22:11:28 +0000
 categories: manitoba
 ---
