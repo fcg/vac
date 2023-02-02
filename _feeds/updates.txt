@@ -10,3 +10,7 @@ description: undefined / IRCC has held its third Express Entry draw of 2023. Imm
 title: undefined / Enhanced vs. Base Provincial Nominations—What is the difference?
 description: undefined / Since its implementation in 1998, the Provincial Nominee Program (PNP) has helped a plethora of people immigrate to Canada. Candidates looking to apply through the PNP will potentially have two streams of nomination available to them- the regular (base) PNP (separate from Express Entry) or the Express Entry-aligned (enhanced) PNP. Get a Free Canadian Immigration […]
 
+# 2023-02-01 - https://www.canadavisa.com/news/canada-express-entry-draw-results-february-1-2023.html
+title: undefined / Canada's Express Entry draw results from February 1, 2023
+description: undefined / Here are the results of Canada's most recent Express Entry draw on February 1, 2023.
+

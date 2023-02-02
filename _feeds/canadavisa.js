@@ -30,6 +30,7 @@ async function canadavisafeeds() {
     const yesterday = moment(new Date()).subtract(1, "days");
     const pubdate = moment(publishedraw);
     const pubdateyyyymmdd = pubdate.format("YYYY-MM-DD");
+    const dateymd = pubdateyyyymmdd;
 
     if (!pubdate.isAfter(yesterday)) break;
     // if (!pubdate.isAfter("2023-01-01")) return;
