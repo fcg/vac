@@ -1,16 +1,20 @@
-# 2023-02-01 - https://www.cicnews.com/2023/02/ircc-approves-pearson-test-of-english-for-canadian-immigration-applications-0232851.html
-title: undefined / IRCC approves Pearson Test of English for Canadian immigration applications
-description: undefined / IRCC has just announced it has approved the Pearson Test of English for Canadian immigration applications. Beginning in “late 2023”, the Pearson Test of English (PTE) will join CELPIP and IELTS General Training as one of three designated language tests that skilled workers will be able to complete to demonstrate their English language proficiency to […]
+# 2023-02-02 - https://www.canadavisa.com/news/canada-first-ever-fswp-only-express-entry-draw.html
+title: undefined / Canada holds first-ever FSWP-only Express Entry draw
+description: undefined / Here are the results of Canada's most recent Express Entry draw on February 2, 2023.
 
-# 2023-02-01 - https://www.cicnews.com/2023/02/ircc-invites-893-pnp-candidates-in-new-express-entry-draw-0232603.html
-title: undefined / IRCC invites 893 PNP candidates in new Express Entry draw
-description: undefined / IRCC has held its third Express Entry draw of 2023. Immigration, Refugees and Citizenship Canada (IRCC) issued permanent resident invitations to 893 Provincial Nominee Program (PNP) candidates with a minimum Comprehensive Ranking System (CRS) score of 733. This was the first program-specific Express Entry draw since July 2022. Between July until today, IRCC was holding […]
+# 2023-02-02 - https://www.cicnews.com/2023/02/how-quebec-employers-can-hire-foreign-workers-more-quickly-0232252.html
+title: undefined / How Quebec employers can hire foreign workers more quickly
+description: undefined / If a Canadian employer wants to hire a foreign national, they must usually receive approval from the Canadian government through a Labour Market Impact Assessment (LMIA). The purpose of the LMIA is to ensure that the hiring of a foreign national will not negatively affect workers in Canada. The government must conclude that hiring the […]
 
-# 2023-02-01 - https://www.cicnews.com/2023/02/enhanced-vs-base-provincial-nominations-what-is-the-difference-0231123.html
-title: undefined / Enhanced vs. Base Provincial Nominations—What is the difference?
-description: undefined / Since its implementation in 1998, the Provincial Nominee Program (PNP) has helped a plethora of people immigrate to Canada. Candidates looking to apply through the PNP will potentially have two streams of nomination available to them- the regular (base) PNP (separate from Express Entry) or the Express Entry-aligned (enhanced) PNP. Get a Free Canadian Immigration […]
+# 2023-02-02 - https://www.cicnews.com/2023/02/canada-holds-first-federal-skilled-workers-only-draw-in-express-entry-history-0232849.html
+title: undefined / Canada holds first Federal Skilled Workers-only draw in Express Entry history
+description: undefined / IRCC held the fourth Express Entry draw of 2023 today. Immigration, Refugees and Citizenship Canada (IRCC) issued invitations to 3,300 candidates with a minimum Comprehensive Ranking System (CRS) score of 489. The draw was only applicable to candidates in the Federal Skilled Worker Program for the first time since Express Entry began in 2015. This […]
 
-# 2023-02-01 - https://www.canadavisa.com/news/canada-express-entry-draw-results-february-1-2023.html
-title: undefined / Canada's Express Entry draw results from February 1, 2023
-description: undefined / Here are the results of Canada's most recent Express Entry draw on February 1, 2023.
+# 2023-02-02 - https://www.cicnews.com/2023/02/the-bank-of-canada-just-raised-interest-rates-again-what-does-this-mean-for-newcomers-0232819.html
+title: undefined / The Bank of Canada just raised interest rates again. What does this mean for newcomers?
+description: undefined / The Bank of Canada (BoC) recently announced another rise in interest rates, up to 4.5%, or up 25 basis points from 4.25% on December 7, 2022. While this is the smallest rise in interest over the past year, interest rates will stay high for the foreseeable future making larger spending more difficult than previous years. […]
+
+# 2023-02-02 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: undefined / Tech occupations
+description: undefined / Tech occupations
 
