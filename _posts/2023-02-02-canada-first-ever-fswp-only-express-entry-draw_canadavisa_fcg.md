@@ -1,15 +1,12 @@
 ---
 layout: post
 title: 'Canada holds first-ever FSWP-only Express Entry draw'
-description: 'Here are the results of Canada's most recent Express Entry draw on February 2, 2023.'
+description: Here are the results of Canada's most recent Express Entry draw on February 2, 2023.
 date: Thu, 02 Feb 2023 15:30:00 -0500
 categories: canadavisa
 ---
 
 加拿大举行了有史以来第一次仅限 FSWP 的快速通道抽签	Canada holds first-ever FSWP-only Express Entry draw
-================================================ ==	====================================================
-	
-* * *	* *
 	
 加拿大安大略省多伦多立法会 图片id626906224	!Legislative assembly of ontario toronto canada picture id626906224
 	
@@ -25,7 +22,7 @@ categories: canadavisa
 	
 仍在申请人池中的快速通道候选人预计加拿大将在两周左右进行另一次抽签。	Express Entry candidates still in the applicant pool can expect Canada to conduct another draw in around two weeks.
 	
-**关于快速通道**	**About Express Entry**
+**关于快速通道 About Express Entry**
 	
 加拿大联邦政府使用快速通道将技术工人带到这个国家，在加拿大提供永久居留权 (PR) 以吸引这些备受追捧的外国人。	Canada's federal government uses Express Entry to bring skilled workers to this country, offering permanent residence (PR) in Canada to attract these highly sought-after foreign nationals.  
 	

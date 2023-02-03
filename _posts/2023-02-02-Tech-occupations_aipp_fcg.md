@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tech occupations'
+title: 'ontario Tech occupations'
 description: 'Tech occupations'
 date: 2023-02-02
 categories: ontario
