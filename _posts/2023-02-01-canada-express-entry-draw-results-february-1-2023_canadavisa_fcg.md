@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canada's Express Entry draw results from February 1, 2023'
+title: "Canada's Express Entry draw results from February 1, 2023"
 description: Here are the results of Canada's most recent Express Entry draw on February 1, 2023.
 date: Wed, 01 Feb 2023 13:00:00 -0500
 categories: canadavisa
