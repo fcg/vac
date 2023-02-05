@@ -17,9 +17,7 @@ categories: canadianvisa
 或者你只是想改变一下节奏，在一个与你习惯的环境截然不同的新地方重新开始？如果是这样，那么我们建议移居加拿大作为实现所有这些愿望的目的地。	Or do you simply want a change of pace, a new start in a new place that is very different from the environment that you’re used to? If so, then we recommend moving to Canada as the destination to fulfill all these wishes.
 	
 为什么要从埃及移居加拿大？	Why Move to Canada From Egypt?
-	
-！	!
-	
+		
 加拿大以其对移民的积极态度而闻名，超过五分之一的加拿大公民来自另一个国家。大约有 100,000 名埃及人居住在加拿大，其中大部分人定居在魁北克和安大略省，但还有许多其他美妙的城市和省份可供探索，所有这些城市和省份都有很多机会。	Canada is well known for its positive stance on immigration, with more than 1 in 5 Canadian Citizens originating from another country. Approximately 100,000 Egyptians are living in Canada, most of whom have settled in Quebec and Ontario but there are so many other wonderful cities and provinces to explore, all with great opportunities.
 	
 然而，加拿大的劳动力受到关键经济部门缺乏熟练和有经验的工人的影响，这促使政府设计新的和简化现有的移民计划，以帮助外国人在加拿大找到工作并更快、更容易地获得永久居留权比以往任何时候都。	Canada’s workforce, however, has been affected by a lack of skilled and experienced workers in key sectors of the economy, which has encouraged the Government to design new and streamline existing immigration programs to help foreigners find jobs in Canada and get permanent residency quicker and easier than ever before.
@@ -27,9 +25,7 @@ categories: canadianvisa
 加拿大人提前退休，年轻的专业人士正搬到城市中心寻找新机会，导致关键职位空缺。但是，通过快速入境系统等加拿大移民计划，移民比以往任何时候都更快、更容易地找到了前往加拿大的途径。让我们来看看如何加入他们。	Canadians are retiring earlier and young professionals are moving to urban hubs in search of new opportunities, leaving key positions unfilled. But with Canadian immigration programs such as the Express Entry system, immigrants are finding their way to Canada faster and easier than ever before. Let’s take a look at how you can join them.
 	
 从埃及移民到加拿大的两个最佳程序？	The Two Best Programs To Use To Immigrate To Canada From Egypt?
-	
-！	!
-	
+		
 ### 快速通道系统	Express Entry System
 	
 快速通道系统不仅是申请加拿大永久居留权的最有效方式。它的在线申请流程使全球各地的人们都能轻松获得，并有助于将处理时间缩短至 6 个月。这比邮寄申请要快得多，邮寄申请可能需要 12 到 18 个月的时间。	The Express Entry system is not only the most efficient way to apply for permanent residence in Canada. Its online application process makes it easily available to people all across the globe and helps reduce processing times to as little as 6 months. This is a lot quicker than applying by mail which can take anywhere between 12 - 18 months.
@@ -69,9 +65,7 @@ TEER 级别系统降低了 CRS 分数在申请人选择优先级方面的重要�
 为了顺利、快速地完成此过程，与 CanadianVisa 等移民咨询公司取得联系将非常有益。我们可以让您与我们的附属 RCIC 联系，他们不仅会帮助您建立经过评估的移民资料并准备好您的快速入境申请，他们还会在经过严格的流程后代表您提交意向书 (EOI)审查。	For smooth and swift navigation of this process, getting in touch with immigration consultancy companies like CanadianVisa will be very beneficial. We can get you in touch with our affiliated RCIC’s who will not only assist you in setting up your evaluated immigration profiles and getting your Express Entry application ready, they’ll also submit your Expression of Interest (EOI) on your behalf after a rigorous process of review.
 	
 ### 省提名计划	Provincial Nominee Program
-	
-！	!
-	
+		
 加拿大 13 个省和地区中的 11 个省提名计划面向所有技能水平的工人，他们具有该省或地区特定工作和经济部门所需的资格和工作经验。	11 of Canada’s 13 provinces and territories Provincial Nominee Programs are aimed at workers of all skill levels who have the qualifications and work experience needed in particular jobs and sectors of the economy of the province or territory.
 	
 要符合资格，您需要至少一年的有效工作机会，如果成功，您将收到一份 PN，这几乎可以保证您成功申请加拿大永久居留权。	To be eligible you will need a valid job offer for at least one year and if successful, you will receive a PN which could ultimately almost guarantee your success in applying for permanent residence in Canada.
@@ -94,9 +88,7 @@ TEER 级别系统降低了 CRS 分数在申请人选择优先级方面的重要�
 * 育空 PNP	  Yukon PNP
 	
 我们如何帮助您申请？	How We Can Help You Apply?
-	
-！	!
-	
+		
 考虑到所有这些信息，可以理解许多申请者纠结于从哪里开始的问题。这就是 CanadianVisa 等移民咨询公司大有帮助的地方。我们与 RCIC 的隶属关系使我们能够获得最佳标准实践，并及时了解来自 CICC 和 IRCC 的最新信息。	With all of this information to bear in mind it is quite understandable that many applicants struggle with the question of where to start. This is where immigration consultancy companies like CanadianVisa are of great aid. Our affiliation with RCIC’s allows us to gain access with the best standard practice and remain up to date with the latest information coming out of the CICC and IRCC.
 	
 我们的服务包括：	Our services included include:

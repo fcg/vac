@@ -19,9 +19,7 @@ categories: canadianvisa
 今天从意大利移民到加拿大比以往任何时候都容易。加拿大开放的移民政策和快速的快速通道系统以及其他著名的移民路线使像您这样的意大利人有可能在大白北地区寻求冒险的生活。	Immigrating to Canada from Italy today is easier than ever. Canada’s open immigration policy and the speedy Express Entry system among other famous immigration routes make it possible for Italians like you to seek a life of adventure in the Great White North.
 	
 为什么从意大利搬到加拿大？	Why Move to Canada From Italy?
-	
-！	!
-	
+		
 居住在加拿大的主要原因之一是社区对意大利侨民的广泛支持。意大利人大量移民加拿大是意大利侨民历史的一部分，这是一场由意大利糟糕的经济状况引发的移民运动，始于 1860 年代，持续了一个多世纪。	One of the major reasons to live in Canada is the wide community support for Italian expats. The huge immigration of Italians to Canada is part of the larger history of the Italian Diaspora, a migratory movement sparked by bad economic conditions in Italy that began in the 1860s and continued for more than a century.  
 	
 意大利移民在他们的意大利裔加拿大同胞中寻求帮助，以顺利过渡到加拿大的生活，从而在全国建立了持久的社区和组织。随着越来越多的意大利人移民到加拿大，大都市小意大利地区发展壮大。许多志愿团体和俱乐部也由意大利移民组成。	Italian immigrants sought assistance among their fellow Italian-Canadians to smooth the transition to life in Canada, resulting in the establishment of long-lasting communities and organizations across the nation. As more Italians immigrated to Canada, metropolitan Little Italy areas grew and prospered. Many voluntary groups and clubs were also formed by Italian immigrants.
@@ -49,9 +47,7 @@ categories: canadianvisa
 9. 支持移民和多元化——加拿大多元文化主义法案于 1988 年颁布。它是世界上同类法案中的第一部，体现了联邦政府对建立多元化社会的法律承诺。	9.  Pro-immigration & Diversity-The Canadian Multiculturalism Act was extablished in 1988. It was one of the world's first of its type, enshrining the federal government's commitment to creating a diverse society in law.
 	
 通过快速通道移民加拿大的 5 个步骤	5 Steps to Immigrate to Canada Through Express Entry
-	
-！	!
-	
+		
 加拿大政府使用 Express Entry 管理加拿大永久居留申请，以通过三种经济移民计划填补劳动力短缺：	The Canadian government uses Express Entry to administer Canadian permanent residence applications for filling labor shortages through three economic immigration schemes:  
 	
 * 联邦技术工人计划 (FSWP)	  Federal Skilled Worker Program (FSWP)
@@ -108,9 +104,7 @@ categories: canadianvisa
 检查您的资格	Check Your Elegibility
 	
 通往加拿大的替代路线	Alternative Routes to Canada
-	
-！	!
-	
+		
 加拿大有超过 100 条不同的移民和签证路线，快速通道系统只是其中之一。每年，许多人也通过这些项目移民到加拿大：	Canada has over 100 different immigration and visa routes, and the Express Entry System is only one of them. Every year, many people immigrate to Canada through these programs too:  
 	
 ### 大西洋移民计划 (AIP)	Atlantic Immigration Program (AIP)

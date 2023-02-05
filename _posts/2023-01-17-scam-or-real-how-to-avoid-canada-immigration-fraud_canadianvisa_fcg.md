@@ -19,9 +19,7 @@ categories: canadianvisa
 这样做是为了重新获得信任并恢复潜在移民与移民咨询公司之间的友好关系。	This is done as a measure to regain the trust and resumption of amicable relations between the potential immigrants and immigration consultancy companies.
 	
 如何判断您的移民局是真是假（骗局）？	How To Tell If Your Immigration Agency Is Real or Fake (Scam)?
-	
-！	!
-	
+		
 移民咨询公司受制于适用于所有其他企业的相同公司法和法规。这些法律法规制定的准则为所有移民咨询公司提供了一套他们必须遵守的共同职责和操作。	Immigration consultancy companies are subject to the same incorporation laws and regulations that govern all other businesses. The guidelines set by these laws and regulations gives all immigration consultancy companies a common set of duties and operations that they have to adhere to. 
 	
 如果任何移民咨询公司不遵守这些统一的监管特征，他们很可能会受到怀疑。	Should any immigration consultancy not adhere to these unifying regulatory characteristics, they are liable to be put under suspicion.
@@ -39,9 +37,7 @@ categories: canadianvisa
 然而，假冒移民顾问的运作方式有一些共同特征，这些特征可以被确定为合法和欺诈活动的可能证据。	However, there are some common traits in how fake immigration consultancies operate that can be identified as possible evidence of illegitimate and fraudulent activity.
 	
 加拿大移民欺诈最常见的类型是什么？	What Are The Most Common Types Of Canada Immigration Fraud?
-	
-！	!
-	
+		
 了解假冒或真实的移民代表和移民咨询公司的区别后，了解加拿大移民欺诈的常见类型就变得很重要。以下是加拿大潜在移民应注意的最常见的移民骗局清单：	With an understanding of what distinguishes fake or real immigration representatives and immigration consultancy companies, it becomes important to know what the common types of Canada immigration fraud are. Here’s a list of the most common immigration scams that potential immigrants to Canada should look out for:
 	
 ### 就业诈骗	Employment Scams
@@ -69,9 +65,7 @@ categories: canadianvisa
 我有资格吗？现在检查	Am I Eligible? Check Now
 	
 常见问题	FAQs
-	
-！	!
-	
+		
 ### 如何举报移民欺诈？	How To Report Immigration Fraud?
 	
 IRCC 和加拿大政府提供一系列服务供您举报移民欺诈。其中最突出的是加拿大反欺诈中心。	The IRCC and Canadian government has a range of services that you can use to report immigration fraud. The most prominent of these is the Canadian Anti-Fraud Centre.

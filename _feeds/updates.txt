@@ -1,264 +1,40 @@
-# 2023-02-02 - https://canadaimmigrants.com/immigrants-in-manitoba-by-country-of-birth-2021-census/
-title: Immigrants in Manitoba by Country of Birth (2021 Census)
-description: In 2021, Manitoba was home to 257,620 immigrants Immigrants in Manitoba Statistics Canada reported that in 2021, there were 8,361,505...
-
-# 2023-01-24 - https://canadaimmigrants.com/immigrants-in-british-columbia-by-country-of-birth-2021-census/
-title: Immigrants in British Columbia by Country of Birth (2021 Census)
-description: In 2021, British Columbia was home to 1,425,710 immigrants Immigrants in British Columbia Statistics Canada reported that in 2021, there...
-
-# 2023-01-20 - https://canadaimmigrants.com/immigrants-in-quebec-by-country-of-birth-2021-census/
-title: Immigrants in Quebec by Country of Birth (2021 Census)
-description: In 2021, Quebec was home to 1,210,600 immigrants Immigrants in Quebec Statistics Canada reported that in 2021, there were 8,361,505...
-
-# 2023-01-18 - https://canadaimmigrants.com/ontario-immigrants-by-country-of-birth-2021-census/
-title: Ontario Immigrants by Country of Birth (2021 Census)
-description: In 2021, Ontario was home to 4,206,585 immigrants Immigrants in Ontario Statistics Canada reported that in 2021, there were 8,361,505...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-toronto/
-title: Average House Price in Toronto
-description: The average house price in Toronto is $1,081,400 In December 2022, Toronto’s average house price down by -8.9% compared to...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-vancouver/
-title: Average House Price in Vancouver
-description: The average house price in Vancouver is $1,114,300 In December 2022, the average house price down -3.3% compared to a...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-winnipeg/
-title: Average House Price in Winnipeg
-description: The average house price in Winnipeg is $323,400 In December 2022, Winnipeg housing prices down -2.8% year-over-year. Average House Price...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-calgary/
-title: Average House Price in Calgary
-description: The average house price in Calgary is $506,400 In December 2022,  average home prices in Calgary up by 8.1% compared...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-saskatoon/
-title: Average House Price in Saskatoon
-description: The average house price in Saskatoon is $362,100 In December 2022, Saskatoon’s house average price was up by 0.8% compared...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-halifax/
-title: Average House Price in Halifax
-description: The average house price in Halifax is $480,600 In December 2022, Halifax house prices up 6.3% compared to the same...
-
-# 2023-02-02 - https://canadaimmigrants.com/immigrants-in-manitoba-by-country-of-birth-2021-census/
-title: Immigrants in Manitoba by Country of Birth (2021 Census)
-description: In 2021, Manitoba was home to 257,620 immigrants Immigrants in Manitoba Statistics Canada reported that in 2021, there were 8,361,505...
-
-# 2023-01-24 - https://canadaimmigrants.com/immigrants-in-british-columbia-by-country-of-birth-2021-census/
-title: Immigrants in British Columbia by Country of Birth (2021 Census)
-description: In 2021, British Columbia was home to 1,425,710 immigrants Immigrants in British Columbia Statistics Canada reported that in 2021, there...
-
-# 2023-01-20 - https://canadaimmigrants.com/immigrants-in-quebec-by-country-of-birth-2021-census/
-title: Immigrants in Quebec by Country of Birth (2021 Census)
-description: In 2021, Quebec was home to 1,210,600 immigrants Immigrants in Quebec Statistics Canada reported that in 2021, there were 8,361,505...
-
-# 2023-01-18 - https://canadaimmigrants.com/ontario-immigrants-by-country-of-birth-2021-census/
-title: Ontario Immigrants by Country of Birth (2021 Census)
-description: In 2021, Ontario was home to 4,206,585 immigrants Immigrants in Ontario Statistics Canada reported that in 2021, there were 8,361,505...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-toronto/
-title: Average House Price in Toronto
-description: The average house price in Toronto is $1,081,400 In December 2022, Toronto’s average house price down by -8.9% compared to...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-vancouver/
-title: Average House Price in Vancouver
-description: The average house price in Vancouver is $1,114,300 In December 2022, the average house price down -3.3% compared to a...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-winnipeg/
-title: Average House Price in Winnipeg
-description: The average house price in Winnipeg is $323,400 In December 2022, Winnipeg housing prices down -2.8% year-over-year. Average House Price...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-calgary/
-title: Average House Price in Calgary
-description: The average house price in Calgary is $506,400 In December 2022,  average home prices in Calgary up by 8.1% compared...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-saskatoon/
-title: Average House Price in Saskatoon
-description: The average house price in Saskatoon is $362,100 In December 2022, Saskatoon’s house average price was up by 0.8% compared...
-
-# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-halifax/
-title: Average House Price in Halifax
-description: The average house price in Halifax is $480,600 In December 2022, Halifax house prices up 6.3% compared to the same...
-
-# 2023-02-01 - https://canadianimmigrant.ca/money-and-business/money-smart-developing-financial-literacy-as-a-newcomer-for-future-success
-title: Money smart: Developing financial literacy as a newcomer for future success
-description: Deciding to make the journey to Canada takes courage, determination and a solid grasp of money management. What kinds of challenges do newcomers face? Where and how can you find those financial literacy resources to thrive?
-
-# 2023-01-30 - https://canadianimmigrant.ca/people/community-leaders/rosie-smith-makes-a-difference-in-the-community
-title: Rosie Smith makes a difference in the community
-description: Originally from Jamaica, Rosie Smith relocated to Canada in 2008. Since then, she has been working with Epilepsy Toronto, a nonprofit organization offering support services to those living with epilepsy, as the director of adult services.
-
-# 2023-01-27 - https://canadianimmigrant.ca/news/windmill-microlending-announces-5-45-fixed-interest-rate-for-new-loans
-title: Windmill Microlending announces 5.95% fixed interest rate for new loans
-description: Windmill Microlending, a Canadian charity offering affordable loans to skilled immigrants and refugees, has announced that all new loans will be capped at a fixed interest rate of 5.95 per cent for the entire loan duration.
-
-# 2023-01-25 - https://canadianimmigrant.ca/news/nominations-are-now-open-for-the-15th-annual-top-25-canadian-immigrant-awards
-title: Nominations are now open for the 15th annual Top 25 Canadian Immigrant Awards
-description: The first and only national awards program celebrating immigrant success in Canada turns 15 this year. With the support of presenting sponsor Western Union, we are proud to open the call for nominations for the 2023 annual Top 25 Canadian Immigrant Awards.
-
-# 2023-01-24 - https://canadianimmigrant.ca/featured/winning-advice-for-2023
-title: Winning advice for 2023!
-description: A few of our Top 25 Canadian Immigrants from 2022 share their thoughts, perspectives and some inspirational advice as we take on 2023!
-
-# 2023-01-24 - https://canadianimmigrant.ca/living/parenting/recycling-tips-teach-your-children-to-take-small-steps-for-a-better-future
-title: Recycling tips: Teach your children to take small steps for a better future
-description: There is no time like today to start recycling, to help improve the environment for future generations. Recycling can reduce pollution and landfill waste, and help with protecting our natural resources, ecosystem and wildlife.
-
-# 2023-01-24 - https://canadianimmigrant.ca/news/nominations-are-now-open-for-the-15th-annual-top-25-canadian-immigrant-award-presented-by-western-union
-title: Nominations are now open for the 15th annual  Top 25 Canadian Immigrant Award, presented by Western Union
-description: 15 years of celebrating immigrant success in Canada! TORONTO, January 25, 2023 – Fifteen years ago, Canadian Immigrant magazine launched the first and only national awards program celebrating immigrant success. Today, with the support of presenting sponsor Western Union, we are proud to open the call for nominations for the 15th annual Top 25 Canadian […]
-
-# 2023-01-23 - https://canadianimmigrant.ca/immigrate/immigration-law/significant-benefit-work-permits-understanding-the-lmia-exemption
-title: Significant Benefit Work Permits: Understanding the LMIA exemption
-description: On December 15, 2022, Immigration, Refugees and Citizenship Canada (IRCC) updated its Labour Market Impact Assessment (LMIA) exemption codes. An LMIA is an opinion from Service Canada that the entry of a foreign worker will have a positive or neutral impact on the Canadian labour market.
-
-# 2023-01-20 - https://canadianimmigrant.ca/financial-future-in-canada/the-top-financial-terms-worth-knowing
-title: The top financial terms worth knowing
-description: Planning for the future is never easy, and sometimes sorting through all the terminology you see in the business section can be daunting. To help, CPP Investments, along with Canadian Immigrant magazine offer this glossary of terms used by investors, advisors, and other people who deal with money and planning on a daily basis. Active […]
-
-# 2023-01-18 - https://canadianimmigrant.ca/people/entrepreneur-immigrants/sicilian-born-chef-roberto-marotta-brings-flavours-of-his-homeland-to-toronto
-title: Sicilian-born chef Roberto Marotta brings flavours of his homeland to Toronto
-description: For Chef Roberto Marotta, it was love at first sight. His now wife and business partner Jacqueline Nicosia was visiting family in Sicily when they met, and he decided to follow his heart and move to Toronto, bringing his culinary expertise.
-
-# 2023-02-02 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-from-ireland
-title: How to Immigrate to Canada from Ireland in 2023
-description: 
-
-# 2023-02-01 - https://canadianvisa.org/blog/immigration/immigrate-canada-baker
-title: How to Immigrate to Canada as a Baker
-description: 
-
-# 2023-02-01 - https://canadianvisa.org/blog/news/work-permits-for-families-of-temporary-foreign-workers-in-canada
-title: Work Permits for Families of Temporary Foreign Workers in Canada
-description: 
-
-# 2023-01-31 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-as-a-refugee
-title: How to Immigrate to Canada as a Refugee
-description: 
-
-# 2023-01-12 - https://canadianvisa.org/blog/immigration/how-to-increase-your-crs-score
-title: How to Increase Your CRS Score in 2023
-description: 
-
-# 2023-01-13 - https://canadianvisa.org/blog/immigration/ways-stay-canada-iec-working-holiday-expires
-title: 6 Ways to Stay in Canada After Your IEC Working Holiday Expires
-description: 
-
-# 2023-01-26 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-without-a-job-offer
-title: How to Immigrate to Canada Without a Job Offer in 2023
-description: 
-
-# 2023-01-12 - https://canadianvisa.org/blog/visa/visa-application-process-to-move-to-canada
-title:  Visa Application Process to Move to Canada in 2023
-description: 
-
-# 2023-01-25 - https://canadianvisa.org/blog/news/brighter-future-for-construction-workers-in-canada
-title: Brighter Future for Construction Workers In Canada
-description: 
-
-# 2023-01-24 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-from-vietnam
-title: How to Immigrate to Canada from Vietnam
-description: 
-
-# 2023-01-23 - https://canadianvisa.org/blog/immigration/immigrate-canada-egypt
-title: How to Immigrate to Canada From Egypt
-description: 
-
-# 2023-01-23 - https://canadianvisa.org/blog/visa/top-working-holiday-destinations-in-canada
-title: Top 7 Working Holiday Destinations in Canada
-description: 
-
-# 2023-01-23 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-from-jamaica
-title: How to Immigrate to Canada from Jamaica
-description: 
-
-# 2023-01-22 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-from-the-dominican-republic
-title: How to Immigrate to Canada from the Dominican Republic
-description: 
-
-# 2023-01-16 - https://canadianvisa.org/blog/visa/how-to-apply-for-a-student-visa
-title: How to Apply for a Student Visa
-description: 
-
-# 2023-01-17 - https://canadianvisa.org/blog/jobs/top-noc-b-jobs-in-canada
-title: Top NOC B Jobs in Canada in 2023
-description: 
-
-# 2023-01-10 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-from-brazil
-title: How to Immigrate to Canada from Brazil in 2023
-description: 
-
-# 2023-01-12 - https://canadianvisa.org/blog/jobs/top-skilled-trade-jobs-in-demand-in-canada
-title: Top Skilled Trade Jobs In-demand in Canada in 2023
-description: 
-
-# 2023-01-13 - https://canadianvisa.org/blog/jobs/top-in-demand-jobs-in-newfoundland-and-labrador
-title: Top In-demand Jobs in Newfoundland & Labrador in 2023
-description: 
-
-# 2023-01-17 - https://canadianvisa.org/blog/news/scam-or-real-how-to-avoid-canada-immigration-fraud
-title: Scam or Real? How to Avoid Canada Immigration Fraud
-description: 
-
-# 2023-01-16 - https://canadianvisa.org/blog/jobs/top-10-jobs-in-canada-for-foreigners-without-experience
-title: Top 10 Jobs in Canada for Foreigners Without Experience
-description: 
-
-# 2023-01-16 - https://canadianvisa.org/blog/immigration/how-immigrate-canada-nigeria
-title: How to Immigrate to Canada from Nigeria
-description: 
-
-# 2023-01-11 - https://canadianvisa.org/blog/immigration/how-to-migrate-to-canada-as-a-fisherman
-title: How to Migrate to Canada as a Fisherman
-description: 
-
-# 2023-01-15 - https://canadianvisa.org/blog/immigration/how-to-tell-if-an-immigration-agencey-is-a-scam-or-fake
-title: How To Tell If An Immigration Agency Is Real or Fake?
-description: 
-
-# 2023-01-11 - https://canadianvisa.org/blog/education/how-much-does-it-cost-to-study-in-canada
-title: How Much Does it Cost to Study in Canada?
-description: 
-
-# 2023-01-11 - https://canadianvisa.org/blog/news/iec-immigration-program-opened-pools-new-applicants
-title: IEC Immigration Program Has Opened Its Pools For New Applicants For 2023
-description: 
-
-# 2023-01-10 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-from-the-uk
-title: How to Immigrate to Canada  from the UK in 2023
-description: 
-
-# 2023-01-09 - https://canadianvisa.org/blog/education/how-to-send-transcripts-to-wes-for-verification
-title: How to Send Transcripts to WES for Verification
-description: 
-
-# 2023-01-04 - https://canadianvisa.org/blog/news/canadian-immigration-breaks-records
-title: Canadian immigration Breaks Records In 2022
-description: 
-
-# 2023-01-06 - https://canadianvisa.org/blog/economy/the-top-10-in-demand-jobs-in-canada
-title: The Top 10 In-Demand Jobs in Canada in 2023
-description: 
-
-# 2023-01-13 - https://canadianvisa.org/blog/news/IEC-visa-holder-get-greenlight-to-Canada
-title: IEC Visa Holders get Green Light to Canada in 2023
-description: 
-
-# 2023-01-12 - https://canadianvisa.org/blog/jobs/iec-canada-how-portuguese-youth-can-travel-and-work-in-canada
-title:  IEC Canada: How Portuguese Youth Can Travel and Work in Canada in 2023
-description: 
-
-# 2023-01-13 - https://canadianvisa.org/blog/immigration/secrets-make-best-working-holiday-canada
-title: Secrets To Make The Best Of Your Working Holiday in Canada
-description: 
-
-# 2023-01-18 - https://canadianvisa.org/blog/news/canadas-labour-survey-shows-an-increase-in-job-availability
-title: Canada’s Labour Survey Shows An Increase in Job Availability
-description: 
-
-# 2023-01-19 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-from-italy
-title: How to Immigrate to Canada from Italy in 2023
-description: 
-
-# 2023-01-19 - https://canadianvisa.org/blog/immigration/best-places-live-canada
-title: Best Places to Live in Canada 
-description: 
+# 2023-01-26 - https://www.canadim.com/blog/canadian-immigration-it-workers/
+title: How to Immigrate to Canada as a Tech Worker
+description: Canada’s tech sector is booming and needs labour to sustain its growth; for this reason, the Canadian government offers ample immigration options for tech workers […]
+
+# 2023-01-20 - https://www.canadim.com/blog/4-ways-to-immigrate-to-british-columbia/
+title: BC Immigration: 4 Ways to Move to Canada’s Rugged West Coast
+description: For many, immigrating to the breath-taking west cost of Canada is a dream come true. With it’s picturesque nature and landscapes to it’s bustling cities, […]
+
+# 2023-01-18 - https://www.canadim.com/blog/beginners-guide-canadian-study/
+title: The Beginner’s Guide to Canadian Study Permits
+description: If you want to come to Canada and study as a foreign student, first you must obtain a study permit. A study permit gives foreign […]
+
+# 2022-12-21 - https://www.canadim.com/blog/top-four-best-canadian-provinces-for-new-immigrants/
+title: Top Four Best Provinces in Canada for New Immigrants
+description: A question we are often asked is, “What is the best province in Canada for immigrants?” With Canada being the second-largest country in the world, […]
+
+# 2022-12-16 - https://www.canadim.com/blog/canadian-immigration-options-nurses/
+title: Canadian Immigration Options for Nurses in 2023
+description: Nurses are in high demand across Canada; for this reason, there are a number of Canadian immigration pathways for nurses to choose from. As a […]
+
+# 2022-12-12 - https://www.canadim.com/blog/move-from-bangladesh-to-canada/
+title: Best Ways to Move from Bangladesh to Canada in 2023
+description: Canada has long been a popular destination for Bangladeshi nationals to immigrate to. With Canada planning to welcome more than 1 million newcomers in the […]
+
+# 2022-12-09 - https://www.canadim.com/blog/dual-intent-canada-immigration/
+title: Dual Intent in Canadian Immigration
+description: ‘Dual intent’ refers to the intention to come to Canada for both temporary and permanent residence. While having dual intent is legitimate, it can make […]
+
+# 2022-12-05 - https://www.canadim.com/blog/5-first-things-when-you-arrive-canada-newcomers/
+title: 5 Essential Things To Do When You First Arrive in Canada
+description: Are you planning on immigrating to Canada? There are several things that newcomers must do once they arrive to prepare for their new life in […]
+
+# 2022-11-28 - https://www.canadim.com/blog/immigration-fraud-red-flags/
+title: Immigration Fraud: 5 Red Flags
+description: The Canadim Team take Canadian Immigration fraud very seriously. Unfortunately, fraud is a prevalent problem in our industry. There are many unscrupulous individuals and companies […]
+
+# 2022-11-21 - https://www.canadim.com/blog/5-benefits-citizenship/
+title: Benefits of Canadian Citizenship: 5 Reasons to Trade in Your PR Card
+description: As a Canadian permanent resident, you benefit from many of the same resources as those with citizenship status. You have access to publicly funded schools and healthcare, can […]
 

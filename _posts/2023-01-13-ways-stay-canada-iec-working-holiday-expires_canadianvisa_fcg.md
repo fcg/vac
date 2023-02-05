@@ -151,9 +151,7 @@ Canada Experience Class专门针对过去12个月在加拿大生活和工作过�
 加拿大拥有世界上一些最优质的教育，以及众多面向国际学生的优秀课程和学校。这是对加拿大教育系统的期望的一个更好的想法。	Canada has some of the highest quality education in the world and numerous fantastic programs and schools for international students. Here's a better idea of what to expect from Canada's education system.
 	
 获得学习许可的过程相对简单，但需要几个步骤。它们如下：	The process of gaining a study permit is relatively simple but requires several steps. They are as follows:
-	
-！	!
-	
+		
 ### 第 1 步：被加拿大大学录取	Step 1: Get Accepted to a Canadian University
 	
 在申请学习许可之前，您必须被加拿大指定学习机构 (DLI) 录取。 DLI是加拿大政府指定的招收国际学生的教育机构。最好的方法是直接联系您选择的大学或学院，并根据他们的标准进行申请。如果你被接受，你可以开始你的过程。以下是加拿大顶尖大学的列表，可帮助您入门。	Before applying for a study permit, you must be accepted by a Canadian Designated Learning Institution (DLI). A DLI is an educational institution designated by the Canadian government to admit international students. The best way to do this is by contacting the university or college of your choice directly and applying based on their criteria. If you're accepted, you may start your process. Here's a list of Canada's top universities to get you started. 

@@ -17,17 +17,13 @@ categories: canadianvisa
 该国透露，由于某些经济部门存在差距，政府计划将超过一百万的移民引入劳动力市场，以填补这些缺失的职业。了解如何从尼日利亚移民到加拿大，并开始在风景如画的背景下开始新生活。	The country has revealed that due to gaps in certain sectors of the economy, the government plans to introduce over a million immigrants into the workforce to fill these missing occupations. Find out how to immigrate to Canada from Nigeria and get started on creating a new life against a picturesque backdrop.
 	
 为什么移民加拿大？	Why Immigrate to Canada?
-	
-！	!
-	
+		
 多年来，加拿大作为移民目的地的地位日益突出，这得益于该国蓬勃发展的经济和高水平的生活水平。这种显着地位与向上流动的尼日利亚人希望在别处寻找更好生活的愿望一起成为焦点。在 CanadianVisa，我们推荐加拿大作为尼日利亚人可以在其他地方找到这种“更好生活”的地方。	Canada has gained prominence as an immigration destination over the years, helped by the countries’ booming economy and high standard of living. This prominence has come into focus in conjunction with upwardly mobile Nigerians’ desire to find a better life elsewhere. Here at CanadianVisa we recommend Canada as the place where Nigerians’ can find this “better life elsewhere”.
 	
 许多尼日利亚人可能有一个有效的问题是他们是否有资格移民，或者是否有可用空间移民到尼日利亚。对尼日利亚人来说幸运的是，2023 年是加拿大移民、难民和公民部 (IRCC) 部门决定增加移民配额以容纳比往年更多的新移民的一年。它通过三个主要项目扩大了这些配额：快速入境系统、省提名项目 (PNP) 和国际经验类 (IEC)。	A valid question that many Nigerians’ may have is whether or not they’re eligible to immigrate or if there is space available to immigrate to Nigeria. Fortunately for Nigerians, 2023 is the year that Immigration, Refugees and Citizenship Canada (IRCC) department decided to increase its immigration quotas to accommodate even more newcomers than years past. It has expanded these quotas through three primary programs: Express Entry System, Provincial Nominee Programs (PNP’s) and the International Experience Class (IEC).
 	
 尼日利亚人的热门加拿大移民路线	Popular Canadian Immigration Routes for Nigerians 
-	
-！	!
-	
+		
 在您决定从尼日利亚移民到加拿大后，开始您的加拿大签证之旅可以是加拿大签证申请。主要途径是快速通道、省提名计划和赞助。	Starting your Canadian Visa journey can be a Canadian visa application after you’ve decided to immigrate to Canada from Nigeria. The main avenues are Express Entry, Provincial Nominee Programs, and Sponsorship.
 	
 您需要满足每一项的特定要求，并根据您的背景选择合适的项目。您可以在仍居住在尼日利亚或在加拿大持临时工作签证工作期间开始申请。	You’ll need to meet specific requirements for each and choose the right program for your background. You can start applying while still residing in Nigeria or while working on a temporary work visa in Canada.
@@ -168,9 +164,7 @@ IRCC 对 2023 年的 IEC 池开放了极大的期待，IRCC 将新移民的目�
 帮助您移民加拿大？	Helping you Immigrate And Settle in Canada?
 	
 在加拿大住哪里	Where to Live in Canada
-	
-！	!
-	
+		
 加拿大由 10 个省和三个地区组成，在文化、生活方式和气候方面各有不同。您可以阅读更多关于加拿大不同地区的信息，以更好地了解每个地区以及它们单独提供的项目。	Canada is made up of 10 provinces and three territories which all have something different to offer in terms of culture, lifestyle, and climate. You can read more about Canada’s different regions to get a better idea about each one as well as the programs they offer individually.
 	
 在加拿大买房是很有可能的，因为加拿大有很多土地和财产可供移民使用。对于多伦多等主要中心以外的村庄或人口稠密的城市中的普通家庭住宅，现行价格在 170-400, 000 美元之间。如果您考虑到工程师等熟练专业人士可以为您赚取 300, 000 美元这一事实每年（例如，在阿尔伯塔省的高级职位），这个数字是非常合理的。	Buying a house is very possible in Canada with a lot of land and property available to immigrants. For the average family home in a village or more populated city outside of the major centers such as Toronto, the going price is between $170-400, 000. If you consider the fact that a skilled professional such as engineering can earn you $300, 000 per year (for example, at a senior level in the province of Alberta), this figure is very reasonable. 
@@ -180,9 +174,7 @@ IRCC 对 2023 年的 IEC 池开放了极大的期待，IRCC 将新移民的目�
 然而，尽管这些社区具有明显的尼日利亚特色，但它们仍然很好地融入了加拿大社会的文化、生活方式和规范。	However, as distinctly Nigerian as these communities are, they are still very well integrated into the culture, lifestyle and norms of Canadian society.
 	
 在加拿大找工作	Finding a Job in Canada
-	
-！	!
-	
+		
 移民加拿大的首要任务是找工作。一份工作机会使这个过程变得更加容易，例如，如果通过快速通道申请，则可以为您的个人资料增加 200 分。如上所述，某些职业在加拿大很受欢迎，可以加快永久居留的进程。	Your main priority when immigrating to Canada is finding a job. A job offer makes the process much easier, for example, adding 200 points to your profile if applying through Express Entry. There are certain occupations, as mentioned above, that are in-demand in Canada which can speed up the process towards permanent residence. 
 	
 |紧缺职业 |	| In-Demand Occupations |

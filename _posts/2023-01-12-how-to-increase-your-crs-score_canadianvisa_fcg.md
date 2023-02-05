@@ -23,9 +23,7 @@ categories: canadianvisa
 每次抽奖都有一个 CRS 截止点，将分数低于特定数字的抽奖淘汰。这使得知道如何提高您的 CRS 分数成为您申请过程的重要组成部分，因为它可以确保您有资格获得永久居留申请邀请 (ITA)。	There is a CRS cut-off for every draw, eliminating those with scores below a particular number. This makes knowing how to increase your CRS score an essential part of your application process, as it may ensure your eligibility for an Invitation To Apply (ITA) for permanent residency.
 	
 综合排名系统 (CRS) 解释	The Comprehensive Ranking System (CRS) Explained
-	
-！	!
-	
+		
 CRS 由加拿大移民、难民和公民部使用，是一个基于积分的系统，用于计算您在快速通道抽签池中的票价。作为候选人，我们会根据您的技能、资格和工作经验（仅举几例）对您的个人资料进行审查。您将在每个类别中进行评分，并最终获得 CRS 分数。在此过程中有机会获得高达 1,200 CRS 积分，分为核心或人力资本积分和附加积分。您可以根据多种因素获得积分，例如年龄、教育程度、语言、工作经验和您的技能。如果您有工作机会、说加拿大的第二语言，或者如果您在加拿大有兄弟姐妹，您将能够获得额外积分。	Used by Immigration, Refugees and Citizenship Canada, the CRS is a system based on points that calculate how you will fare in the Express Entry draw pool. As a candidate, your profile is scrutinized according to your skill set, qualifications, and work experience, to name but a few factors. You will be graded in each category and eventually receive a CRS score. There is the opportunity to score up to 1,200 CRS points during the process, split into Core or Human Capital Points and Additional points. You earn points for a number of factors, such as age, education, languages, employment experience and your skills. You'll be able to earn additional points if you have a job offer, speak a second language spoken in Canada, or if you have a brother or sister in the country.
 	
 注意：快速通道池是一个竞争激烈的空间。如果你排名靠前，你被邀请申请成为永久居民的机会就更大。	NOTE: Express Entry pools are quite a competitive space. If you rank high, your chances of being invited to apply to become a permanent resident are better.
@@ -65,9 +63,7 @@ CRS 由加拿大移民、难民和公民部使用，是一个基于积分的系�
 立即开始流程	Start the Process Today
 	
 ### 什么是良好的 CRS 分数？	What is a Good CRS Score?
-	
-！	!
-	
+		
 CRS 分数因抽签而异，因此虽然超过 470 分的 CRS 分数会被视为不错的分数，但这确实取决于您所在的抽奖池。例如，在 2023 年的第一场抽奖中， 1 月 11 日，加拿大移民、难民和公民部 (IRCC) 向 5,500 名综合排名系统 (CRS) 最低分数为 507 分的候选人发出了邀请。	CRS scores vary from draw to draw, so while anything more than about 470 CRS points would be deemed a good score, it really does depend on the draw pool you find yourself in. For example, in the first draw of 2023, which took place on January 11, Immigration, Refugees and Citizenship Canada (IRCC) issued invitations to 5,500 candidates who had a minimum Comprehensive Ranking System (CRS) score of 507 points.
 	
 **请记住：** 一个不错的分数可能并不总是意味着邀请申请居留权。	**Keep in mind:** A decent score may not always mean an invitation to apply for residency.
@@ -81,9 +77,7 @@ CRS 分数因抽签而异，因此虽然超过 470 分的 CRS 分数会被视为
 如果您的第一次尝试不成功，即使您不符合快速通道资格，也不会一无所获。您的个人资料会在池中保留 12 个月，让您有时间努力提高分数。还有许多其他签证选择可供选择，从省提名计划 (PNP) 到加拿大的创业和商务签证。	If your first attempt is unsuccessful, all is not lost, should you not qualify for Express Entry. Your profile stays in the pool for 12 months, giving you time to work on getting your score up. There are also a number of other visa options to pursue, from the Provincial Nominee Program (PNP) to Canada's Start-up and Business Visa.
 	
 通往加拿大的其他途径	Other Pathways to Canada
-	
-！	!
-	
+		
 ### 省提名计划 (PNP)	Provincial Nominee Program (PNP)
 	
 加拿大在 2021 年通过其省提名计划 (PNP) 接收了最多 80,000 名移民，在全国有 80 多个省提名计划。该计划允许参与的省份和地区提出符合条件的经济移民候选人，以获得在该国的永久居留权。	Canada accepted a maximum of 80,000 immigrants through its Provincial Nominee Program (PNP) in 2021, with more than 80 provincial nomination programs throughout the country. This program allows participating provinces and territories to put forward qualifying economic immigration candidates for permanent residence in the country.
@@ -113,9 +107,7 @@ CRS 分数因抽签而异，因此虽然超过 470 分的 CRS 分数会被视为
 如果您是一位拥有至少 500,000 加元净资产的企业家，并且热衷于商业投资或收购，您将能够通过省级企业家签证计划申请永久居留权。通过这样做，您将通过创造就业机会为国家经济做出贡献。	If you're an entrepreneur with a minimum net worth of about CAD$500,000 and are keen on business investment or acquisition, you'll be able to apply for permanent residency via the Provincial Entrepreneur Visa Programs. By doing this, you will be contributing to the country's economy through job creation.
 	
 以最有利的条件开始您的加拿大之旅	Start Your Journey to Canada on the Best Footing Possible
-	
-！	!
-	
+		
 在一个新国家迈向新生活是一件大事。它涉及时间和金钱，因此您需要尽一切努力让自己获得成功的最佳机会——无论是确保您的 CRS 分数良好还是提高技能，以便能够为加拿大经济增加最大价值。虽然掌握所有移民信息可能需要一些时间，但从一开始就确切了解如何提高您的 CRS 分数不仅会让事情变得更容易 - 它还会降低您无法获得永久居留权的 ITA 的风险.由于移民是一个如此复杂的过程，我们的受监管的加拿大移民顾问 (RCIC) 将随时待命，指导您完成前往大白北地区旅程的每一步。	Taking a leap toward a new life in a new country is a big deal. It involves time and money, so you will need to do whatever you can to give yourself the best shot at success - whether it’s making sure your CRS score is good or upskilling to be able to add the best value to the Canadian economy. While it may take some time to get to grips with all the immigration information, knowing exactly how to improve your CRS Score from the get-go will not only make things easier - it will also reduce your risk of not receiving your ITA for permanent residency. Because immigration is such a complicated process, our Regulated Canadian Immigration Consultants (RCIC) will always be standing by to guide you through each step of your journey to the Great White North.
 	
 准备开始？现在申请	Ready to Start? Apply Now

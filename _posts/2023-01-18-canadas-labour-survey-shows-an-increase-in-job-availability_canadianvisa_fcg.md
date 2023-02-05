@@ -49,9 +49,7 @@ categories: canadianvisa
 按行业和省份分列的就业增长	Employment Increase by Industry and Province
 	
 12月建筑业从业人员增加3.5万人。四个省份出现增长，其中安大略省（增长 2.7%）和艾伯塔省（增长 5.8%）居首。根据加拿大统计局最新的统计数据，10 月份全国新建筑投资增长了 0.2%，其中安大略省几乎占了所有的增长。	In December, the number of construction workers increased by 35,000. Increases were seen in four provinces, headed by Ontario (up 2.7%), and Alberta (up 5.8%). According to the most recent Statistics Canada statistics, national investment in new construction increased by 0.2% in October, with Ontario accounting for virtually all of the gains.
-	
-！	!
-	
+		
 此外：	Additionally:  
 	
 * 运输和仓储业就业人数增加 29,000	  Transportation and warehousing, employment rose by 29,000
