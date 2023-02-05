@@ -10,6 +10,7 @@ rm -f ./_feeds/updates.txt
 
 deno run -A --unstable ./_feeds/askmigration.js
 deno run -A --unstable ./_feeds/canadaimmigrants.js
+deno run -A --unstable ./_feeds/canadianimmigrant.js
 
 deno run -A --unstable ./_feeds/alberta.js
 deno run -A --unstable ./_feeds/britishita.js

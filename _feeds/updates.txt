@@ -78,3 +78,43 @@ description: The average house price in Saskatoon is $362,100 In December 2022, 
 title: Average House Price in Halifax
 description: The average house price in Halifax is $480,600 In December 2022, Halifax house prices up 6.3% compared to the same...
 
+# 2023-02-01 - https://canadianimmigrant.ca/money-and-business/money-smart-developing-financial-literacy-as-a-newcomer-for-future-success
+title: Money smart: Developing financial literacy as a newcomer for future success
+description: Deciding to make the journey to Canada takes courage, determination and a solid grasp of money management. What kinds of challenges do newcomers face? Where and how can you find those financial literacy resources to thrive?
+
+# 2023-01-30 - https://canadianimmigrant.ca/people/community-leaders/rosie-smith-makes-a-difference-in-the-community
+title: Rosie Smith makes a difference in the community
+description: Originally from Jamaica, Rosie Smith relocated to Canada in 2008. Since then, she has been working with Epilepsy Toronto, a nonprofit organization offering support services to those living with epilepsy, as the director of adult services.
+
+# 2023-01-27 - https://canadianimmigrant.ca/news/windmill-microlending-announces-5-45-fixed-interest-rate-for-new-loans
+title: Windmill Microlending announces 5.95% fixed interest rate for new loans
+description: Windmill Microlending, a Canadian charity offering affordable loans to skilled immigrants and refugees, has announced that all new loans will be capped at a fixed interest rate of 5.95 per cent for the entire loan duration.
+
+# 2023-01-25 - https://canadianimmigrant.ca/news/nominations-are-now-open-for-the-15th-annual-top-25-canadian-immigrant-awards
+title: Nominations are now open for the 15th annual Top 25 Canadian Immigrant Awards
+description: The first and only national awards program celebrating immigrant success in Canada turns 15 this year. With the support of presenting sponsor Western Union, we are proud to open the call for nominations for the 2023 annual Top 25 Canadian Immigrant Awards.
+
+# 2023-01-24 - https://canadianimmigrant.ca/featured/winning-advice-for-2023
+title: Winning advice for 2023!
+description: A few of our Top 25 Canadian Immigrants from 2022 share their thoughts, perspectives and some inspirational advice as we take on 2023!
+
+# 2023-01-24 - https://canadianimmigrant.ca/living/parenting/recycling-tips-teach-your-children-to-take-small-steps-for-a-better-future
+title: Recycling tips: Teach your children to take small steps for a better future
+description: There is no time like today to start recycling, to help improve the environment for future generations. Recycling can reduce pollution and landfill waste, and help with protecting our natural resources, ecosystem and wildlife.
+
+# 2023-01-24 - https://canadianimmigrant.ca/news/nominations-are-now-open-for-the-15th-annual-top-25-canadian-immigrant-award-presented-by-western-union
+title: Nominations are now open for the 15th annual  Top 25 Canadian Immigrant Award, presented by Western Union
+description: 15 years of celebrating immigrant success in Canada! TORONTO, January 25, 2023 – Fifteen years ago, Canadian Immigrant magazine launched the first and only national awards program celebrating immigrant success. Today, with the support of presenting sponsor Western Union, we are proud to open the call for nominations for the 15th annual Top 25 Canadian […]
+
+# 2023-01-23 - https://canadianimmigrant.ca/immigrate/immigration-law/significant-benefit-work-permits-understanding-the-lmia-exemption
+title: Significant Benefit Work Permits: Understanding the LMIA exemption
+description: On December 15, 2022, Immigration, Refugees and Citizenship Canada (IRCC) updated its Labour Market Impact Assessment (LMIA) exemption codes. An LMIA is an opinion from Service Canada that the entry of a foreign worker will have a positive or neutral impact on the Canadian labour market.
+
+# 2023-01-20 - https://canadianimmigrant.ca/financial-future-in-canada/the-top-financial-terms-worth-knowing
+title: The top financial terms worth knowing
+description: Planning for the future is never easy, and sometimes sorting through all the terminology you see in the business section can be daunting. To help, CPP Investments, along with Canadian Immigrant magazine offer this glossary of terms used by investors, advisors, and other people who deal with money and planning on a daily basis. Active […]
+
+# 2023-01-18 - https://canadianimmigrant.ca/people/entrepreneur-immigrants/sicilian-born-chef-roberto-marotta-brings-flavours-of-his-homeland-to-toronto
+title: Sicilian-born chef Roberto Marotta brings flavours of his homeland to Toronto
+description: For Chef Roberto Marotta, it was love at first sight. His now wife and business partner Jacqueline Nicosia was visiting family in Sicily when they met, and he decided to follow his heart and move to Toronto, bringing his culinary expertise.
+
