@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'Average House Price in Saskatoon'
+description: 'The average house price in Saskatoon is $362,100 In December 2022, Saskatoon’s house average price was up by 0.8% compared...'
+date: Mon, 16 Jan 2023 13:30:00 +0000
+categories: canadaimmigrants
+---
+
+# 萨斯卡通的平均房价	Average House Price in Saskatoon
+	
+萨斯卡通的平均房价为 $362,100	The average house price in Saskatoon is $362,100
+	
+!萨斯卡通的房价，SK	!House prices in Saskatoon, SK
+	
+2022 年 12 月，萨斯卡通的房价与去年相比上涨了 0.8%。	In December 2022, Saskatoon’s house average price was up by 0.8% compared to last year.
+	
+<table width="277"><tbody><tr><td colspan="4" width="277">萨斯卡通平均房价</td></tr><tr><td></td> <td>2020</td><td>2021</td><td>2022</td></tr><tr><td>一月</td><td>$286,300*</td><td >$310,300*</td><td>$328,600</td></tr><tr><td>二月</td><td>$283,400*</td><td>$316,600*</td><td >$330,600</td></tr><tr><td>三月</td><td>$290,500*</td><td>$322,800*</td><td>$334,100</td></tr ><tr><td>4 月</td><td>290,200 美元*</td><td>327,900 美元*</td><td>338,500 美元</td></tr><tr><td>5 月< /td><td>298,700 美元*</td><td>359,400 美元*</td><td>375,200 美元</td></tr><tr><td>6 月</td><td>301,300 美元*< /td><td>360,800 美元*</td><td>380,200 美元</td></tr><tr><td>7 月</td><td>305,100 美元*</td><td>360,200 美元*< /td><td>$383,700</td></tr><tr><td>八月</td><td>$307,100*</td><td>$358,800*</td><td>$383,300</ td></tr><tr><td>9 月</td><td>309,000 美元*</td><td>355,200 美元*</td><td>377,800 美元</td></tr><tr> <td>10 月</td><td>308,700 美元*</td><td>356,000 美元*</td><td>371,600 美元</td></tr><tr><td>11 月</td> td>307,800 美元*</td><td>358,100 美元*</td><td>367,800 美元</td>< /tr><tr><td>12 月</td><td>$309,200*</td><td>$359,400*</td><td>$362,100</td></tr><tr><td colspan ="2">来源：CREA</td><td></td><td></td></tr><tr><td>*更新</td><td></td> td></td><td></td></tr></tbody></table>	<table width="277"><tbody><tr><td colspan="4" width="277">Average House Price in Saskatoon</td></tr><tr><td></td><td>2020</td><td>2021</td><td>2022</td></tr><tr><td>January</td><td>$286,300*</td><td>$310,300*</td><td>$328,600</td></tr><tr><td>February</td><td>$283,400*</td><td>$316,600*</td><td>$330,600</td></tr><tr><td>March</td><td>$290,500*</td><td>$322,800*</td><td>$334,100</td></tr><tr><td>April</td><td>$290,200*</td><td>$327,900*</td><td>$338,500</td></tr><tr><td>May</td><td>$298,700*</td><td>$359,400*</td><td>$375,200</td></tr><tr><td>June</td><td>$301,300*</td><td>$360,800*</td><td>$380,200</td></tr><tr><td>July</td><td>$305,100*</td><td>$360,200*</td><td>$383,700</td></tr><tr><td>August</td><td>$307,100*</td><td>$358,800*</td><td>$383,300</td></tr><tr><td>September</td><td>$309,000*</td><td>$355,200*</td><td>$377,800</td></tr><tr><td>October</td><td>$308,700*</td><td>$356,000*</td><td>$371,600</td></tr><tr><td>November</td><td>$307,800*</td><td>$358,100*</td><td>$367,800</td></tr><tr><td>December</td><td>$309,200*</td><td>$359,400*</td><td>$362,100</td></tr><tr><td colspan="2">Source:&nbsp;CREA</td><td></td><td></td></tr><tr><td>*Updated</td><td></td><td></td><td></td></tr></tbody></table>
+	
+### 萨斯卡通 2017-2019 房价	House prices in Saskatoon 2017-2019
+	
+<table width="277"><tbody><tr><td colspan="4" width="277">萨斯卡通平均房价</td></tr><tr><td></td> <td>2017</td><td>2018</td><td>2019</td></tr><tr><td>1月</td><td>$305,800*</td><td >$293,400*</td><td>$286,800*</td></tr><tr><td>二月</td><td>$304,500*</td><td>$291,500*</td>< td>282,500 美元*</td></tr><tr><td>3 月</td><td>303,400 美元*</td><td>291,500 美元*</td><td>283,600 美元*</td> </tr><tr><td>4 月</td><td>304,400 美元*</td><td>292,800 美元*</td><td>287,300 美元*</td></tr><tr> td>5 月</td><td>304,900 美元*</td><td>293,800 美元*</td><td>290,000 美元</td></tr><tr><td>6 月</td><td >306,500 美元*</td><td>295,300 美元*</td><td>292,100 美元</td></tr><tr><td>7 月</td><td>303,500 美元*</td><td >$295,200*</td><td>$291,300</td></tr><tr><td>8 月</td><td>$300,800*</td><td>$294,100*</td><td >290,800 美元</td></tr><tr><td>9 月</td><td>299,400 美元*</td><td>293,900 美元*</td><td>290,400 美元</td></tr ><tr><td>10 月</td><td>297,700 美元*</td><td>295,400 美元*</td><td>291,100 美元</td></tr><tr><td>11 月< /td><td>294,300 美元*</td><td>293,700 美元*</td><td>287,500 美元< /td></tr><tr><td>十二月</td><td>$293,200*</td><td>$289,800*</td><td>$285,500*</td></tr> tr><td colspan="2">来源：CREA</td><td></td><td></td></tr><tr><td>*更新</td><td> </td><td></td><td></td></tr></tbody></table>	<table width="277"><tbody><tr><td colspan="4" width="277">Average House Price in Saskatoon</td></tr><tr><td></td><td>2017</td><td>2018</td><td>2019</td></tr><tr><td>January</td><td>$305,800*</td><td>$293,400*</td><td>$286,800*</td></tr><tr><td>February</td><td>$304,500*</td><td>$291,500*</td><td>$282,500*</td></tr><tr><td>March</td><td>$303,400*</td><td>$291,500*</td><td>$283,600*</td></tr><tr><td>April</td><td>$304,400*</td><td>$292,800*</td><td>$287,300*</td></tr><tr><td>May</td><td>$304,900*</td><td>$293,800*</td><td>$290,000</td></tr><tr><td>June</td><td>$306,500*</td><td>$295,300*</td><td>$292,100</td></tr><tr><td>July</td><td>$303,500*</td><td>$295,200*</td><td>$291,300</td></tr><tr><td>August</td><td>$300,800*</td><td>$294,100*</td><td>$290,800</td></tr><tr><td>September</td><td>$299,400*</td><td>$293,900*</td><td>$290,400</td></tr><tr><td>October</td><td>&nbsp;$297,700*</td><td>$295,400*</td><td>$291,100</td></tr><tr><td>November</td><td>$294,300*</td><td>$293,700*</td><td>$287,500</td></tr><tr><td>December</td><td>$293,200*</td><td>$289,800*</td><td>$285,500*</td></tr><tr><td colspan="2">Source:&nbsp;CREA</td><td></td><td></td></tr><tr><td>*Updated</td><td></td><td></td><td></td></tr></tbody></table>
+	
+房价取决于公寓、联排别墅或独立屋的大小、位置、便利设施、使用年限和状况。	Home prices depend on the size, location, amenities, the age and condition of the apartment, townhouse or house.
+	
+确定房屋所有权是否适合您。以下是加拿大抵押贷款和住房公司对购买第一套房子的一些建议：	Decide if homeownership is right for you. Here are some recommendations from the Canada Mortgage and Housing Corporation to buying your first home:
+	
+* 检查您是否在经济上准备好拥有一个家	  Check if you are financially ready to own a home
+* 分析您的情况和抵押贷款的可能性	  Analyze your situation and mortgage possibilities
+* 找到合适的家	  Find the right home
+* 制定并提供并完成交易	  Make and offer and close the deal
+
+FCGvisa translated, © canadaimmigrants All Rights Reserved.

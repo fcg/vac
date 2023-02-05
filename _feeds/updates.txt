@@ -1,0 +1,80 @@
+# 2023-02-02 - https://canadaimmigrants.com/immigrants-in-manitoba-by-country-of-birth-2021-census/
+title: Immigrants in Manitoba by Country of Birth (2021 Census)
+description: In 2021, Manitoba was home to 257,620 immigrants Immigrants in Manitoba Statistics Canada reported that in 2021, there were 8,361,505...
+
+# 2023-01-24 - https://canadaimmigrants.com/immigrants-in-british-columbia-by-country-of-birth-2021-census/
+title: Immigrants in British Columbia by Country of Birth (2021 Census)
+description: In 2021, British Columbia was home to 1,425,710 immigrants Immigrants in British Columbia Statistics Canada reported that in 2021, there...
+
+# 2023-01-20 - https://canadaimmigrants.com/immigrants-in-quebec-by-country-of-birth-2021-census/
+title: Immigrants in Quebec by Country of Birth (2021 Census)
+description: In 2021, Quebec was home to 1,210,600 immigrants Immigrants in Quebec Statistics Canada reported that in 2021, there were 8,361,505...
+
+# 2023-01-18 - https://canadaimmigrants.com/ontario-immigrants-by-country-of-birth-2021-census/
+title: Ontario Immigrants by Country of Birth (2021 Census)
+description: In 2021, Ontario was home to 4,206,585 immigrants Immigrants in Ontario Statistics Canada reported that in 2021, there were 8,361,505...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-toronto/
+title: Average House Price in Toronto
+description: The average house price in Toronto is $1,081,400 In December 2022, Toronto’s average house price down by -8.9% compared to...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-vancouver/
+title: Average House Price in Vancouver
+description: The average house price in Vancouver is $1,114,300 In December 2022, the average house price down -3.3% compared to a...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-winnipeg/
+title: Average House Price in Winnipeg
+description: The average house price in Winnipeg is $323,400 In December 2022, Winnipeg housing prices down -2.8% year-over-year. Average House Price...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-calgary/
+title: Average House Price in Calgary
+description: The average house price in Calgary is $506,400 In December 2022,  average home prices in Calgary up by 8.1% compared...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-saskatoon/
+title: Average House Price in Saskatoon
+description: The average house price in Saskatoon is $362,100 In December 2022, Saskatoon’s house average price was up by 0.8% compared...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-halifax/
+title: Average House Price in Halifax
+description: The average house price in Halifax is $480,600 In December 2022, Halifax house prices up 6.3% compared to the same...
+
+# 2023-02-02 - https://canadaimmigrants.com/immigrants-in-manitoba-by-country-of-birth-2021-census/
+title: Immigrants in Manitoba by Country of Birth (2021 Census)
+description: In 2021, Manitoba was home to 257,620 immigrants Immigrants in Manitoba Statistics Canada reported that in 2021, there were 8,361,505...
+
+# 2023-01-24 - https://canadaimmigrants.com/immigrants-in-british-columbia-by-country-of-birth-2021-census/
+title: Immigrants in British Columbia by Country of Birth (2021 Census)
+description: In 2021, British Columbia was home to 1,425,710 immigrants Immigrants in British Columbia Statistics Canada reported that in 2021, there...
+
+# 2023-01-20 - https://canadaimmigrants.com/immigrants-in-quebec-by-country-of-birth-2021-census/
+title: Immigrants in Quebec by Country of Birth (2021 Census)
+description: In 2021, Quebec was home to 1,210,600 immigrants Immigrants in Quebec Statistics Canada reported that in 2021, there were 8,361,505...
+
+# 2023-01-18 - https://canadaimmigrants.com/ontario-immigrants-by-country-of-birth-2021-census/
+title: Ontario Immigrants by Country of Birth (2021 Census)
+description: In 2021, Ontario was home to 4,206,585 immigrants Immigrants in Ontario Statistics Canada reported that in 2021, there were 8,361,505...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-toronto/
+title: Average House Price in Toronto
+description: The average house price in Toronto is $1,081,400 In December 2022, Toronto’s average house price down by -8.9% compared to...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-vancouver/
+title: Average House Price in Vancouver
+description: The average house price in Vancouver is $1,114,300 In December 2022, the average house price down -3.3% compared to a...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-winnipeg/
+title: Average House Price in Winnipeg
+description: The average house price in Winnipeg is $323,400 In December 2022, Winnipeg housing prices down -2.8% year-over-year. Average House Price...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-calgary/
+title: Average House Price in Calgary
+description: The average house price in Calgary is $506,400 In December 2022,  average home prices in Calgary up by 8.1% compared...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-saskatoon/
+title: Average House Price in Saskatoon
+description: The average house price in Saskatoon is $362,100 In December 2022, Saskatoon’s house average price was up by 0.8% compared...
+
+# 2023-01-16 - https://canadaimmigrants.com/average-house-price-in-halifax/
+title: Average House Price in Halifax
+description: The average house price in Halifax is $480,600 In December 2022, Halifax house prices up 6.3% compared to the same...
+
