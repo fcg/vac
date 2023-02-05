@@ -1,12 +1,8 @@
-# 2023-02-03 - https://www.cicnews.com/2023/02/the-most-in-demand-occupations-in-canada-currently-0232818.html
-title: undefined / The most in-demand occupations in Canada currently
-description: undefined / LinkedIn’s recent report on the “20 Canadian roles that are growing in demand” reveals some key insights into professions that are seeing increased hiring in Canada. Learn more about Canadian immigration and discover your options The study analyzed the titles of millions of jobs started by LinkedIn members between January 1st 2018, and July 31st […]
+# 2023-02-04 - https://www.cicnews.com/2023/02/ontario-british-columbia-alberta-and-manitoba-hold-draws-through-provincial-nominee-programs-0232866.html
+title: undefined / Ontario, British Columbia, Alberta, and Manitoba hold draws through Provincial Nominee Programs.
+description: undefined / Ontario, British Columbia, Alberta and Manitoba have issued invitations to apply to candidates through Provincial Nominee Programs (PNPs) this week. Most Canadian provinces and territories (except for Quebec and Nunavut) operate their own Provincial Nominee Programs (PNPs). Through these programs, interested candidates may be invited to apply for provincial nomination. Receiving a provincial nomination can […]
 
-# 2023-02-03 - https://www.cicnews.com/2023/02/heightened-proficiency-in-english-and-french-among-recent-immigrants-indicates-greater-potential-for-success-in-canada-0232777.html
-title: undefined / Heightened proficiency in English and French among recent immigrants indicates greater potential for success in Canada
-description: undefined / According to the 2021 Canadian census, which was released in Q4 2022, more than 9 in 10 people who immigrated to Canada between 2016 and 2021 reported being able to conduct a conversation in English or French. Although most recent immigrants (69.4%) reported non-official languages as their mother tongue, 92.7% of people in this group […]
-
-# 2023-02-03 - https://immigratemanitoba.com/2023/02/manitoba-government-accepting-applications-for-newcomer-community-integration-support-program/
-title: undefined / Manitoba government accepting applications for Newcomer Community Integration Support Program
-description: undefined / Labour and Immigration Minister Jon Reyes announced today that the Manitoba government is accepting applications for the Newcomer Community Connections Stream (NCCS) of the Newcomer Community Integration Support (NCIS) program. Interested parties are encouraged to visit the Newcomer Community Integration … Continue reading →
+# 2023-02-04 - https://www.cicnews.com/2023/02/what-are-biometrics-and-why-do-i-need-to-submit-them-0232774.html
+title: undefined / What are biometrics and why do I need to submit them?
+description: undefined / Biometrics are the unique physical characteristics of a person that can be used to identify them. In the context of Canadian immigration, biometrics refers to fingerprints and a photograph, which may be a required submission as part of some immigration pathways to Canada (but more on that later). Typically, biometrics will be required by Immigration, […]
 
