@@ -118,7 +118,5 @@ PNP、FSWP 和 FSTP 提供许多不需要工作经验的工作机会。	PNP’s,
 通常优先考虑家庭能够自给自足的移民，因为这类移民更有可能在加拿大永久定居，而且他们比单身成年人更能增加人口。	Priority is normally given to immigrants with families that can support themselves since these types of immigrants are more likely to permanently settle in Canada and they augment the population more than single adults.
 	
 准备开始？现在申请	Ready to Start? Apply Now 
-	
-分享此文章	SHARE THIS ARTICLE
 
 FCGvisa translated, © canadianvisa All Rights Reserved.

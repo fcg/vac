@@ -6,6 +6,8 @@
 # https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
 # https://www.canadavisa.com/news/rss.html
 
+# https://mdccanada.ca/
+
 # curl -s https://www.canadim.com/blog/top-ten-indemand-jobs-in-canada/ | pup ".o-container-col" | html2md - | tee ./_feeds/_canadim/top-ten-indemand-jobs-in-canada.md
 # trans -b "en:zh" file://top-ten-indemand-jobs-in-canada.md | tee top-ten-indemand-jobs-in-canada-zh.md  
 # sed 's/\[\([^][]*\)\]([^()]*)/\1/g' top-ten-indemand-jobs-in-canada-zh.md | tee top-ten-indemand-jobs-in-canada-zh-fcg.md
