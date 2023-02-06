@@ -20,7 +20,11 @@ deno run -A --unstable ./_feeds/canadaimmigrants.js
 deno run -A --unstable ./_feeds/canadianimmigrant.js
 deno run -A --unstable ./_feeds/canadianvisa.js
 deno run -A --unstable ./_feeds/canadim.js
-deno run -A --unstable ./_feeds/canadamadesimple.js
+deno run -A --unstable ./_feeds/immigrants101.js
+deno run -A --unstable ./_feeds/immigrationcoach.js
+deno run -A --unstable ./_feeds/immigrationnewscanada.js
+
+
 
 deno run -A --unstable ./_feeds/alberta.js
 deno run -A --unstable ./_feeds/britishita.js
