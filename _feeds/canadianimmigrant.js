@@ -28,8 +28,8 @@ entries.forEach(async (element) => {
   const pubdateyyyymmdd = pubdate.format("YYYY-MM-DD");
   const dateymd = pubdate.format("YYYY-MM-DD");
 
-//   if (!pubdate.isAfter(yesterday)) return;
-  if (!pubdate.isAfter("2023-01-01")) return;
+  if (!pubdate.isAfter(yesterday)) return;
+  // if (!pubdate.isAfter("2023-01-01")) return;
 
   const htmlfilename = `${pubdateyyyymmdd}-${basename(path)}.html`;
   const mdfilename = htmlfilename.replace(".html","_canadianimmigrant.md");
