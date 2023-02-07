@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Express Entry Draw #238'
-description: 'On January 18, 2023, Immigration, Refugees, and Citizenship Canada (IRCC) issued 5,500 invitations in the Express Entry draw. The minimum CRS score was 490. This draw was not program specific. All candidates who meet the minimum point requirement were invited. Are you on the Express Entry pool yet? FIND OUT IF YOU'RE ELIGIBLE BY ATTENDING OUR…'
+description: On January 18, 2023, Immigration, Refugees, and Citizenship Canada (IRCC) issued 5,500 invitations in the Express Entry draw. The minimum CRS score was 490. This draw was not program specific. All candidates who meet the minimum point requirement were invited. Are you on the Express Entry pool yet? FIND OUT IF YOU'RE ELIGIBLE BY ATTENDING OUR…
 date: Wed Jan 18 2023 16:35:59 GMT-0800 (Pacific Standard Time)
 categories: immigrationcoach
 ---

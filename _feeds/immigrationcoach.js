@@ -50,7 +50,7 @@ entries.forEach(async (element) => {
   shfilearray.push(`echo "\\nFCGvisa translated, © immigrationcoach All Rights Reserved." >> "../../_posts/${fcgmdfilename}"\n`);
 
   const $ = cheerio.default.load(description);
-  const desc = $("p").first().text().replaceAll(":","-"); 
+  const desc = $("p").first().text().replaceAll(":","-").replaceAll("'"," "); 
 
   let frontmatter = 
 `---
