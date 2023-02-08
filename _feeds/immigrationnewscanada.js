@@ -57,7 +57,7 @@ entries.forEach(async (element) => {
   const jekyllfrontmatterfilename = mdfilename.replace(".md","_fm.md");
 
   shfilearray.push(`# ${pageurl}\n`);
-  shfilearray.push(`curl -s ${pageurl} | pup "article" | tee ${htmlfilename}\n`);
+  shfilearray.push(`curl -k -L -s --compressed ${pageurl} | pup "article" | tee ${htmlfilename}\n`);
   shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
   shfilearray.push(`sed '/===/d;/----/d;/\\[!/d;/Something went wrong/d;/Load More Posts/d;/Loading/d;/data-lazy-fallback/d' "tmp_${mdfilename}" | sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' | sed '/FIND OUT IF YOU/,$d;/googletag/d;/Free Immigration Assessment/d;/immigrationnewscanada/d;/adsbygoogle/d;/！	!/d;/SHARE THIS ARTICLE/d;/Free Assessment/d;' | cat -s | tee ${mdfilename}`);
   shfilearray.push(`trans -b en:zh "file://${mdfilename}" | tee "${cnmdfilename}"`); 
@@ -96,22 +96,22 @@ await Deno.writeTextFile(`${mdbasedir}${jekyllfrontmatterfilename}`, frontmatter
 
 const options = {};
 
-//   try {
+  // try {
     
-//     const res = await fetch_retry(url, options);
-//     console.log(res.status);
-//     const html = await res.text();
-//     const $ = cheerio.default.load(html);
+  //   const res = await fetch_retry(url, options);
+  //   console.log(res.status);
+  //   const html = await res.text();
+  //   const $ = cheerio.default.load(html);
 
-//     const article = $("article").html();    
+  //   const article = $("article").html();    
 
-//     await Deno.writeTextFile(`${mdbasedir}${htmlfilename}`, article, { append: false, create: true});
+  //   await Deno.writeTextFile(`${mdbasedir}${htmlfilename}`, article, { append: false, create: true});
 
-//     await Deno.writeTextFile(`${mdbasedir}${jekyllfrontmatterfilename}`, frontmatter, { append: false, create: true});
+  //   await Deno.writeTextFile(`${mdbasedir}${jekyllfrontmatterfilename}`, frontmatter, { append: false, create: true});
     
-//   } catch (error) {
-//     console.log(error);
-//   }
+  // } catch (error) {
+  //   console.log(error);
+  // }
 });
 
 // shfilearray.push("cp -f *_fcg.md ../_posts/");

@@ -1,60 +1,48 @@
-# 2023-02-06 - https://canadianimmigrant.ca/careers-and-education/post-secondary-education/managing-loneliness-as-an-international-student
-title: Managing loneliness as an international student
-description: Whether you have two friends, twenty friends or no friends, you may or may not feel lonely. If you do feel alone or isolated, in other words if you don’t have adequate social support or have too few meaningful relationships, you may want to take steps to change it.
+# 2023-02-07 - https://canadianimmigrant.ca/living/women/immigrant-women-of-inspiration-2023-call-for-nominations
+title: Immigrant Women of Inspiration 2023: Call for nominations
+description: For a tenth year, we are inviting nominations for the annual Immigrant Women of Inspiration feature. This year, the spotlight is on immigrant women in finance who are contributing to strengthening the Canadian banking and financial sector.
 
-# 2023-02-04 - https://immigrants101.com/alberta-advantage-immigration-program/
-title: Alberta Advantage immigration program
-description: The Alberta Advantage immigration program is a provincial immigration program that provides a fast and efficient pathway to permanent residency in the Canadian province of Alberta. It is designed to attract skilled workers and entrepreneurs who have the skills and experience needed to support Alberta’s economy and contribute to its growth. Eligibility for the program […]
-
-# 2023-02-03 - https://immigrants101.com/cost-of-living-new-zealand-and-canada/
-title: Cost of living New Zealand and Canada
-description: When comparing the cost of living in New Zealand and Canada, there are some key differences to consider. In general, both countries have high standards of living, with access to quality healthcare, education, and other essential services. However, the cost of living can vary significantly depending on which city you choose to live in and […]
-
-# 2023-01-27 - https://immigrants101.com/immigrating-to-new-zealand/
-title: Immigrating to New Zealand
-description: If you’re considering immigrating to New Zealand, it’s important to understand the immigration process and requirements. Immigration New Zealand is the government agency responsible for managing immigration to the country, and they offer a range of visa options to help individuals and families move to New Zealand. Top 6 reasons to immigrating to New Zealand […]
-
-# 2023-01-23 - https://immigrants101.com/dont-fall-for-it-how-to-spot-and-avoid-cra-scams/
-title: Don’t Fall for it: How to Spot and Avoid CRA Scams
-description: Introduction- The Canada Revenue Agency (CRA) is responsible for collecting taxes and administering tax laws, but unfortunately, scammers often use the CRA’s name and reputation to trick people into giving away their money or personal information. These scams can take many forms, from fake phone calls to phishing emails. In this blog post, we’ll explore […]
-
-# 2023-01-23 - https://immigrants101.com/beware-of-amazon-scams-how-to-protect-yourself/
-title: Beware of Amazon Scams: How to Protect Yourself
-description: Amazon is one of the most popular and convenient online shopping platforms, but it is not immune to scams. From fake product listings to phishing scams, there are many ways that thieves try to trick shoppers into giving away their money or personal information. In this blog post, we’ll explore some of the most common […]
-
-# 2023-01-23 - https://immigrants101.com/letter-of-explanation-cic/
-title: Letter of explanation CIC
-description: A letter of explanation is a document that provides additional information or clarification to the Canadian Immigration and Citizenship (CIC) regarding an aspect of an individual’s application. This letter can be used to explain any discrepancies or inconsistencies in the application, such as gaps in employment or changes in address. It can also be used […]
-
-# 2023-01-20 - https://immigrants101.com/finding-cheap-auto-insurance-in-ontario/
-title: Finding cheap auto insurance in Ontario
-description: Auto insurance is mandatory in Ontario, and choosing the right policy can be a challenge, especially if you’re on a tight budget. Auto insurance is mandatory in Ontario and can be a significant expense for many drivers. Here are some tips for finding cheap auto insurance in Ontario- Shop Around- Don’t settle for the first […]
-
-# 2023-01-17 - https://immigrants101.com/how-to-avoid-scams-on-walmart-canada/
-title: How to Avoid Scams on Walmart Canada
-description: Walmart Canada is a popular retail chain that offers a wide range of products at competitive prices. However, like any other online shopping platform, it is not immune to scams. From fake deals to phishing scams, there are various ways that scammers can trick shoppers into giving away their money or personal information. In this […]
-
-# 2023-01-14 - https://immigrants101.com/finding-a-job-as-international-student/
-title: Finding a job as international student
-description: Finding a job as an international student can be challenging, but there are several strategies that can help increase your chances of success. Some of these strategies include- Networking- Networking is key to finding job opportunities as an international student. Reach out to professors, alumni, and other professionals in your field of study to learn […]
-
-# 2023-01-04 - https://immigrants101.com/express-entry-proof-of-funds/
-title: Express Entry Proof of funds
-description: Introduction When applying for Canada’s Express Entry program, one of the requirements is to show that you have enough funds to support yourself and your family during your first few months in Canada. This is known as proof of funds (for express entry). What is express entry program Canada’s Express Entry program is a way […]
-
-# 2023-02-06 - https://immigrationnewscanada.ca/ircc-minister-makes-a-new-announcement-for-hong-kong-residents/
-title: IRCC Minister Makes A New Announcement For Hong Kong Residents
+# 2023-02-07 - https://immigrationnewscanada.ca/new-bc-pnp-draw-today-issues-245-invitations-for-pr/
+title: New BC PNP Draw Today Issues 245 Invitations For PR
 description: 
 
-# 2023-02-06 - https://www.cicnews.com/2023/02/some-foreign-workers-in-canada-can-have-their-lmia-processed-in-10-business-days-0232698.html
-title: undefined / Some foreign workers in Canada can have their LMIA processed in 10 business days
-description: undefined / To help Canadian employers fill labour and skills gaps in their organizations when there are no qualified and available Canadians or permanent residents (PR), Immigration, Refugees and Citizenship Canada (IRCC) operates the Temporary Foreign Worker Program (TFWP). As a condition of the work permits provided to foreign workers through this program, employers hiring foreign talent […]
+# 2023-02-07 - https://immigrationnewscanada.ca/here-are-new-updated-ircc-processing-times-as-of-february-7/
+title: Here Are New Updated IRCC Processing Times As Of February 7
+description: 
 
-# 2023-02-06 - https://www.cicnews.com/2023/02/breaking-canada-extends-work-permits-for-hong-kong-residents-0232899.html
-title: undefined / BREAKING: Canada extends work permits for Hong Kong residents
-description: undefined / Immigration minister Sean Fraser has just announced Canada is expanding its open work permit options for Hong Kong nationals. Speaking from Toronto this morning, the minister said the existing Open Work Permit (OWP) for Hong Kong residents, which was set to expire today, will be extended an additional two years. To be eligible, Hong Kong […]
+# 2023-02-07 - https://immigrationnewscanada.ca/canada-permanent-resident-status-all-you-need-to-know/
+title: Canada Permanent Resident Status – All You Need To Know
+description: 
 
-# 2023-02-06 - https://www.cicnews.com/2023/02/why-do-you-need-a-good-credit-score-as-a-newcomer-to-canada-0232883.html
-title: undefined / Why do you need a good credit score as a newcomer to Canada?
-description: undefined / As a newcomer to Canada you will quickly find out the importance of building a good credit score. Financial Institutions and other businesses will generally look at your credit score to determine whether to do business with you or how much money “to lend you”.  Here are some quick examples- To rent a property and […]
+# 2023-02-07 - https://www.cicnews.com/2023/02/understanding-the-express-entry-tie-breaking-rule-0232770.html
+title: undefined / Understanding the Express Entry tie-breaking rule
+description: undefined / Express Entry is the Canadian federal government’s top immigration pathway for foreign skilled workers. To help rank and choose between Express Entry candidates with the same Comprehensive Ranking System (CRS) score, Immigration, Refugees and Citizenship Canada (IRCC) introduced a tie-breaking rule that works based on the date and time that “profiles were first submitted to […]
+
+# 2023-02-07 - https://www.cicnews.com/2023/02/canadas-immigration-backlog-shows-little-change-from-january-0232945.html
+title: undefined / Canada’s immigration backlog shows little change from January
+description: undefined / In an email to CIC News Immigration, Refugees and Citizenship Canada (IRCC) reported that the number of applicants in inventory has remained consistent with January data, at just over 2.1 million. The data is current as of January 31-February 1. The inventory across all lines of business has progressed as follows since July 2021- January 2-3 […]
+
+# 2023-02-07 - https://immigrationnewscanada.ca/new-bc-pnp-draw-today-issues-245-invitations-for-pr/
+title: New BC PNP Draw Today Issues 245 Invitations For PR
+description: 
+
+# 2023-02-07 - https://immigrationnewscanada.ca/here-are-new-updated-ircc-processing-times-as-of-february-7/
+title: Here Are New Updated IRCC Processing Times As Of February 7
+description: 
+
+# 2023-02-07 - https://immigrationnewscanada.ca/canada-permanent-resident-status-all-you-need-to-know/
+title: Canada Permanent Resident Status – All You Need To Know
+description: 
+
+# 2023-02-07 - https://immigrationnewscanada.ca/new-bc-pnp-draw-today-issues-245-invitations-for-pr/
+title: New BC PNP Draw Today Issues 245 Invitations For PR
+description: 
+
+# 2023-02-07 - https://immigrationnewscanada.ca/here-are-new-updated-ircc-processing-times-as-of-february-7/
+title: Here Are New Updated IRCC Processing Times As Of February 7
+description: 
+
+# 2023-02-07 - https://immigrationnewscanada.ca/canada-permanent-resident-status-all-you-need-to-know/
+title: Canada Permanent Resident Status – All You Need To Know
+description: 
 
