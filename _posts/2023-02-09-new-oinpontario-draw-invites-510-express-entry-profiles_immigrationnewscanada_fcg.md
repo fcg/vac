@@ -1,60 +1,70 @@
 ---
 layout: post
-title: 'IRCC Launches New Online Tracker For Express Entry and PNP'
+title: 'New OINP(Ontario) Draw Invites 510 Express Entry Profiles'
 description: ''
-date: Wed Feb 08 2023 16:23:12 GMT-0800 (Pacific Standard Time)
+date: Thu Feb 09 2023 10:03:11 GMT-0800 (Pacific Standard Time)
 categories: immigrationnewscanada
 ---
 
-IRCC 推出新的快速通道和 PNP 在线跟踪器	IRCC Launches New Online Tracker For Express Entry and PNP
+新的 OINP（安大略省）抽签邀请 510 名快速入境档案	New OINP(Ontario) Draw Invites 510 Express Entry Profiles
 	
-2023 年 2 月 8 日，美国东部标准时间晚上 7:23 Gagandeep Kaur Sekhon 加拿大移民，快速通道最新抽签和新闻 2023，IRCC 处理	8 February 2023, 7:23 PM EST Gagandeep Kaur Sekhon Canada Immigration , Express Entry Latest Draws and News 2023 , IRCC Processing
+2023 年 2 月 9 日，美国东部标准时间下午 1:03 Kamal Deep Singh，RCIC Ontario PNP 2023 年最新抽奖和新闻	9 February 2023, 1:03 PM EST Kamal Deep Singh, RCIC Ontario PNP Latest Draws and News 2023
 	
-!IRCC数字化	!IRCC Digitalization
+今天，OINP（安大略省移民提名计划）通常被称为安大略省 PNP，在技术行业类别下邀请了 510 名快速通道档案。	Today, OINP (Ontario Immigrant Nominee Program) commonly known as Ontario PNP invited 510 Express Entry profiles under the Skilled Trades Stream.
 	
-	  
+此次抽签宣布综合排名系统 (CRS) 的得分范围为 260-489，并向仅在 5 个职业/NOC 中创建的快速通道简介发出了意向通知 (NOI)。	This draw declared comprehensive ranking system (CRS) cut off score range of 260-489 and issued the Notification of Interests (NOIs) to Express Entry profiles created in just 5 Occupations/NOCs.
 	
-今天，IRCC 宣布他们正在将新的在线申请状态跟踪器的使用扩展到快速通道和省提名申请。	Today, IRCC announces that they are expanding the use of new online application status tracker to Express Entry and Provincial Nominee applications.
+相反，1 月 13 日的最后一次 OINP 技术贸易流抽签向在 42 个职业/NOC 中创建的快速通道配置文件发出了 NOI。	On contrary, last OINP Skilled Trades Stream Draw on January 13 issued NOIs to Express Entry profiles created in 42 Occupation/NOCs.
 	
-Express Entry系统下4个类别的申请人；加拿大经验类、联邦技术工人计划、联邦技术贸易计划和省提名计划 (PNP) 现在可以使用此在线跟踪器。	The applicants for 4 categories under the Express Entry system; Canadian Experience Class, Federal Skilled Worker Program, Federal Skilled Trades Program and Provincial Nominee Program (PNP) will now be able to use this online tracker.
+展望未来，今天的 OINP 抽签考虑了在 2022 年 2 月 9 日至 2023 年 2 月 9 日之间创建的快速通道配置文件。	Moving forward, today’s OINP draw considered Express Entry profiles created between February 9, 2022 – February 9, 2023.
 	
-以前，此申请状态跟踪器仅适用于配偶、伴侣或受抚养子女的公民身份和赞助申请。	Previously, this application status tracker was only available for Citizenship and sponsorship applications for spouse, partner, or dependent child .
+用简单的语言来说，在今天的抽签中收到邀请的 510 名 Express Entry 配置文件将获得 600 额外的 CRS 积分，并且肯定会在即将到来的 Express Entry 抽签中收到申请邀请 (ITA)。	In simple language, the 510 Express Entry profiles that receive invite in today’s draw will get 600 extra CRS points and will definitely receive an Invitation to Apply (ITA) in upcoming Express Entry draw.
 	
-申请人可以使用跟踪器随时了解他们申请的处理情况，并在他们需要任何活动/行动来保持他们的文件移动时得到通知。	Applicants can use the tracker to stay updated on processing of their application and be informed, if any activity/action is required on their end to keep their file moving.
+OINP 通过扫描 Express Entry 档案库自行选择 Skilled Trades Stream 下的 Express Entry 档案。	OINP select Express Entry profiles under Skilled Trades Stream on their own by scanning the Express Entry pool of profiles.
 	
-此外，该跟踪器将通过让申请人及其顾问访问他们通常通过联系 IRCC 获得的相同信息来提高透明度。	Furthermore, this tracker will promote transparency by giving applicants and their consultants access to the same information, that they would normally obtain by contacting IRCC.
+无需单独向 OINP 注册即可参加本次抽奖。	There is no need to register separately with OINP to be considered for this draw.
 	
-与往常一样，为了安全起见，IRCC 将自由裁量权放在首位，声明：	As usual, to be safe, the IRCC put discretion first, stating:
+但是，受邀个人资料现在将有 45 个日历日来提交申请并申请 OINP 提名。	However, invited profiles will now have 45 calendar days to submit their application and claim OINP nomination.
 	
-* 在 IRCC 对您的申请做出最终判断之前，通过追踪器提供的信息随时可能发生变化。	  Before IRCC reaches a final judgement on your application, the information provided through the tracker is subject to change at any moment.
-* 跟踪器中显示的信息与您申请的实际进度之间也可能存在延迟或差异。	  There may also be delays or discrepancies between the information displayed in the tracker and the actual progress on your application.
+!OINP 2023 年技术贸易流抽签	!OINP Skilled Trades Stream Draws 2023
 	
-如何创建您的 IRCC 申请状态跟踪器？	How To Create Your IRCC Application Status Tracker?
+单击此处获取所有最新的 OINP 抽奖和新闻	Click here for all the latest OINP Draws and News
 	
-新申请人需要创建一个在线用户帐户才能使用此申请状态跟踪器。	New applicants will need to create an online user account to use this application status tracker.
+受邀职业列表	List of Occupations invited
 	
-申请人将需要以下列出的信息来创建自己的申请状态跟踪帐户：	Applicants will need below listed information create their own application status tracker account:
+* 主管、汽车运输和其他地面交通运营商 – NOC 72024	  Supervisors, motor transport and other ground transit operators – NOC 72024
+* 焊工和相关机器操作员 – NOC 72106	  Welders and related machine operators – NOC 72106
+* 电信线路和电缆安装和维修人员 – NOC 72204	  Telecommunications line and cable installers and repairers – NOC 72204
+* 木匠 – NOC 72310	  Carpenters – NOC 72310
+* 画家和装潢师（室内装潢师除外）– NOC 73112	  Painters and decorators (except interior decorators) – NOC 73112
 	
-* **唯一客户端标识符 (UCI) 或客户端 ID**	  **Unique client identifier (UCI) or client ID**
-* **名字（名字）**	  **First name (given name)**
-* **姓氏（姓氏）**	  **Last name (family name, surname)**
-*   **出生日期**	  **Date of birth**
-*   **出生地**	  **Place of birth**
-* **出生国家**	  **Country of birth**
+> 这是安大略省 PNP 直接邀请的快速入境 NOC	> Here Are Express Entry NOCs Invited Directly By Ontario PNP
 	
-移民顾问或付费代表将需要以下信息来创建跟踪器帐户：	Immigration consultants or paid representatives will need below mentioned information to create tracker account:
+什么是 OINP Express Entry Stream	What is OINP Express Entry Stream
 	
-* **派对ID**	  **Party ID**
-* **名字（名字）**	  **First name (given name)**
-* **姓氏（姓氏）**	  **Last name (family name, surname)**
+**除了拥有有效的快速通道个人资料外，要符合_Ontario PNP Express Entry Skilled Trades Stream_的资格，您必须满足以下要求：**	**Other than having a valid Express Entry profile, to Be Eligible for _Ontario PNP Express Entry Skilled Trades Stream_ you must meet the following requirement:**
 	
-如果您的申请正在进行中，请单击此处注册此永久居留追踪器。	Click here to register for this permanent residence tracker, if your application is in progress.
+至少一年在安大略省从事技术职业的累积带薪全职工作经验（或同等的带薪兼职工作）。	At least one year of cumulative paid full-time work experience (or the equivalent in paid part-time employment) in Ontario in a skilled occupation.
 	
-此应用程序跟踪器将提供处理您的应用程序的流程图/历史记录，类似于如下所述：	This application tracker will provide the flowchart/history of processing on your application similar to as mentioned below:
+该职业必须在国家职业分类第 633 小类或第 72、73 或 82 大类 (NOC) 中指定。	This occupations must be specified in National Occupational Classification Minor Group 633 or Major Groups 72, 73, or 82 (NOC).
 	
-!IRCC 申请跟踪器	!IRCC Application Tracker
+这种工作经历必须是：	This work experience must have been:
+	
+* 在您向 OINP 提交申请之日起的过去两年内获得	  obtained within the last two years from the date of submitting your application to the OINP
+* 从事您在“快速通道”个人资料中确定的一项或多项职业	  in one or more of the occupations that you identified in your Express Entry profile
+* 在安大略省同时保持在加拿大的合法身份	  in Ontario while maintaining legal status in Canada
+* 你所做的工作必须加起来一年，但不一定是连续工作一年	  the work you’ve done must add up to one year, but it does not have to be one year of continuous work
+* 从事每周至少 30 小时带薪工作的工作，相当于一年内至少 1,560 小时的带薪工作（如果在过去两年内增加至少上述时间，则兼职工作经验被计算在内） .	  working in a job with at least 30 hours of paid work in a week that amounts to at least 1,560 hours of paid work in one year (part-time work experience is counted if it adds to at least aforementioned hours within last two years).
+	
+> OINP Express Entry Skilled Trades Stream：这里有完整的资格	> OINP Express Entry Skilled Trades Stream: Here Is Full Eligibility
+	
+**资料来源：OINP**	**Source: OINP**
 	
 * * *	* *
+	
+IRCC 推出新的快速通道和 PNP 在线跟踪器	IRCC Launches New Online Tracker For Express Entry and PNP
+	
+快速通道申请人及其代表可以使用新的在线跟踪器来了解处理的最新信息，或者 IRCC 是否需要更多信息	Express Entry applicants and their representatives can use the new online tracker to stay updated on processing or if any more information is required by IRCC
 	
 加拿大学习许可录取通知书 - 所有你需要知道的	Canada Study Permit Letter of Acceptance-All You Need To Know
 	
@@ -131,10 +141,6 @@ IEC 2023 第三次抽签在三个类别下发出了 7,100 多份新邀请。迄�
 了解加拿大所有省份的每周收入	Know Canada Weekly Earnings In All The Provinces
 	
 查看 2023 年 1 月 26 日报告的加拿大和所有省份的行业和省份每周收入。详情在里面。	Check out the industry-wise and province-wise weekly earnings in Canada and all the provinces as reported on January 26, 2023. Details inside.
-	
-以下是 2023 年最常见的加拿大移民选择	Here Are Most Common Canada Immigration Options In 2023
-	
-未来三年，加拿大每年都会增加新移民的数量。查看 2023 年移民加拿大的最常见方式。	Canada will increase the number of new immigrants each year for next three years. Check out the most common ways for immigrating to Canada in 2023.
 	
 
 FCGvisa translated, © immigrationnewscanada All Rights Reserved.
