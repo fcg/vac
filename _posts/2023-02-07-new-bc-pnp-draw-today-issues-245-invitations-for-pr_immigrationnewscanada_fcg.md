@@ -11,10 +11,12 @@ categories: immigrationnewscanada
 2023 年 2 月 7 日，美国东部时间晚上 9:26 Gagandeep Kaur Sekhon 不列颠哥伦比亚省移民抽签和 2023 年新闻	7 February 2023, 9:26 PM EST Gagandeep Kaur Sekhon British Columbia Immigration Draws and News 2023
 	
 !加拿大温哥华市中心	!Vancouver downtown canada
-
+	
+	  
+	
 2023 年 2 月 7 日——新的 BC PNP 抽签（不列颠哥伦比亚省）发送了 **245** 省级提名邀请，提供永久居留权 (PR)。	February 7, 2023 – New BC PNP Draw (British Columbia) sent **245** invitations for provincial nomination offering permanent residency (PR).
 	
-**207** 申请人被邀请参加一般抽签，包括技术职业、技术工人和国际研究生类别，包括快速入境类别。	**207** applicants were invited under General draw including Tech occupations , in Skilled Worker and International Graduate categories including the Express Entry categories.
+**207** 申请人被邀请参加普通抽签，包括技术职业、技术工人和国际研究生类别，包括快速入境类别。	**207** applicants were invited under General draw including Tech occupations , in Skilled Worker and International Graduate categories including the Express Entry categories.
 	
 与 2023 年 1 月 24 日之前的 BC PNP 抽签相比，所有类别的最低截止分数保持不变。	Minimum cut off score remained same for all the categories, as compared to previous BC PNP draw on January 24, 2023 .
 	
@@ -66,14 +68,14 @@ categories: immigrationnewscanada
 * 22220 计算机网络和网络技术人员	  22220 Computer network and web technicians
 * 22221 用户支持技术人员	  22221 User support technicians
 * 22222 信息系统检测技术员	  22222 Information systems testing technicians
-* 22310 电气和电子工程技师和技术人员	  22310 Electrical and electronics engineering technologists and technicians
+* 22310 电气和电子工程技师和技术员	  22310 Electrical and electronics engineering technologists and technicians
 * 50011 经理——出版、电影、广播和表演艺术	  50011 Managers – publishing, motion pictures, broadcasting and performing arts
 * 22312 工业仪器技术员和机械师	  22312 Industrial instrument technicians and mechanics
 * 51111 作者和作家（技术除外）	  51111 Authors and writers (except technical)
 * 51112 技术作家	  51112 Technical writers
 * 51120 制片人、导演、编舞及相关职业	  51120 Producers, directors, choreographers and related occupations
 * 52119 电影、广播和表演艺术中的其他技术和协调职业	  52119 Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts
-* 52112 广播技术员	  52112 Broadcast technicians
+* 52112 广播技术人员	  52112 Broadcast technicians
 * 52113 录音录像技术人员	  52113 Audio and video recording technicians
 * 52120 平面设计师和插画师	  52120 Graphic designers and illustrators
 * 53111 电影、广播、摄影和表演艺术助理和操作员	  53111 Motion pictures, broadcasting, photography and performing arts assistants and operators
@@ -110,7 +112,7 @@ categories: immigrationnewscanada
 * 31202 物理治疗师	  31202 Physiotherapists
 * 31204 运动学家和其他治疗和评估专业职业	  31204 Kinesiologists and other professional occupations in therapy and assessment
 * 32120 医学实验室技术员	  32120 Medical laboratory technologists
-* 32129 其他医疗技师和技术人员	  32129 Other medical technologists and technicians
+* 32129 其他医疗技师和技术员	  32129 Other medical technologists and technicians
 * 32112 牙科技师和技师	  32112 Dental technologists and technicians
 * 32200 中医和针灸师	  32200 Traditional Chinese medicine practitioners and acupuncturists
 * 32109 其他治疗和评估技术职业	  32109 Other technical occupations in therapy and assessment
@@ -206,5 +208,8 @@ IEC 2023 第三次抽签在三个类别下发出了 7,100 多份新邀请。迄�
 以下是 2023 年最常见的加拿大移民选择	Here Are Most Common Canada Immigration Options In 2023
 	
 未来三年，加拿大每年都会增加新移民的数量。查看 2023 年移民加拿大的最常见方式。	Canada will increase the number of new immigrants each year for next three years. Check out the most common ways for immigrating to Canada in 2023.
+	
+！	!
+	
 
 FCGvisa translated, © immigrationnewscanada All Rights Reserved.

@@ -13,8 +13,10 @@ categories: immigrationnewscanada
 2023 年 2 月 7 日，美国东部标准时间晚上 8:48 Kamal Deep Singh，RCIC 加拿大移民，IRCC 处理	7 February 2023, 8:48 PM EST Kamal Deep Singh, RCIC Canada Immigration , IRCC Processing
 	
 !IRCC 处理更新 2 月 7 日	!IRCC processing update Feb 7
-
-**本文列出了 2023 年 2 月 7 日更新的新官方 IRCC 处理时间以及与上周处理时间的比较。**	**This article enlists new official IRCC processing times updated on February 7, 2023 as well as comparison with processing times of last week.**
+	
+	  
+	
+**本文采用 2023 年 2 月 7 日更新的新官方 IRCC 处理时间以及与上周处理时间的比较。**	**This article enlists new official IRCC processing times updated on February 7, 2023 as well as comparison with processing times of last week.**
 	
 2022 年，对 IRCC 处理工具进行了修改，以提供有关典型处理时间的精确数据。	In 2022, the IRCC processing tool was modified to deliver precise data on typical processing times.
 	
@@ -310,6 +312,7 @@ IRCC 希望通过“积极行动”显着减少或消除访客签证积压。根
 	
 1 月 13 日，新的 OINP 抽签邀请了 1252 名快速入境档案	New OINP Draw Invites 1252 Express Entry Profiles-January 13
 	
-1 月 13 日 OINP（安大略省 PNP）抽签邀请了 1,252 名快速通道个人资料，授予 600 分，确保在下一次快速通道抽签中获得。	January 13 OINP (Ontario PNP) Draw invited 1,252 Express Entry profiles conferring 600 points making it definite to receive in the next Express Entry draw.
+1 月 13 日 OINP（安大略省 PNP）抽签邀请了 1,252 个 Express Entry 个人资料，授予 600 分，确定在下一次 Express Entry 抽签中收到。	January 13 OINP (Ontario PNP) Draw invited 1,252 Express Entry profiles conferring 600 points making it definite to receive in the next Express Entry draw.
+	
 
 FCGvisa translated, © immigrationnewscanada All Rights Reserved.
