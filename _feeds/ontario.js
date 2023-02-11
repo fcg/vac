@@ -3,7 +3,7 @@ import moment from "https://deno.land/x/momentjs@2.29.1-deno/mod.ts";
 import { basename, dirname } from "https://deno.land/std/path/mod.ts";
 import { cheerio } from "https://deno.land/x/cheerio@1.0.7/mod.ts";
 import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
-import { GTR } from "https://deno.land/x/gtr/mod.ts";
+// import { GTR } from "https://deno.land/x/gtr/mod.ts";
 
 async function onupdate() {
   const onupdateurl =
@@ -30,10 +30,10 @@ async function onupdate() {
 
     while (el = el.next()) {
       if (el.length === 0 || el.prop("tagName") === "H3") break;
-      if (el.prop("tagName") === "H4") title = $(el).text();
+      if (el.prop("tagName") === "H4") title = desc = $(el).text();
       text += $.html(el) + "\n";
     }
-    // console.log(text);
+    // console.log(title);
     return { date: `${date}`, title: `${title}`, html: `${text}` };
   }).get();
 
@@ -45,9 +45,7 @@ async function onupdate() {
     let updatehtml = theupdate.html;
     let date = moment(dateraw);
 
-    if (!date.isAfter(yesterday)) break;
-
-    let dateymd = date.format("YYYY-MM-DD");
+     let dateymd = date.format("YYYY-MM-DD");
     
     let titlepath = title.replaceAll(",", "-").replaceAll("'", "-").replaceAll(
       "|",
@@ -63,9 +61,11 @@ async function onupdate() {
       "",
     ).replaceAll(" ", "-").replaceAll("--", "-");    
 
+    console.log(dateymd, title);
+
     let htmlfilename = `${dateymd}-${titlepath}.html`;
-    const mdfilename = htmlfilename.replace(".html", "_aipp.md");
-    const cnmdfilename = mdfilename.replace("_aipp", "_cn");
+    const mdfilename = htmlfilename.replace(".html", "_oinp.md");
+    const cnmdfilename = mdfilename.replace("_oinp", "_cn");
     const fcgmdfilename = mdfilename.replace(".md", "_fcg.md");
     const jekyllfrontmatterfilename = mdfilename.replace(".md", "_fm.md");
 
@@ -80,22 +80,9 @@ categories: ontario
 
 `;
 
-const gtr = new GTR();
-
-// Translate text.
-const { titlecn } = await gtr.translate(
-  title,
-  { targetLang: "zh" },
-);
-
-const { desccn } = await gtr.translate(
-  desc,
-  { targetLang: "zh" },
-);
-
 let newupdates = `# ${dateymd} - ${onupdateurl}
-title: ${titlecn} / ${title}
-description: ${desccn} / ${desc}
+title: ${title}
+description: ${desc}
 
 `;
 
@@ -146,6 +133,8 @@ await Deno.writeTextFile("_feeds/updates.txt",newupdates,{
     } catch (error) {
       console.log(error);
     }
+
+    if (!date.isAfter(yesterday)) break;
   }
 
   shcontent = shfilearray.join("\n");

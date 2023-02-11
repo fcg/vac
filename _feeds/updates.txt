@@ -30,3 +30,59 @@ description: undefined / Family is one of the primary pillars of Canadian societ
 title: undefined / Answering six common questions about healthcare in Canada for new permanent residents
 description: undefined / Newly landed Canadian permanent residents (PR) are afforded the same healthcare services as citizens born and raised in this country. Here are answers to some of the most common questions new Canadians have about healthcare in Canada. Is Canadian healthcare free? Healthcare in this country is funded through the taxes that all Canadian citizens and […]
 
+# 2023-02-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: 
+description: 
+
+# 2023-02-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: 
+description: 
+
+# 2023-02-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: 
+description: 
+
+# Invalid date - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+description: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+
+# 2023-02-09 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
+description: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
+
+# 2023-02-02 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Tech occupations
+description: Tech occupations
+
+# 2023-01-31 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream
+description: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream
+
+# 2023-01-27 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply to the Entrepreneur Stream
+description: Invitations to apply to the Entrepreneur Stream
+
+# 2023-01-25 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply issued for the Masters Graduate stream
+description: Invitations to apply issued for the Masters Graduate stream
+
+# 2023-01-24 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+description: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+
+# 2023-01-13 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
+description: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
+
+# 2023-01-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+description: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+
+# 2023-02-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: 
+description: 
+
+# Invalid date - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+description: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+
