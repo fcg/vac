@@ -1,28 +1,32 @@
-# 2023-02-09 - https://canadianimmigrant.ca/featured/tools-and-tips-to-help-newcomers-to-canada-budget-better-in-a-time-of-higher-cost-of-living
-title: Tools and tips to help newcomers to Canada budget better in a time of higher cost of living
-description: Sponsored Content Canada now has the highest proportion of immigrants and refugees than it has ever had in its history. A record 23 per cent. This is only slated to increase in the years ahead with plans to bring in an additional 500,000 newcomers per year by 2025. Many newcomers bring skills, knowledge and international education and experience to […]
+# 2023-02-10 - https://www.canadim.com/blog/safety-in-canada-five-factors/
+title: Is Canada a Safe Country?
+description: Canada is known as one of the safest countries in the world. When determining whether Canada is a safe country, we will look at five […]
 
-# 2023-02-09 - https://canadianimmigrant.ca/featured/your-first-banking-steps-in-canada
-title: Your first banking steps in Canada
-description: Banking may be a little different in Canada than in your home country. So, understanding the financial system in your new country is one of the many first steps you will take as a newcomer. With a little information and preparation, you can feel confident in your financial journey. If you are at the starting […]
-
-# 2023-02-09 - https://immigrationnewscanada.ca/new-oinpontario-draw-invites-510-express-entry-profiles/
-title: New OINP(Ontario) Draw Invites 510 Express Entry Profiles
+# 2023-02-10 - https://immigrationnewscanada.ca/two-new-oinp-ontario-draws-sent-770-invites-for-pr/
+title: Two New OINP (Ontario) Draws Sent 770 Invites For PR
 description: 
 
-# 2023-02-08 - https://immigrationnewscanada.ca/ircc-launches-new-online-tracker-for-express-entry-and-pnp/
-title: IRCC Launches New Online Tracker For Express Entry and PNP
+# 2023-02-10 - https://immigrationnewscanada.ca/new-change-to-in-canada-caregiver-work-experience-requirement/
+title: New Change To In-Canada Caregiver Work Experience Requirement
 description: 
 
-# 2023-02-09 - https://www.cicnews.com/2023/02/why-does-canada-have-a-black-history-month-0232988.html
-title: undefined / Why does Canada have a Black History Month?
-description: undefined / Black Canadians, and newcomers, have had a significant impact on how Canada has grown as a country. They have done so in the face of historic systemic racism and other obstacles that many non-racialized immigrants are less likely to encounter. To mark the contributions of Black Canadians, the government began to officially recognize February as […]
+# 2023-02-10 - https://immigrationnewscanada.ca/canadian-language-benchmarkclb-for-immigration-all-you-need-to-know/
+title: Canadian Language Benchmark(CLB) For Immigration-All You Need To Know
+description: 
 
-# 2023-02-09 - https://www.cicnews.com/2023/02/bus-and-truck-drivers-eligible-for-express-entry-0232755.html
-title: undefined / Bus and truck drivers eligible for Express Entry
-description: undefined / On November 16, 2022, Immigration, Refugees, and Citizenship Canada (IRCC) transitioned from its National Occupation Classification (NOC) 2016 system to an updated NOC 2021 version. As part of this transition to NOC 2021, IRCC made 16 occupations newly eligible for Express Entry. Included among those additions are transport truck drivers and bus drivers, two occupations […]
+# 2023-02-09 - https://immigrationnewscanada.ca/manitoba-pnp-draw-issues-308-new-nominations-for-pr/
+title: Manitoba PNP Draw Issues 308 New Nominations For PR
+description: 
 
-# 2023-02-09 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: undefined / Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
-description: undefined / Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
+# 2023-02-10 - https://www.cicnews.com/2023/02/work-experience-requirement-cut-in-half-for-applicants-in-canadas-caregiver-pilot-programs-0233054.html
+title: undefined / Work experience requirement cut in half for applicants in Canada’s caregiver pilot programs
+description: undefined / Speaking from Scarborough today, Members of Parliament Salma Zahid and Rechie Valdez announced that the amount of work experience in Canada required for a caregiver to qualify for permanent residence is being reduced from 24 to 12 months. The change will take effect as of April 30, 2023, and is retrospective for caregivers who have […]
+
+# 2023-02-10 - https://www.cicnews.com/2023/02/understanding-inland-spousal-and-common-law-partner-sponsorship-0230819.html
+title: undefined / Understanding Inland Spousal and Common-Law Partner Sponsorship
+description: undefined / Family is one of the primary pillars of Canadian society. Accordingly, Canada has several family sponsorship programs that the country’s citizens and permanent residents (PR) can apply under to reunite with their loved ones. In fact, among family-class immigrants, Canada seeks to welcome some 80,000 newcomers per year under its Spouses, Partners, and Children category. […]
+
+# 2023-02-10 - https://www.cicnews.com/2023/02/answering-six-common-questions-about-healthcare-in-canada-for-new-permanent-residents-0232746.html
+title: undefined / Answering six common questions about healthcare in Canada for new permanent residents
+description: undefined / Newly landed Canadian permanent residents (PR) are afforded the same healthcare services as citizens born and raised in this country. Here are answers to some of the most common questions new Canadians have about healthcare in Canada. Is Canadian healthcare free? Healthcare in this country is funded through the taxes that all Canadian citizens and […]
 
