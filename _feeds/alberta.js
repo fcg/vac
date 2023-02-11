@@ -91,8 +91,8 @@ console.log(frontmatter);
     );
 
 let newupdates = `# ${dateymd} - ${pageurl}
-title: ${titlecn} / ${title}
-description: ${desccn} / ${headerraw}
+title: ${title}
+description: ${headerraw}
 
 `;
 

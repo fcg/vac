@@ -86,8 +86,8 @@ const { desccn } = await gtr.translate(
 );
 
 let newupdates = `# ${dateymd} - ${pageurl}
-title: ${titlecn} / ${title}
-description: ${desccn} / ${desc}
+title: ${title}
+description: ${desc}
 
 `;
 
