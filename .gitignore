@@ -66,3 +66,6 @@ bower_components
 
 */ignore/*
 ignore
+package-lock.json
+package-lock.json
+
