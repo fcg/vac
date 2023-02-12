@@ -1,68 +1,13 @@
-# 2023-02-10 - https://www.canadim.com/blog/safety-in-canada-five-factors/
-title: Is Canada a Safe Country?
-description: Canada is known as one of the safest countries in the world. When determining whether Canada is a safe country, we will look at five […]
+# 2023-02-11 - https://immigrationnewscanada.ca/latest-iec-2023-draw-sent-more-than-10368-new-invites/
+title: Latest IEC 2023 Draw Sent More Than 10,368 New Invites
+description: https://www.cic.gc.ca/english/work/iec/selections.asp
 
-# 2023-02-10 - https://immigrationnewscanada.ca/two-new-oinp-ontario-draws-sent-770-invites-for-pr/
-title: Two New OINP (Ontario) Draws Sent 770 Invites For PR
-description: 
+# 2023-02-11 - https://www.cicnews.com/2023/02/ontario-british-columbia-and-manitoba-issue-invitations-in-latest-provincial-nominee-program-draws-0233049.html
+title: Ontario, British Columbia, and Manitoba issue invitations in latest Provincial Nominee Program draws
+description: Ontario, British Columbia, and Manitoba have issued invitations to apply to candidates through Provincial Nominee Programs (PNPs) this week.  Most Canadian provinces and territories (except for Quebec and Nunavut) operate their own PNPs. Through these programs, interested candidates may be invited to apply for provincial nomination. Receiving a provincial nomination can be advantageous for gaining […]
 
-# 2023-02-10 - https://immigrationnewscanada.ca/new-change-to-in-canada-caregiver-work-experience-requirement/
-title: New Change To In-Canada Caregiver Work Experience Requirement
-description: 
+# 2023-02-11 - https://www.cicnews.com/2023/02/the-importance-of-making-sure-to-submit-a-complete-electronic-application-under-express-entry-0232691.html
+title: The importance of making sure to submit a complete electronic application under Express Entry
+description: Express Entry has long been a top immigration pathway for foreign nationals looking to come to Canada. The popularity of this immigration pathway makes it crucial that people who receive an Invitation to Apply (ITA) know exactly what to do when completing their online application for Canadian permanent residence (PR). In fact, Canada is aiming […]
 
-# 2023-02-10 - https://immigrationnewscanada.ca/canadian-language-benchmarkclb-for-immigration-all-you-need-to-know/
-title: Canadian Language Benchmark(CLB) For Immigration-All You Need To Know
-description: 
-
-# 2023-02-09 - https://immigrationnewscanada.ca/manitoba-pnp-draw-issues-308-new-nominations-for-pr/
-title: Manitoba PNP Draw Issues 308 New Nominations For PR
-description: 
-
-# 2023-02-10 - https://www.cicnews.com/2023/02/work-experience-requirement-cut-in-half-for-applicants-in-canadas-caregiver-pilot-programs-0233054.html
-title: Work experience requirement cut in half for applicants in Canada’s caregiver pilot programs
-description: Speaking from Scarborough today, Members of Parliament Salma Zahid and Rechie Valdez announced that the amount of work experience in Canada required for a caregiver to qualify for permanent residence is being reduced from 24 to 12 months. The change will take effect as of April 30, 2023, and is retrospective for caregivers who have […]
-
-# 2023-02-10 - https://www.cicnews.com/2023/02/understanding-inland-spousal-and-common-law-partner-sponsorship-0230819.html
-title: Understanding Inland Spousal and Common-Law Partner Sponsorship
-description: Family is one of the primary pillars of Canadian society. Accordingly, Canada has several family sponsorship programs that the country’s citizens and permanent residents (PR) can apply under to reunite with their loved ones. In fact, among family-class immigrants, Canada seeks to welcome some 80,000 newcomers per year under its Spouses, Partners, and Children category. […]
-
-# 2023-02-10 - https://www.cicnews.com/2023/02/answering-six-common-questions-about-healthcare-in-canada-for-new-permanent-residents-0232746.html
-title: Answering six common questions about healthcare in Canada for new permanent residents
-description: Newly landed Canadian permanent residents (PR) are afforded the same healthcare services as citizens born and raised in this country. Here are answers to some of the most common questions new Canadians have about healthcare in Canada. Is Canadian healthcare free? Healthcare in this country is funded through the taxes that all Canadian citizens and […]
-
-# 2023-02-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
-description: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream & Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
-
-# 2023-02-09 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
-description: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
-
-# 2023-02-02 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Tech occupations
-description: Tech occupations
-
-# 2023-01-31 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream
-description: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream
-
-# 2023-01-27 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Invitations to apply to the Entrepreneur Stream
-description: Invitations to apply to the Entrepreneur Stream
-
-# 2023-01-25 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Invitations to apply issued for the Masters Graduate stream
-description: Invitations to apply issued for the Masters Graduate stream
-
-# 2023-01-24 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
-description: Invitations to apply issued for the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
-
-# 2023-01-13 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
-description: Notifications of interest issued for Ontario’s Express Entry Skilled Trades stream
-
-# 2023-01-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
-description: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
-
+https://www.cic.gc.ca/english/work/iec/selections.asp

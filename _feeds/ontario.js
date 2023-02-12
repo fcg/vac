@@ -45,8 +45,10 @@ async function onupdate() {
     let updatehtml = theupdate.html;
     let date = moment(dateraw);
 
-     let dateymd = date.format("YYYY-MM-DD");
-    
+    let dateymd = date.format("YYYY-MM-DD");
+
+    if (!date.isAfter(yesterday)) break;
+
     let titlepath = title.replaceAll(",", "-").replaceAll("'", "-").replaceAll(
       "|",
       "",
@@ -59,7 +61,7 @@ async function onupdate() {
     ).replaceAll(
       "#",
       "",
-    ).replaceAll(" ", "-").replaceAll("--", "-");    
+    ).replaceAll(" ", "-").replaceAll("--", "-");
 
     console.log(dateymd, title);
 
@@ -69,8 +71,8 @@ async function onupdate() {
     const fcgmdfilename = mdfilename.replace(".md", "_fcg.md");
     const jekyllfrontmatterfilename = mdfilename.replace(".md", "_fm.md");
 
-    let frontmatter = 
-`---
+    let frontmatter =
+      `---
 layout: post
 title: '${title}'
 description: '${desc}'
@@ -80,16 +82,16 @@ categories: ontario
 
 `;
 
-let newupdates = `# ${dateymd} - ${onupdateurl}
+    let newupdates = `# ${dateymd} - ${onupdateurl}
 title: ${title}
 description: ${desc}
 
 `;
 
-await Deno.writeTextFile("_feeds/updates.txt",newupdates,{
-  append: true,
-  create: true,
-});
+    await Deno.writeTextFile("_feeds/updates.txt", newupdates, {
+      append: true,
+      create: true,
+    });
     // console.log(frontmatter);
 
     shfilearray.push(`# ${dateymd} - ${title}\n`);
@@ -129,12 +131,11 @@ await Deno.writeTextFile("_feeds/updates.txt",newupdates,{
         create: true,
       });
 
-    //   console.log(`${mdbasedir}${shfilename} saved!`);
+      //   console.log(`${mdbasedir}${shfilename} saved!`);
     } catch (error) {
       console.log(error);
     }
 
-    if (!date.isAfter(yesterday)) break;
   }
 
   shcontent = shfilearray.join("\n");

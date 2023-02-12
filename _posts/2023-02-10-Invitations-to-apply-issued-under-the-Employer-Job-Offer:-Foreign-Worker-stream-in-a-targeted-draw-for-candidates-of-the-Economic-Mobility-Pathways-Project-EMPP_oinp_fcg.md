@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2023-02-10 Invitations to apply issued forOntario’s Express Entry Skilled Trades stream and under the Employer Job Offer'
+title: '2023-02-10 Invitations to apply issued for Ontario’s Express Entry Skilled Trades stream and under the Employer Job Offer'
 description: 'Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)'
 date: 2023-02-10
 categories: ontario
