@@ -24,7 +24,9 @@ deno run -A --unstable ./_feeds/immigrants101.js
 deno run -A --unstable ./_feeds/immigrationcoach.js
 deno run -A --unstable ./_feeds/immigrationnewscanada.js
 
-
+deno run -A --unstable ./_feeds/moving2canada.js
+# deno run -A --unstable ./_feeds/mapdatimmigrationservices.js
+node ./_feeds/mapdatimmigrationservices.js
 
 deno run -A --unstable ./_feeds/alberta.js
 deno run -A --unstable ./_feeds/britishita.js
@@ -32,3 +34,5 @@ deno run -A --unstable ./_feeds/canadavisa.js
 deno run -A --unstable ./_feeds/cicnews.js
 deno run -A --unstable ./_feeds/manitoba.js
 deno run -A --unstable ./_feeds/ontario.js
+
+cd _feeds/_mapdatimmigrationservices && sh _mapdat.sh

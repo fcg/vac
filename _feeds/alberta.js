@@ -62,8 +62,8 @@ async function abupdate() {
     let updatehtml = theupdate.content;
 
     let htmlfilename = `${dateymd}-${titlepath}.html`;
-    const mdfilename = htmlfilename.replace(".html", "_aipp.md");
-    const cnmdfilename = mdfilename.replace("_aipp", "_cn");
+    const mdfilename = htmlfilename.replace(".html", "_alberta.md");
+    const cnmdfilename = mdfilename.replace("_alberta", "_cn");
     const fcgmdfilename = mdfilename.replace(".md", "_fcg.md");
     const jekyllfrontmatterfilename = mdfilename.replace(".md", "_fm.md");
 

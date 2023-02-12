@@ -1,13 +1,4 @@
-# 2023-02-11 - https://immigrationnewscanada.ca/latest-iec-2023-draw-sent-more-than-10368-new-invites/
-title: Latest IEC 2023 Draw Sent More Than 10,368 New Invites
-description: https://www.cic.gc.ca/english/work/iec/selections.asp
+# 2023-02-04 - https://mapdatimmigrationservices.com/blogs-for-immigration-services
+title: Latest IEC 2023 New Rounds Of Invitations Sent > 5,300 Invites
+description: Latest IEC 2023 New Rounds Of Invitations Sent > 5,300 Invites
 
-# 2023-02-11 - https://www.cicnews.com/2023/02/ontario-british-columbia-and-manitoba-issue-invitations-in-latest-provincial-nominee-program-draws-0233049.html
-title: Ontario, British Columbia, and Manitoba issue invitations in latest Provincial Nominee Program draws
-description: Ontario, British Columbia, and Manitoba have issued invitations to apply to candidates through Provincial Nominee Programs (PNPs) this week.  Most Canadian provinces and territories (except for Quebec and Nunavut) operate their own PNPs. Through these programs, interested candidates may be invited to apply for provincial nomination. Receiving a provincial nomination can be advantageous for gaining […]
-
-# 2023-02-11 - https://www.cicnews.com/2023/02/the-importance-of-making-sure-to-submit-a-complete-electronic-application-under-express-entry-0232691.html
-title: The importance of making sure to submit a complete electronic application under Express Entry
-description: Express Entry has long been a top immigration pathway for foreign nationals looking to come to Canada. The popularity of this immigration pathway makes it crucial that people who receive an Invitation to Apply (ITA) know exactly what to do when completing their online application for Canadian permanent residence (PR). In fact, Canada is aiming […]
-
-https://www.cic.gc.ca/english/work/iec/selections.asp
