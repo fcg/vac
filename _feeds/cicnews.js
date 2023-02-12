@@ -39,7 +39,7 @@ entries.forEach(async (element) => {
 
   shfilearray.push(`# ${pageurl}\n`);
   shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
-  shfilearray.push(`sed '2,22d;' "tmp_${mdfilename}" | sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' | sed '/Tags:/,$d;/googletag/d;/Sponsor Content/d;/cicnews/d;/Schedule a Free/d;/Get a Free/d;/Discover if You Are Eligible for Canadian Immigration/d;/Visit CanadaVisa.com/d;' | cat -s | tee ${mdfilename}`);
+  shfilearray.push(`sed '2,22d;' "tmp_${mdfilename}" | sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' | sed '/Tags:/,$d;/googletag/d;/Sponsor Content/d;/cicnews/d;/Schedule a Free/d;/Get a Free/d;/Discover if You Are Eligible for Canadian Immigration/d;/Visit CanadaVisa.com/d;/Want to advertise/d;' | cat -s | tee ${mdfilename}`);
   shfilearray.push(`trans -b en:zh "file://${mdfilename}" | tee "${cnmdfilename}"`); 
   shfilearray.push(`sed -i 's/##* //g;s/^\\* //g;' ${mdfilename}`);
   shfilearray.push(`sed -i 's/＃/#/g;' ${cnmdfilename}`);

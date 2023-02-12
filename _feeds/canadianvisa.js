@@ -20,7 +20,7 @@ entries.forEach(async (element) => {
   const publishedraw = element.updated;
   const description = element.description.value;
 
-  console.log(publishedraw);
+  // console.log(publishedraw);
 
   const url = new URL(pageurl);
   const path = url.pathname;

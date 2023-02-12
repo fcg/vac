@@ -3,11 +3,11 @@
 # https://www.cic.gc.ca/english/work/iec/selections.asp
 # https://www.cic.gc.ca/english/work/iec/selections.asp?country=kr&cat=wh
 
-curl -s https://www.cic.gc.ca/english/work/iec/selections.asp | pup "#country-name option text{}" | tee countrynames.txt
-curl -s https://www.cic.gc.ca/english/work/iec/selections.asp | pup "#country-name option attr{value}" | tee countries.txt
-curl -s https://www.cic.gc.ca/english/work/iec/selections.asp | pup "#country-name option attr{class}" | tee classes.txt
-
-//*[@id="stats"]
+# curl -s https://www.cic.gc.ca/english/work/iec/selections.asp | pup "#country-name option text{}" | tee countrynames.txt
+# curl -s https://www.cic.gc.ca/english/work/iec/selections.asp | pup "#country-name option attr{value}" | tee countries.txt
+# curl -s https://www.cic.gc.ca/english/work/iec/selections.asp | pup "#country-name option attr{class}" | tee classes.txt
+# 
+# //*[@id="stats"]
 
 curl -s https://www.cic.gc.ca/english/work/iec/selections.xml -o iecrounds2023.xml
 
