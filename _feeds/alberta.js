@@ -35,10 +35,10 @@ async function abupdate() {
 
   for (const theupdate of updates) {
     let headerraw = theupdate.header.replaceAll(":","-");
-    let headstrings = headerraw.split(":");
+    let headstrings = headerraw.split("-");
     let dateraw = headstrings[0].trim();
 
-    // console.log(dateraw);
+    console.log("alberta：", dateraw);
 
     let date = moment(dateraw);
     if (!date.isAfter(yesterday)) break;
