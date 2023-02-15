@@ -35,4 +35,4 @@ deno run -A --unstable ./_feeds/cicnews.js
 deno run -A --unstable ./_feeds/manitoba.js
 deno run -A --unstable ./_feeds/ontario.js
 
-cd _feeds/_mapdatimmigrationservices && sh _mapdat.sh
+cd _feeds/_mapdatimmigrationservices && sh mapdatimmigrationservicesupdate.sh
