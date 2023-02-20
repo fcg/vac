@@ -1,28 +1,32 @@
-# 2023-02-18 - https://canadaimmigrants.com/indian-immigrants-to-canada/
-title: Indian Immigrants to Canada
-description: Indian immigrants- the largest group admitted in 2022 In 2022, 118,095 Indian citizens were admitted to Canada as permanent residents....
-
-# 2023-02-19 - https://immigrationnewscanada.ca/new-ircc-2023-canada-job-forum-now-open-for-54-occupations/
-title: New IRCC 2023 Canada Job Forum Now Open For 54 Occupations
+# 2023-02-19 - https://askmigration.com/canadas-first-federal-skilled-workers-only-draw/?utm_source=rss&utm_medium=rss&utm_campaign=canadas-first-federal-skilled-workers-only-draw
+title: Canada’s First Federal Skilled Workers-Only Draw
 description: 
 
-# 2023-02-18 - https://immigrationnewscanada.ca/new-iec-2023-round-of-invitations-sent-6700-invitations/
-title: New IEC 2023 Round of Invitations Sent >6700 Invitations
+# 2023-02-20 - https://canadaimmigrants.com/russian-immigrants-canada/
+title: Russian Immigrants to Canada
+description: 1.6K Russians admitted to Canada in 2022 In 2022, 1,615 Russian citizens were admitted to Canada as permanent residents. 79K...
+
+# 2023-02-19 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-as-a-tech-worker
+title: How to Immigrate to Canada as a Tech Worker
 description: 
 
-# 2023-02-18 - https://www.cicnews.com/2023/02/british-columbia-saskatchewan-and-prince-edward-island-invite-candidates-in-most-recent-pnp-draws-0233249.html
-title: British Columbia, Saskatchewan and Prince Edward Island invite candidates in most recent PNP draws
-description: British Columbia, Saskatchewan and Prince Edward Island have issued invitations to apply to candidates through Provincial Nominee Programs (PNPs) this week. Canadian provinces and territories (except for Quebec and Nunavut) operate their own PNPs. Interested candidates may be invited to apply for provincial nomination through these programs. Those who receive provincial nomination may have an advantage […]
+# 2023-02-20 - https://canadianvisa.org/blog/immigration/how-to-prepare-for-your-working-holiday-in-canada
+title: How to Prepare for Your Working Holiday in Canada
+description: 
 
-# 2023-02-19 - https://www.cicnews.com/2023/02/canadian-immigrants-efforts-to-find-employment-complicated-by-perceived-skills-mismatch-0232695.html
-title: Canadian immigrants’ efforts to find employment complicated by perceived skills mismatch
-description: Skilled Canadian immigrants are being confronted by a perception that they may not possess the skills/aptitudes required to perform many of the same jobs in Canada that they might have performed in their country of origin. This perception is built largely on three factors- immigrants’ lack of Canadian work experience, “language problems”, and pitfalls with […]
+# 2023-02-19 - https://canadianvisa.org/blog/life-and-culture/the-ultimate-guide-to-cant-miss-sites-for-your-iec-working-holiday
+title: The Ultimate Guide to Can't-Miss Sites for Your IEC Working Holiday
+description: 
 
-# 2023-02-18 - https://www.cicnews.com/2023/02/what-are-my-financial-aid-options-as-an-international-student-in-canada-0232642.html
-title: What are my financial aid options as an international student in Canada?
-description: Financial aid is a big part of the post-secondary education picture across Canada. In fact, financial assistance plays such a prominent role in post-secondary education that Employment and Social Development Canada (ESDC) releases a report detailing the efforts and results of the Canada Student Financial Assistance (CFSA) program every year. In the 2020-2021 version of […]
+# 2023-02-20 - https://immigrationnewscanada.ca/alberta-farm-stream-here-is-all-you-need-to-know/
+title: Alberta Farm Stream – Here Is All You Need To Know
+description: 
 
-# 2023-02-19 - https://www.cicnews.com/2023/02/federal-court-rules-that-tuition-does-not-need-to-be-paid-for-study-permit-applications-0233241.html
-title: Federal Court rules that tuition does not need to be paid for study permit applications
-description: The Federal Court has ruled that students do not need to pay all or part of their tuition fees for a study permit application in the case of Tehrani v Canada (Citizenship and Immigration). Discover your options to study in Canada Tehrani, a citizen of Iran, applied for a study permit after being accepted to […]
+# 2023-02-20 - https://www.cicnews.com/2023/02/studying-in-canada-vs-the-united-states-0232824.html
+title: Studying in Canada vs. the United States
+description: There are an estimated 1.57 million international students, between Canada and the United States (U.S.), with tens of thousands more set to enter North America annually, in pursuit of higher education. Discover your options to study in Canada The decision to study in either the U.S. or Canada is one that many of these students […]
+
+# 2023-02-20 - https://www.cicnews.com/2023/02/how-canada-may-benefit-from-a-broader-immigrant-settlement-distribution-0232387.html
+title: How Canada may benefit from a broader immigrant settlement distribution
+description: Canada is a country where immigrants have historically settled in three primary locations – Toronto, Vancouver, and Montreal. In 2021, 29.5% of recent Canadian immigrants — those who came to Canada between 2016 and 2021 — landed in Toronto while 12.2% settled in Montreal and a shade less than that (11.7%) decided to call Vancouver […]
 
