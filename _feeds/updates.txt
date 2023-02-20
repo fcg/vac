@@ -1,36 +1,28 @@
-# 2023-02-16 - https://canadaimmigrants.com/average-house-price-in-saskatoon/
-title: Average House Price in Saskatoon
-description: The average house price in Saskatoon is $366,000 In January 2023, Saskatoon house average price was up by 1.7% compared...
+# 2023-02-18 - https://canadaimmigrants.com/indian-immigrants-to-canada/
+title: Indian Immigrants to Canada
+description: Indian immigrants- the largest group admitted in 2022 In 2022, 118,095 Indian citizens were admitted to Canada as permanent residents....
 
-# 2023-02-16 - https://canadaimmigrants.com/average-house-price-in-halifax/
-title: Average House Price in Halifax
-description: The average house price in Halifax is $490,700 In January 2023, Halifax house prices up 5.4% compared to the same...
-
-# 2023-02-16 - https://canadaimmigrants.com/average-house-price-in-ottawa/
-title: Average House Price in Ottawa
-description: The average house price in Ottawa is $603,900 In January 2023, Ottawa home prices down -10.7% compared to the same...
-
-# 2023-02-16 - https://canadaimmigrants.com/average-house-price-in-montreal/
-title: Average House Price in Montreal
-description: The average house price in Montreal is $498,000 In January 2023, the average house price in Montreal decreased by 5.5%...
-
-# 2023-02-16 - https://canadaimmigrants.com/average-house-price-in-edmonton/
-title: Average House Price in Edmonton
-description: The average house price in Edmonton is $362,200 In January, house prices in Edmonton decreased by 3.6% year over year....
-
-# 2023-02-16 - https://immigrationnewscanada.ca/karamjeet-kaur-canada-immigration-case-all-you-need-to-know/
-title: Karamjeet Kaur Canada Immigration Case: All You Need To Know
+# 2023-02-19 - https://immigrationnewscanada.ca/new-ircc-2023-canada-job-forum-now-open-for-54-occupations/
+title: New IRCC 2023 Canada Job Forum Now Open For 54 Occupations
 description: 
 
-# 2023-02-15 - https://immigrationnewscanada.ca/first-quebec-arrima-draw-of-2023-sent-1011-new-pr-invites/
-title: First Quebec Arrima Draw Of 2023 Sent 1,011 New PR Invites
+# 2023-02-18 - https://immigrationnewscanada.ca/new-iec-2023-round-of-invitations-sent-6700-invitations/
+title: New IEC 2023 Round of Invitations Sent >6700 Invitations
 description: 
 
-# 2023-02-16 - https://moving2canada.com/news-and-features/news/living/cities-to-rent-or-own-a-home-in-canada/
-title: The best cities to rent or own a home in Canada
-description: 
+# 2023-02-18 - https://www.cicnews.com/2023/02/british-columbia-saskatchewan-and-prince-edward-island-invite-candidates-in-most-recent-pnp-draws-0233249.html
+title: British Columbia, Saskatchewan and Prince Edward Island invite candidates in most recent PNP draws
+description: British Columbia, Saskatchewan and Prince Edward Island have issued invitations to apply to candidates through Provincial Nominee Programs (PNPs) this week. Canadian provinces and territories (except for Quebec and Nunavut) operate their own PNPs. Interested candidates may be invited to apply for provincial nomination through these programs. Those who receive provincial nomination may have an advantage […]
 
-# 2023-02-16 - https://www.cicnews.com/2023/02/ircc-unveils-the-top-10-source-countries-of-new-immigrants-to-canada-in-2022-0233180.html
-title: IRCC unveils the top 10 source countries of new immigrants to Canada in 2022
-description: Canada landed 437,120 permanent residents (PRs) across the country in 2022. This figure, taken from data published by Immigration, Refugees and Citizenship Canada (IRCC), represents a nearly eight percent increase from the total number of PRs landed in 2021. This is also the second year in a row that Canada has exceeded its stated immigration […]
+# 2023-02-19 - https://www.cicnews.com/2023/02/canadian-immigrants-efforts-to-find-employment-complicated-by-perceived-skills-mismatch-0232695.html
+title: Canadian immigrants’ efforts to find employment complicated by perceived skills mismatch
+description: Skilled Canadian immigrants are being confronted by a perception that they may not possess the skills/aptitudes required to perform many of the same jobs in Canada that they might have performed in their country of origin. This perception is built largely on three factors- immigrants’ lack of Canadian work experience, “language problems”, and pitfalls with […]
+
+# 2023-02-18 - https://www.cicnews.com/2023/02/what-are-my-financial-aid-options-as-an-international-student-in-canada-0232642.html
+title: What are my financial aid options as an international student in Canada?
+description: Financial aid is a big part of the post-secondary education picture across Canada. In fact, financial assistance plays such a prominent role in post-secondary education that Employment and Social Development Canada (ESDC) releases a report detailing the efforts and results of the Canada Student Financial Assistance (CFSA) program every year. In the 2020-2021 version of […]
+
+# 2023-02-19 - https://www.cicnews.com/2023/02/federal-court-rules-that-tuition-does-not-need-to-be-paid-for-study-permit-applications-0233241.html
+title: Federal Court rules that tuition does not need to be paid for study permit applications
+description: The Federal Court has ruled that students do not need to pay all or part of their tuition fees for a study permit application in the case of Tehrani v Canada (Citizenship and Immigration). Discover your options to study in Canada Tehrani, a citizen of Iran, applied for a study permit after being accepted to […]
 
