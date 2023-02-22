@@ -1,32 +1,24 @@
-# 2023-02-19 - https://askmigration.com/canadas-first-federal-skilled-workers-only-draw/?utm_source=rss&utm_medium=rss&utm_campaign=canadas-first-federal-skilled-workers-only-draw
-title: Canada’s First Federal Skilled Workers-Only Draw
+# 2023-02-21 - https://canadianimmigrant.ca/featured/the-independence-of-cpp-investments
+title: The independence of CPP Investments
+description: Sponsored Content When CPP Investments was created in 1997, Canadian legislators insisted on rules to prevent political interference with decision-making, including investment selection. That independence remains firmly in place. CPP Investments operates at arm’s length from federal and provincial governments, which is to say that elected officials have no say in the day-to-day management of […]
+
+# 2023-02-20 - https://canadianimmigrant.ca/careers-and-education/careers/how-upskilling-can-help-you-advance-in-your-career
+title: How upskilling can help you advance in your career
+description: The future holds tremendous growth opportunities. As job markets shift and conventional roles retire with automation, upskilling yourself can boost your career, add value to it, and expand job prospects.
+
+# 2023-02-21 - https://immigrationnewscanada.ca/new-canada-income-tax-brackets-important-dates-for-2023/
+title: New Canada Income Tax Brackets & Important Dates For 2023
 description: 
 
-# 2023-02-20 - https://canadaimmigrants.com/russian-immigrants-canada/
-title: Russian Immigrants to Canada
-description: 1.6K Russians admitted to Canada in 2022 In 2022, 1,615 Russian citizens were admitted to Canada as permanent residents. 79K...
+# 2023-02-21 - https://www.cicnews.com/2023/02/why-is-canada-accepting-so-many-immigrants-0232390.html
+title: Why is Canada accepting so many immigrants?
+description: As of 2021, “people who were, or had ever been, a landed immigrant or permanent resident in Canada” — grouped together for simplicity as “immigrants” — represent 23% of this country’s total population, the highest proportion recorded since Confederation in 1867. The highest among all G7 countries, Canada has also now topped its previous record […]
 
-# 2023-02-19 - https://canadianvisa.org/blog/immigration/how-to-immigrate-to-canada-as-a-tech-worker
-title: How to Immigrate to Canada as a Tech Worker
-description: 
+# 2023-02-21 - https://www.cicnews.com/2023/02/understanding-the-importance-of-submitting-translated-documents-with-an-immigration-application-0232995.html
+title: Understanding the importance of submitting translated documents with an immigration application
+description: Immigration, Refugees and Citizenship Canada (IRCC) requires that all foreign language documents submitted in support of applications for immigration and citizenship must be accompanied by an official translation in English or French. The translation of these documents must also be completed by a certified official translator. Discover if You Are Eligible for Canadian Immigration An […]
 
-# 2023-02-20 - https://canadianvisa.org/blog/immigration/how-to-prepare-for-your-working-holiday-in-canada
-title: How to Prepare for Your Working Holiday in Canada
-description: 
-
-# 2023-02-19 - https://canadianvisa.org/blog/life-and-culture/the-ultimate-guide-to-cant-miss-sites-for-your-iec-working-holiday
-title: The Ultimate Guide to Can't-Miss Sites for Your IEC Working Holiday
-description: 
-
-# 2023-02-20 - https://immigrationnewscanada.ca/alberta-farm-stream-here-is-all-you-need-to-know/
-title: Alberta Farm Stream – Here Is All You Need To Know
-description: 
-
-# 2023-02-20 - https://www.cicnews.com/2023/02/studying-in-canada-vs-the-united-states-0232824.html
-title: Studying in Canada vs. the United States
-description: There are an estimated 1.57 million international students, between Canada and the United States (U.S.), with tens of thousands more set to enter North America annually, in pursuit of higher education. Discover your options to study in Canada The decision to study in either the U.S. or Canada is one that many of these students […]
-
-# 2023-02-20 - https://www.cicnews.com/2023/02/how-canada-may-benefit-from-a-broader-immigrant-settlement-distribution-0232387.html
-title: How Canada may benefit from a broader immigrant settlement distribution
-description: Canada is a country where immigrants have historically settled in three primary locations – Toronto, Vancouver, and Montreal. In 2021, 29.5% of recent Canadian immigrants — those who came to Canada between 2016 and 2021 — landed in Toronto while 12.2% settled in Montreal and a shade less than that (11.7%) decided to call Vancouver […]
+# 2023-02-21 - https://www.cicnews.com/2023/02/will-canada-be-able-to-house-all-the-immigrants-it-hopes-to-welcome-by-2025-0232675.html
+title: Will Canada be able to house all the immigrants it hopes to welcome by 2025?
+description: According to Canada’s latest Immigration Levels Plan for 2023-2025, the country hopes to welcome a record-breaking number of immigrants over the next three years, with annual targets set at no less than 465,000 and a milestone goal of 500,000 new permanent residents in 2025. In short, these high targets are in place to help Canada […]
 
