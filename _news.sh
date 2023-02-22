@@ -36,3 +36,11 @@ deno run -A --unstable ./_feeds/manitoba.js
 deno run -A --unstable ./_feeds/ontario.js
 
 cd _feeds/_mapdatimmigrationservices && sh mapdatimmigrationservicesupdate.sh
+
+# cd ./_feeds && find . -name "*.sh" -type f -exec chmod +x {} \;
+
+# cd ./_feeds && find . -name "*.sh" -type f -exec sh -c 'cd "$(dirname "$1")" && ./$(basename "$1")' sh {} \;
+
+# cd ./_feeds && find . \( -name "*.html" -o -name "*.md" -o -name "*.sh" \) -type f -delete
+
+
