@@ -1,44 +1,24 @@
-# 2023-02-23 - https://canadaimmigrants.com/argentina-immigration-canada/
-title: Argentina Immigration to Canada
-description: 355 Argentineans admitted to Canada in 2022 From 2018 to 2022, 1,540 Argentinian citizens were admitted to Canada as permanent...
+# 2023-02-24 - https://canadaimmigrants.com/brazilian-immigrants-canada/
+title: Brazilian Immigrants to Canada
+description: In 2022, 7,330 Brazilians admitted to Canada as permanent residents From 2018 to 2022, 31,690 Brazilians were admitted to Canada...
 
-# 2023-02-23 - https://immigrationnewscanada.ca/latest-manitoba-pnp-draw-sent-583-new-pr-invites/
-title: Latest Manitoba PNP Draw Sent 583 New PR Invites
+# 2023-02-24 - https://immigrationnewscanada.ca/canada-failing-to-utilize-skills-of-immigrants-new-rbc-report/
+title: Canada Failing To Utilize Skills of Immigrants: New RBC Report
 description: 
 
-# 2023-02-23 - https://immigrationnewscanada.ca/check-out-new-ircc-processing-times-as-of-february-23/
-title: Check Out New IRCC Processing Times As Of February 23
+# 2023-02-23 - https://immigrationnewscanada.ca/new-ircc-policy-for-iranian-temporary-residents-in-canada/
+title: New IRCC Policy For Iranian Temporary Residents In Canada
 description: 
 
-# 2023-02-23 - https://immigrationnewscanada.ca/ircc-resumes-biometrics-for-new-temporary-residence-applicants-in-canada/
-title: IRCC Resumes Biometrics For New Temporary Residence Applicants In Canada
-description: 
+# 2023-02-24 - https://www.cicnews.com/2023/02/ircc-will-now-allow-canadians-to-directly-influence-future-immigration-policies-and-programs-0233349.html
+title: IRCC invites Canadians to directly influence future immigration policies and programs
+description: In a press release yesterday, Immigration, Refugees and Citizenship Canada (IRCC) has announced the start of a new “broad-based engagement” venture called “An Immigration System for Canada’s Future”. With an emphasis on collaboration, this program will set out to utilize collected public opinion and ideation to help Canada create “an immigration system that is strong, easy […]
 
-# 2023-02-22 - https://immigrationnewscanada.ca/latest-bc-pnp-draw-2023-sent-more-than-240-new-pr-invites/
-title: Latest BC PNP Draw 2023 Sent More Than 240 New PR Invites
-description: 
+# 2023-02-24 - https://www.cicnews.com/2023/02/ircc-and-canadas-provinces-continue-working-together-to-welcome-ukrainians-0233324.html
+title: IRCC and Canada’s provinces continue working together to welcome Ukrainians
+description: Today marks one year since the beginning Russia’s invasion of Ukraine. UNHCR reports more than 7 million people in Ukraine have been displaced since February 2022. Many of them have fled to neighbouring countries such as Poland and Moldova, but others decide to go further abroad, including Canada. What is Canada doing for displaced Ukrainians? […]
 
-# 2023-02-23 - https://www.cicnews.com/2023/02/canada-to-make-it-easier-for-iranians-on-temporary-visas-to-extend-their-stay-0233306.html
-title: Canada to make it easier for Iranians on temporary visas to extend their stay
-description: Effective March 1, 2023, the Government of Canada is offering new immigration measures to support Iranians. The Canadian government announced it will- Make it easier for those in Canada on a temporary work, study, or visitor visa to apply for an extension from inside Canada. Process applications from Iranians living in Canada on a priority […]
-
-# 2023-02-23 - https://www.cicnews.com/2023/02/canada-sees-all-time-high-work-permits-take-effect-in-2022-0233284.html
-title: Canada sees all-time high work permits take effect in 2022
-description: In 2022, a record 608,420 Canadian work permits took effect. This is close to 200,000 more work permits than in 2021, which saw only 414,000 permits come into effect. Work permits were issued between Canada’s two broad work permit pathways—the International Mobility Program (IMP) and the Temporary Foreign Worker Program (TFWP). Schedule a Free Work […]
-
-# 2023-02-23 - https://www.cicnews.com/2023/02/saving-time-upon-arrival-to-canada-with-an-advance-cbsa-declaration-0233209.html
-title: Saving time upon arrival to Canada with an Advance CBSA Declaration
-description: On January 31, 2023, Calgary International Airport introduced the availability of Advance Canada Border Services Agency (CBSA) Declarations, a feature intended to speed up the arrival process for incoming travellers from international locations. Clearing customs by traditionally declaring items upon arrival at an airport can take a long time. In addition to time spent in […]
-
-# 2023-02-23 - https://www.cicnews.com/2023/02/ircc-resuming-biometrics-collection-for-people-applying-for-temporary-residence-from-within-canada-0233315.html
-title: IRCC resuming biometrics collection for people applying for temporary residence from within Canada
-description: Today, the Government of Canada announced that they are “resuming the collection of biometrics” for individuals applying for temporary residence (TR) from within Canada. This resumption comes more than 31 months after Immigration, Refugees and Citizenship Canada (IRCC) – on July 15, 2020 – introduced a temporary exemption policy (because of COVID-19 pandemic closures and […]
-
-# 2023-02-23 - https://www.cicnews.com/2023/02/higher-immigration-levels-in-canada-require-a-boost-in-home-building-to-keep-up-with-demand-0233309.html
-title: Higher immigration levels in Canada require a boost in home building to keep up with demand
-description: Desjardins has released a report analyzing the economic impacts of the federal government’s increased immigration targets. Discover if You Are Eligible for Canadian Immigration The study finds that the large scale of planned immigration will lead to higher real GDP growth at the national level and in all Canadian provinces. Consequently, according to the report, […]
-
-# 2023-02-23 - https://immigratemanitoba.com/2023/02/eoi-draw-169/
-title: Expression of Interest Draw #169
-description: Skilled Worker in Manitoba Occupation-specific selection Profiles declaring current employment in Manitoba in occupations with the highest-anticipated labour shortages, as identified in the most recent Manitoba Labour Market Outlook, were considered. The occupations under the following National Occupational Classification (NOC) … Continue reading →
+# 2023-02-24 - https://immigratemanitoba.com/2023/02/ukraine-draw-11/
+title: Special Immigration Measure - Ukraine Draw #11
+description: Number of Letters of Advice to Apply issued- 13 As part of the Manitoba government's response to the situation in Ukraine and in line with Immigration, Refugees and Citizenship Canada's special immigration measures for those affected, the Manitoba Provincial Nominee … Continue reading →
 
