@@ -95,7 +95,7 @@ description: ${desc}
     // console.log(frontmatter);
 
     shfilearray.push(`# ${dateymd} - ${title}\n`);
-    shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
+    shfilearray.push(`turndown -t atx -r - "${htmlfilename}" "tmp_${mdfilename}"`);
     shfilearray.push(
       `sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' "tmp_${mdfilename}" | sed '/Tags:/,$d;/googletag/d;/On this page/d;/Sponsor Content/d;/Some parts of this/d;/ontario/d;/Schedule a Free/d;/Get a Free/d;/====/d;/Visit CanadaVisa.com/d;' | cat -s | tee "${mdfilename}"`,
     );

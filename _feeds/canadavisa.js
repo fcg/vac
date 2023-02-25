@@ -42,7 +42,7 @@ async function canadavisafeeds() {
     const jekyllfrontmatterfilename = mdfilename.replace(".md", "_fm.md");
 
     shfilearray.push(`# ${pageurl}\n`);
-    shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
+    shfilearray.push(`turndown -t atx -r - "${htmlfilename}" "tmp_${mdfilename}"`);
     shfilearray.push(
       `sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' "tmp_${mdfilename}" | sed '/Tags:/,$d;/Cec Fswp Fstp	Immigrate Work/d;/Felonycanada/g;/	Immigrate Work Study Sponsor Inadmissibility/d;/Canadavisaheadstartexpressentry/d;/Complete our FREE assessment form/d;/googletag/d;/Sponsor Content/d;/Sivakumar/d;/Schedule a Free/d;/Get a Free/d;/Discover if You Are Eligible for Canadian Immigration/d;/CanadaVisa.com/d;' | cat -s | tee ${mdfilename}`,
     );

@@ -111,7 +111,7 @@ description: ${title}
 
         shfilearray.push(`# ${pageurl}\n`);
         //   shfilearray.push(`curl -k -L -s --compressed ${pageurl} | pup ".m2c-post__content" | tee ${htmlfilename}\n`);
-        shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
+        shfilearray.push(`turndown -t atx -r - "${htmlfilename}" "tmp_${mdfilename}"`);
         shfilearray.push(`sed '1,2d;/===/d;/----/d;/\\[!/d;/Something went wrong/d;/Load More Posts/d;/Loading/d;/data-lazy-fallback/d' "tmp_${mdfilename}" | sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' | sed '/Related articles/,$d;/googletag/d;/View all post/d;/mapdatimmigrationservices/d;/For more information/d;/！	!/d;/SHARE THIS ARTICLE/d;/Free Assessment/d;' | cat -s | tee ${mdfilename}`);
         shfilearray.push(`trans -b en:zh "file://${mdfilename}" | tee "${cnmdfilename}"`);
         shfilearray.push(`sed -i 's/##* //g;s/^\\* //g;' ${mdfilename}`);

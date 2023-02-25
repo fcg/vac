@@ -58,7 +58,7 @@ entries.forEach(async (element) => {
 
   shfilearray.push(`# ${pageurl}\n`);
   shfilearray.push(`curl -k -L -s --compressed ${pageurl} | pup "article" | tee ${htmlfilename}\n`);
-  shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
+  shfilearray.push(`turndown -t atx -r - "${htmlfilename}" "tmp_${mdfilename}"`);
   shfilearray.push(`sed '/===/d;/----/d;/\\[!/d;/Something went wrong/d;/Load More Posts/d;/Loading/d;/data-lazy-fallback/d' "tmp_${mdfilename}" | sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' | sed '/FIND OUT IF YOU/,$d;/googletag/d;/Free Immigration Assessment/d;/immigrationnewscanada/d;/adsbygoogle/d;/！	!/d;/SHARE THIS ARTICLE/d;/Free Assessment/d;' | cat -s | tee ${mdfilename}`);
   shfilearray.push(`trans -b en:zh "file://${mdfilename}" | tee "${cnmdfilename}"`); 
   shfilearray.push(`sed -i 's/##* //g;s/^\\* //g;' ${mdfilename}`);

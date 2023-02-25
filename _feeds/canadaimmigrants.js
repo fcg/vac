@@ -38,7 +38,7 @@ entries.forEach(async (element) => {
   const jekyllfrontmatterfilename = mdfilename.replace(".md","_fm.md");
 
   shfilearray.push(`# ${pageurl}\n`);
-  shfilearray.push(`html2md -i "${htmlfilename}" | tee "tmp_${mdfilename}"`);
+  shfilearray.push(`turndown -t atx -r - "${htmlfilename}" "tmp_${mdfilename}"`);
   shfilearray.push(`sed '/===/d;/----/d' "tmp_${mdfilename}" | sed 's/\\[\\([^][]*\\)\\]([^()]*)/\\1/g' | sed '/Tags:/,$d;/googletag/d;/Sponsor Content/d;/canadaimmigrants/d;/adsbygoogle/d;/！	!/d;/by The Canadian Magazine/d;/Visit CanadaVisa.com/d;' | cat -s | tee ${mdfilename}`);
   shfilearray.push(`trans -b en:zh "file://${mdfilename}" | tee "${cnmdfilename}"`); 
   shfilearray.push(`sed -i 's/##* //g;s/^\\* //g;' ${mdfilename}`);
