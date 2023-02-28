@@ -1,16 +1,24 @@
-# 2023-02-25 - https://canadianimmigrant.ca/financial-future-in-canada/retirement-planning-past-40
-title: Retirement planning past 40
-description: You want to build a prosperous and secure future for your family. That’s probably why you chose to immigrate to Canada, a country full of opportunities and benefits, including the Canada Pension Plan (CPP). But a late start to your career in Canada can make it harder to save for retirement. Meet Loreto, an immigrant […]
-
-# 2023-02-25 - https://immigrationnewscanada.ca/iec-2023-new-round-of-invitations-sent-5000-invitations/
-title: IEC 2023 New Round Of Invitations Sent >5,000 Invitations
+# 2023-02-26 - https://askmigration.com/canadas-dual-citizenship-status-with-other-countries/?utm_source=rss&utm_medium=rss&utm_campaign=canadas-dual-citizenship-status-with-other-countries
+title: Canada’s Dual Citizenship status with other countries
 description: 
 
-# 2023-02-25 - https://www.cicnews.com/2023/02/british-columbia-quebec-and-manitoba-issue-invitations-to-candidates-through-provincial-immigration-programs-0233371.html
-title: British Columbia, Quebec, and Manitoba issue invitations to candidates through provincial immigration programs.
-description: British Columbia, Quebec and Manitoba have published the most recent number of invitations to apply issued to candidates through their provincial immigration programs. All provinces and territories except Quebec and Nunavut operate their own Provincial Nominee Programs (PNPs). These economic immigration programs allow provincial governments to select the candidates who are most likely to successfully […]
+# 2023-02-27 - https://canadianimmigrant.ca/news/soon-a-canadian-citizenship-oath-could-be-just-a-scroll-and-click-away
+title: Soon a Canadian citizenship oath could be just a scroll and click away
+description: Starting as soon as June, new Canadian citizens could take the oath on their own — without the need for a citizenship judge.
 
-# 2023-02-25 - https://www.cicnews.com/2023/02/what-are-my-rights-as-a-temporary-foreign-worker-in-canada-0231845.html
-title: What are my rights as a Temporary Foreign Worker in Canada?
-description: Canada’s human rights policies are expansive, even extending to foreign nationals who have temporarily come to work in the country. Schedule a Free Work Permit Consultation with the Cohen Immigration Law Firm Under the Temporary Foreign Worker Program (TFWP), and the International Mobility Program (IMP)—the two main paths for foreign workers to work in Canada—foreign […]
+# 2023-02-27 - https://immigrationnewscanada.ca/india-continues-to-be-top-source-of-newcomers-to-canada/
+title: India Continues To Be Top Source Of Newcomers To Canada
+description: 
+
+# 2023-02-27 - https://moving2canada.com/news-and-features/news/immigration/express-entry/express-entry-2021-candidates/
+title: How a year without all-program draws changed Express Entry demographics
+description: 
+
+# 2023-02-27 - https://www.cicnews.com/2023/02/recent-immigrants-more-likely-to-be-employed-than-those-born-in-canada-0232377.html
+title: Recent immigrants more likely to be employed than those born in Canada
+description: Over the next three years, Canada will aim to welcome roughly 1.45 million immigrants; with 60% projected to be through economic class programs. Learn more about Canadian immigration and discover your options This wave of newcomers is projected to have multiple positive effects for the Canadian economy, and society—some of which can already be seen, […]
+
+# 2023-02-27 - https://www.cicnews.com/2023/02/the-proof-of-canadian-citizenship-application-process-0229940.html
+title: The Proof of Canadian Citizenship application process
+description: To determine if a person is a Canadian citizen and to be issued a document called a “Canadian citizenship certificate,” a “Proof of Canadian citizenship” application must be submitted to the Canadian government. Canadian citizenship certificates can be issued to a person born in Canada, a person born outside of Canada to a Canadian parent, […]
 
