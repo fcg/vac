@@ -1,24 +1,40 @@
-# 2023-02-26 - https://askmigration.com/canadas-dual-citizenship-status-with-other-countries/?utm_source=rss&utm_medium=rss&utm_campaign=canadas-dual-citizenship-status-with-other-countries
-title: Canada’s Dual Citizenship status with other countries
+# 2023-02-28 - https://canadaimmigrants.com/nigerian-immigrants-canada/
+title: Nigerian Immigrants to Canada
+description: In 2022, 22,085 Nigerians were admitted to Canada as permanent residents Nigerians admitted to Canada from 2015 to 2019 42K...
+
+# 2023-02-28 - https://canadianimmigrant.ca/news/government-invites-canadians-to-shape-the-future-of-immigration
+title: Government invites Canadians to shape the future of immigration
+description: Immigration, Refugees and Citizenship Canada has announced the start of a broad-based engagement initiative — An Immigration System for Canada’s Future — to explore how immigration policies and programs can support a shared vision for Canada’s future. The engagement initiative, which marks the beginning of a continued, whole-of-society collaboration approach, aims to capture a diversity […]
+
+# 2023-02-27 - https://canadianvisa.org/blog/immigration/best-ways-to-immigrate-to-canada-from-the-uae
+title: Best Ways to Immigrate to Canada from the UAE in 2023
 description: 
 
-# 2023-02-27 - https://canadianimmigrant.ca/news/soon-a-canadian-citizenship-oath-could-be-just-a-scroll-and-click-away
-title: Soon a Canadian citizenship oath could be just a scroll and click away
-description: Starting as soon as June, new Canadian citizens could take the oath on their own — without the need for a citizenship judge.
-
-# 2023-02-27 - https://immigrationnewscanada.ca/india-continues-to-be-top-source-of-newcomers-to-canada/
-title: India Continues To Be Top Source Of Newcomers To Canada
+# 2023-02-28 - https://immigrationnewscanada.ca/new-alberta-express-entry-draw-declares-crs-cut-off-at-357/
+title: New Alberta Express Entry Draw Declares CRS Cut-Off At 357
 description: 
 
-# 2023-02-27 - https://moving2canada.com/news-and-features/news/immigration/express-entry/express-entry-2021-candidates/
-title: How a year without all-program draws changed Express Entry demographics
+# 2023-02-28 - https://immigrationnewscanada.ca/ircc-makes-new-extension-for-visitors-to-work-permit-policy-by-2-years/
+title: IRCC Makes New Extension For Visitors to Work Permit Policy By 2 Years
 description: 
 
-# 2023-02-27 - https://www.cicnews.com/2023/02/recent-immigrants-more-likely-to-be-employed-than-those-born-in-canada-0232377.html
-title: Recent immigrants more likely to be employed than those born in Canada
-description: Over the next three years, Canada will aim to welcome roughly 1.45 million immigrants; with 60% projected to be through economic class programs. Learn more about Canadian immigration and discover your options This wave of newcomers is projected to have multiple positive effects for the Canadian economy, and society—some of which can already be seen, […]
+# 2023-02-28 - https://immigrationnewscanada.ca/know-your-canada-work-permit-options-while-on-study-permit/
+title: Know Your Canada Work Permit Options While On Study Permit
+description: 
 
-# 2023-02-27 - https://www.cicnews.com/2023/02/the-proof-of-canadian-citizenship-application-process-0229940.html
-title: The Proof of Canadian Citizenship application process
-description: To determine if a person is a Canadian citizen and to be issued a document called a “Canadian citizenship certificate,” a “Proof of Canadian citizenship” application must be submitted to the Canadian government. Canadian citizenship certificates can be issued to a person born in Canada, a person born outside of Canada to a Canadian parent, […]
+# 2023-02-28 - https://moving2canada.com/news-and-features/news/work/visitors-can-apply-for-a-work-permit/
+title: Canada extends meaure allowing visitors to apply for a work permit
+description: 
+
+# 2023-02-28 - https://www.cicnews.com/2023/02/ircc-extends-policy-that-allows-visitors-to-obtain-work-permits-if-they-have-valid-job-offers-0233418.html
+title: IRCC extends policy that allows visitors to obtain work permits if they have valid job offers
+description: Immigration, Refugees and Citizenship Canada (IRCC) has announced that any foreign national who receives a job offer while in Canada will be able to apply for, and receive, a work permit. This is an extension of the COVID-19-era temporary public policy that was set to expire today. To be eligible to apply, an applicant looking […]
+
+# 2023-02-28 - https://www.cicnews.com/2023/02/ielts-writing-task-2-preparing-to-write-how-to-generate-ideas-0232923.html
+title: IELTS Writing Task 2: Preparing to write, how to generate ideas
+description: Many students start writing before planning what they are going to say. This could lead to a writing response which is disorganized and could negatively affect their score. In this blog, we’ll look at how you can improve your writing skills and suggest some ideas for effective planning so that you are ready for test […]
+
+# 2023-02-28 - https://www.cicnews.com/2023/02/canada-sees-job-vacancies-decrease-for-third-consecutive-month-as-strong-hiring-persists-0233398.html
+title: Canada sees job vacancies decrease for third consecutive month, as strong hiring persists
+description: December 2022 marked another productive month for Canada’s post-COVID recovery efforts. Total job vacancies fell to 848,000, while payroll employment (the number of people receiving either pay or benefits from their employer) increased as 91,400 positions were filled in the final month of 2022. Discover if You Are Eligible for Canadian Immigration While the Canadian […]
 
