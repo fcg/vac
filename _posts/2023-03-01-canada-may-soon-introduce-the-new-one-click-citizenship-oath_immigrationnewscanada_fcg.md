@@ -1,72 +1,72 @@
 ---
 layout: post
-title: 'New Alberta Express Entry Draw Declares CRS Cut-Off At 357'
+title: 'Canada May Soon Introduce The New One-Click Citizenship Oath'
 description: ''
-date: Tue Feb 28 2023 18:25:09 GMT-0800 (Pacific Standard Time)
+date: Wed Mar 01 2023 06:26:31 GMT-0800 (Pacific Standard Time)
 categories: immigrationnewscanada
 ---
 
-# 新的艾伯塔省快速通道抽签宣布 CRS 截止日期为 357	New Alberta Express Entry Draw Declares CRS Cut-Off At 357
+# 加拿大可能很快会引入新的一键式公民宣誓	Canada May Soon Introduce The New One-Click Citizenship Oath
 	
-2023 年 2 月 28 日，美国东部时间晚上 9:25 Gagandeep Kaur Sekhon 艾伯塔省移民抽签和 2023 年新闻	28 February 2023, 9:25 PM EST Gagandeep Kaur Sekhon Alberta Immigration Draws and News 2023
+2023 年 3 月 1 日，美国东部标准时间上午 9:26 Kamal Deep Singh，加拿大 RCIC，最新公民新闻和更新	1 March 2023, 9:26 AM EST Kamal Deep Singh, RCIC Canada , Latest Citizenship News & Updates
 	
-!艾伯塔省快速通道抽签	!Alberta Express Entry draw
+!加拿大入籍仪式 2023 年 2 月	!Canada Citizenship Ceremony February 2023
 	
 	  
 	
-2023 年 2 月最新的艾伯塔省快速通道流抽签宣布 CRS（综合排名系统）的截止分数为 357 或以上。	Latest Alberta Express Entry Stream draw of February 2023 announces CRS (Comprehensive Ranking System) cutoff score of 357 or above.
+最快从 2023 年 6 月开始，加拿大的新公民可能无需公民法官就可以宣誓就职。	Beginning in as soon as June 2023, new citizens of Canada may be able to take the oath without the necessity for a citizenship judge.
 	
-阿尔伯塔省提名计划 (PNP) 正式名称为 AAIP（阿尔伯塔优势移民计划）的抽签详情于今天（2 月 28 日）更新。	The details of this draw are updated today (February 28) by Alberta Provincial Nominee Program (PNP) officially known as AAIP (Alberta Advantage Immigration Program).
+加拿大公报于 2023 年 2 月 25 日发布了关于修改公民身份条例的规定（公民宣誓）。	The Canada Gazette published on February 25, 2023 in regards to regulations amending the citizenship regulations ( Oath of Citizenship ).
 	
-然而，AAIP 在 2023 年 2 月 16 日举行了这次抽奖，他们共发出了 100 份邀请。	However, AAIP held this draw on February 16, 2023 in which they sent total of 100 invites.
+该修正案现开放为期 30 天的咨询期，直至 2023 年 3 月 27 日，并可在咨询过程完成后于 2023 年 6 月左右生效。	This amendment is now open for a 30-day consultation period until March 27, 2023 and can come into force around June 2023 after consultation process is completed.
 	
-!Alberta PNP Draws 2023 - Express Entry Stream	!Alberta PNP Draws 2023 - Express Entry Stream
+批评人士认为，这将降低入籍宣誓程序的成本，因为宣誓自 1947 年以来一直是成为该国公民的法律条件。	Critics believe that this will cheapen the processing of citizenship oath as swearing an oath has been a legal condition of becoming a citizen in this country since 1947.
 	
-2 月 23 日，艾伯塔省政府通过新闻稿通知联邦政府将该省的 PNP 配额增加 50%。	On February 23, Alberta government informed via a press release that Federal government is increasing PNP quota for the province by 50% .
+在这份誓词中，入籍候选人郑重承诺将维护加拿大法律，履行作为公民的责任。	In this oath, citizenship candidates make a solemn promise to uphold Canadian laws and fulfil their responsibilities as citizens.
 	
-有了这个消息，艾伯塔省 PNP 再次成为申请人关注的焦点，因为它通常在快速通道流中宣布较低的 CRS 截止分数。	With this news, Alberta PNP has again came under focus for applicants as it generally declares low CRS cutoff score under Express Entry stream.
+据多伦多星报报道，丹尼尔伯恩哈德（加拿大公民研究所首席执行官）批评了这一举动。	As reported by Toronto Star, Daniel Bernhard (CEO of the Institute for Canadian Citizenship) criticizes this move.
 	
-通常，AAIP 总配额的 50% 预留给艾伯塔省快速通道流。而且，正如 2023 年 1 月 18 日宣布的那样，其中一半现在被留给在该省有家庭关系的快速入境资料。	Usually, 50% of total AAIP quota is reserved for Alberta Express Entry stream. And, half of this are now being kept aside for Express Entry profiles having a family connection in the province as announced on January 18, 2023.
+他说，只需阅读并点击条款和条件即可宣誓入籍，就像创建任何社交媒体帐户（如 Facebook 或 TikTok）一样简单。	He says it will be as easy as to just read and click the terms and conditions to take oath of citizenship, as it has been to create any social media accounts such as Facebook or TikTok.
 	
-此外，Express Entry 配置文件只需要 300 CRS 分数就可以考虑参加艾伯塔省的抽签。	Furthermore, Express Entry profiles just need 300 CRS score to be considered for Alberta draw.
+移民部门的最新声明称，新公民现在可以通过在没有见证人的情况下在线签署书面证明来完成公民身份的要求。	Latest statement by the immigration department says that new citizens would now be able to complete the requirements of citizenship by signing a written attestation online without a witness.
 	
-在艾伯塔省抽签中获得邀请取决于 AAIP 考虑的其他因素。查看其他重要因素。	Getting an invitation in an Alberta draw depends upon the additional factors taken into consideration by AAIP. Check out additional factors that matter.
+但是，申请人仍然可以选择在公民身份法官面前这样做。	However, applicants would still have the choice to do so in front of a citizenship judge.
 	
-> 2023 年新的艾伯塔省 PNP 配额增加 50%	> New Alberta PNP Quota For 2023 Increases By 50%
+> 加拿大公民身份——了解资格和如何申请！	> Canadian Citizenship – Know Eligibility And How to Apply!
 	
-## 艾伯塔省 PNP 2023 年最新统计数据	Alberta PNP Latest Statistics 2023
+## 确切的拟议修正案是什么？	What Are The Exact Proposed Amendments?
 	
-艾伯塔省从 IRCC 收到 2023 年的 9,750 份提名证书，到目前为止，2023 年已经签发了 982 份提名证书。	Alberta received 9,750 nomination certificates from IRCC for 2023 and so far 982 nomination certificates have already been issued in 2023.
+以下是公民法规官方修正案的简化版本。	Below are simplified version of official amendments to citizenship regulations.
 	
-以下数据是截至 2023 年 2 月 28 日的最新数据。	Below data is up-to-date as of February 28, 2023.
+- 任何人（至少 14 岁）在获得公民身份之日必须应部长的邀请宣誓入籍，无论是在加拿大境内还是境外，	-   Any person (at least 14 years old) on the day they are given citizenship must, at the Minister’s invitation, take the oath of citizenship, whether in or outside of Canada,
+- 通过部长为此目的提供或指定的方式；或者	    -   through the means that the Minister makes accessible or specifies for that purpose; or
+- 在部长面前，由部长书面授权代表部长行事的人，或公民身份法官。	    -   before the Minister, a person authorized in writing by the Minister to act on the Minister’s behalf, or a citizenship judge.
+- 宣誓入籍后，个人应获得公民证书。	-   An individual shall be delivered the citizenship certificate after they have taken the oath of citizenship.
+- 在按照上述规定宣誓入籍时，个人必须签署部长提供的文件，以证明他们已经宣誓。	-   While taking the oath of citizenship as per the above listed regulation, the individual must sign the document provided by the Minister, verifying that they have taken the oath.
+- 任何获得公民身份的人都可以在面前宣誓入籍	-   Any person who has been granted citizenship may take the oath of citizenship in front of
+- 部长，	    -   the Minister,
+- 部长书面授权代表他们行事的人，	    -   a person the Minister has authorized in writing to act on their behalf,
+- 以及公民身份法官	    -   as well as a citizenship judge
 	
-| AAIP 流 |队列中的申请数量（近似值） | AAIP 正在评估之前收到的申请（大约） |	| AAIP Stream | Number of applications in the queue (approximate) | The AAIP is assessing applications received before (approximate) |
-| --- | --- | --- |	| --- | --- | --- |
-|艾伯塔省机会流 |大约 1370 | 2022 年 12 月 6 日 <br>12 月 6 日之后发送的 PNP 申请不会分配给官员 |	| Alberta Opportunity Stream | Approximately 1370 | December 6, 2022  <br>PNP applications sent after December 6 are not assigned to an officer |
-|艾伯塔省快速通道 |约 450 |为优先处理的加速技术途径提交信息的快速通道配置文件。 |	| Alberta Express Entry Stream | Approximately 450 | Express Entry profiles submitting their information for Accelerated Tech Pathway processed with priority. |
+!加拿大入籍仪式 2023 年 2 月	!Canada Citizenship Ceremony February 2023
 	
-AAIP 有大量应用程序具有以下列出的职业和 NOC 代码。因此，这些可能需要更长的处理时间。	AAIP has high volume of applications with below listed Occupations and NOC codes. So, these may take longer for processing.
+**2023 年 2 月 14 日入籍宣誓仪式**	**February 14, 2023 Citizenship Oath Ceremony**
 	
-- 62020 - 食品服务主管	-   62020 – Food service supervisors
-- 62010 – 零售销售主管	-   62010 – Retail sales supervisors
-- 63200 - 厨师	-   63200 – Cooks
-- 13110 - 行政助理	-   13110 – Administrative assistants
-- 21231 - 软件工程师和设计师	-   21231 – Software engineers and designers
-- 42202 – 幼儿教育工作者和助理	-   42202 – Early childhood educators and assistants
-- 21222 – 信息系统专家	-   21222 – Information systems specialists
-- 60020 – 零售和批发贸易经理	-   60020 – Retail and wholesale trade managers
-- 73300 – 运输卡车司机	-   73300 – Transport truck drivers
-- 60030 – 餐厅和食品服务经理	-   60030 – Restaurant and food service managers
+## 为什么会有新变化？	Why new changes?
 	
-## 什么是艾伯塔省快速通道流	What is Alberta Express Entry Stream
+新的统计数据显示入籍率下降了 20 年，这可能是拟议调整的最大原因。	New statistics shows a 20-year decline in citizenship uptake, which could be the biggest reason for the proposed adjustment.
 	
-艾伯塔省快速通道流是为希望通过联邦快速通道系统来到加拿大艾伯塔省的有才华的专业人士提供的途径。	The Alberta Express Entry Stream is a route for talented professionals who desire to come to the province Alberta in Canada, through the federal Express Entry system.
+较小的永久居民现在正在转变为加拿大公民。	Lesser permanent residents are now converting to Canadian citizens.
 	
-候选人必须拥有有效的快速通道个人资料，并符合艾伯塔省优势移民计划 (AAIP) 规定的资格要求，才有资格获得艾伯塔省快速通道流。	Candidates must have a valid Express Entry profile and match the eligibility requirements established by the Alberta Advantage Immigration Program (AAIP) to be eligible for the Alberta Express Entry Stream.
+根据 2021 年的人口普查，只有 45.7% 的永久居民成为公民，低于 2016 年的 60% 和 2001 年的 75.1%。	Just 45.7% of permanent residents became citizens as per 2021 census, down from 60% in 2016 and 75.1% in 2001.
 	
-单击此处了解有关资格以及艾伯塔省快速通道流程如何运作的完整详细信息。 👇	Click here for full details on eligibility and how Alberta Express Entry stream work. 👇
+尽管如此，在过去 5 年中，每年批准的公民申请数量从 113,000 增加到 243,000。	Although, the number of citizenship applications granted yearly having increased dramatically over the previous 5 years from 113,000 to 243,000.
 	
-> 艾伯塔省快速通道流——您需要知道的都在这里！	> Alberta Express Entry Stream – Here Is All You Need To Know!
+但是，与之前的 12 个月服务标准相比，大流行期间公民身份的处理时间增加了一倍。	But, the processing time for citizenship has doubled during the pandemic compared to the previous 12-month service standard.
+	
+根据 IRCC 日期为 2023 年 1 月 31 日的数据——共有 303,000 份公民申请正在处理中。	As per IRCC data dated January 31, 2023 – there were total of 303,000 citizenship applications under processing.
+	
+其中，83,000 份申请超出正常服务标准后仍在处理中。而 220,000 人仍在按照正常服务标准进行处理。	Out of these, 83,000 applications were still being processed after exceeding the normal service standard. While 220,000 are still being processed under normal service standards.
 	
 -	-
 	
@@ -78,13 +78,13 @@ AAIP 有大量应用程序具有以下列出的职业和 NOC 代码。因此，�
 	
 以下是截至 2023 年 2 月 28 日的最新官方 IRCC 处理时间，以及与前一周处理时间的比较。	Here are the latest official IRCC processing times as of February 28, 2023, as well as a comparison to the previous week’s processing times.
 	
-## 加拿大可能很快会引入新的一键式公民宣誓	Canada May Soon Introduce The New One-Click Citizenship Oath
-	
-加拿大的新公民可以通过在没有见证人的情况下在线签署书面证明来宣誓入籍。	New citizens of Canada may be able to take the oath of citizenship by just signing a written attestation online without a witness.
-	
 ## 最新的 BC PNP 抽签发出了 169 个新的 PR 邀请	Latest BC PNP Draw Issues 169 New Invitations For PR
 	
 2 月 28 日 BC PNP 抽签（不列颠哥伦比亚省）邀请了 169 名针对技术、医疗保健和儿童保育职业的永久居留权 (PR) 候选人	February 28 BC PNP Draw (British Columbia) invited 169 candidates for Permanent Residency (PR) targeting tech, healthcare, and childcare occupations
+	
+## 新的艾伯塔省快速通道抽签宣布 CRS 截止日期为 357	New Alberta Express Entry Draw Declares CRS Cut-Off At 357
+	
+艾伯塔省快速通道流宣布 CRS 截止分数为 357。获取详细信息和 2023 年颁发的提名总数	Alberta Express Entry stream declares CRS cutoff score of 357. Get details and total number of nominations issued in 2023
 	
 ## IRCC 将访客工作许可政策延长 2 年	IRCC Makes New Extension For Visitors to Work Permit Policy By 2 Years
 	
