@@ -1,52 +1,20 @@
-# 2023-02-28 - https://canadaimmigrants.com/chinese-immigrants-to-canada/
-title: Chinese Immigrants to Canada
-description: Chinese immigrants admitted to Canada 2018-2022 Chinese permanent residents admitted from 2015 to 2019 Chinese immigrants- The second largest foreign-born...
+# 2023-03-02 - https://canadaimmigrants.com/syrian-immigrants-canada/
+title: Syrian Immigrants to Canada
+description: In 2022, 8,500 Syrians were admitted to Canada as permanent residents From 2018 and 2022, 41,135 Syrian immigrants were admitted...
 
-# 2023-03-01 - https://canadianimmigrant.ca/people/reality-tv-series-bollywed-features-a-south-asian-family-with-a-bridal-shop-in-toronto
-title: Reality TV series ‘Bollywed’ features a South Asian family with a bridal shop in Toronto
-description: The reality TV series Bollywed, which aired on CBC Gem earlier this year and can now be streamed for free, introduces viewers to a South Asian family that has run a bridal shop ‘Chandan' on Gerard Street in Toronto's Little India for 37 years.
+# 2023-03-01 - https://immigrationcoach.ca/express-entry-draw-242/
+title: Express Entry Draw #242
+description: On March 1, 2023, Immigration, Refugees, and Citizenship Canada (IRCC) issued 667 invitations in the Express Entry draw. The minimum CRS score was 748. This draw was program-specific. Only candidates who were nominated under the Provincial Nominee Program were invited to this draw. Are you on the Express Entry pool yet? FIND OUT IF YOU RE ELIGIBLE BY ATTENDING…
 
-# 2023-02-28 - https://canadianvisa.org/blog/immigration/why-you-should-go-on-a-working-holiday-in-canada
-title: Why You Should Go on a Working Holiday in Canada
+# 2023-03-02 - https://immigrationnewscanada.ca/here-is-how-to-combat-immigration-fraud-for-canada/
+title: Here Is How To Combat Immigration Fraud For Canada
 description: 
 
-# 2023-02-28 - https://canadianvisa.org/blog/news/ircc-extends-policy-visitors-can-get-work-permits-until-2025
-title: IRCC Extends Policy: Visitors Can Get Work Permits until 2025
-description: 
+# 2023-03-02 - https://www.cicnews.com/2023/03/federal-ruling-the-importance-of-avoiding-misrepresentation-in-canadian-immigration-applications-0333285.html
+title: Federal ruling: the importance of avoiding misrepresentation in Canadian immigration applications
+description: Ting Li was a citizen of China, but her two children were studying in Canada. She had previously obtained a temporary resident visa (TRV) so that she could be in Canada and spend time with her children. Discover if You Are Eligible for Canadian Immigration In 2021, Ting received a job offer as a purchasing […]
 
-# 2023-03-01 - https://immigrationnewscanada.ca/new-express-entry-draw-today-invites-667-pnp-profiles/
-title: New Express Entry Draw Today Invites 667 PNP Profiles
-description: 
-
-# 2023-03-01 - https://immigrationnewscanada.ca/new-updated-ircc-processing-times-as-of-february-28/
-title: New Updated IRCC Processing Times As Of February 28
-description: 
-
-# 2023-03-01 - https://immigrationnewscanada.ca/canada-may-soon-introduce-the-new-one-click-citizenship-oath/
-title: Canada May Soon Introduce The New One-Click Citizenship Oath
-description: 
-
-# 2023-02-28 - https://immigrationnewscanada.ca/latest-bc-pnp-draw-issues-169-new-invitations-for-pr/
-title: Latest BC PNP Draw Issues 169 New Invitations For PR
-description: 
-
-# 2023-02-28 - https://immigrationnewscanada.ca/new-alberta-express-entry-draw-declares-crs-cut-off-at-357/
-title: New Alberta Express Entry Draw Declares CRS Cut-Off At 357
-description: 
-
-# 2023-03-01 - https://www.canadavisa.com/news/canada-express-entry-draw-results-march-1-2023.html
-title: Canada's Express Entry draw results from March 1, 2023
-description: Here are the results of Canada's most recent Express Entry draw on March 1, 2023.
-
-# 2023-03-01 - https://www.cicnews.com/2023/03/the-canadian-citizenship-oath-could-just-be-a-click-away-0333440.html
-title: The Canadian citizenship oath could just be a click away
-description: Since 1947, swearing an oath is a legal requirement to becoming a Canadian citizen. Swearing an oath is a solemn vow taken by citizenship applicants to abide by Canadian laws and fulfil their duties as citizens. Typically, new citizens must swear or affirm the oath before a citizenship judge at virtual or in person ceremonies. […]
-
-# 2023-03-01 - https://www.cicnews.com/2023/03/march-is-irccs-fraud-prevention-month-0333399.html
-title: March is IRCC’s Fraud Prevention Month
-description: Every year in March, Immigration, Refugees and Citizenship Canada (IRCC) participates in the Canadian government’s Fraud Protection Month to shed light on the fraud experienced by newcomers to Canada and how they can protect themselves. Discover if You Are Eligible for Canadian Immigration Canada’s immigration process can be complex and daunting. Many prospective immigrants hire […]
-
-# 2023-03-01 - https://www.cicnews.com/2023/03/ircc-invites-candidates-in-program-specific-draw-0333199.html
-title: IRCC invites 667 candidates in Express Entry PNP-only draw
-description: IRCC held the sixth Express Entry draw of 2023 today. Immigration, Refugees and Citizenship Canada (IRCC) issued invitations to 667 candidates with a minimum Comprehensive Ranking System (CRS) score of 748. This was the fourth program-specific draw of 2023 following results of the PNP-only draw on February 15. Three of the program-specific draws have been […]
+# 2023-03-02 - https://www.cicnews.com/2023/03/why-do-people-leave-their-jobs-in-canada-0332514.html
+title: Why do people leave their jobs in Canada?
+description: A new study by Statistics Canada reveals that workers in Canada overwhelmingly leave their jobs for reasons other than being laid off, or unsatisfied with their employment. Learn more about Canadian immigration and discover your options Some of the most common reasons for leaving a job included going back to school, retiring, having an illness […]
 
