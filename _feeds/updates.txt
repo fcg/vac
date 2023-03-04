@@ -1,20 +1,40 @@
-# 2023-03-02 - https://canadaimmigrants.com/syrian-immigrants-canada/
-title: Syrian Immigrants to Canada
-description: In 2022, 8,500 Syrians were admitted to Canada as permanent residents From 2018 and 2022, 41,135 Syrian immigrants were admitted...
-
-# 2023-03-01 - https://immigrationcoach.ca/express-entry-draw-242/
-title: Express Entry Draw #242
-description: On March 1, 2023, Immigration, Refugees, and Citizenship Canada (IRCC) issued 667 invitations in the Express Entry draw. The minimum CRS score was 748. This draw was program-specific. Only candidates who were nominated under the Provincial Nominee Program were invited to this draw. Are you on the Express Entry pool yet? FIND OUT IF YOU RE ELIGIBLE BY ATTENDING…
-
-# 2023-03-02 - https://immigrationnewscanada.ca/here-is-how-to-combat-immigration-fraud-for-canada/
-title: Here Is How To Combat Immigration Fraud For Canada
+# 2023-03-02 - https://askmigration.com/the-5th-2023-express-entry-draw-by-the-ircc/?utm_source=rss&utm_medium=rss&utm_campaign=the-5th-2023-express-entry-draw-by-the-ircc
+title: The 5th 2023 Express Entry Draw By The IRCC
 description: 
 
-# 2023-03-02 - https://www.cicnews.com/2023/03/federal-ruling-the-importance-of-avoiding-misrepresentation-in-canadian-immigration-applications-0333285.html
-title: Federal ruling: the importance of avoiding misrepresentation in Canadian immigration applications
-description: Ting Li was a citizen of China, but her two children were studying in Canada. She had previously obtained a temporary resident visa (TRV) so that she could be in Canada and spend time with her children. Discover if You Are Eligible for Canadian Immigration In 2021, Ting received a job offer as a purchasing […]
+# 2023-03-03 - https://canadaimmigrants.com/afghan-immigrants-to-canada/
+title: Afghan Immigrants to Canada
+description: In 2022, 23,735 Afghans were admitted to Canada as permanent residents From 2018 to 2022, 41,425 people were admitted to...
 
-# 2023-03-02 - https://www.cicnews.com/2023/03/why-do-people-leave-their-jobs-in-canada-0332514.html
-title: Why do people leave their jobs in Canada?
-description: A new study by Statistics Canada reveals that workers in Canada overwhelmingly leave their jobs for reasons other than being laid off, or unsatisfied with their employment. Learn more about Canadian immigration and discover your options Some of the most common reasons for leaving a job included going back to school, retiring, having an illness […]
+# 2023-03-02 - https://canadianvisa.org/blog/immigration/uk-vs-canadian-immigration-system
+title: The UK vs the Canadian Immigration System
+description: 
+
+# 2023-03-02 - https://canadianvisa.org/blog/immigration/work-as-a-welder-in-canada
+title: Work as a Welder in Canada in 2023
+description: 
+
+# 2023-03-03 - https://immigrationnewscanada.ca/canada-opens-new-ircc-operation-centre-for-faster-processing/
+title: Canada Opens New IRCC Operation Centre For Faster Processing
+description: 
+
+# 2023-03-03 - https://immigrationnewscanada.ca/canada-visitor-visa-refusal-reasons-that-you-should-avoid/
+title: Canada Visitor Visa Refusal Reasons That You Should Avoid
+description: 
+
+# 2023-03-03 - https://moving2canada.com/news-and-features/news/immigration/pnp/alberta/alberta-pnp-10k-new-immigrants-per-year/
+title: Alberta PNP expects to soon welcome +10K new immigrants per year
+description: 
+
+# 2023-03-03 - https://moving2canada.com/news-and-features/news/work/lululemon-workers/
+title: Canada is making it easier for lululemon to hire foreign talent
+description: 
+
+# 2023-03-03 - https://www.cicnews.com/2023/03/the-top-jobs-for-international-students-in-canada-0333032.html
+title: The top jobs for international students in Canada
+description: As of November 15th, 2022, international students holding a valid study permit in Canada can now work an unlimited number of hours, during school semesters, until the end of 2023. Discover your options to immigrate to Canada After analyzing reputable sources (IDP, CTV, ApplyBoard) on top jobs available to international students in Canada, CIC News […]
+
+# 2023-03-03 - https://www.cicnews.com/2023/03/three-ways-to-overcome-your-criminal-inadmissibility-to-canada-0330296.html
+title: Three ways to overcome your criminal inadmissibility to Canada
+description: Criminal inadmissibility can be one of the leading barriers to entry for foreign nationals looking to enter Canada. Offences and convictions ranging from driving while intoxicated (DWI) to fraud and first-degree murder can be reasons that prospective newcomers to Canada may be barred from entering the country. However, the Government of Canada does provide several […]
 
