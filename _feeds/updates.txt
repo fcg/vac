@@ -1,12 +1,8 @@
-# 2023-03-04 - https://immigrationnewscanada.ca/iec-2023-rounds-of-invitations-sent-2076-new-invites/
-title: IEC 2023 Rounds Of Invitations Sent >2,076 New Invites
+# 2023-03-05 - https://immigrationnewscanada.ca/cineplex-jobs-hiring-now-for-various-locations-across-canada/
+title: Cineplex Jobs Hiring Now For Various Locations Across Canada
 description: 
 
-# 2023-03-04 - https://www.cicnews.com/2023/03/british-columbia-alberta-and-prince-edward-island-invite-candidates-for-provincial-nomination-0333505.html
-title: British Columbia, Alberta and Prince Edward Island invite candidates for provincial nomination
-description: British Columbia, Alberta and Prince Edward Island have invited candidates under their Provincial Nominee Programs (PNPs). Getting a provincial nomination can be an advantage for candidates planning to apply for permanent resident status. This is because immigration is a shared responsibility between the federal and provincial governments. Provinces nominate candidates that the government feels will […]
-
-# 2023-03-04 - https://www.cicnews.com/2023/03/how-to-come-to-quebec-as-a-skilled-worker-0332789.html
-title: How to come to Quebec as a skilled worker
-description: Quebec has a unique status in Canada, with specific provisions and powers in place to protect its distinct culture and language. Although the Canadian Constitution states that immigration falls under both federal and provincial power, Quebec has more immigration authority than any other province. In 1968, Quebec launched its own immigration ministry. Discover if You […]
+# 2023-03-05 - https://www.cicnews.com/2023/03/how-can-tv-and-film-workers-work-in-canada-0331113.html
+title: How can TV and Film workers work in Canada?
+description: Canada has played host to productions for some of the world’s all-time most popular movies and TV shows. Parts of 1997’s Titanic (Nova Scotia), 2005’s Brokeback Mountain (Alberta) and 2008’s Twilight (British Columbia) were filmed across different parts of this country over the years. On top of that, in the world of television, Canada has […]
 
