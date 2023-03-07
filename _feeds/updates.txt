@@ -1,8 +1,24 @@
-# 2023-03-05 - https://immigrationnewscanada.ca/cineplex-jobs-hiring-now-for-various-locations-across-canada/
-title: Cineplex Jobs Hiring Now For Various Locations Across Canada
+# 2023-03-06 - https://canadaimmigrants.com/bangladesh-immigrants-canada/
+title: Bangladeshi Immigrants to Canada
+description: 4K Bangladeshi immigrants admitted to Canada in 2022 3.4K Bangladeshi immigrants admitted to Canada in 2019 From 2015 to 2019,...
+
+# 2023-03-05 - https://canadianvisa.org/blog/immigration/top-questions-about-the-iec-working-holiday-answered
+title: Top 10 Questions about the IEC Working Holiday, Answered
 description: 
 
-# 2023-03-05 - https://www.cicnews.com/2023/03/how-can-tv-and-film-workers-work-in-canada-0331113.html
-title: How can TV and Film workers work in Canada?
-description: Canada has played host to productions for some of the world’s all-time most popular movies and TV shows. Parts of 1997’s Titanic (Nova Scotia), 2005’s Brokeback Mountain (Alberta) and 2008’s Twilight (British Columbia) were filmed across different parts of this country over the years. On top of that, in the world of television, Canada has […]
+# 2023-03-06 - https://immigrationnewscanada.ca/know-how-job-offers-without-lmia-work-for-express-entry/
+title: Know How Job Offers Without LMIA Work For Express Entry
+description: 
+
+# 2023-03-06 - https://moving2canada.com/news-and-features/news/planning/moving-from/philippines/canada-application-processing-centre-manila/
+title: Canada opens application processing centre in the Philippines to boost immigration
+description: 
+
+# 2023-03-06 - https://www.cicnews.com/2023/03/lululemons-growth-is-officially-recognized-as-a-significant-investment-project-0333500.html
+title: Lululemon’s growth is officially recognized as a significant investment project
+description: Under the Canada-British Columbia Immigration Agreement (the Agreement), British Columbia can identify significant investment projects that will benefit from a facilitative immigration measure; the ability to bypass having to submit a Labour Market Impact Assessment (LMIA). Schedule a Free Work Permit Consultation with the Cohen Immigration Law Firm According to Immigration, Refugees and Citizenship Canada […]
+
+# 2023-03-06 - https://www.cicnews.com/2023/03/8-tips-for-the-speaking-component-of-your-celpip-test-0333369.html
+title: 8 Tips for the Speaking Component of your CELPIP Test
+description: In this post, we have put together 8 helpful tips for the Speaking component of the CELPIP Test. We’ve heard from many of our test takers that the speaking component of an English proficiency test is one of the most challenging parts of proving their language skills. Follow these 8 strategies to gain confidence and […]
 
