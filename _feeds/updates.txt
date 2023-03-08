@@ -1,24 +1,36 @@
-# 2023-03-06 - https://canadaimmigrants.com/bangladesh-immigrants-canada/
-title: Bangladeshi Immigrants to Canada
-description: 4K Bangladeshi immigrants admitted to Canada in 2022 3.4K Bangladeshi immigrants admitted to Canada in 2019 From 2015 to 2019,...
+# 2023-03-07 - https://canadaimmigrants.com/registered-nurse-wages-canada/
+title: Nurse Salary in Canada
+description: In Canada, the median wage for nurses is $40/hr. In 2022, the median salary for a registered nurse is $40/hr....
 
-# 2023-03-05 - https://canadianvisa.org/blog/immigration/top-questions-about-the-iec-working-holiday-answered
-title: Top 10 Questions about the IEC Working Holiday, Answered
+# 2023-03-07 - https://canadianimmigrant.ca/people/your-stories/canada-through-the-lens-of-a-bangladesh-born-canadian
+title: Canada through the lens of a Bangladesh-born Canadian
+description: Ahsan Habib moved to Canada over seven years ago. In this article, he provides advice to newcomers based on his own experiences. He believes that acknowledging and talking about challenges can help Canada to provide better support to immigrants.
+
+# 2023-03-07 - https://www.canadim.com/blog/5-common-canadian-immigration-mistakes-and-how-to-fix-them/
+title: How to Fix These 5 Common Express Entry Mistakes
+description: The Canadim Law Firm has been successfully helping newcomers come to Canada for over 20 years. Regardless of whether you choose a legal professional like […]
+
+# 2023-03-07 - https://immigrationnewscanada.ca/here-are-new-updated-ircc-processing-times-as-of-march-7/
+title: Here Are New Updated IRCC Processing Times As Of March 7
 description: 
 
-# 2023-03-06 - https://immigrationnewscanada.ca/know-how-job-offers-without-lmia-work-for-express-entry/
-title: Know How Job Offers Without LMIA Work For Express Entry
+# 2023-03-07 - https://immigrationnewscanada.ca/victim-of-fraud-international-students-in-canada-facing-removal-orders/
+title: Victim Of Fraud; International Students In Canada Facing Removal Orders
 description: 
 
-# 2023-03-06 - https://moving2canada.com/news-and-features/news/planning/moving-from/philippines/canada-application-processing-centre-manila/
-title: Canada opens application processing centre in the Philippines to boost immigration
+# 2023-03-07 - https://moving2canada.com/news-and-features/news/work/canadian-jobs-express-entry/
+title: Common jobs for immigrants in Canada
 description: 
 
-# 2023-03-06 - https://www.cicnews.com/2023/03/lululemons-growth-is-officially-recognized-as-a-significant-investment-project-0333500.html
-title: Lululemon’s growth is officially recognized as a significant investment project
-description: Under the Canada-British Columbia Immigration Agreement (the Agreement), British Columbia can identify significant investment projects that will benefit from a facilitative immigration measure; the ability to bypass having to submit a Labour Market Impact Assessment (LMIA). Schedule a Free Work Permit Consultation with the Cohen Immigration Law Firm According to Immigration, Refugees and Citizenship Canada […]
+# 2023-03-07 - https://www.cicnews.com/2023/03/more-international-students-than-ever-are-using-pgwps-as-a-springboard-to-canadian-permanent-residency-0333216.html
+title: More international students than ever are using PGWPs as a springboard to Canadian permanent residency
+description: Many international students who graduate from eligible Canadian Designated Learning Institutions (DLIs) utilize the Post-Graduation Work Permit (PGWP) Program to extend their stay in Canada in order to work and build a life in this country. Note- As defined by the Canadian government, a DLI is “a school approved by a provincial or territorial government […]
 
-# 2023-03-06 - https://www.cicnews.com/2023/03/8-tips-for-the-speaking-component-of-your-celpip-test-0333369.html
-title: 8 Tips for the Speaking Component of your CELPIP Test
-description: In this post, we have put together 8 helpful tips for the Speaking component of the CELPIP Test. We’ve heard from many of our test takers that the speaking component of an English proficiency test is one of the most challenging parts of proving their language skills. Follow these 8 strategies to gain confidence and […]
+# 2023-03-07 - https://www.cicnews.com/2023/03/canadian-tax-return-basics-for-newcomers-to-canada-0333512.html
+title: Canadian Tax Return Basics for Newcomers to Canada
+description: As a newcomer to Canada, one important thing you may need to learn about is the Canadian tax system; including the process of filing a tax return. A tax return is a document that you file with the Canada Revenue Agency (CRA) that reports your income, deductions, and credits for a given tax year. Filing […]
+
+# 2023-03-07 - https://www.cicnews.com/2023/03/canada-poised-to-remain-a-major-destination-for-immigrants-if-it-can-maintain-its-advantage-0333412.html
+title: Canada poised to remain a major destination for immigrants if it can maintain its advantage
+description: Canada’s level of support for immigrants is unique in the world according to a new report, Public Opinion and Immigration- Maintaining Canada’s Advantage, released by the Century Initiative. The national, non-partisan charity advocates for the economic and societal benefits of increasing Canada’s population to one hundred million people by 2100. They say immigration is a […]
 
