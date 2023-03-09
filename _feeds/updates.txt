@@ -1,36 +1,44 @@
-# 2023-03-07 - https://canadaimmigrants.com/registered-nurse-wages-canada/
-title: Nurse Salary in Canada
-description: In Canada, the median wage for nurses is $40/hr. In 2022, the median salary for a registered nurse is $40/hr....
-
-# 2023-03-07 - https://canadianimmigrant.ca/people/your-stories/canada-through-the-lens-of-a-bangladesh-born-canadian
-title: Canada through the lens of a Bangladesh-born Canadian
-description: Ahsan Habib moved to Canada over seven years ago. In this article, he provides advice to newcomers based on his own experiences. He believes that acknowledging and talking about challenges can help Canada to provide better support to immigrants.
-
-# 2023-03-07 - https://www.canadim.com/blog/5-common-canadian-immigration-mistakes-and-how-to-fix-them/
-title: How to Fix These 5 Common Express Entry Mistakes
-description: The Canadim Law Firm has been successfully helping newcomers come to Canada for over 20 years. Regardless of whether you choose a legal professional like […]
-
-# 2023-03-07 - https://immigrationnewscanada.ca/here-are-new-updated-ircc-processing-times-as-of-march-7/
-title: Here Are New Updated IRCC Processing Times As Of March 7
+# 2023-03-07 - https://askmigration.com/ircc-reports-detailing-the-2022-canadian-immigration-statistics-for-prs/?utm_source=rss&utm_medium=rss&utm_campaign=ircc-reports-detailing-the-2022-canadian-immigration-statistics-for-prs
+title: IRCC Reports Detailing the 2022 Canadian Immigration Statistics for PRs
 description: 
 
-# 2023-03-07 - https://immigrationnewscanada.ca/victim-of-fraud-international-students-in-canada-facing-removal-orders/
-title: Victim Of Fraud; International Students In Canada Facing Removal Orders
+# 2023-03-08 - https://canadianimmigrant.ca/podcast/winning-advice-for-2023-a-conversation-with-top-25-canadian-immigrant-award-recipients
+title: Winning advice for 2023: A conversation with Top 25 Canadian Immigrant Award recipients
+description: In the process of making Canada home? Seeking a little inspiration for your journey? As we embark on the 15th year of the Top 25 Canadian Immigrant Awards, four of our past award winners share their lived experiences and perspectives and, most importantly, their inspirational advice for 2023! 
+
+# 2023-03-08 - https://canadianimmigrant.ca/living/women/international-womens-day-2023-every-woman-counts
+title: International Women’s Day 2023: Every Woman Counts!
+description: International Women's Day serves as a reminder that all women, from all ages and walks of life, have a place in every aspect of Canadian society, including in the economic, social and democratic spheres.
+
+# 2023-03-08 - https://canadianimmigrant.ca/immigrate/refugees/new-canadian-documentary-follows-four-asylum-seekers-on-their-journeys
+title: New Canadian documentary follows four asylum seekers on their journeys
+description: A new Canadian-made documentary Finding Freedom goes on a journey with four asylum seekers and draws focus on the plight of refugees, including the disturbing realities of certain refugee detention centres, and the challenges they face even after finding freedom in countries like Canada.  This thought-provoking film, produced by Canadians Mel D’Souza (SILO Entertainment) and […]
+
+# 2023-03-07 - https://canadianvisa.org/blog/news/celebrating-immigrant-women-in-canada-on-international-womens-day
+title: Celebrating Immigrant Women in Canada on International Women’s Day
 description: 
 
-# 2023-03-07 - https://moving2canada.com/news-and-features/news/work/canadian-jobs-express-entry/
-title: Common jobs for immigrants in Canada
+# 2023-03-08 - https://www.canadim.com/blog/medical-reports-canada-immigration-documents/
+title: Canada Immigration Medical Exam Report
+description: One of the final requirements for Canada’s immigration process is a medical exam report. Every applicant for permanent residence must undergo a medical exam before […]
+
+# 2023-03-07 - https://immigrationnewscanada.ca/british-columbia-pnp-invites-274-applicants-in-a-new-draw/
+title: British Columbia PNP Invites 274 Applicants In A New Draw
 description: 
 
-# 2023-03-07 - https://www.cicnews.com/2023/03/more-international-students-than-ever-are-using-pgwps-as-a-springboard-to-canadian-permanent-residency-0333216.html
-title: More international students than ever are using PGWPs as a springboard to Canadian permanent residency
-description: Many international students who graduate from eligible Canadian Designated Learning Institutions (DLIs) utilize the Post-Graduation Work Permit (PGWP) Program to extend their stay in Canada in order to work and build a life in this country. Note- As defined by the Canadian government, a DLI is “a school approved by a provincial or territorial government […]
+# 2023-03-08 - https://moving2canada.com/news-and-features/news/immigration/express-entry-overstaffed/
+title: IRCC has overstaffed Express Entry, says watchdog
+description: 
 
-# 2023-03-07 - https://www.cicnews.com/2023/03/canadian-tax-return-basics-for-newcomers-to-canada-0333512.html
-title: Canadian Tax Return Basics for Newcomers to Canada
-description: As a newcomer to Canada, one important thing you may need to learn about is the Canadian tax system; including the process of filing a tax return. A tax return is a document that you file with the Canada Revenue Agency (CRA) that reports your income, deductions, and credits for a given tax year. Filing […]
+# 2023-03-08 - https://www.cicnews.com/2023/03/international-womens-day-immigration-stories-throughout-canada-0333539.html
+title: International Women’s Day: Immigration stories throughout Canada
+description: March 8 is International Women’s Day, a day that celebrates the achievements of women around the world. Immigration, Refugees and Citizenship Canada (IRCC) has a page dedicated to covering inspiring stories from immigrants across Canada. Many of the stories are about immigrant women who have worked to enrich Canadian communities and make a real difference […]
 
-# 2023-03-07 - https://www.cicnews.com/2023/03/canada-poised-to-remain-a-major-destination-for-immigrants-if-it-can-maintain-its-advantage-0333412.html
-title: Canada poised to remain a major destination for immigrants if it can maintain its advantage
-description: Canada’s level of support for immigrants is unique in the world according to a new report, Public Opinion and Immigration- Maintaining Canada’s Advantage, released by the Century Initiative. The national, non-partisan charity advocates for the economic and societal benefits of increasing Canada’s population to one hundred million people by 2100. They say immigration is a […]
+# 2023-03-08 - https://www.cicnews.com/2023/03/how-are-immigrant-women-faring-in-canadas-workforce-0333567.html
+title: How are immigrant women faring in Canada’s workforce?
+description: International Women’s Day takes place annually on March 8th as a global recognition of the contributions that women make in the workplace, the work they do in the home as well as their cultural and societal contributions. It also acts as a day to bring awareness to many of the ongoing struggles women face globally. […]
+
+# 2023-03-08 - https://www.cicnews.com/2023/03/how-do-canadians-celebrate-holi-0333575.html
+title: How do Canadians celebrate Holi?
+description: Today marks a day filled with festivities- lively colours, ringing laughter, and time with friends and family. Discover if You Are Eligible for Canadian Immigration This year, March 8th is Holi, the Hindu festival of colours. Commemorating the triumph of good over evil, the arrival of spring, and the blossoming of love—Holi is celebrated today […]
 
