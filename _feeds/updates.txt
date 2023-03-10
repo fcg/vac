@@ -1,36 +1,40 @@
-# 2023-03-09 - https://canadaimmigrants.com/french-immigrants-to-canada/
-title: French Immigrants to Canada
-description: In 2022, 14,145 immigrants from France were admitted as permanent residents in Canada 5K French immigrants admitted in Canada in...
+# 2023-03-10 - https://canadaimmigrants.com/maid-wages-canada/
+title: Maid Salary in Canada
+description: In Canada, the median wage for maids is $18/hr. In 2022, domestic maids reported higher wages in Nunavut. DOMESTIC MAID...
 
-# 2023-03-09 - https://canadianvisa.org/blog/immigration/how-to-sponsor-your-spouse-from-india
-title: How to Sponsor Your Spouse from India
+# 2023-03-10 - https://canadianvisa.org/blog/immigration/new-zealand-vs-the-canadian-immigration-system
+title: The New Zealand vs the Canadian Immigration System
 description: 
 
-# 2023-03-09 - https://immigrationnewscanada.ca/ontario-oinp-invites-822-express-entry-profiles-in-a-new-draw/
-title: Ontario-OINP Invites 822 Express Entry Profiles In A New Draw
+# 2023-03-10 - https://canadianvisa.org/blog/immigration/how-to-immigrate-from-the-uae-to-canada
+title: How to Immigrate From the UAE to Canada in 2023
 description: 
 
-# 2023-03-09 - https://immigrationnewscanada.ca/express-entry-ircc-has-65-more-staff-than-is-required/
-title: Express Entry: IRCC Has 65% More Staff Than Is Required
+# 2023-03-10 - https://immigrationnewscanada.ca/manitoba-pnp-issues-597-pr-invitations-in-a-new-draw/
+title: Manitoba PNP Issues 597 PR Invitations In A New Draw
 description: 
 
-# 2023-03-09 - https://www.cicnews.com/2023/03/canada-looking-for-partners-to-help-expand-and-diversify-iec-program-0333614.html
-title: Canada looking for partners to help expand and diversify IEC program
-description: Following the recently announced quotas for the International Experience Canada (IEC) program, CIC News has obtained more information on the 2023 program outlook from an internal Immigration Refugees and Citizenship Canada (IRCC) memo from September 26, 2022. While immigration minister Sean Fraser announced last January that the global quotas for IEC admissions in 2023 have […]
+# 2023-03-10 - https://immigrationnewscanada.ca/new-quebec-arrima-draw-invites-1017-profiles-for-the-pr/
+title: New Quebec Arrima Draw Invites 1,017 Profiles For The PR
+description: 
 
-# 2023-03-09 - https://www.cicnews.com/2023/03/understanding-why-some-people-might-not-be-allowed-in-canada-and-ways-to-overcome-inadmissibility-0332830.html
-title: Understanding why some people might not be allowed in Canada and ways to overcome inadmissibility
-description: When someone is inadmissible to Canada, it is because the examining officer has decided that the person being assessed is or will be a threat to, or burden on, public health and/or safety. There are many intricacies to the concept of inadmissibility but on a basic level, inadmissibility falls under a few general categories, including […]
+# 2023-03-10 - https://immigrationnewscanada.ca/manitoba-pnp-announces-increase-in-new-quota-for-2023/
+title: Manitoba PNP Announces Increase In New Quota For 2023
+description: 
 
-# 2023-03-09 - https://www.cicnews.com/2023/03/coming-to-canada-as-a-skilled-worker-express-entry-or-the-provincial-nominee-program-0333036.html
-title: Coming to Canada as a skilled worker: Express Entry or the Provincial Nominee Program?
-description: The federal government and the provinces and territories can operate their own distinct immigration programs. However, the federal government makes the final decision about whether a candidate can obtain permanent residence. Discover if You Are Eligible for Canadian Immigration Express Entry is a federal system that manages applications by Immigration, Refugees and Citizenship Canada (IRCC) […]
+# 2023-03-10 - https://www.cicnews.com/2023/03/canadas-immigration-ministers-provide-update-on-top-objectives-0333655.html
+title: Canada’s immigration ministers provide update on top objectives
+description: The Forum of Ministers Responsible for Immigration (FMRI) has met again for its midterm meeting today in Halifax. The meetings take place twice per year, and last occurred in Saint John, New Brunswick, on July 28. The FMRI is comprised of federal, provincial, and territorial ministers responsible for immigration. The meetings act as a venue […]
 
-# 2023-03-09 - https://www.cicnews.com/2023/03/how-an-eca-helped-kirti-find-her-home-in-canada-0333521.html
-title: How an ECA Helped Kirti Find Her Home in Canada
-description: Kirti Tambe was seeking new opportunities when she moved from India to the United States in 2013 to pursue a master’s degree from New York University (NYU). After receiving an undergraduate degree in computer science and engineering in India, Kirti was led to NYU by a desire to experience life outside of her home country. […]
+# 2023-03-10 - https://www.cicnews.com/2023/03/can-i-travel-back-to-my-home-country-after-submitting-my-electronic-application-for-permanent-residence-through-express-entry-0332839.html
+title: Can I travel back to my home country after submitting my electronic Application for Permanent Residence through Express Entry?
+description: An electronic Application for Permanent Residence (eAPR) is the result of a successful Express Entry application. In other words, after applying to any of the three programs (more on that later) managed under the Express Entry system, an eAPR is what applicants finally submit to Immigration, Refugees and Citizenship Canada (IRCC) if they receive an […]
 
-# 2023-03-09 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+# 2023-03-09 - https://immigratemanitoba.com/2023/03/eoi-draw-171/
+title: Expression of Interest Draw #171
+description: Skilled Worker in Manitoba Occupation-specific selection Profiles declaring current employment in Manitoba in occupations under National Occupational Classification (NOC) 2021 major group 65 (sales and service support occupations), as a sector identified with high labour needs in the most recent … Continue reading →
+
+# 2023-03-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
 title: Notifications of interest issued for Ontario’s Express Entry Human Capital Priorities stream
 description: Notifications of interest issued for Ontario’s Express Entry Human Capital Priorities stream
 
