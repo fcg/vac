@@ -1,44 +1,36 @@
-# 2023-03-07 - https://askmigration.com/ircc-reports-detailing-the-2022-canadian-immigration-statistics-for-prs/?utm_source=rss&utm_medium=rss&utm_campaign=ircc-reports-detailing-the-2022-canadian-immigration-statistics-for-prs
-title: IRCC Reports Detailing the 2022 Canadian Immigration Statistics for PRs
+# 2023-03-09 - https://canadaimmigrants.com/french-immigrants-to-canada/
+title: French Immigrants to Canada
+description: In 2022, 14,145 immigrants from France were admitted as permanent residents in Canada 5K French immigrants admitted in Canada in...
+
+# 2023-03-09 - https://canadianvisa.org/blog/immigration/how-to-sponsor-your-spouse-from-india
+title: How to Sponsor Your Spouse from India
 description: 
 
-# 2023-03-08 - https://canadianimmigrant.ca/podcast/winning-advice-for-2023-a-conversation-with-top-25-canadian-immigrant-award-recipients
-title: Winning advice for 2023: A conversation with Top 25 Canadian Immigrant Award recipients
-description: In the process of making Canada home? Seeking a little inspiration for your journey? As we embark on the 15th year of the Top 25 Canadian Immigrant Awards, four of our past award winners share their lived experiences and perspectives and, most importantly, their inspirational advice for 2023! 
-
-# 2023-03-08 - https://canadianimmigrant.ca/living/women/international-womens-day-2023-every-woman-counts
-title: International Women’s Day 2023: Every Woman Counts!
-description: International Women's Day serves as a reminder that all women, from all ages and walks of life, have a place in every aspect of Canadian society, including in the economic, social and democratic spheres.
-
-# 2023-03-08 - https://canadianimmigrant.ca/immigrate/refugees/new-canadian-documentary-follows-four-asylum-seekers-on-their-journeys
-title: New Canadian documentary follows four asylum seekers on their journeys
-description: A new Canadian-made documentary Finding Freedom goes on a journey with four asylum seekers and draws focus on the plight of refugees, including the disturbing realities of certain refugee detention centres, and the challenges they face even after finding freedom in countries like Canada.  This thought-provoking film, produced by Canadians Mel D’Souza (SILO Entertainment) and […]
-
-# 2023-03-07 - https://canadianvisa.org/blog/news/celebrating-immigrant-women-in-canada-on-international-womens-day
-title: Celebrating Immigrant Women in Canada on International Women’s Day
+# 2023-03-09 - https://immigrationnewscanada.ca/ontario-oinp-invites-822-express-entry-profiles-in-a-new-draw/
+title: Ontario-OINP Invites 822 Express Entry Profiles In A New Draw
 description: 
 
-# 2023-03-08 - https://www.canadim.com/blog/medical-reports-canada-immigration-documents/
-title: Canada Immigration Medical Exam Report
-description: One of the final requirements for Canada’s immigration process is a medical exam report. Every applicant for permanent residence must undergo a medical exam before […]
-
-# 2023-03-07 - https://immigrationnewscanada.ca/british-columbia-pnp-invites-274-applicants-in-a-new-draw/
-title: British Columbia PNP Invites 274 Applicants In A New Draw
+# 2023-03-09 - https://immigrationnewscanada.ca/express-entry-ircc-has-65-more-staff-than-is-required/
+title: Express Entry: IRCC Has 65% More Staff Than Is Required
 description: 
 
-# 2023-03-08 - https://moving2canada.com/news-and-features/news/immigration/express-entry-overstaffed/
-title: IRCC has overstaffed Express Entry, says watchdog
-description: 
+# 2023-03-09 - https://www.cicnews.com/2023/03/canada-looking-for-partners-to-help-expand-and-diversify-iec-program-0333614.html
+title: Canada looking for partners to help expand and diversify IEC program
+description: Following the recently announced quotas for the International Experience Canada (IEC) program, CIC News has obtained more information on the 2023 program outlook from an internal Immigration Refugees and Citizenship Canada (IRCC) memo from September 26, 2022. While immigration minister Sean Fraser announced last January that the global quotas for IEC admissions in 2023 have […]
 
-# 2023-03-08 - https://www.cicnews.com/2023/03/international-womens-day-immigration-stories-throughout-canada-0333539.html
-title: International Women’s Day: Immigration stories throughout Canada
-description: March 8 is International Women’s Day, a day that celebrates the achievements of women around the world. Immigration, Refugees and Citizenship Canada (IRCC) has a page dedicated to covering inspiring stories from immigrants across Canada. Many of the stories are about immigrant women who have worked to enrich Canadian communities and make a real difference […]
+# 2023-03-09 - https://www.cicnews.com/2023/03/understanding-why-some-people-might-not-be-allowed-in-canada-and-ways-to-overcome-inadmissibility-0332830.html
+title: Understanding why some people might not be allowed in Canada and ways to overcome inadmissibility
+description: When someone is inadmissible to Canada, it is because the examining officer has decided that the person being assessed is or will be a threat to, or burden on, public health and/or safety. There are many intricacies to the concept of inadmissibility but on a basic level, inadmissibility falls under a few general categories, including […]
 
-# 2023-03-08 - https://www.cicnews.com/2023/03/how-are-immigrant-women-faring-in-canadas-workforce-0333567.html
-title: How are immigrant women faring in Canada’s workforce?
-description: International Women’s Day takes place annually on March 8th as a global recognition of the contributions that women make in the workplace, the work they do in the home as well as their cultural and societal contributions. It also acts as a day to bring awareness to many of the ongoing struggles women face globally. […]
+# 2023-03-09 - https://www.cicnews.com/2023/03/coming-to-canada-as-a-skilled-worker-express-entry-or-the-provincial-nominee-program-0333036.html
+title: Coming to Canada as a skilled worker: Express Entry or the Provincial Nominee Program?
+description: The federal government and the provinces and territories can operate their own distinct immigration programs. However, the federal government makes the final decision about whether a candidate can obtain permanent residence. Discover if You Are Eligible for Canadian Immigration Express Entry is a federal system that manages applications by Immigration, Refugees and Citizenship Canada (IRCC) […]
 
-# 2023-03-08 - https://www.cicnews.com/2023/03/how-do-canadians-celebrate-holi-0333575.html
-title: How do Canadians celebrate Holi?
-description: Today marks a day filled with festivities- lively colours, ringing laughter, and time with friends and family. Discover if You Are Eligible for Canadian Immigration This year, March 8th is Holi, the Hindu festival of colours. Commemorating the triumph of good over evil, the arrival of spring, and the blossoming of love—Holi is celebrated today […]
+# 2023-03-09 - https://www.cicnews.com/2023/03/how-an-eca-helped-kirti-find-her-home-in-canada-0333521.html
+title: How an ECA Helped Kirti Find Her Home in Canada
+description: Kirti Tambe was seeking new opportunities when she moved from India to the United States in 2013 to pursue a master’s degree from New York University (NYU). After receiving an undergraduate degree in computer science and engineering in India, Kirti was led to NYU by a desire to experience life outside of her home country. […]
+
+# 2023-03-09 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Notifications of interest issued for Ontario’s Express Entry Human Capital Priorities stream
+description: Notifications of interest issued for Ontario’s Express Entry Human Capital Priorities stream
 
