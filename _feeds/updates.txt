@@ -1,40 +1,16 @@
-# 2023-03-10 - https://canadaimmigrants.com/maid-wages-canada/
-title: Maid Salary in Canada
-description: In Canada, the median wage for maids is $18/hr. In 2022, domestic maids reported higher wages in Nunavut. DOMESTIC MAID...
-
-# 2023-03-10 - https://canadianvisa.org/blog/immigration/new-zealand-vs-the-canadian-immigration-system
-title: The New Zealand vs the Canadian Immigration System
+# 2023-03-11 - https://immigrationnewscanada.ca/the-new-iec-2023-rounds-of-invitations-sent-2200-invites/
+title: The New IEC 2023 Rounds of Invitations Sent >2,200 Invites
 description: 
 
-# 2023-03-10 - https://canadianvisa.org/blog/immigration/how-to-immigrate-from-the-uae-to-canada
-title: How to Immigrate From the UAE to Canada in 2023
+# 2023-03-10 - https://immigrationnewscanada.ca/ontario-invite-815-express-entry-profiles-in-the-latest-draw/
+title: Ontario Invite 815 Express Entry Profiles In The Latest Draw
 description: 
 
-# 2023-03-10 - https://immigrationnewscanada.ca/manitoba-pnp-issues-597-pr-invitations-in-a-new-draw/
-title: Manitoba PNP Issues 597 PR Invitations In A New Draw
-description: 
+# 2023-03-11 - https://www.cicnews.com/2023/03/labour-force-survey-employment-in-canada-held-steady-in-february-2023-0333672.html
+title: Labour Force Survey: Employment in Canada held steady in February 2023
+description: According to Statistics Canada’s latest Labour Force Survey, employment in Canada stayed relatively the same (+22,000; +0.1%), following two monthly increases in December 2022 and January 2023. Discover if You Are Eligible for Canadian Immigration The unemployment rate remained unchanged at 5.0%, which is just shy of the record-low 4.9% that was seen in the […]
 
-# 2023-03-10 - https://immigrationnewscanada.ca/new-quebec-arrima-draw-invites-1017-profiles-for-the-pr/
-title: New Quebec Arrima Draw Invites 1,017 Profiles For The PR
-description: 
-
-# 2023-03-10 - https://immigrationnewscanada.ca/manitoba-pnp-announces-increase-in-new-quota-for-2023/
-title: Manitoba PNP Announces Increase In New Quota For 2023
-description: 
-
-# 2023-03-10 - https://www.cicnews.com/2023/03/canadas-immigration-ministers-provide-update-on-top-objectives-0333655.html
-title: Canada’s immigration ministers provide update on top objectives
-description: The Forum of Ministers Responsible for Immigration (FMRI) has met again for its midterm meeting today in Halifax. The meetings take place twice per year, and last occurred in Saint John, New Brunswick, on July 28. The FMRI is comprised of federal, provincial, and territorial ministers responsible for immigration. The meetings act as a venue […]
-
-# 2023-03-10 - https://www.cicnews.com/2023/03/can-i-travel-back-to-my-home-country-after-submitting-my-electronic-application-for-permanent-residence-through-express-entry-0332839.html
-title: Can I travel back to my home country after submitting my electronic Application for Permanent Residence through Express Entry?
-description: An electronic Application for Permanent Residence (eAPR) is the result of a successful Express Entry application. In other words, after applying to any of the three programs (more on that later) managed under the Express Entry system, an eAPR is what applicants finally submit to Immigration, Refugees and Citizenship Canada (IRCC) if they receive an […]
-
-# 2023-03-09 - https://immigratemanitoba.com/2023/03/eoi-draw-171/
-title: Expression of Interest Draw #171
-description: Skilled Worker in Manitoba Occupation-specific selection Profiles declaring current employment in Manitoba in occupations under National Occupational Classification (NOC) 2021 major group 65 (sales and service support occupations), as a sector identified with high labour needs in the most recent … Continue reading →
-
-# 2023-03-10 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Notifications of interest issued for Ontario’s Express Entry Human Capital Priorities stream
-description: Notifications of interest issued for Ontario’s Express Entry Human Capital Priorities stream
+# 2023-03-11 - https://www.cicnews.com/2023/03/most-canadians-believe-heightened-immigration-will-be-valuable-to-national-economy-0333656.html
+title: Most Canadians believe heightened immigration will be valuable to national economy
+description: Reports from urban population centres across Canada suggest that rent prices in these areas are “soaring” as a result of “explosive population growth.” This is creating conditions that are requiring many Canadians to leave major cities and find more affordable housing in other communities. Additionally, there is a belief that immigration may compromise the Canadian […]
 
