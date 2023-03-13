@@ -1,16 +1,4 @@
-# 2023-03-11 - https://immigrationnewscanada.ca/the-new-iec-2023-rounds-of-invitations-sent-2200-invites/
-title: The New IEC 2023 Rounds of Invitations Sent >2,200 Invites
-description: 
-
-# 2023-03-10 - https://immigrationnewscanada.ca/ontario-invite-815-express-entry-profiles-in-the-latest-draw/
-title: Ontario Invite 815 Express Entry Profiles In The Latest Draw
-description: 
-
-# 2023-03-11 - https://www.cicnews.com/2023/03/labour-force-survey-employment-in-canada-held-steady-in-february-2023-0333672.html
-title: Labour Force Survey: Employment in Canada held steady in February 2023
-description: According to Statistics Canada’s latest Labour Force Survey, employment in Canada stayed relatively the same (+22,000; +0.1%), following two monthly increases in December 2022 and January 2023. Discover if You Are Eligible for Canadian Immigration The unemployment rate remained unchanged at 5.0%, which is just shy of the record-low 4.9% that was seen in the […]
-
-# 2023-03-11 - https://www.cicnews.com/2023/03/most-canadians-believe-heightened-immigration-will-be-valuable-to-national-economy-0333656.html
-title: Most Canadians believe heightened immigration will be valuable to national economy
-description: Reports from urban population centres across Canada suggest that rent prices in these areas are “soaring” as a result of “explosive population growth.” This is creating conditions that are requiring many Canadians to leave major cities and find more affordable housing in other communities. Additionally, there is a belief that immigration may compromise the Canadian […]
+# 2023-03-12 - https://www.cicnews.com/2023/03/is-this-canadian-immigration-website-a-scam-0333687.html
+title: Is this Canadian immigration website a scam?
+description: The Canadian immigration system is increasingly using the power of the internet to facilitate many parts of the newcomer journey. Toward the end of 2022, Immigration, Refugees and Citizenship Canada (IRCC) “began its transition to 100% digital applications for all permanent residence programs”, a process that concluded on October 28. Note- This transition still maintained […]
 
