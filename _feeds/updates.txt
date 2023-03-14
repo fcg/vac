@@ -1,28 +1,32 @@
-# 2023-03-12 - https://askmigration.com/five-things-you-should-know-about-canada-before-you-move-there/?utm_source=rss&utm_medium=rss&utm_campaign=five-things-you-should-know-about-canada-before-you-move-there
-title: Five Things You Should Know About Canada Before You Move There
+# 2023-03-14 - https://canadianvisa.org/blog/immigration/buying-a-home-in-canada-as-a-non-canadian
+title: Buying a home in Canada as a non-Canadian
 description: 
 
-# 2023-03-13 - https://canadaimmigrants.com/german-immigrants-canada/
-title: German Immigrants to Canada
-description: In 2022, 900 Germans were admitted to Canada as permanent residents From 2018 to 2022, 5,930 Germans were admitted to...
-
-# 2023-03-13 - https://canadianimmigrant.ca/careers-and-education/careers/how-hiring-managers-decide-between-two-strong-candidates
-title: How hiring managers decide between two strong candidates
-description: Imagine a situation where there are two candidates being considered for a job after multiple rounds of interviews — and you are one of them. So how do you make sure that you are the chosen one?
-
-# 2023-03-13 - https://www.canadim.com/blog/canadian-citizenship-permanent-residence-differences/
-title: 3 Differences Between a Canadian Permanent Resident vs Citizen
-description: We are often asked by prospective newcomers the difference between a Canadian permanent resident vs citizen.  Permanent residence refers to an individual who has immigrated […]
-
-# 2023-03-13 - https://immigrationnewscanada.ca/canada-spousal-sponsorship-refusal-reasons-that-you-must-avoid/
-title: Canada Spousal Sponsorship Refusal Reasons That You Must Avoid
+# 2023-03-14 - https://immigrationnewscanada.ca/ontario-oinp-sent-906-invites-for-pr-in-2-new-draws/
+title: Ontario-OINP Sent 906 Invites For PR In 2 New Draws
 description: 
 
-# 2023-03-13 - https://www.cicnews.com/2023/03/renewing-your-work-permit-while-in-canada-0332920.html
-title: Renewing your work permit while in Canada
-description: If you have a work permit that is going to expire or you want to make changes to the conditions of your work permit, you must submit a new application at least 30 days before your work permit expires. You are legally allowed to stay in Canada while Immigration, Refugees and Citizenship Canada (IRCC) processes […]
+# 2023-03-14 - https://immigrationnewscanada.ca/full-list-of-high-demand-jobs-in-the-greater-toronto-area/
+title: Full List Of High Demand Jobs In The Greater Toronto Area
+description: 
 
-# 2023-03-13 - https://www.cicnews.com/2023/03/what-happens-when-you-do-not-fulfill-the-obligations-of-an-undertaking-0332354.html
-title: What happens when you do not fulfill the obligations of a sponsorship undertaking?
-description: A sponsorship undertaking is a contract, signed by the sponsor, that states they are taking on responsibility for their dependent spouse, common-law partner, child/children, parent or grandparent. The scope of responsibility defined by an undertaking is both non-financial and financial, including such things as food, shelter, and clothing — among other living needs. Because a […]
+# 2023-03-14 - https://moving2canada.com/news-and-features/news/immigration/provincial-immigration-2023/
+title: Provincial immigration is increasing in Canada
+description: 
+
+# 2023-03-14 - https://www.cicnews.com/2023/03/quebec-releases-2023-list-of-jobs-eligible-for-simplified-lmias-0333708.html
+title: Quebec releases 2023 list of jobs eligible for simplified LMIAs
+description: The Quebec Ministry of Immigration recently released its latest list of occupations eligible for simplified Labour Market Impact Assessment (LMIA) processing. Briefly, LMIAs must be obtained by certain employers who intend to hire temporary foreign workers for their business. These documents are designed to provide assess the hiring of a temporary foreign worker and verify […]
+
+# 2023-03-14 - https://www.cicnews.com/2023/03/protecting-against-phone-banking-money-scams-as-a-canadian-immigration-applicant-0333690.html
+title: Protecting against phone banking/money scams as a Canadian immigration applicant
+description: Immigration, Refugees and Citizenship Canada (IRCC) designates every March as Fraud Prevention Month to bring awareness to different types of fraud and scams that impact the lives of Canadian immigrants. In light of that goal, what follows will discuss the rising prevalence of phone banking scams in Canada as well as what prospective and recent […]
+
+# 2023-03-14 - https://www.cicnews.com/2023/03/how-to-maintain-status-in-canada-as-a-cec-candidate-with-an-expiring-pgwp-0333726.html
+title: How to maintain status in Canada as a CEC candidate with an expiring PGWP
+description: Canadian Experience Class (CEC) candidates in the Express Entry pool have not been invited to apply for permanent residence since the last-all program draw, nearly two months ago, on January 18. Since then, draws have been program-specific for candidates in the Provincial Nominee Program (PNP) and the Federal Skilled Worker Program (FSWP), leaving many Post-Graduate […]
+
+# 2023-03-14 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
+title: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+description: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
 
