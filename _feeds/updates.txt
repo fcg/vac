@@ -1,32 +1,72 @@
-# 2023-03-14 - https://canadianvisa.org/blog/immigration/buying-a-home-in-canada-as-a-non-canadian
-title: Buying a home in Canada as a non-Canadian
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-toronto/
+title: Average House Price in Toronto
+description: The average house price in Toronto is $1,091,300 In February 2023, Toronto’s average house price was down by 17.7% compared...
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-vancouver/
+title: Average House Price in Vancouver
+description: The average house price in Vancouver is $1,123,400 In February 2023, the average house price in Vancouver was down by...
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-winnipeg/
+title: Average House Price in Winnipeg
+description: The average house price in Winnipeg is $329,900 In February 2023, house prices in Winnipeg were down by 9.1% compared...
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-calgary/
+title: Average House Price in Calgary
+description: The average house price in Calgary is $518,100 In Calgary, house prices increased by 1.8% year over year in February....
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-saskatoon/
+title: Average House Price in Saskatoon
+description: The average house price in Saskatoon is $372,400 In February 2023, Saskatoon house average price was up by 3.3% compared...
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-halifax/
+title: Average House Price in Halifax
+description: The average house price in Halifax is $484,000 In February 2023, Halifax house prices up 3.4% compared to the same...
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-ottawa/
+title: Average House Price in Ottawa
+description: The average house price in Ottawa is $613,000 In February 2023, Ottawa home prices down -13.9% compared to the same...
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-montreal/
+title: Average House Price in Montreal
+description: The average house price in Montreal is $503,900 In February 2023, the average house price in Montreal decreased by 6.1%...
+
+# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-edmonton/
+title: Average House Price in Edmonton
+description: The average house price in Edmonton is $365,100 In February, house prices in Edmonton decreased by 5.9% year over year....
+
+# 2023-03-15 - https://canadianimmigrant.ca/living/parenting/fun-staycation-activities-for-families-this-spring-break
+title: Fun staycation activities for families this spring break
+description: It's March Break 2023! While some families may choose to travel, others may decide on a staycation.  Here are some enjoyable activities parents and children may like to do together during this time. 
+
+# 2023-03-15 - https://canadianvisa.org/blog/news/canadas-multi-year-allocation-plan-means-more-provincial-nominations
+title: Canada's Multi-Year Allocation Plan Means More Provincial Nominations!
 description: 
 
-# 2023-03-14 - https://immigrationnewscanada.ca/ontario-oinp-sent-906-invites-for-pr-in-2-new-draws/
-title: Ontario-OINP Sent 906 Invites For PR In 2 New Draws
+# 2023-03-15 - https://immigrationnewscanada.ca/new-alberta-express-entry-draw-declares-crs-cut-off-at-301/
+title: New Alberta Express Entry Draw Declares CRS Cut-Off At 301
 description: 
 
-# 2023-03-14 - https://immigrationnewscanada.ca/full-list-of-high-demand-jobs-in-the-greater-toronto-area/
-title: Full List Of High Demand Jobs In The Greater Toronto Area
+# 2023-03-15 - https://immigrationnewscanada.ca/new-express-entry-draw-sent-record-7000-pr-invites/
+title: New Express Entry Draw Sent Record 7,000 PR Invites
 description: 
 
-# 2023-03-14 - https://moving2canada.com/news-and-features/news/immigration/provincial-immigration-2023/
-title: Provincial immigration is increasing in Canada
+# 2023-03-15 - https://immigrationnewscanada.ca/new-updated-ircc-processing-times-as-of-march-14/
+title: New Updated IRCC Processing Times As Of March 14
 description: 
 
-# 2023-03-14 - https://www.cicnews.com/2023/03/quebec-releases-2023-list-of-jobs-eligible-for-simplified-lmias-0333708.html
-title: Quebec releases 2023 list of jobs eligible for simplified LMIAs
-description: The Quebec Ministry of Immigration recently released its latest list of occupations eligible for simplified Labour Market Impact Assessment (LMIA) processing. Briefly, LMIAs must be obtained by certain employers who intend to hire temporary foreign workers for their business. These documents are designed to provide assess the hiring of a temporary foreign worker and verify […]
+# 2023-03-14 - https://immigrationnewscanada.ca/bc-pnp-draw-sent-more-than-230-new-invites-for-pr/
+title: BC PNP Draw Sent More Than 230 New Invites For PR
+description: 
 
-# 2023-03-14 - https://www.cicnews.com/2023/03/protecting-against-phone-banking-money-scams-as-a-canadian-immigration-applicant-0333690.html
-title: Protecting against phone banking/money scams as a Canadian immigration applicant
-description: Immigration, Refugees and Citizenship Canada (IRCC) designates every March as Fraud Prevention Month to bring awareness to different types of fraud and scams that impact the lives of Canadian immigrants. In light of that goal, what follows will discuss the rising prevalence of phone banking scams in Canada as well as what prospective and recent […]
+# 2023-03-15 - https://www.canadavisa.com/news/canada-holds-largest-ever-all-program-express-entry-draw-march-15-2023.html
+title: IRCC holds largest all-program draw in Express Entry history
+description: Here are the results of Canada's most recent Express Entry draw on March 15, 2023.
 
-# 2023-03-14 - https://www.cicnews.com/2023/03/how-to-maintain-status-in-canada-as-a-cec-candidate-with-an-expiring-pgwp-0333726.html
-title: How to maintain status in Canada as a CEC candidate with an expiring PGWP
-description: Canadian Experience Class (CEC) candidates in the Express Entry pool have not been invited to apply for permanent residence since the last-all program draw, nearly two months ago, on January 18. Since then, draws have been program-specific for candidates in the Provincial Nominee Program (PNP) and the Federal Skilled Worker Program (FSWP), leaving many Post-Graduate […]
+# 2023-03-15 - https://www.cicnews.com/2023/03/express-entry-canada-holds-largest-all-program-draw-ever-0333466.html
+title: Express Entry: Canada holds largest all-program draw ever
+description: IRCC held the seventh Express Entry draw of 2023 today. Immigration, Refugees and Citizenship Canada (IRCC) issued invitations to 7,000 candidates with a minimum Comprehensive Ranking System (CRS) score of 490. The number of ITAs in this draw beats the previous record of 5,500 candidates invited in the last all-program draw on January 18. In […]
 
-# 2023-03-14 - https://www.ontario.ca/page/2023-ontario-immigrant-nominee-program-updates
-title: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
-description: Invitations to apply issued under the Employer Job Offer: Foreign Worker stream in a targeted draw for candidates of the Economic Mobility Pathways Project (EMPP)
+# 2023-03-15 - https://www.cicnews.com/2023/03/how-to-overcome-serious-criminality-to-enter-canada-0331098.html
+title: How to overcome serious criminality to enter Canada
+description: Serious offences may deem someone inadmissible to Canada or subject to a removal order. Immigration, Refugees and Citizenship Canada (IRCC) deem offences as serious criminality based on maximum imposable sentences in Canada. Schedule a Free Legal Consultation with the Cohen Immigration Law Firm For convictions within Canada, serious criminality may stem from- A conviction in […]
 
