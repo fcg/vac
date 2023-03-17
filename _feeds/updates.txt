@@ -1,72 +1,36 @@
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-toronto/
-title: Average House Price in Toronto
-description: The average house price in Toronto is $1,091,300 In February 2023, Toronto’s average house price was down by 17.7% compared...
+# 2023-03-17 - https://canadaimmigrants.com/palestinian-immigrants-to-canada/
+title: Palestinian Immigrants to Canada
+description: In 2022, 865 Palestinians were admitted to Canada as permanent residents From 2018 to 2022, 3,365 Palestinian immigrants were admitted...
 
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-vancouver/
-title: Average House Price in Vancouver
-description: The average house price in Vancouver is $1,123,400 In February 2023, the average house price in Vancouver was down by...
+# 2023-03-17 - https://canadaimmigrants.com/average-rent-in-toronto/
+title: Average Rent in Toronto
+description: Toronto’s average rent for a two-bedroom apartment is $3,314 Average Rent Apartment in Toronto 2023 1 Bed 2 Bed January...
 
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-winnipeg/
-title: Average House Price in Winnipeg
-description: The average house price in Winnipeg is $329,900 In February 2023, house prices in Winnipeg were down by 9.1% compared...
-
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-calgary/
-title: Average House Price in Calgary
-description: The average house price in Calgary is $518,100 In Calgary, house prices increased by 1.8% year over year in February....
-
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-saskatoon/
-title: Average House Price in Saskatoon
-description: The average house price in Saskatoon is $372,400 In February 2023, Saskatoon house average price was up by 3.3% compared...
-
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-halifax/
-title: Average House Price in Halifax
-description: The average house price in Halifax is $484,000 In February 2023, Halifax house prices up 3.4% compared to the same...
-
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-ottawa/
-title: Average House Price in Ottawa
-description: The average house price in Ottawa is $613,000 In February 2023, Ottawa home prices down -13.9% compared to the same...
-
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-montreal/
-title: Average House Price in Montreal
-description: The average house price in Montreal is $503,900 In February 2023, the average house price in Montreal decreased by 6.1%...
-
-# 2023-03-15 - https://canadaimmigrants.com/average-house-price-in-edmonton/
-title: Average House Price in Edmonton
-description: The average house price in Edmonton is $365,100 In February, house prices in Edmonton decreased by 5.9% year over year....
-
-# 2023-03-15 - https://canadianimmigrant.ca/living/parenting/fun-staycation-activities-for-families-this-spring-break
-title: Fun staycation activities for families this spring break
-description: It's March Break 2023! While some families may choose to travel, others may decide on a staycation.  Here are some enjoyable activities parents and children may like to do together during this time. 
-
-# 2023-03-15 - https://canadianvisa.org/blog/news/canadas-multi-year-allocation-plan-means-more-provincial-nominations
-title: Canada's Multi-Year Allocation Plan Means More Provincial Nominations!
+# 2023-03-17 - https://canadianvisa.org/blog/education/studying-in-canada-vs-the-united-kingdom
+title: Studying in Canada vs. the United Kingdom
 description: 
 
-# 2023-03-15 - https://immigrationnewscanada.ca/new-alberta-express-entry-draw-declares-crs-cut-off-at-301/
-title: New Alberta Express Entry Draw Declares CRS Cut-Off At 301
+# 2023-03-17 - https://canadianvisa.org/blog/immigration/how-to-get-proof-of-canadian-citizenship
+title: How to get Proof of Canadian Citizenship 
 description: 
 
-# 2023-03-15 - https://immigrationnewscanada.ca/new-express-entry-draw-sent-record-7000-pr-invites/
-title: New Express Entry Draw Sent Record 7,000 PR Invites
+# 2023-03-17 - https://immigrationnewscanada.ca/pgwp-extension-2023-new-announcement-by-the-ircc-minister/
+title: PGWP Extension 2023: New Announcement By The IRCC Minister
 description: 
 
-# 2023-03-15 - https://immigrationnewscanada.ca/new-updated-ircc-processing-times-as-of-march-14/
-title: New Updated IRCC Processing Times As Of March 14
+# 2023-03-16 - https://immigrationnewscanada.ca/new-oinp-draws-invite-615-francophone-express-entry-profiles/
+title: New OINP Draws Invite 615 Francophone Express Entry Profiles
 description: 
 
-# 2023-03-14 - https://immigrationnewscanada.ca/bc-pnp-draw-sent-more-than-230-new-invites-for-pr/
-title: BC PNP Draw Sent More Than 230 New Invites For PR
+# 2023-03-17 - https://moving2canada.com/news-and-features/news/work/pgwp-2023-announcement/
+title: Minister Fraser announces PGWP 2023 extension
 description: 
 
-# 2023-03-15 - https://www.canadavisa.com/news/canada-holds-largest-ever-all-program-express-entry-draw-march-15-2023.html
-title: IRCC holds largest all-program draw in Express Entry history
-description: Here are the results of Canada's most recent Express Entry draw on March 15, 2023.
+# 2023-03-17 - https://www.canadavisa.com/news/ircc-announces-pgwp-extension-starting-april-6-2023.html
+title: PGWP holders eligible for Open Work Permit extensions beginning April 6, 2023
+description: The announcement was made this morning at an event hosted at Humber College in Etobicoke, Ontario.
 
-# 2023-03-15 - https://www.cicnews.com/2023/03/express-entry-canada-holds-largest-all-program-draw-ever-0333466.html
-title: Express Entry: Canada holds largest all-program draw ever
-description: IRCC held the seventh Express Entry draw of 2023 today. Immigration, Refugees and Citizenship Canada (IRCC) issued invitations to 7,000 candidates with a minimum Comprehensive Ranking System (CRS) score of 490. The number of ITAs in this draw beats the previous record of 5,500 candidates invited in the last all-program draw on January 18. In […]
-
-# 2023-03-15 - https://www.cicnews.com/2023/03/how-to-overcome-serious-criminality-to-enter-canada-0331098.html
-title: How to overcome serious criminality to enter Canada
-description: Serious offences may deem someone inadmissible to Canada or subject to a removal order. Immigration, Refugees and Citizenship Canada (IRCC) deem offences as serious criminality based on maximum imposable sentences in Canada. Schedule a Free Legal Consultation with the Cohen Immigration Law Firm For convictions within Canada, serious criminality may stem from- A conviction in […]
+# 2023-03-17 - https://www.cicnews.com/2023/03/canadas-immigration-minister-sean-fraser-to-make-pgwp-announcement-this-morning-0333801.html
+title: BREAKING: Canada’s Immigration Minister Sean Fraser announces work permit extension for PGWP holders
+description: Canada’s Immigration Minister Sean Fraser has just announced those with an expiring Post-Graduation Work Permit (PGWP) will be able to apply for an Open Work Permit extension as of April 6, 2023. The Open Work Permit extension will be available to anyone whose PGWP expires in 2023. It will also be available to those whose […]
 
